@@ -80,6 +80,19 @@ p { margin-bottom: 1rem; }
 }
 .sources li:last-child { border-bottom: none; }
 
+.cta-section {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  text-align: center;
+}
+.cta-section h2 { margin-bottom: 0.5rem; }
+.cta-section p { color: var(--text-muted); font-size: 0.95rem; }
+.cta-email { margin-top: 1rem; font-size: 1rem; }
+.cta-email a { color: var(--link); font-weight: 600; }
+
 .back { margin-top: 2rem; display: inline-block; }
 
 nav {
