@@ -1,0 +1,27 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p class="post-date">{{ .Date.Format "2 January 2006" }}{{ with .Params.window }} · {{ . }}{{ end }}{{ with .Params.channel }} · {{ . }}{{ end }}</p>
+
+<div class="post-content">
+{{ .Content }}
+</div>
+
+{{ with .Params.items }}
+<div class="sources">
+  <h2>Fontes</h2>
+  {{ range . }}
+  <h3>{{ .title }}</h3>
+  <ul>
+    {{ with .primary_source }}
+    <li>📌 <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+    {{ end }}
+    {{ range .related_sources }}
+    <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</div>
+{{ end }}
+
+<a href="../" class="back">← Voltar ao canal</a>
+{{ end }}

@@ -1,0 +1,28 @@
+{{ define "main" }}
+<h1>📡 Radar</h1>
+<p class="tagline">{{ .Site.Params.tagline }}</p>
+
+<p>{{ .Site.Params.description }}</p>
+
+<div class="channels">
+  <div class="channel-card">
+    <h3><a href="/news/pt/">📡 Radar | Edição PT</a></h3>
+    <p class="desc">O que importa — em 3 mensagens por dia.</p>
+    <p class="meta">Público geral · 3×/dia · pt-PT</p>
+  </div>
+
+  <div class="channel-card">
+    <h3><a href="/financial/pt/">📡 Radar | Financial Services</a></h3>
+    <p class="desc">A sharp read on Portuguese financial services and the signals that matter to executives.</p>
+    <p class="meta">Executivos banca/seguros/pagamentos · 1×/dia útil · pt-PT</p>
+  </div>
+
+  <div class="channel-card">
+    <h3><a href="/companies/sonae/">📡 Radar | Grupo Sonae</a></h3>
+    <p class="desc">O que importa. Porque importa. E a leitura que fica.</p>
+    <p class="meta">Investidores e analistas · 2-3×/semana · Canal independente</p>
+  </div>
+</div>
+
+<p>Cada edição inclui fontes verificáveis. Sem opinião disfarçada de facto. Sem filler.</p>
+{{ end }}

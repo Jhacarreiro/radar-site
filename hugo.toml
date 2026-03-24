@@ -1,0 +1,17 @@
+baseURL = "https://radar.getrad.ar"
+languageCode = "pt"
+title = "Radar"
+
+[params]
+  description = "Short briefings and curated channels for bespoke audiences."
+  tagline = "What matters, why it matters, and the read that stays."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  page = ["HTML"]
