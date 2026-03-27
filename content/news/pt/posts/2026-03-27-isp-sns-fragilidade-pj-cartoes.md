@@ -64,8 +64,6 @@ A resposta já não fica só no desconto da bomba. Passa também por setores que
 ☕ *Conversa de café*
 Quando o ISP fica e os apoios alargam, o Governo está a dizer que isto já saiu do posto e entrou na economia real.
 
----
-
 🏥 *SNS admite fragilidade dos hospitais para um apagão longo*
 O diretor-executivo do SNS disse no Parlamento que, no apagão de 2025, praticamente nenhum hospital teria combustível para três dias de energia. Disse também que houve correções desde então, mas sem garantir que todas as unidades já tenham hoje essa autonomia.
 
@@ -75,8 +73,6 @@ O diretor-executivo do SNS disse no Parlamento que, no apagão de 2025, praticam
 ☕ *Conversa de café*
 O ponto não é só o apagão passado. É perceber quão perto o sistema esteve de falhar a sério.
 
----
-
 💳 *PJ detém 18 suspeitos por fraude com cartões contrafeitos*
 A PJ deteve 18 suspeitos e fez 22 buscas numa operação sobre contrafação de cartões, falsidade informática e branqueamento. O esquema gerou cerca de 620 transações, num valor global de 1,89 milhões de euros, e lucro superior a 500 mil euros.
 
@@ -85,3 +81,5 @@ Mostra escala industrial numa fraude ligada a pagamentos eletrónicos e terminai
 
 ☕ *Conversa de café*
 Quando uma burla já mexe em 620 transações, isto deixou de ser truque. É operação.
+
+🔗 *Edição completa:* https://getrad.ar/news/pt/rpt-2026-03-27-pm
