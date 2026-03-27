@@ -1,11 +1,34 @@
 ---
 edition_id: "rpt-2026-03-27-pm"
 channel: "radar_pt"
-date: "2026-03-27"
+date: 2026-03-27
+slug: "isp-sns-fragilidade-pj-cartoes"
+aliases:
+  - "/news/pt/rpt-2026-03-27-pm/"
 title: "ISP fica, SNS expõe fragilidade, PJ trava fraude com cartões"
 status: "published"
 window: "noite"
 whatsapp_message_id: "3EB0A8C93F85D7918CDCC6"
+items:
+  - title: "ISP fica e Governo alarga apoios até junho"
+    primary_source:
+      title: "Desconto do ISP mantém-se. Governo aprova apoios na área dos combustíveis"
+      url: "https://www.rtp.pt/noticias/economia/desconto-do-isp-mantem-se-governo-aprova-apoios-na-area-dos-combustiveis_n1729676"
+    related_sources:
+      - title: "Governo aprova 150 milhões por mês para aliviar combustíveis"
+        url: "https://eco.sapo.pt/2026/03/27/governo-anuncia-pacote-de-150-milhoes-mes-com-apoios-para-combustiveis-veja-as-medidas/"
+  - title: "SNS admite fragilidade dos hospitais para um apagão longo"
+    primary_source:
+      title: "Praticamente nenhum hospital estava preparado em 2025 para apagão de três dias, diz SNS"
+      url: "https://observador.pt/2026/03/25/praticamente-nenhum-hospital-estava-preparado-em-2025-para-apagao-de-tres-dias-diz-sns/"
+    related_sources:
+      - title: "Praticamente nenhum hospital estava preparado em 2025 para apagão de três dias"
+        url: "https://www.publico.pt/2026/03/25/sociedade/noticia/praticamente-hospital-preparado-2025-apagao-tres-dias-2169070"
+  - title: "PJ detém 18 suspeitos por fraude com cartões contrafeitos"
+    primary_source:
+      title: "18 detidos por contrafação e utilização de cartões, falsidade informática e branqueamento"
+      url: "https://www.policiajudiciaria.pt/operacao-swipe-and-cash-18-detidos-por-contrafacao-e-utilizacao-de-cartoes-falsidade-informatica-e-branqueamento/"
+    related_sources: []
 sources:
   - item: 1
     primary_source:
@@ -32,7 +55,6 @@ tags:
   - fraude
 ---
 
-## whatsapp_message
 ⛽ *ISP fica e Governo alarga apoios até junho*
 O Governo manteve o desconto do ISP — 7,6 cêntimos por litro no gasóleo e 4,1 cêntimos na gasolina — e aprovou apoios extraordinários entre abril e junho para transportes, agricultura, pescas, bombeiros, táxis e IPSS, num pacote de cerca de 150 milhões de euros por mês.
 
@@ -41,6 +63,8 @@ A resposta já não fica só no desconto da bomba. Passa também por setores que
 
 ☕ *Conversa de café*
 Quando o ISP fica e os apoios alargam, o Governo está a dizer que isto já saiu do posto e entrou na economia real.
+
+---
 
 🏥 *SNS admite fragilidade dos hospitais para um apagão longo*
 O diretor-executivo do SNS disse no Parlamento que, no apagão de 2025, praticamente nenhum hospital teria combustível para três dias de energia. Disse também que houve correções desde então, mas sem garantir que todas as unidades já tenham hoje essa autonomia.
@@ -51,6 +75,8 @@ O diretor-executivo do SNS disse no Parlamento que, no apagão de 2025, praticam
 ☕ *Conversa de café*
 O ponto não é só o apagão passado. É perceber quão perto o sistema esteve de falhar a sério.
 
+---
+
 💳 *PJ detém 18 suspeitos por fraude com cartões contrafeitos*
 A PJ deteve 18 suspeitos e fez 22 buscas numa operação sobre contrafação de cartões, falsidade informática e branqueamento. O esquema gerou cerca de 620 transações, num valor global de 1,89 milhões de euros, e lucro superior a 500 mil euros.
 
@@ -59,8 +85,3 @@ Mostra escala industrial numa fraude ligada a pagamentos eletrónicos e terminai
 
 ☕ *Conversa de café*
 Quando uma burla já mexe em 620 transações, isto deixou de ser truque. É operação.
-
-🔗 *Edição completa:* https://getrad.ar/news/pt/rpt-2026-03-27-pm
-
-## notes
-Revisão da edição após feedback editorial: saiu ASAE por recência insuficiente e saiu o cabaz para evitar monotema em combustíveis/custo de vida.
