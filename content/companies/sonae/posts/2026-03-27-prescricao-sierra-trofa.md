@@ -1,0 +1,61 @@
+---
+edition_id: "sonae-2026-03-27-am"
+channel: "radar_sonae"
+date: 2026-03-27
+slug: "prescricao-sierra-trofa"
+aliases:
+  - "/companies/sonae/sonae-2026-03-27-am/"
+title: "Prescrição AdC, Sierra em força, Trofa entra no MaiaShopping"
+status: "published"
+window: "manhã"
+whatsapp_message_id: "3EB088DEF1888992ACF9E5"
+items:
+  - title: "Prescrição pode poupar 8,6 milhões à Sonae no caso AdC-EDP"
+    primary_source:
+      title: "Prescrição do processo da AdC pode livrar EDP e Sonae de multas superiores a 30 milhões"
+      url: "https://eco.sapo.pt/2026/03/26/prescricao-do-processo-da-adc-pode-livrar-edp-e-sonae-de-multas-superiores-a-30-milhoes/"
+    related_sources: []
+  - title: "Sonae Sierra fecha 2025 com 226 novos negócios e 98% de ocupação"
+    primary_source:
+      title: "Sonae Sierra fecha 2025 com 226 novos negócios e ocupação de 98%"
+      url: "https://jornaleconomico.sapo.pt/noticias/sonae-sierra-fecha-2025-com-226-novos-negocios-e-ocupacao-de-98/"
+    related_sources: []
+  - title: "Trofa Saúde entra no MaiaShopping e o centro comercial ganha mais serviços"
+    primary_source:
+      title: "Dono de 25 hospitais em Portugal entra num shopping da Sonae"
+      url: "https://www.jornaldenegocios.pt/empresas/detalhe/dono-de-25-hospitais-em-portugal-entra-num-shopping-da-sonae"
+    related_sources: []
+tags:
+  - sonae
+  - sierra
+  - saude
+---
+
+📊 *Prescrição pode poupar 8,6 milhões à Sonae no caso AdC-EDP*
+O Tribunal da Concorrência considerou prescrito o processo sobre o pacto de não concorrência de 2012 entre a EDP e a Modelo Continente. A coima da Sonae era de 8,6 milhões de euros. A AdC vai recorrer.
+
+💡 *Porque importa*
+O efeito não é só financeiro. É também regulatório e reputacional. Um caso material pode cair não por mérito económico, mas por prazo.
+
+☕ *Conversa de café*
+Quando uma multa desta dimensão morre nos prazos, a leitura de mercado não é “alívio”. É “o sistema não fecha”.
+
+📊 *Sonae Sierra fecha 2025 com 226 novos negócios e 98% de ocupação*
+A Sierra celebrou 226 novos negócios em 2025, cresceu 19% face a 2024 e manteve 98% de ocupação nos ativos sob gestão em Portugal. No ano, os ativos geraram mais de 171 milhões de visitas.
+
+💡 *Porque importa*
+É sinal de execução comercial num mercado mais exigente. Ocupação alta com renovação e entrada de marcas mostra que a Sierra continua a conseguir preço, mix e tráfego.
+
+☕ *Conversa de café*
+Quem fecha o ano com 98% de ocupação não está a defender metros quadrados. Está a escolher quem entra.
+
+📊 *Trofa Saúde entra no MaiaShopping e o centro comercial ganha mais serviços*
+A Trofa Saúde vai abrir uma clínica no MaiaShopping, com abertura prevista para 1 de junho. A novidade surge no balanço anual da Sierra, que destaca o reforço da oferta de serviços no ativo.
+
+💡 *Porque importa*
+Não é só mais um inquilino. É mais um passo na transformação do shopping em plataforma de serviços, menos dependente de retalho puro e com tráfego mais recorrente.
+
+☕ *Conversa de café*
+O centro comercial que mete saúde ao lado das lojas está a admitir uma coisa simples: vender produtos já não chega.
+
+🔗 *Edição completa:* https://getrad.ar/companies/sonae/sonae-2026-03-27-am
