@@ -7,7 +7,7 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="stylesheet" href="/css/style.css">
 </head>
-<body>
+<body{{ if eq .Section "pricing" }} class="wide"{{ end }}>
   {{ partial "nav.html" . }}
   <main>
     {{ block "main" . }}{{ end }}
