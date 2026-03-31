@@ -143,5 +143,3 @@ Não é só uma multa: o tribunal liga estas práticas a menos mobilidade, menos
 ☕ Conversa de café
 Mercado livre fica bonito no PowerPoint; no corredor, há empresas que preferem combinar portas fechadas.
 
-## notes
-Aprovação recebida no Slack por João com a instrução “aprova segue fluxo”. A publicação exigiu reinício da sessão WAHA `default`, que estava parada no momento do envio.
