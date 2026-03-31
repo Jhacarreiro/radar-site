@@ -16,28 +16,29 @@
 <p class="footer-note">Every edition includes verifiable sources. No opinions disguised as facts. No fillers.</p>
 
 <div class="channels">
+  {{ $channels := slice }}
   {{ range .Site.Sections }}
-    {{ if eq .Section "pricing" }}{{ continue }}{{ end }}
-    {{ if .Sections }}
-      {{ range .Sections.ByWeight }}
-      <div class="channel-card">
-        <div class="card-header">
-          <h3>{{ .Title }}</h3>
-          <a href="{{ .Permalink }}" class="btn-history">History</a>
-        </div>
-        {{ with .Params.description }}<p class="desc">{{ . }}</p>{{ end }}
-        <div class="card-spacer"></div>
-        <div class="card-footer">
-          {{ with .Params.meta }}<p class="meta">{{ . }}</p>{{ end }}
-          {{ with .Params.whatsapp_url }}
-          <a href="{{ . }}" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
-          {{ end }}
-        </div>
-      </div>
+    {{ if ne .Section "pricing" }}
+      {{ range .Sections }}
+        {{ $channels = $channels | append . }}
       {{ end }}
-    {{ else }}
-      {{/* Section without sub-sections — skip parent-only sections */}}
     {{ end }}
+  {{ end }}
+  {{ range sort $channels "Params.weight" }}
+  <div class="channel-card">
+    <div class="card-header">
+      <h3>{{ .Title }}</h3>
+      <a href="{{ .Permalink }}" class="btn-history">History</a>
+    </div>
+    {{ with .Params.description }}<p class="desc">{{ . }}</p>{{ end }}
+    <div class="card-spacer"></div>
+    <div class="card-footer">
+      {{ with .Params.meta }}<p class="meta">{{ . }}</p>{{ end }}
+      {{ with .Params.whatsapp_url }}
+      <a href="{{ . }}" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
+      {{ end }}
+    </div>
+  </div>
   {{ end }}
 </div>
 
