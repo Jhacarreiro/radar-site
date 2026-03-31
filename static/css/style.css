@@ -156,11 +156,11 @@ p { margin-bottom: 1rem; }
 
 .lang-note, .footer-note {
   text-align: center;
-  font-size: 0.85rem;
+  font-size: 1rem;
   color: var(--text-muted);
   margin: 0;
 }
-.lang-note { margin-top: 2rem; }
+.lang-note { margin-top: 2rem; margin-bottom: 0.75rem; }
 .footer-note { margin-bottom: 2rem; }
 .lang-note a { color: var(--text-muted); text-decoration: underline; }
 
