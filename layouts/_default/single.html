@@ -9,13 +9,23 @@
 {{ with .Params.items }}
 <div class="sources">
   <h2>Fontes</h2>
-  {{ range . }}
-  <h3>{{ .title }}</h3>
+  {{ range $i, $item := . }}
+  {{ if $i }}<hr>{{ end }}
+  <h3>{{ $item.title }}</h3>
   <ul>
-    {{ with .primary_source }}
-    <li>📌 <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+    {{ with $item.primary_source }}
+    <li>📌 <strong>Fonte principal</strong> — <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
     {{ end }}
-    {{ range .related_sources }}
+    {{ range $item.verification_sources }}
+    <li>✅ <strong>Verificação</strong> — <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+    {{ end }}
+    {{ range $item.context_sources }}
+    <li>📖 <strong>Contexto</strong> — <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+    {{ end }}
+    {{ range $item.wire_copies }}
+    <li>📰 <strong>Agência</strong> — <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+    {{ end }}
+    {{ range $item.related_sources }}
     <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
     {{ end }}
   </ul>
