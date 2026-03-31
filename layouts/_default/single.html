@@ -10,24 +10,45 @@
 <div class="sources">
   <h2>Fontes</h2>
   {{ range $i, $item := . }}
+  {{ if $i }}<hr>{{ end }}
   <h3>{{ $item.title }}</h3>
-  <ul>
-    {{ with $item.primary_source }}
-    <li>📌 <strong>Fonte principal</strong> — <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+  {{ with $item.primary_source }}
+  <div class="source-group">
+    <span class="source-label">📌 <strong>Fonte principal</strong></span>
+    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+  </div>
+  {{ end }}
+  {{ with $item.verification_sources }}
+  <div class="source-group">
+    <span class="source-label">✅ <strong>Verificação</strong></span>
+    {{ range . }}
+    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
     {{ end }}
-    {{ range $item.verification_sources }}
-    <li>✅ <strong>Verificação</strong> — <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+  </div>
+  {{ end }}
+  {{ with $item.context_sources }}
+  <div class="source-group">
+    <span class="source-label">📖 <strong>Contexto</strong></span>
+    {{ range . }}
+    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
     {{ end }}
-    {{ range $item.context_sources }}
-    <li>📖 <strong>Contexto</strong> — <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+  </div>
+  {{ end }}
+  {{ with $item.wire_copies }}
+  <div class="source-group">
+    <span class="source-label">📰 <strong>Agência</strong></span>
+    {{ range . }}
+    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
     {{ end }}
-    {{ range $item.wire_copies }}
-    <li>📰 <strong>Agência</strong> — <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+  </div>
+  {{ end }}
+  {{ with $item.related_sources }}
+  <div class="source-group">
+    {{ range . }}
+    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
     {{ end }}
-    {{ range $item.related_sources }}
-    <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></li>
-    {{ end }}
-  </ul>
+  </div>
+  {{ end }}
   {{ end }}
 </div>
 {{ end }}
