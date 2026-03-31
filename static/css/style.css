@@ -118,10 +118,12 @@ p { margin-bottom: 1rem; }
 .sources h2 { margin-bottom: 0.75rem; }
 .sources ul { list-style: none; }
 .sources li {
-  padding: 0.4rem 0;
-  border-bottom: 1px solid var(--border);
+  padding: 0.2rem 0;
 }
-.sources li:last-child { border-bottom: none; }
+.sources h3 {
+  font-size: 0.95rem;
+  margin-top: 1rem;
+}
 
 .cta-section {
   margin-top: 3rem;
