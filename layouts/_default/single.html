@@ -10,7 +10,6 @@
 <div class="sources">
   <h2>Fontes</h2>
   {{ range $i, $item := . }}
-  {{ if $i }}<hr>{{ end }}
   <h3>{{ $item.title }}</h3>
   {{ with $item.primary_source }}
   <div class="source-group">
