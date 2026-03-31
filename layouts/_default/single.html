@@ -14,13 +14,13 @@
   {{ with $item.primary_source }}
   {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
   <div class="source-group">
-    <span class="source-label">📌 <strong>Fonte principal</strong></span>
+    <span class="source-label"><strong>Fonte principal</strong></span>
     <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
   </div>
   {{ end }}
   {{ with $item.verification_sources }}
   <div class="source-group">
-    <span class="source-label">✅ <strong>Verificação</strong></span>
+    <span class="source-label"><strong>Verificação</strong></span>
     {{ range . }}
     {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
     <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
@@ -29,7 +29,7 @@
   {{ end }}
   {{ if or $item.context_sources $item.related_sources }}
   <div class="source-group">
-    <span class="source-label">📖 <strong>Contexto</strong></span>
+    <span class="source-label"><strong>Contexto</strong></span>
     {{ range $item.context_sources }}
     {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
     <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
@@ -42,7 +42,7 @@
   {{ end }}
   {{ with $item.wire_copies }}
   <div class="source-group">
-    <span class="source-label">📰 <strong>Agência</strong></span>
+    <span class="source-label"><strong>Agência</strong></span>
     {{ range . }}
     {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
     <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
