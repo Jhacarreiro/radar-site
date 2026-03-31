@@ -12,24 +12,31 @@
   {{ range $i, $item := . }}
   <h3>{{ $item.title }}</h3>
   {{ with $item.primary_source }}
+  {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
   <div class="source-group">
     <span class="source-label">📌 <strong>Fonte principal</strong></span>
-    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
   </div>
   {{ end }}
   {{ with $item.verification_sources }}
   <div class="source-group">
     <span class="source-label">✅ <strong>Verificação</strong></span>
     {{ range . }}
-    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+    {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
     {{ end }}
   </div>
   {{ end }}
-  {{ with $item.context_sources }}
+  {{ if or $item.context_sources $item.related_sources }}
   <div class="source-group">
     <span class="source-label">📖 <strong>Contexto</strong></span>
-    {{ range . }}
-    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+    {{ range $item.context_sources }}
+    {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
+    {{ end }}
+    {{ range $item.related_sources }}
+    {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
     {{ end }}
   </div>
   {{ end }}
@@ -37,14 +44,8 @@
   <div class="source-group">
     <span class="source-label">📰 <strong>Agência</strong></span>
     {{ range . }}
-    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
-    {{ end }}
-  </div>
-  {{ end }}
-  {{ with $item.related_sources }}
-  <div class="source-group">
-    {{ range . }}
-    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+    {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
     {{ end }}
   </div>
   {{ end }}
