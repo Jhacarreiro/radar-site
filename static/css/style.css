@@ -167,6 +167,14 @@ p { margin-bottom: 1rem; }
 }
 .lang-note a { color: var(--link); font-weight: 600; }
 
+.footer-note {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-top: -1.5rem;
+  margin-bottom: 2rem;
+}
+
 .back { margin-top: 2rem; display: inline-block; }
 
 /* ===== Pricing page ===== */
