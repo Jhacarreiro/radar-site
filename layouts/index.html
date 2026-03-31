@@ -19,7 +19,7 @@
   {{ range .Site.Sections }}
     {{ if eq .Section "pricing" }}{{ continue }}{{ end }}
     {{ if .Sections }}
-      {{ range .Sections }}
+      {{ range .Sections.ByWeight }}
       <div class="channel-card">
         <div class="card-header">
           <h3>{{ .Title }}</h3>
