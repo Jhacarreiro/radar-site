@@ -1,4 +1,6 @@
 ---
-title: "📡 Radar | Financial Services PT"
-description: "A sharp read on Portuguese financial services and the signals that matter to executives."
+title: "📡 Radar | Financial Services"
+description: "Uma leitura incisiva sobre serviços financeiros em Portugal e os sinais que importam a executivos."
+meta: "Executivos banca/seguros/pagamentos · 1×/dia útil · pt-PT"
+whatsapp_url: "https://whatsapp.com/channel/0029VbCB0i45vK9znTjV4y40"
 ---
