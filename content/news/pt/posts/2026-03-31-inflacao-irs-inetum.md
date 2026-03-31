@@ -9,6 +9,38 @@ title: "Inflação acelera, IRS fecha e tribunal confirma coima à Inetum"
 status: "published"
 window: "manhã"
 whatsapp_message_id: "3EB080E0F9290C596E1209"
+items:
+  - title: "Inflação volta aos 2,7%"
+    primary_source:
+      title: "CPI annual rate of change estimated to have increased to 2.7% — INE"
+      url: "https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_destaques&DESTAQUESdest_boui=762531093&DESTAQUESmodo=2"
+    verification_sources:
+      - title: "Estimativa da inflação. Taxa de variação homóloga terá aumentado para 2,7% — RTP"
+        url: "https://www.rtp.pt/noticias/economia/estimativa-da-inflacao-taxa-de-variacao-homologa-tera-aumentado-para-27_n1730475"
+    context_sources: []
+    wire_copies: []
+  - title: "Hoje é o último dia para mexer no IRS"
+    primary_source:
+      title: "Principais Prazos — Portal das Finanças"
+      url: "https://info.portaldasfinancas.gov.pt/pt/apoio_ao_contribuinte/Cidadaos/Rendimentos/Declaracao/prazos/Paginas/default.aspx"
+    verification_sources:
+      - title: "Prazo para contribuintes reclamarem das despesas do IRS termina hoje — RTP"
+        url: "https://www.rtp.pt/noticias/economia/prazo-para-contribuintes-reclamarem-das-despesas-do-irs-termina-hoje_n1730431"
+    context_sources:
+      - title: "Entrega do IRS começa na quarta-feira. Atenção aos prazos — ECO"
+        url: "https://eco.sapo.pt/2026/03/31/entrega-do-irs-comeca-na-quarta-feira-atencao-aos-prazos/"
+    wire_copies: []
+  - title: "Tribunal confirma coima de €3,1 milhões à Inetum"
+    primary_source:
+      title: "Tribunal confirma coima da AdC à Inetum por práticas anticoncorrenciais no mercado de trabalho"
+      url: "https://www.concorrencia.pt/pt/artigos/tribunal-confirma-coima-da-adc-inetum-por-praticas-anticoncorrenciais-no-mercado-de"
+    verification_sources:
+      - title: "Tribunal da Concorrência confirma coima ao grupo Inetum — ECO"
+        url: "https://eco.sapo.pt/2026/03/30/tribunal-da-concorrencia-confirma-coima-de-3-milhoes-ao-grupo-inetum/"
+    context_sources:
+      - title: "Tribunal confirma coima histórica de 3 milhões à Inetum por cartel no recrutamento — Jornal Económico"
+        url: "https://jornaleconomico.sapo.pt/noticias/tribunal-confirma-coima-historica-de-3-milhoes-a-inetum-por-cartel-no-recrutamento/"
+    wire_copies: []
 sources:
   - item: 1
     primary_source:
