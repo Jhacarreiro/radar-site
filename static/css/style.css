@@ -111,6 +111,10 @@ p { margin-bottom: 1rem; }
   margin: 1.5rem 0;
   white-space: pre-wrap;
 }
+.post-content hr {
+  border: none;
+  margin: 1.5rem 0;
+}
 
 .sources {
   margin: 1.5rem 0;
@@ -131,14 +135,15 @@ p { margin-bottom: 1rem; }
 }
 .source-group .source-label {
   display: block;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
   margin-bottom: 0.1rem;
 }
 .source-group a {
   display: block;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   padding-left: 1.4rem;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 .cta-section {
