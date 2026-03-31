@@ -116,13 +116,24 @@ p { margin-bottom: 1rem; }
   margin: 1.5rem 0;
 }
 .sources h2 { margin-bottom: 0.75rem; }
-.sources ul { list-style: none; }
-.sources li {
-  padding: 0.2rem 0;
-}
 .sources h3 {
   font-size: 0.95rem;
   margin-top: 1rem;
+  margin-bottom: 0.4rem;
+}
+.source-group {
+  margin-bottom: 0.3rem;
+}
+.source-group .source-label {
+  display: block;
+  font-size: 0.85rem;
+  margin-bottom: 0.1rem;
+}
+.source-group a {
+  display: block;
+  font-size: 0.85rem;
+  padding-left: 1.4rem;
+  line-height: 1.5;
 }
 
 .cta-section {
