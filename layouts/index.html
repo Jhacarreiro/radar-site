@@ -16,35 +16,26 @@
 <p class="footer-note">Every edition includes verifiable sources. No opinions disguised as facts. No fillers.</p>
 
 <div class="channels">
-  <div class="channel-card">
-    <div class="card-header">
-      <h3>📡 Radar | Edição PT</h3>
-      <a href="/news/pt/" class="btn-history">History</a>
-    </div>
-    <p class="desc">O que importa — em 3 mensagens por dia.</p>
-    <p class="meta">General audience · 3×/day · pt-PT</p>
-    <a href="https://whatsapp.com/channel/0029VbBukqgICVfdjTCxoN3a" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
-  </div>
-
-  <div class="channel-card">
-    <div class="card-header">
-      <h3>📡 Radar | Financial Services</h3>
-      <a href="/financial/pt/" class="btn-history">History</a>
-    </div>
-    <p class="desc">Uma leitura incisiva sobre serviços financeiros em Portugal e os sinais que importam a executivos.</p>
-    <p class="meta">Executivos banca/seguros/pagamentos · 1×/dia útil · pt-PT</p>
-    <a href="https://whatsapp.com/channel/0029VbCB0i45vK9znTjV4y40" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
-  </div>
-
-  <div class="channel-card">
-    <div class="card-header">
-      <h3>📡 Radar | Grupo Sonae</h3>
-      <a href="/companies/sonae/" class="btn-history">History</a>
-    </div>
-    <p class="desc">O que importa. Porque importa. E a leitura que fica.</p>
-    <p class="meta">Investors and analysts · 2-3×/week · Independent channel</p>
-    <a href="https://whatsapp.com/channel/0029VbCLiyV1noz2pJN6zg1A" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
-  </div>
+  {{ range .Site.Sections }}
+    {{ if eq .Section "pricing" }}{{ continue }}{{ end }}
+    {{ if .Sections }}
+      {{ range .Sections }}
+      <div class="channel-card">
+        <div class="card-header">
+          <h3>{{ .Title }}</h3>
+          <a href="{{ .Permalink }}" class="btn-history">History</a>
+        </div>
+        {{ with .Params.description }}<p class="desc">{{ . }}</p>{{ end }}
+        {{ with .Params.meta }}<p class="meta">{{ . }}</p>{{ end }}
+        {{ with .Params.whatsapp_url }}
+        <a href="{{ . }}" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
+        {{ end }}
+      </div>
+      {{ end }}
+    {{ else }}
+      {{/* Section without sub-sections — skip parent-only sections */}}
+    {{ end }}
+  {{ end }}
 </div>
 
 {{ end }}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hugo",
+      "runtimeExecutable": "hugo",
+      "runtimeArgs": ["server", "--source", "C:/Users/joaoc/radar-site-temp"],
+      "port": 1313
+    }
+  ]
+}
