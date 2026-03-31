@@ -75,7 +75,14 @@ p { margin-bottom: 1rem; }
 }
 
 .channel-card .desc { color: var(--text-muted); font-size: 0.9rem; }
-.channel-card .meta { color: var(--text-muted); font-size: 0.8rem; margin-top: 0.5rem; }
+.channel-card .meta { color: var(--text-muted); font-size: 0.8rem; margin: 0; }
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0.75rem;
+}
 
 .btn-subscribe {
   display: inline-block;
@@ -88,7 +95,6 @@ p { margin-bottom: 1rem; }
   border-radius: 6px;
   text-decoration: none !important;
   transition: background 0.2s;
-  align-self: flex-end;
 }
 .btn-subscribe:hover {
   background: #1eba5a;

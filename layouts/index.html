@@ -27,10 +27,12 @@
         </div>
         {{ with .Params.description }}<p class="desc">{{ . }}</p>{{ end }}
         <div class="card-spacer"></div>
-        {{ with .Params.meta }}<p class="meta">{{ . }}</p>{{ end }}
-        {{ with .Params.whatsapp_url }}
-        <a href="{{ . }}" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
-        {{ end }}
+        <div class="card-footer">
+          {{ with .Params.meta }}<p class="meta">{{ . }}</p>{{ end }}
+          {{ with .Params.whatsapp_url }}
+          <a href="{{ . }}" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
+          {{ end }}
+        </div>
       </div>
       {{ end }}
     {{ else }}
