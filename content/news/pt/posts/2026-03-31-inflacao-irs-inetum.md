@@ -80,38 +80,6 @@ tags:
   - trabalho
 ---
 
-## whatsapp_message
-1️⃣ *Inflação volta aos 2,7%* O INE estima que os preços subiram 2,7% em março, acima dos 2,1% de fevereiro. A aceleração veio quase toda dos combustíveis.
-
-💡 *Porque importa*
-Isto bate no custo de vida e volta a pôr energia no centro da fatura.
-
-☕ *Conversa de café*
-Quando o choque vem da bomba, o resto da semana parece logo mais cara.
-
-───
-
-2️⃣ *Hoje é o último dia para mexer no IRS* Termina hoje o prazo para confirmar faturas e reclamar despesas antes de arrancar a entrega da declaração.
-
-💡 *Porque importa*
-Quem deixar passar hoje pode perder deduções ou chegar ao IRS com a casa mal arrumada.
-
-☕ *Conversa de café*
-Há sempre quem descubra no dia 31 que andou o ano inteiro a pagar e a adiar.
-
-───
-
-3️⃣ *Tribunal confirma coima de €3,1 milhões à Inetum* A AdC ganha a primeira confirmação judicial em Portugal por um cartel de não-contratação entre concorrentes.
-
-💡 *Porque importa*
-Não é só uma multa: o tribunal liga estas práticas a menos mobilidade, menos salário e menos concorrência.
-
-☕ *Conversa de café*
-Mercado livre fica bonito no PowerPoint; no corredor, há empresas que preferem combinar portas fechadas.
-
-🔗 *Edição completa:* https://getrad.ar/news/pt/rpt-2026-03-31-am
-
-## archive_items
 ### 1. Inflação volta aos 2,7%
 O INE estima que os preços subiram 2,7% em março, acima dos 2,1% de fevereiro. A aceleração veio quase toda dos combustíveis.
 
@@ -142,4 +110,3 @@ Não é só uma multa: o tribunal liga estas práticas a menos mobilidade, menos
 
 ☕ Conversa de café
 Mercado livre fica bonito no PowerPoint; no corredor, há empresas que preferem combinar portas fechadas.
-

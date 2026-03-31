@@ -44,39 +44,6 @@ tags:
   - qr
 ---
 
-## whatsapp_message
-🏠 *Um herdeiro pode desbloquear uma casa ao fim de dois anos*
-O Governo aprovou uma regra que permite a um ou mais herdeiros provocar a venda de um imóvel sem acordo de todos, ao fim de dois anos de indivisão.
-
-💡 *Porque importa*
-Há casas paradas há anos por bloqueio familiar. Isto pode pôr mais imóveis a circular no mercado.
-
-☕ *Conversa de café*
-Em Portugal, às vezes a casa não está vazia: está presa.
-
-
-💰 *Certificados de Aforro vão pagar mais em abril*
-A taxa base sobe de 2,012% para 2,138% nas novas subscrições de abril, o maior salto em mais de dois anos.
-
-💡 *Porque importa*
-Com os depósitos abaixo disto, o produto do Estado volta a parecer a escolha mais óbvia para poupança parada.
-
-☕ *Conversa de café*
-Bastou a taxa mexer um pouco para o Estado voltar a parecer melhor banco.
-
-
-📱 *GNR alerta para burlas com QR falsos*
-A GNR alertou para esquemas com códigos QR falsos que desviam utilizadores para sites maliciosos e podem roubar dinheiro ou dados pessoais.
-
-💡 *Porque importa*
-Hoje basta apontar a câmara por hábito para cair numa burla em segundos.
-
-☕ *Conversa de café*
-O novo truque do burlão é parecer só mais um atalho.
-
-🔗 *Fontes e edição completa:* https://getrad.ar/news/pt/rpt-2026-03-28-am
-
-## archive_items
 ### 1. Um herdeiro pode desbloquear uma casa ao fim de dois anos
 O Governo aprovou uma regra que permite a um ou mais herdeiros provocar a venda de um imóvel sem acordo de todos, ao fim de dois anos de indivisão.
 
@@ -107,6 +74,3 @@ Hoje basta apontar a câmara por hábito para cair numa burla em segundos.
 
 ☕ Conversa de café
 O novo truque do burlão é parecer só mais um atalho.
-
-## notes
-Edição totalmente refeita após feedback editorial para remover o eixo combustíveis/petróleo e recentrar a seleção em habitação, poupança e fraude digital.
