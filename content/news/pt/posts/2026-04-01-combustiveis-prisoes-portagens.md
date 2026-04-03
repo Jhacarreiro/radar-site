@@ -1,0 +1,117 @@
+---
+edition_id: "rpt-2026-04-01-am"
+channel: "radar_pt"
+date: "2026-04-01"
+slug: "combustiveis-prisoes-portagens"
+aliases:
+  - "/news/pt/rpt-2026-04-01-am/"
+title: "Combustíveis com apoios, prisões no limite e portagens grátis no Alentejo"
+status: "published"
+window: "manhã"
+whatsapp_message_id: "3EB0E25E16323C479FB511"
+items:
+  - title: "Apoios aos combustíveis arrancam hoje"
+    primary_source:
+      title: "Governo reforça medidas para mitigar impacto do aumento dos custos da energia"
+      url: "https://www.portugal.gov.pt/pt/gc25/comunicacao/noticia?i=governo-reforca-medidas-para-mitigar-impacto-do-aumento-dos-custos-da-energia"
+    verification_sources:
+      - title: "Apoios para mitigar aumento do preço dos combustíveis começam a ser pagos — RTP"
+        url: "https://www.rtp.pt/noticias/economia/apoios-para-mitigar-aumento-do-preco-dos-combustiveis-comecam-a-ser-pagos_n1730747"
+    context_sources:
+      - title: "Apoios e medidas para mitigar o aumento dos custos da energia"
+        url: "https://www.portugal.gov.pt/pt/gc25/comunicacao/documento?i=apoios-e-medidas-para-mitigar-o-aumento-dos-custos-da-energia"
+    wire_copies: []
+  - title: "Prisões já estão acima da lotação"
+    primary_source:
+      title: "RASI 2025 - Relatório Anual de Segurança Interna"
+      url: "https://www.portugal.gov.pt/pt/gc25/comunicacao/documento?i=rasi-2025-relatorio-anual-de-seguranca-interna"
+    verification_sources:
+      - title: "Prisões atingiram em 2025 capacidade máxima pela primeira vez em seis anos — RTP"
+        url: "https://www.rtp.pt/noticias/pais/prisoes-atingiram-em-2025-capacidade-maxima-pela-primeira-vez-em-seis-anos_n1730670"
+    context_sources:
+      - title: "Relatório Anual de Segurança Interna 2025 apresentado no Conselho Superior de Segurança Interna"
+        url: "https://www.portugal.gov.pt/pt/gc25/comunicacao/noticia?i=relatorio-anual-de-seguranca-interna-2025-apresentado-no-conselho-superior-de-seguranca-interna"
+    wire_copies: []
+  - title: "A2 e A6 ficam grátis para parte do Alentejo"
+    primary_source:
+      title: "A2 e A6 com isenção de portagens mas só para alguns"
+      url: "https://www.razaoautomovel.com/noticias/portagens-alentejo-a2-a6-2026/"
+    verification_sources:
+      - title: "Isenção de portagens entra em vigor no Alentejo — RTP"
+        url: "https://www.rtp.pt/noticias/pais/isencao-de-portagens-entra-em-vigor-no-alentejo_v1730653"
+      - title: "Portaria n.º 131/2026/1, de 30 de março | DR"
+        url: "https://diariodarepublica.pt/dr/detalhe/portaria/131-2026-1078137066"
+    context_sources: []
+    wire_copies: []
+sources:
+  - item: 1
+    primary_source:
+      title: "Governo reforça medidas para mitigar impacto do aumento dos custos da energia"
+      url: "https://www.portugal.gov.pt/pt/gc25/comunicacao/noticia?i=governo-reforca-medidas-para-mitigar-impacto-do-aumento-dos-custos-da-energia"
+    verification_sources:
+      - title: "Apoios para mitigar aumento do preço dos combustíveis começam a ser pagos — RTP"
+        url: "https://www.rtp.pt/noticias/economia/apoios-para-mitigar-aumento-do-preco-dos-combustiveis-comecam-a-ser-pagos_n1730747"
+    context_sources:
+      - title: "Apoios e medidas para mitigar o aumento dos custos da energia"
+        url: "https://www.portugal.gov.pt/pt/gc25/comunicacao/documento?i=apoios-e-medidas-para-mitigar-o-aumento-dos-custos-da-energia"
+    wire_copies: []
+  - item: 2
+    primary_source:
+      title: "RASI 2025 - Relatório Anual de Segurança Interna"
+      url: "https://www.portugal.gov.pt/pt/gc25/comunicacao/documento?i=rasi-2025-relatorio-anual-de-seguranca-interna"
+    verification_sources:
+      - title: "Prisões atingiram em 2025 capacidade máxima pela primeira vez em seis anos — RTP"
+        url: "https://www.rtp.pt/noticias/pais/prisoes-atingiram-em-2025-capacidade-maxima-pela-primeira-vez-em-seis-anos_n1730670"
+    context_sources:
+      - title: "Relatório Anual de Segurança Interna 2025 apresentado no Conselho Superior de Segurança Interna"
+        url: "https://www.portugal.gov.pt/pt/gc25/comunicacao/noticia?i=relatorio-anual-de-seguranca-interna-2025-apresentado-no-conselho-superior-de-seguranca-interna"
+    wire_copies: []
+  - item: 3
+    primary_source:
+      title: "A2 e A6 com isenção de portagens mas só para alguns"
+      url: "https://www.razaoautomovel.com/noticias/portagens-alentejo-a2-a6-2026/"
+    verification_sources:
+      - title: "Isenção de portagens entra em vigor no Alentejo — RTP"
+        url: "https://www.rtp.pt/noticias/pais/isencao-de-portagens-entra-em-vigor-no-alentejo_v1730653"
+      - title: "Portaria n.º 131/2026/1, de 30 de março | DR"
+        url: "https://diariodarepublica.pt/dr/detalhe/portaria/131-2026-1078137066"
+    context_sources: []
+    wire_copies: []
+tags:
+  - combustiveis
+  - energia
+  - prisoes
+  - portagens
+  - alentejo
+---
+
+### 1. Apoios aos combustíveis arrancam hoje
+O Estado começa a pagar apoios extraordinários a transportes, agricultura, pescas, táxis, bombeiros e IPSS. As medidas ficam em vigor até 30 de junho.
+
+💡 Porque importa
+O Governo tenta travar o choque na fatura antes que ele apareça em fretes, serviços e preços.
+
+☕ Conversa de café
+Quando o litro dispara, a conta não fica na bomba. Vai passear por quase tudo.
+
+---
+
+### 2. Prisões já estão acima da lotação
+O RASI 2025 mostra 13.136 reclusos e taxa de ocupação de 103,4%. É a primeira sobrelotação do sistema prisional em seis anos.
+
+💡 Porque importa
+Isto deixa de ser só tema de justiça: segurança, condições e reinserção degradam-se ao mesmo tempo.
+
+☕ Conversa de café
+Se o sistema só reage quando já rebenta nas margens, o atraso já virou método.
+
+---
+
+### 3. A2 e A6 ficam grátis para parte do Alentejo
+A isenção de portagens arrancou hoje em troços da A2 e da A6 para residentes e empresas da zona de influência. Não é automática: tem de ser pedida na Via Verde.
+
+💡 Porque importa
+É alívio real para quem faz estas viagens, mas só existe para quem tratar da burocracia.
+
+☕ Conversa de café
+Em Portugal até a gratuitidade vem com formulário.
