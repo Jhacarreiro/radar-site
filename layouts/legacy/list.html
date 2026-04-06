@@ -36,7 +36,7 @@
   {{ range $pages.ByDate.Reverse }}
   <li>
     <span class="post-date">{{ .Date.Format "2006-01-02" }}</span>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <a href="{{ .RelPermalink }}">{{ .File.ContentBaseName }}</a>
   </li>
   {{ end }}
 </ul>

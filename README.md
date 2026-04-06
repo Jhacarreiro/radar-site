@@ -77,6 +77,12 @@ Quando um canal deixa de publicar e vai para a seccao Legacy:
 - Para que o URL seja o nome do ficheiro, remover a linha `slug:` do frontmatter
 - Os `aliases:` servem como redirects de URLs antigos — manter para nao partir links existentes
 
+### Links no arquivo de posts
+
+- Os links na listagem de posts usam o **nome do ficheiro** (`.File.ContentBaseName`), NAO o titulo do post
+- Isto aplica-se tanto aos canais activos (`_default/list.html`) como aos legacy (`legacy/list.html`)
+- **Nao mudar para `.Title`** — o titulo e para dentro do post, o nome do ficheiro e para a listagem
+
 ## Layouts
 
 | Ficheiro | Responsabilidade |
