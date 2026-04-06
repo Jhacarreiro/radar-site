@@ -2,7 +2,6 @@
 edition_id: "rpt-2026-04-01-am"
 channel: "radar_pt"
 date: "2026-04-01"
-slug: "combustiveis-prisoes-portagens"
 aliases:
   - "/news/pt/rpt-2026-04-01-am/"
 title: "Combustíveis com apoios, prisões no limite e portagens grátis no Alentejo"

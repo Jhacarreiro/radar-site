@@ -2,7 +2,6 @@
 edition_id: "rpt-2026-03-28-am"
 channel: "radar_pt"
 date: "2026-03-28"
-slug: "herancas-aforro-burlas-qr"
 aliases:
   - "/news/pt/rpt-2026-03-28-am/"
 title: "Heranças destravam casas, Aforro sobe e QR entra na lista de burlas"
