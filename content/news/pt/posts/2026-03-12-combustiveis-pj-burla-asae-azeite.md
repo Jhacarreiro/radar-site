@@ -2,7 +2,6 @@
 edition_id: "radar_pt|2026-03-12|manha"
 channel: "radar_pt"
 date: 2026-03-12
-slug: "combustiveis-pj-burla-asae-azeite"
 title: "Combustíveis sobem, PJ apanha esquema de €30M, ASAE trava fraude do azeite"
 window: "manha"
 tags:

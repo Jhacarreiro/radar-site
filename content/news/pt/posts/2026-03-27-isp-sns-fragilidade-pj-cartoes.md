@@ -2,7 +2,6 @@
 edition_id: "rpt-2026-03-27-pm"
 channel: "radar_pt"
 date: 2026-03-27
-slug: "isp-sns-fragilidade-pj-cartoes"
 aliases:
   - "/news/pt/rpt-2026-03-27-pm/"
 title: "ISP fica, SNS expõe fragilidade, PJ trava fraude com cartões"

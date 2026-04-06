@@ -2,7 +2,6 @@
 edition_id: "rpt-2026-03-31-am"
 channel: "radar_pt"
 date: "2026-03-31"
-slug: "inflacao-irs-inetum"
 aliases:
   - "/news/pt/rpt-2026-03-31-am/"
 title: "Inflação acelera, IRS fecha e tribunal confirma coima à Inetum"

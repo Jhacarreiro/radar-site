@@ -2,7 +2,6 @@
 edition_id: "universo-2026-04-04-am"
 channel: "radar_universo"
 date: "2026-04-04"
-slug: "taeg-revolut-fees"
 aliases:
   - "/companies/universo/universo-2026-04-04-am/"
 title: "Teto regulatório, multa à Revolut e guerra das fees"
