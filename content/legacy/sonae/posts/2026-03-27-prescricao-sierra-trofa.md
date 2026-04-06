@@ -2,7 +2,6 @@
 edition_id: "sonae-2026-03-27-am"
 channel: "radar_sonae"
 date: 2026-03-27
-slug: "prescricao-sierra-trofa"
 aliases:
   - "/companies/sonae/sonae-2026-03-27-am/"
 title: "Prescrição AdC, Sierra em força, Trofa entra no MaiaShopping"
