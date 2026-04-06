@@ -2,8 +2,6 @@
 edition_id: "universo-2026-04-06-am"
 channel: "radar_universo"
 date: "2026-04-06"
-aliases:
-  - "/companies/universo/universo-2026-04-06-am/"
 title: "Crédito ao consumo sobe, TikTok quer crédito e energia aperta"
 status: "published"
 window: "manhã"

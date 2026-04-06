@@ -2,8 +2,6 @@
 edition_id: "sonae-2026-04-01-lunch"
 channel: "radar_sonae"
 date: "2026-04-01"
-aliases:
-  - "/companies/sonae/sonae-2026-04-01-lunch/"
 title: "Consumo abranda, Bruxelas aperta Temu e combustível sobe"
 status: "published"
 window: "almoço"
