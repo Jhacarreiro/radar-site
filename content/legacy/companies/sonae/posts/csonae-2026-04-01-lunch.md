@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /companies/sonae/posts/csonae-2026-04-01-lunch/
 edition_id: "sonae-2026-04-01-lunch"
 channel: "radar_sonae"
 date: "2026-04-01"
