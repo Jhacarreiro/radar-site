@@ -2,7 +2,6 @@
 edition_id: "radar_finserv_pt|2026-03-12|manha"
 channel: "radar_finserv_pt"
 date: 2026-03-12
-slug: "adc-apespe-igcp-divida-inflacao"
 title: "AdC multa APESPE, IGCP coloca dívida, inflação sobe"
 window: "manha"
 tags:
