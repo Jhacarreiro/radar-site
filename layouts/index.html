@@ -18,7 +18,7 @@
 <div class="channels">
   {{ $channels := slice }}
   {{ range .Site.Sections }}
-    {{ if ne .Section "pricing" }}
+    {{ if and (ne .Section "pricing") (ne .Section "legacy") }}
       {{ range .Sections }}
         {{ $channels = $channels | append . }}
       {{ end }}
