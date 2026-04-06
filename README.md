@@ -34,7 +34,7 @@ Os canais legacy aparecem em `/legacy/` com disclaimer.
 | FinServ Strategy PT | getrad.ar/strategy/finserv/ |
 | Sonae (legacy) | getrad.ar/legacy/companies/sonae/ |
 
-URLs antigos (`/financial/pt/`, `/advisory/bcg-finserv/`, `/companies/sonae/`) continuam a funcionar via `aliases` nos `_index.md`.
+Nao existem aliases nem redirects. URLs antigos nao funcionam — e intencional.
 
 ## Edition IDs
 
@@ -54,8 +54,6 @@ URLs antigos (`/financial/pt/`, `/advisory/bcg-finserv/`, `/companies/sonae/`) c
 
 Ficheiro markdown com frontmatter:
 - `edition_id`, `channel`, `date`, `title`, `status`
-- `slug` (se presente, sobrepoe o nome do ficheiro no URL — remover se quiser URL = nome do ficheiro)
-- `aliases` (redirects de URLs antigos)
 - `items` com fontes verificaveis (primary_source, verification_sources, context_sources)
 - Corpo com a mensagem WhatsApp exacta
 
@@ -88,10 +86,7 @@ Quando um canal muda de seccao (ex: `advisory/bcg-finserv` -> `strategy/finserv`
 **Checklist:**
 1. Mover a pasta inteira (com posts e _index.md)
 2. Criar `_index.md` na seccao pai se nao existir
-3. **Adicionar `aliases` no `_index.md` do canal** apontando para o URL antigo
-4. **Adicionar `aliases` no `_index.md` dos posts** apontando para o URL antigo dos posts
-5. Os posts individuais ja devem ter `aliases` proprios — verificar
-6. Apagar a pasta antiga (se ficou vazia)
+3. Apagar a pasta antiga (se ficou vazia)
 
 ### Arquivar um canal (mover para Legacy)
 
@@ -103,8 +98,7 @@ Quando um canal deixa de publicar e vai para a seccao Legacy:
    - Manter a hierarquia original dentro de legacy
 2. Criar `_index.md` na seccao intermédia dentro de legacy se nao existir (ex: `legacy/companies/_index.md`)
 3. **Remover `whatsapp_url`** do `_index.md` — canais legacy nao tem botao "Subscribe via WhatsApp"
-4. **Adicionar `aliases`** no `_index.md` do canal e dos posts para os URLs antigos
-5. Verificar que todos os posts migraram (incluindo os mais recentes que possam ter sido publicados entre o inicio e o fim da operacao)
+4. Verificar que todos os posts migraram (incluindo os mais recentes que possam ter sido publicados entre o inicio e o fim da operacao)
 6. O canal desaparece automaticamente da homepage (o `index.html` exclui a seccao `legacy`)
 7. O canal aparece automaticamente na pagina `/legacy/`
 
@@ -115,17 +109,12 @@ Quando um canal deixa de publicar e vai para a seccao Legacy:
 - O layout legacy percorre `legacy/{seccao}/{canal}` (2 niveis) para encontrar canais com `description`
 - O historico/arquivo de cada canal continua acessivel via botao "History"
 
-### Posts e slugs
+### Posts
 
-- Se um post tem `slug:` no frontmatter, o Hugo usa esse valor como URL em vez do nome do ficheiro
-- Para que o URL seja o nome do ficheiro, remover a linha `slug:` do frontmatter
-- Os `aliases:` servem como redirects de URLs antigos — manter para nao partir links existentes
-
-### Links no arquivo de posts
-
-- Os links na listagem de posts usam o **nome do ficheiro** (`.File.ContentBaseName`), NAO o titulo do post
-- Isto aplica-se tanto aos canais activos (`_default/list.html`) como aos legacy (`legacy/list.html`)
-- **Nao mudar para `.Title`** — o titulo e para dentro do post, o nome do ficheiro e para a listagem
+- **Nao usar `slug:` nem `aliases:`** — zero em todo o site
+- O URL de cada post e sempre o nome do ficheiro (sem extensao)
+- O nome do ficheiro segue o formato `{short}-{data}-{window}.md` (ex: `secfin-2026-04-06-am.md`)
+- Na listagem do arquivo, o texto dos links e o **titulo** do post (`.Title`), o href e o nome do ficheiro
 
 ## Layouts
 
