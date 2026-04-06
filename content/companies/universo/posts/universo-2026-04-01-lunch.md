@@ -2,8 +2,6 @@
 edition_id: "universo-2026-04-01-lunch"
 channel: "radar_universo"
 date: "2026-04-01"
-aliases:
-  - "/companies/universo/universo-2026-04-01-lunch/"
 title: "Fraude digital sobe, Unibanco pausa e consumo trava"
 status: "published"
 window: "almoço"
