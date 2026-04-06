@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ if eq (len .CurrentSection.Ancestors) 0 }}
 <h1>Legacy Channels</h1>
 
 <div class="legacy-disclaimer">
@@ -7,7 +8,7 @@
 </div>
 
 <div class="channels">
-  {{ range .Pages }}
+  {{ range .Sections }}
   <div class="channel-card">
     <div class="card-header">
       <h3>{{ .Title }}</h3>
@@ -17,12 +18,32 @@
     <div class="card-spacer"></div>
     <div class="card-footer">
       {{ with .Params.meta }}<p class="meta">{{ . }}</p>{{ end }}
-      {{ with .Params.whatsapp_url }}
-      <a href="{{ . }}" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
-      {{ end }}
     </div>
   </div>
   {{ end }}
 </div>
+{{ else }}
+<h1>{{ .Title }}</h1>
+{{ with .Description }}<p class="tagline">{{ . }}</p>{{ end }}
 
+{{ $pages := .Pages }}
+{{ if .Sections }}
+  {{ $pages = (where .Site.RegularPages "Section" .Section) }}
+{{ end }}
+
+{{ if $pages }}
+<ul class="post-list">
+  {{ range $pages.ByDate.Reverse }}
+  <li>
+    <span class="post-date">{{ .Date.Format "2006-01-02" }}</span>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+{{ else }}
+<p>Ainda sem edições publicadas.</p>
+{{ end }}
+
+<a href="/" class="back">← Voltar</a>
+{{ end }}
 {{ end }}
