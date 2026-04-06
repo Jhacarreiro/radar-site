@@ -1,0 +1,28 @@
+{{ define "main" }}
+<h1>Legacy Channels</h1>
+
+<div class="legacy-disclaimer">
+  <p class="legacy-headline">Legacy editions — These channels were early experiments and don't reflect the current product.</p>
+  <p class="legacy-note">Rough around the edges, maybe — but they're where we started, and we will always carry them with pride.</p>
+</div>
+
+<div class="channels">
+  {{ range .Pages }}
+  <div class="channel-card">
+    <div class="card-header">
+      <h3>{{ .Title }}</h3>
+      <a href="{{ .Permalink }}" class="btn-history">History</a>
+    </div>
+    {{ with .Params.description }}<p class="desc">{{ . }}</p>{{ end }}
+    <div class="card-spacer"></div>
+    <div class="card-footer">
+      {{ with .Params.meta }}<p class="meta">{{ . }}</p>{{ end }}
+      {{ with .Params.whatsapp_url }}
+      <a href="{{ . }}" target="_blank" rel="noopener" class="btn-subscribe">Subscribe via WhatsApp</a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+
+{{ end }}

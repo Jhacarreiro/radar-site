@@ -1,5 +1,5 @@
 ---
-title: "Radar | BCG FinServ PT"
+title: "Radar | FinServ Strategy"
 weight: 5
 description: "Munição para reuniões — banca, seguros e pagamentos em Portugal."
 meta: "Advisory · banca/seguros/pagamentos · pt-PT"
