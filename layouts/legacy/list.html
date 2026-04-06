@@ -8,7 +8,15 @@
 </div>
 
 <div class="channels">
+  {{ $channels := slice }}
   {{ range .Sections }}
+    {{ range .Sections }}
+      {{ if .Params.description }}
+        {{ $channels = $channels | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ range sort $channels "Params.weight" }}
   <div class="channel-card">
     <div class="card-header">
       <h3>{{ .Title }}</h3>
