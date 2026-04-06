@@ -2,9 +2,6 @@
 edition_id: "rpt-2026-04-06-lunch"
 channel: "radar_pt"
 date: "2026-04-06"
-slug: "microsoft-japao-tesla-risco-quantico"
-aliases:
-  - "/news/pt/rpt-2026-04-06-lunch/"
 title: "Microsoft no Japão, Tesla e risco quântico"
 status: "published"
 window: "almoço"
