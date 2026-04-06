@@ -99,6 +99,17 @@ Quando um canal deixa de publicar e vai para a seccao Legacy:
 2. Criar `_index.md` na seccao intermédia dentro de legacy se nao existir (ex: `legacy/companies/_index.md`)
 3. **Remover `whatsapp_url`** do `_index.md` — canais legacy nao tem botao "Subscribe via WhatsApp"
 4. Verificar que todos os posts migraram (incluindo os mais recentes que possam ter sido publicados entre o inicio e o fim da operacao)
+5. **Adicionar `aliases` a todos os posts** — os links enviados no WhatsApp apontam para o path antigo e ficam partidos apos o arquivo. Para cada post, adicionar no frontmatter:
+   ```yaml
+   aliases:
+     - /{seccao-antiga}/{canal}/posts/{edition_id}/
+   ```
+   Exemplo (Sonae estava em `companies/sonae/`):
+   ```yaml
+   aliases:
+     - /companies/sonae/posts/csonae-2026-04-06-am/
+   ```
+   Este e o UNICO caso em que `aliases` sao permitidos no site — exclusivamente em posts de canais arquivados, para preservar links ja enviados no WhatsApp.
 6. O canal desaparece automaticamente da homepage (o `index.html` exclui a seccao `legacy`)
 7. O canal aparece automaticamente na pagina `/legacy/`
 
