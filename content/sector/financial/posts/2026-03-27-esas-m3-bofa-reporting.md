@@ -2,7 +2,6 @@
 edition_id: "fspt-2026-03-27-am"
 channel: "radar_finserv_pt"
 date: 2026-03-27
-slug: "esas-m3-bofa-reporting"
 aliases:
   - "/financial/pt/fspt-2026-03-27-am/"
 title: "ESAs sobem alerta, M3 abranda, BCE multa BofA"
