@@ -1,5 +1,5 @@
 ---
-edition_id: "bcg-2026-04-01-pm"
+edition_id: "stratfin-2026-04-01-pm"
 channel: "radar_finserv_strategy"
 date: "2026-04-01"
 title: "TikTok checkout, private credit e BCE pagamentos"

@@ -1,5 +1,5 @@
 ---
-edition_id: "bcgfs-2026-04-04-am"
+edition_id: "stratfin-2026-04-04-am"
 channel: "radar_finserv_strategy"
 date: "2026-04-04"
 title: "ECB modelos internos, private credit seguros e Wero"
