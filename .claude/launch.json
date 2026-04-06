@@ -4,7 +4,7 @@
     {
       "name": "hugo",
       "runtimeExecutable": "hugo",
-      "runtimeArgs": ["server", "--source", "C:/Users/joaoc/radar-site-temp"],
+      "runtimeArgs": ["server", "--source", "C:/Users/joaoc/radar-site-temp", "--port", "1313", "--bind", "0.0.0.0"],
       "port": 1313
     }
   ]
