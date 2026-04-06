@@ -1,3 +1,0 @@
----
-title: "Arquivo — Grupo Sonae"
----
