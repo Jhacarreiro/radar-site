@@ -48,7 +48,7 @@ Nao existem aliases nem redirects. URLs antigos nao funcionam — e intencional.
 | Universo | cuniv | cuniv-2026-04-07-am |
 | FinServ Strategy | stratfin | stratfin-2026-04-07-am |
 
-**Edition IDs antigos** nos ficheiros ja publicados (rpt-*, fspt-*, sonae-*, univ-*, bcgfs-*, bcg-*) ficam como estao. Nao renomear.
+**Edition IDs antigos** nos ficheiros ja publicados (rpt-*, fspt-*, sonae-*, univ-*) foram renomeados para o formato novo. Todos os posts seguem agora o formato `{short}-{data}-{window}`.
 
 ## Cada edicao
 
@@ -75,13 +75,13 @@ Renomear NAO e criar um canal novo. E so mudar o nome.
 2. Alterar `meta` no `_index.md` se aplicavel
 3. **Verificar que os posts/historico ficam no mesmo directorio** — nao mover, nao apagar
 4. Confirmar que nao ficam referencias ao nome antigo (grep no repo inteiro)
-5. O directorio da pasta pode manter o nome antigo (ex: `bcg-finserv/` era FinServ Strategy PT) — os URLs internos nao mudam
+5. O directorio da pasta pode manter o nome antigo — os URLs internos nao mudam
 
 **Erro comum:** criar um canal novo vazio e deixar o historico no antigo. Os posts pertencem ao canal, nao ao nome.
 
 ### Mover um canal de pasta
 
-Quando um canal muda de seccao (ex: `advisory/bcg-finserv` -> `strategy/finserv`):
+Quando um canal muda de seccao:
 
 **Checklist:**
 1. Mover a pasta inteira (com posts e _index.md)
