@@ -5,6 +5,7 @@ date: "2026-04-08"
 title: "UBS capital, MoMo funding e agentes bancários na Índia"
 status: "published"
 window: "manhã"
+whatsapp_message_id: "3EB0C408CC11141217DA51"
 items:
   - title: "Suíça sobe a fasquia de capital para a UBS"
     primary_source:
