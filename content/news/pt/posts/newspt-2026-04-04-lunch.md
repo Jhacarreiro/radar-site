@@ -1,6 +1,6 @@
 ---
 edition_id: "rpt-2026-04-04-lunch"
-channel: "radar_pt"
+channel: "news_pt"
 date: "2026-04-04"
 title: "Microplásticos, renováveis e humanos digitais"
 status: "published"

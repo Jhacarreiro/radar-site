@@ -1,6 +1,6 @@
 ---
 edition_id: "stratfin-2026-04-09-am"
-channel: "radar_finserv_strategy"
+channel: "stratfin"
 date: "2026-04-09"
 title: "Capital nos EUA, proporcionalidade nos seguros e franco tokenizado"
 status: "published"

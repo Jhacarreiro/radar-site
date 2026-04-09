@@ -1,6 +1,6 @@
 ---
 edition_id: "stratfin-2026-04-08-am"
-channel: "radar_finserv_strategy"
+channel: "stratfin"
 date: "2026-04-08"
 title: "UBS capital, MoMo funding e agentes bancários na Índia"
 status: "published"
