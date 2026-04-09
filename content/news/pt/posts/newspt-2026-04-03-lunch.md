@@ -1,6 +1,6 @@
 ---
 edition_id: "rpt-2026-04-03-lunch"
-channel: "radar_pt"
+channel: "news_pt"
 date: "2026-04-03"
 title: "Gemma 4 local, Artemis II lunar e mão robótica"
 status: "published"

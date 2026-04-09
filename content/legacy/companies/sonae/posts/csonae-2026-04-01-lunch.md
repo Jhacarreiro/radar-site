@@ -2,7 +2,7 @@
 aliases:
   - /companies/sonae/posts/csonae-2026-04-01-lunch/
 edition_id: "sonae-2026-04-01-lunch"
-channel: "radar_sonae"
+channel: "grupo_sonae"
 date: "2026-04-01"
 title: "Consumo abranda, Bruxelas aperta Temu e combustível sobe"
 status: "published"

@@ -1,6 +1,6 @@
 ---
 edition_id: "rpt-2026-04-01-lunch"
-channel: "radar_pt"
+channel: "news_pt"
 date: "2026-04-01"
 title: "Óculos com IA na ótica, energia para data centers e 3 nm no Japão"
 status: "published"

@@ -1,6 +1,6 @@
 ---
 edition_id: "stratfin-2026-04-06-am"
-channel: "radar_finserv_strategy"
+channel: "stratfin"
 date: "2026-04-06"
 title: "BCE pagamentos europeus, private credit EUA e modelos risco"
 status: "published"
