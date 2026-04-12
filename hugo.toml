@@ -1,6 +1,8 @@
 baseURL = "https://getrad.ar"
 languageCode = "pt"
 title = "Radar"
+buildFuture = true
+timeZone = "Europe/Lisbon"
 
 [params]
   description = "Short briefings and curated channels for bespoke audiences."
