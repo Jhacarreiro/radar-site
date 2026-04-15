@@ -37,7 +37,7 @@ items:
     context_sources: []
     wire_copies: []
 ---
-### 1. BCE quer capital e liquidez sem fronteiras
+### 1️⃣ BCE quer capital e liquidez sem fronteiras
 O BCE pediu em 14 de abril que a área do euro funcione como jurisdição única, com capital e liquidez a circular livremente dentro dos grupos bancários e menos barreiras regulatórias.
 
 💡 Porque importa
@@ -48,7 +48,7 @@ Quem é que ainda ganha com esta Europa bancária partida aos bocados?
 
 ---
 
-### 2. Wells Fargo falha no juro mas segura a meta anual
+### 2️⃣ Wells Fargo falha no juro mas segura a meta anual
 O Wells Fargo reportou NII de 12,1 mil milhões de dólares no 1.º trimestre, abaixo do esperado, mas manteve a guidance de cerca de 50 mil milhões para 2026.
 
 💡 Porque importa
@@ -59,7 +59,7 @@ Quanto mais trimestres destes é que o mercado aceita antes de pedir corte a sé
 
 ---
 
-### 3. Euronet compra PaynoPain e reforça acquiring ibérico
+### 3️⃣ Euronet compra PaynoPain e reforça acquiring ibérico
 A Euronet anunciou a compra da espanhola PaynoPain para ganhar mais acquiring em Espanha e Portugal e integrar a sua tecnologia de pagamentos online e omnicanal.
 
 💡 Porque importa
