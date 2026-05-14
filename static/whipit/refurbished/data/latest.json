@@ -1,8 +1,45 @@
 {
-  "generated_at": "2026-05-14T05:13:13Z",
+  "generated_at": "2026-05-14T05:32:08Z",
   "demo": false,
   "sections": {
     "best_today": [
+      {
+        "id": "pccomponentes-52f01894-e8ce-427c-9c0c-48d2377bfa1d",
+        "product_id": "pccomponentes-10878784",
+        "store_id": "pccomponentes",
+        "listing_url": "https://www.pccomponentes.pt/tv-philips-oled-65oled770-65-4k-ultrahd-120hz-smart-tv-titan-os-dolby-vision-ambilight",
+        "refurbished_price": 933.58,
+        "condition": "Recondicionado",
+        "warranty_months": 36,
+        "seller": "PcComponentes",
+        "stock_status": "available",
+        "match_confidence": "medium",
+        "demo": false,
+        "active": 1,
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
+        "title": "TV Philips OLED 65OLED770 65\" 4K UltraHD 120Hz Smart TV Titan OS Dolby Vision Ambilight",
+        "category": "tvs-monitores",
+        "best_new_price": 1396.57,
+        "saving_eur": 462.99,
+        "saving_percent": 33.2,
+        "score": 88,
+        "verdict": "excellent",
+        "url_pt": "https://www.kuantokusta.pt/search?q=TV+Philips+OLED+65OLED770+65%22+4K+UltraHD+120Hz+Smart+TV+Titan+OS+Dolby+Vision+Ambilight",
+        "url_amz": "https://www.amazon.es/s?k=TV+Philips+OLED+65OLED770+65%22+4K+UltraHD+120Hz+Smart+TV+Titan+OS+Dolby+Vision+Ambilight",
+        "store": "PcComponentes",
+        "category_label": "TVs & Monitores",
+        "warnings": [
+          "Confirma preço, estado e garantia na loja original antes de comprar"
+        ],
+        "reasons": [
+          "Poupança absoluta forte",
+          "Poupança percentual forte",
+          "Garantia longa",
+          "Estado pouco claro",
+          "Comparação média confiança"
+        ]
+      },
       {
         "id": "pccomponentes-8b9d2a03-fcf5-4e97-85db-4e6a86a7e66f",
         "product_id": "pccomponentes-10966111",
@@ -16,8 +53,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "Acer Predator Helios NEO 16S AI PHN16S-71-94Q Intel Core Ultra 9 275HX/32GB/1TB SSD/RTX5070/16\" (PT)",
         "category": "portateis",
         "best_new_price": 2299.01,
@@ -30,7 +67,7 @@
         "store": "PcComponentes",
         "category_label": "Portáteis",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta forte",
@@ -53,8 +90,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "TV Philips LED 65PUS7000 65\" 4K UltraHD 60Hz Smart TV Titan OS HDR10+ Dolby Atmos",
         "category": "tvs-monitores",
         "best_new_price": 549.0,
@@ -67,7 +104,7 @@
         "store": "PcComponentes",
         "category_label": "TVs & Monitores",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta forte",
@@ -90,8 +127,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "Roborock Q7TF+ Roborock Aspirador Robô com Base Auto-Esvaziante, Preto",
         "category": "casa-tech",
         "best_new_price": 306.0,
@@ -104,7 +141,7 @@
         "store": "PcComponentes",
         "category_label": "Casa & Tech",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta aceitável",
@@ -127,8 +164,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "Monitor PcCom Elysium Pro 34\" UltraWide Quad HD 180Hz Fast VA Curvo 1ms Adaptive Sync Altura Regulável",
         "category": "tvs-monitores",
         "best_new_price": 299.98,
@@ -141,7 +178,7 @@
         "store": "PcComponentes",
         "category_label": "TVs & Monitores",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta aceitável",
@@ -164,8 +201,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "Monitor AOC Q27G4XF 27\" QHD 180Hz Fast IPS HDR10 FreeSync Altura Ajustável 1ms",
         "category": "tvs-monitores",
         "best_new_price": 199.9,
@@ -178,7 +215,7 @@
         "store": "PcComponentes",
         "category_label": "TVs & Monitores",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta aceitável",
@@ -201,8 +238,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "TV LG NanoCell 86NANO81A6A 86\" 4K UltraHD 60Hz Smart TV WebOS HDR10 Pro Gaming Cloud",
         "category": "tvs-monitores",
         "best_new_price": 1189.67,
@@ -215,7 +252,7 @@
         "store": "PcComponentes",
         "category_label": "TVs & Monitores",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta forte",
@@ -226,11 +263,11 @@
         ]
       },
       {
-        "id": "pccomponentes-575fb12c-9611-4277-b5d6-21dc1f409531",
-        "product_id": "pccomponentes-10863654",
+        "id": "pccomponentes-e3be07c0-adec-4cbb-8925-10b7c3c03cc5",
+        "product_id": "pccomponentes-10952765",
         "store_id": "pccomponentes",
-        "listing_url": "https://www.pccomponentes.pt/xiaomi-electric-scooter-5-trotinete-eletrica-350w-10-preta",
-        "refurbished_price": 249.71,
+        "listing_url": "https://www.pccomponentes.pt/apple-iphone-17-256gb-branco",
+        "refurbished_price": 786.95,
         "condition": "Recondicionado",
         "warranty_months": 36,
         "seller": "PcComponentes",
@@ -238,25 +275,25 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
-        "title": "Xiaomi Electric Scooter 5 Trotinete Elétrica 350W 10\" Preta",
-        "category": "casa-tech",
-        "best_new_price": 353.99,
-        "saving_eur": 104.28,
-        "saving_percent": 29.5,
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
+        "title": "Apple iPhone 17 256GB Branco",
+        "category": "smartphones-tablets",
+        "best_new_price": 958.99,
+        "saving_eur": 172.04,
+        "saving_percent": 17.9,
         "score": 76,
         "verdict": "good",
-        "url_pt": "https://www.kuantokusta.pt/search?q=Xiaomi+Electric+Scooter+5+Trotinete+El%C3%A9trica+350W+10%22+Preta",
-        "url_amz": "https://www.amazon.es/s?k=Xiaomi+Electric+Scooter+5+Trotinete+El%C3%A9trica+350W+10%22+Preta",
+        "url_pt": "https://www.kuantokusta.pt/search?q=Apple+iPhone+17+256GB+Branco",
+        "url_amz": "https://www.amazon.es/s?k=Apple+iPhone+17+256GB+Branco",
         "store": "PcComponentes",
-        "category_label": "Casa & Tech",
+        "category_label": "Smartphones & Tablets",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
-          "Poupança absoluta aceitável",
-          "Poupança percentual boa",
+          "Poupança absoluta forte",
+          "Poupança mínima",
           "Garantia longa",
           "Estado pouco claro",
           "Comparação média confiança"
@@ -275,8 +312,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "Xiaomi REDMI Note 15 Pro 5G 12GB 512GB 6.83\" Preto",
         "category": "smartphones-tablets",
         "best_new_price": 450.0,
@@ -289,7 +326,7 @@
         "store": "PcComponentes",
         "category_label": "Smartphones & Tablets",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta aceitável",
@@ -312,8 +349,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "TV Philips QLED 55PUS7810 55\" 4K UltraHD 60Hz Smart TV Titan OS HDR10+ Dolby Atmos",
         "category": "tvs-monitores",
         "best_new_price": 390.0,
@@ -326,7 +363,7 @@
         "store": "PcComponentes",
         "category_label": "TVs & Monitores",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta aceitável",
@@ -349,8 +386,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "Trotinete elétrica Voltrock F-Wasp 350 de 350 W, com suspensão dianteira, indicadores de mudança de direção e travões duplos (homologado pela DGT).",
         "category": "casa-tech",
         "best_new_price": 299.0,
@@ -363,7 +400,7 @@
         "store": "PcComponentes",
         "category_label": "Casa & Tech",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta aceitável",
@@ -386,8 +423,8 @@
         "match_confidence": "medium",
         "demo": false,
         "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
+        "first_seen_at": "2026-05-14T05:30:22Z",
+        "last_seen_at": "2026-05-14T05:30:22Z",
         "title": "Monitor PcCom Elysium Pro 27\" QHD 200Hz Fast IPS 1ms AdaptiveSync HDR",
         "category": "tvs-monitores",
         "best_new_price": 184.99,
@@ -400,48 +437,11 @@
         "store": "PcComponentes",
         "category_label": "TVs & Monitores",
         "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
+          "Confirma preço, estado e garantia na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança curta",
           "Poupança percentual forte",
-          "Garantia longa",
-          "Estado pouco claro",
-          "Comparação média confiança"
-        ]
-      },
-      {
-        "id": "pccomponentes-22b2bfa6-e835-4fec-9bac-ccd3c3d2bdcf",
-        "product_id": "pccomponentes-10906849",
-        "store_id": "pccomponentes",
-        "listing_url": "https://www.pccomponentes.pt/motorola-moto-g56-5g-8gb-256gb-672-preto-dual-sim",
-        "refurbished_price": 178.65,
-        "condition": "Recondicionado",
-        "warranty_months": 36,
-        "seller": "PcComponentes",
-        "stock_status": "available",
-        "match_confidence": "medium",
-        "demo": false,
-        "active": 1,
-        "first_seen_at": "2026-05-13T22:50:03Z",
-        "last_seen_at": "2026-05-13T22:50:03Z",
-        "title": "Motorola Moto G56 5G 8GB 256GB 6.72\" Preto Dual SIM",
-        "category": "smartphones-tablets",
-        "best_new_price": 249.0,
-        "saving_eur": 70.35,
-        "saving_percent": 28.3,
-        "score": 68,
-        "verdict": "maybe",
-        "url_pt": "https://www.kuantokusta.pt/search?q=Motorola+Moto+G56+5G+8GB+256GB+6.72%22+Preto+Dual+SIM",
-        "url_amz": "https://www.amazon.es/s?k=Motorola+Moto+G56+5G+8GB+256GB+6.72%22+Preto+Dual+SIM",
-        "store": "PcComponentes",
-        "category_label": "Smartphones & Tablets",
-        "warnings": [
-          "Validar preço novo fora da loja antes de comprar"
-        ],
-        "reasons": [
-          "Poupança curta",
-          "Poupança percentual boa",
           "Garantia longa",
           "Estado pouco claro",
           "Comparação média confiança"
