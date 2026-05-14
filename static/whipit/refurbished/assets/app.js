@@ -31,7 +31,7 @@ function cleanTitle(s){
   if(s.length > 52){ const cut = s.slice(0,52); s = cut.slice(0, Math.max(cut.lastIndexOf(' '), 34)).trim(); }
   return s;
 }
-function skuOf(o){return o.model || String(o.product_id || '').replace(/^pccomponentes-/, '') || 'n/d';}
+function skuOf(o){const raw = o.sku || o.model || String(o.product_id || '').replace(/^(pccomponentes|ean|worten)-/, '') || 'n/d'; return String(raw).replace(/#reac$/i, '');}
 function offerCard(o){
   const warrantyMonths = Number(o.warranty_months || 0);
   const warrantyBadge = warrantyMonths >= 36 ? '<span class="badge good">🛡️ 3 anos</span>' : warrantyMonths ? `<span class="badge">🛡️ ${warrantyMonths} meses</span>` : '<span class="badge warn">Garantia n/d</span>';
