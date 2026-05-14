@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T14:59:32Z",
+  "generated_at": "2026-05-14T15:21:16Z",
   "demo": false,
   "sections": {
     "best_today": [
@@ -54,7 +54,7 @@
         "store_id": "worten",
         "listing_url": "https://www.worten.pt/produtos/iphone-11-pro-apple-recondicionado-flippers-como-novo-6-5-64-gb-dourado-7470092",
         "refurbished_price": 189.99,
-        "condition": "<b>Como Novo",
+        "condition": "Como Novo",
         "warranty_months": 36,
         "seller": "Worten",
         "stock_status": "available",
@@ -99,7 +99,7 @@
         "store_id": "worten",
         "listing_url": "https://www.worten.pt/produtos/iphone-16-pro-apple-recondicionado-flippers-como-novo-6-3-256-gb-deserto-titanio-8290801",
         "refurbished_price": 879.99,
-        "condition": "<b>Como Novo",
+        "condition": "Como Novo",
         "warranty_months": 36,
         "seller": "Worten",
         "stock_status": "available",
@@ -324,7 +324,7 @@
         "store_id": "worten",
         "listing_url": "https://www.worten.pt/produtos/iphone-16-pro-apple-recondicionado-reuse-como-novo-6-3-256-gb-natural-titanio-8290794",
         "refurbished_price": 879.99,
-        "condition": "<b>Como Novo",
+        "condition": "Como Novo",
         "warranty_months": 36,
         "seller": "Worten",
         "stock_status": "available",
@@ -459,7 +459,7 @@
         "store_id": "worten",
         "listing_url": "https://www.worten.pt/produtos/iphone-15-pro-apple-recondicionado-flippers-como-novo-6-1-128-gb-preto-8008726",
         "refurbished_price": 649.99,
-        "condition": "<strong>Como Novo</strong>",
+        "condition": "Como Novo",
         "warranty_months": 36,
         "seller": "Worten",
         "stock_status": "available",
