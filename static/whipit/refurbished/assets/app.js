@@ -1,6 +1,6 @@
 
 let __offersCache = null;
-const base = (window.REFURB_BASE_PATH || '').replace(/\\/$/, '');
+const base = (window.REFURB_BASE_PATH || '').replace(/\/$/, '');
 const eur = v => (v === null || v === undefined) ? '—' : `${Math.round(Number(v)).toLocaleString('pt-PT')}€`;
 const verdictLabel = v => ({excellent:'Excelente', good:'Bom', maybe:'Talvez', avoid:'Evitar'}[v] || '—');
 const verdictClass = v => ({excellent:'good', good:'good', maybe:'warn', avoid:'bad'}[v] || '');
@@ -30,9 +30,9 @@ function cleanTitle(s){
 function skuOf(o){return o.model || String(o.product_id || '').replace(/^pccomponentes-/, '') || 'n/d';}
 function offerCard(o){
   const warrantyMonths = Number(o.warranty_months || 0);
-  const warrantyBadge = warrantyMonths >= 36 ? '<span class="badge good">🛡️ 3 anos</span>' : warrantyMonths ? `<span class="badge">🛡️ ${warrantyMonths} meses garantia</span>` : '<span class="badge warn">Garantia n/d</span>';
+  const warrantyBadge = warrantyMonths >= 36 ? '<span class="badge good">🛡️ 3 anos</span>' : warrantyMonths ? `<span class="badge">🛡️ ${warrantyMonths} meses</span>` : '<span class="badge warn">Garantia n/d</span>';
   const note = (o.warnings || [])[0] || 'Confirma preço, estado e garantia na loja original antes de comprar';
-  const state = o.condition || 'confirmar na loja original';
+  const state = o.condition || 'a confirmar na loja';
   return `<article class="card" data-offer-card><div class="card-top"><div><h3 title="${escapeAttr(o.title || 'Oferta')}">${escapeHtml(cleanTitle(o.title))}</h3><div class="meta">SKU: ${escapeHtml(skuOf(o))}</div></div>${warrantyBadge}</div><div class="badges"><span class="badge warn">⚠️ ${escapeHtml(note)}</span></div><div class="price-row"><div class="price-box"><small>Recond.</small><strong>${eur(o.refurbished_price)}</strong></div><div class="price-box"><small>Novo</small><strong>${eur(o.best_new_price)}</strong></div><div class="price-box"><small>Poupança</small><strong>${eur(o.saving_eur)} · ${o.saving_percent || 0}%</strong></div></div><div class="meta">${escapeHtml(o.store || 'PcComponentes')} · Estado: ${escapeHtml(state)}</div><div class="actions"><a class="button primary" target="_blank" rel="nofollow noopener" href="${escapeAttr(o.listing_url || '#')}">Ver artigo na PcComponentes</a><a class="button" target="_blank" rel="nofollow noopener" href="${escapeAttr(o.url_pt || '#')}">Comparar PT</a><a class="button" target="_blank" rel="nofollow noopener" href="${escapeAttr(o.url_amz || '#')}">Amazon.es</a></div></article>`;
 }
 async function offers(){
