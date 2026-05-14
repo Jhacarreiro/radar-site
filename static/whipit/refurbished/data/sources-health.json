@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-14T09:51:44Z",
+  "generated_at": "2026-05-14T10:15:57Z",
   "health": [
     {
       "id": 2,
       "source_id": "worten-recondicionados-telemoveis",
-      "checked_at": "2026-05-14T09:49:03Z",
+      "checked_at": "2026-05-14T10:15:51Z",
       "status": "ok",
       "message": "products=58"
     },
     {
       "id": 1,
       "source_id": "pccomponentes-replay",
-      "checked_at": "2026-05-14T09:49:03Z",
+      "checked_at": "2026-05-14T10:15:51Z",
       "status": "ok",
       "message": "products=28"
     }
