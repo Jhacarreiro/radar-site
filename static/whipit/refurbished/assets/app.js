@@ -13,6 +13,10 @@ function cleanTitle(s){
     /\s+Intel Core\b/i,
     /\s+AMD Ryzen\b/i,
     /\s+Smart TV\b/i,
+    /\s+\d{2,3}Hz\b/i,
+    /\s+\d+(?:\.\d+)?ms\b/i,
+    /\s+Rapid IPS\b/i,
+    /\s+Fast IPS\b/i,
     /\s+Adaptive Sync\b/i,
     /\s+AdaptiveSync\b/i,
     /\s+FreeSync\b/i,
@@ -24,7 +28,7 @@ function cleanTitle(s){
     /\s+Filtro\b/i
   ];
   for (const re of cuts){ const m = s.search(re); if(m > 24){ s = s.slice(0, m).trim(); break; } }
-  if(s.length > 64){ const cut = s.slice(0,64); s = cut.slice(0, Math.max(cut.lastIndexOf(' '), 42)).trim(); }
+  if(s.length > 52){ const cut = s.slice(0,52); s = cut.slice(0, Math.max(cut.lastIndexOf(' '), 34)).trim(); }
   return s;
 }
 function skuOf(o){return o.model || String(o.product_id || '').replace(/^pccomponentes-/, '') || 'n/d';}
