@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T16:07:21Z",
+  "generated_at": "2026-05-15T05:36:18Z",
   "demo": false,
   "sections": {
     "best_today": [
@@ -410,7 +410,7 @@
       },
       {
         "id": "pccomponentes-8b9d2a03-fcf5-4e97-85db-4e6a86a7e66f",
-        "product_id": "ean-4711474586308",
+        "product_id": "pccomponentes-refurbished-NHQXAEB002",
         "store_id": "pccomponentes",
         "listing_url": "https://www.pccomponentes.pt/acer-predator-helios-neo-16s-ai-phn16s-71-94q-intel-core-ultra-9-275hx-32gb-1tb-ssd-rtx5070-16-pt?offer=8b9d2a03-fcf5-4e97-85db-4e6a86a7e66f",
         "refurbished_price": 1726.03,
@@ -422,10 +422,10 @@
         "demo": 0,
         "active": 1,
         "first_seen_at": "2026-05-14T10:15:51Z",
-        "last_seen_at": "2026-05-14T10:15:51Z",
+        "last_seen_at": "2026-05-15T05:19:09Z",
         "identity_key": "mfg-NH.QXAEB.002",
         "title": "Acer Predator Helios NEO 16S AI PHN16S-71-94Q Intel Core Ultra 9 275HX/32GB/1TB SSD/RTX5070/16\" (PT)",
-        "category": "portateis",
+        "category": "gaming",
         "sku": "10966111",
         "raw_sku": "10966111#reac",
         "ean": "4711474586308",
@@ -439,9 +439,9 @@
         "url_new": "https://www.pccomponentes.pt/acer-predator-helios-neo-16s-ai-phn16s-71-94q-intel-core-ultra-9-275hx-32gb-1tb-ssd-rtx5070-16-pt",
         "url_new_source": "identity-pccomponentes-new-reference",
         "store": "PcComponentes",
-        "category_label": "Portáteis",
+        "category_label": "Gaming",
         "warnings": [
-          "Confirma preço, estado e garantia na loja original antes de comprar"
+          "Preço recondicionado encontrado por pesquisa exacta MPN na PcComponentes; confirma estado, garantia e disponibilidade na loja original antes de comprar"
         ],
         "reasons": [
           "Poupança absoluta forte",
