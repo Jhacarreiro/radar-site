@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-05-14T16:07:21Z",
+  "generated_at": "2026-05-15T05:36:18Z",
   "health": [
+    {
+      "id": 3,
+      "source_id": "pcdiga-recondicionados",
+      "checked_at": "2026-05-14T22:04:02Z",
+      "status": "ok",
+      "message": "products=434"
+    },
     {
       "id": 2,
       "source_id": "worten-recondicionados-telemoveis",
