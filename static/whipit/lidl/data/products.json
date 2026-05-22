@@ -1,134 +1,8 @@
 {
-  "generated_at": "2026-05-22T06:48:58Z",
+  "generated_at": "2026-05-22T07:46:26Z",
   "source": "lidl.pt official campaign and leaflet pages",
-  "product_count": 234,
+  "product_count": 165,
   "products": [
-    {
-      "id": "303384bddac407ca",
-      "brand": "CIEN",
-      "title": "CIEN Vaso de Erva Marina",
-      "raw_title": "Vaso de Erva Marina",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047399",
-      "category": "Beleza & cuidado",
-      "image": "https://imgproxy-retcat.assets.schwarz/BO8PRWO_mumNWb7OJm9fUam5BrScuIftnKunBxCpmEg/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MxQUEzRURBNjQ3NjU1NDhDMjk5MTE2Nz/lFNDEwMTc4MjlGNTNCRUVERjk5QkZGRTVERDY0OUQxQzU1QURFNjEucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "ef397ddd89030918",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Calças Deportivas",
-      "raw_title": "Calças Deportivas",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047009",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/jaOjatxJfHkeeWohWD5EhrXcbZChI5U7w7U4hZ51O7g/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Y1MTA4RjY3RjBGQTMzNkVDMkVFMzZCNz/c1RTMwMzk1Q0U0N0QzMkI1ODMwOTFGNEJFMEZEMEVGQTU2NUVEMjcucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "1b4120d32cef2e99",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Calções Desportivos",
-      "raw_title": "Calções Desportivos",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047043",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/pEbg8G6LqJL8dsZnyPVAliJEcvnTq0l8Yt9V7j-DBFw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzA4MzRFQkRFRENBRjBERTQ4RUI0RTRDNT/ExN0EyQzExOEUzRjVFQTYxRkY3QjQ1MjRGRTc4NDlEREM1QkZFRkQucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "ae204adf2e8fd053",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Meias Desportivas",
-      "raw_title": "Meias Desportivas",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047047",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/-CROBFTM6Dneyy70c7A0Y1oH9_8LyLwLKDHdFvV7nt8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E2RTA1Q0Y5OUQzMjMyMTM0QzRGRTNENT/dENTIzRDIyRTQ0N0RFNTNCQjA5OTVBNEZGN0MyMjFGQjVDM0M5OTcucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "b0c26097204a03ed",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Saia Desportiva",
-      "raw_title": "Saia Desportiva",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047045",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/nSbh7-A_6ynuMYZOeCtzFhBvYf0i8GnpMVUUq8H_5V0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcHQvMS8xNkE4OEFGNEFEQ0MyRDczQTlDOUI5RTQ/3QTlEMTgwMzA3NEM5MjFBQ0VFNTNFMzZBRjc2RTVDOEM5NDU2Q0RELnBuZw.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "276ca056a920d51c",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Skate Pennyboard",
-      "raw_title": "Skate Pennyboard",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047041",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/UuXGqWwi0YTKC0G2Vn2ugj2FlG1pAelXA3lDo-a6GVE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQxQTFEMEQ4QzIyN0E0ODEzMUJCRDIwND/IxODI0MUVEQTk4RTZDM0I3NzUyRjFFMDQ0QUZDN0M0Q0IyQTQ2QzkucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
     {
       "id": "5e29764b627a8642",
       "brand": "CRIVIT",
@@ -146,51 +20,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "28c751dd275830b9",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Top/T-shirt Desportiva",
-      "raw_title": "Top/T-shirt Desportiva",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046965",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/8LnFdkBuTg7gd_CqRhZ1bzO3tcU4Z8KzH6e3w32vZAQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzI0QUFCMTJCMjM4QkI3Q0E4OTcyOEZBRT/c2NzRDNDA0ODU3MkQ4NUIxNEI3MjM3NTY1OUQyMUMyRTRDN0JGMUUucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "12565883f67e4d17",
-      "brand": "ESMARA",
-      "title": "ESMARA Blusa de Malha",
-      "raw_title": "Blusa de Malha",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047031",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/-siH_SEPW8lTIP3bz_8Vtr-IEbtB-XDNEfbA_Pi63Wg/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk5Q0UzQjIxNDhGMDNFQzYxNzkwQzU0Qz/EzNjJBRTgyQzAzMkNCMUY2QkVFREZCOUZDMDkyRjRFNzRENTNFQTgucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "d6f83a80c926529e",
@@ -209,9 +41,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2b1c31632dd2e11b",
@@ -230,30 +62,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "839877ba0bbf7d8a",
-      "brand": "ESMARA",
-      "title": "ESMARA Calças Wide Leg",
-      "raw_title": "Calças Wide Leg",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047037",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/6v6cLt8Z1nvfF-tXkvRtoBdvRvrkubnmlfI8uT-WQQY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZCRjczMjQzNjlCRkYzQTNCQTIxMTgzNU/U1QUM3ODRCOEZEQjBGMjYwRThGQUUyOUU1ODI4RDI3NkIyRjVBNkUucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "8f8ca917f51c533a",
@@ -272,30 +83,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "f6cf17705c3449b1",
-      "brand": "ESMARA",
-      "title": "ESMARA Casaco de Malha Fina",
-      "raw_title": "Casaco de Malha Fina",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047035",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/LrCJF-KE7Kr8welcE3hfv9UzF_xHzw8zj7gAXTrHqX0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0U5MjBBRTc2MDVBRUM2MTU4Q0FDQTQwRE/VGQTA4OTg4OTRCRDhCQUI2QjMwNzdGRjQyMTM2NkNGRDZDNkI4MzMucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "5063a8af05e80560",
@@ -314,30 +104,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "993e874e94b5df8a",
-      "brand": "ESMARA",
-      "title": "ESMARA Cuecas para Senhora",
-      "raw_title": "Cuecas para Senhora",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047039",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/9q0rnnE2fe51V0m4xNdgQ3p73sNya9eTnaI4lwaFSl8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzJBQUY2RkJCQjQ3MzZGNDNDOUY0NTE2OU/M0QzA4MjYwQTg3NzI3QUM5MzFDQzIwMUFEMEM2MDU0OTg5QjY2MjAucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "9cca72eaa3e47fc2",
@@ -356,30 +125,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "79ea0065d51cd394",
-      "brand": "ESMARA",
-      "title": "ESMARA Leggings Capri",
-      "raw_title": "Leggings Capri",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047029",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/-YndSOKO7eFKsw_yj9utFwUBUgVv_A7XgF98AdBWVC4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZCQjc4NUUxNzE3MDBCMDhERjQwRkI4NT/MyRjU0MDE2NDUyRDZGRDhDNjlGNkZGQzM1OUNEQjc1NDJFNzk3NjgucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "6dbf1851ea5376d0",
@@ -398,30 +146,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "1c3885ce72025bf6",
-      "brand": "ESMARA",
-      "title": "ESMARA Macacão",
-      "raw_title": "Macacão",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047033",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/MvkKuLMcHZQhkwOmGJrRYkmC3o1s3IQVkwzi-gpVzqc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzgzOTRFNjExQUMyQjU2MjEyMTBCMkY3MU/FCNDlDMTQzM0M5QjFGRTE2Q0UzNzlFQzlDMTBGRDJDN0Q3MTRERDkucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "cd28af8b20bcd9e8",
@@ -440,30 +167,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "9cb94c6c03f2db1a",
-      "brand": "ESMARA",
-      "title": "ESMARA T-shirt",
-      "raw_title": "T-shirt",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047025",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/2xwO8hJiX1t3K3vATzVLV7H1_jPmRTjX-0_IB-kRf1g/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzM0RkRBRUU5RjU1QUM2MzM2MTk2OEQwQ0/YxMUEyQzY0MDU2MEM5Q0RDNzJFMUIyNTJDQ0YyMjRFQTNDNDRGMEMucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "dc7c9fb41f127b26",
@@ -482,30 +188,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "c9ca935c43e336e3",
-      "brand": "ESMARA",
-      "title": "ESMARA Top",
-      "raw_title": "Top",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047027",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/vOMXlUE9BM2uNzyPW4Xi3t9i3bQ0wjjPSHn-uJ4rGwA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E4RENFNjNEOTgxNjc4QjI1MDgwRjgxND/JGNTYwMTUyQjAyNTlBRjhBNDU2N0ZBRjcxQUVDMzIxQzYwNjE3QTAucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "4d93f5bbeaf1401b",
@@ -524,30 +209,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "fe5a80bfb4946de6",
-      "brand": "ESMARA",
-      "title": "ESMARA Vestido com Sutiã Integrado",
-      "raw_title": "Vestido com Sutiã Integrado",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047023",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/473t2iZWDATgMNS5g-sBXTSAwCX1S-FFy68NXUL5KNA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhBNDg4N0UzNUQzRUI5MzFEMDVGMDlDMD/ZBQUNGRTgyMUJFRkQyMjMxM0Q1OUYzMjYzRDBFMDNDNzc2RUFGRUUucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "3dc46a199d04a98f",
@@ -566,93 +230,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "d08568efe5040c6a",
-      "brand": "LIDL",
-      "title": "LIDL Bomba de Água 12 V a Bateria",
-      "raw_title": "Bomba de Água 12 V a Bateria",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": null,
-      "category": "Jardim",
-      "image": null,
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "665a0de8cf7f4fb5",
-      "brand": "LIDL",
-      "title": "LIDL Renova Papel Higiénico Super",
-      "raw_title": "Renova Papel Higiénico Super",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047315",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/DrwADvWdB4P18MsPobmTyiPAdcoJmZmP_HkoTy_b_Vk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0NDRTYwNTUwRDAwNDBEMTcyRkUxNTA3N0/I3MDJDQjI3ODlFNzIxOUZGQjMxRTM0NzJDQUI2Mzc1N0I3RUM5NUMucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "0421773e143b4958",
-      "brand": "LIDL",
-      "title": "LIDL Top Desportivo Light",
-      "raw_title": "Top Desportivo Light",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": null,
-      "category": "Desporto & lazer",
-      "image": null,
-      "availability_start": "2026-05-17",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "9cd10519b6c5b781",
-      "brand": "LIVARNO",
-      "title": "LIVARNO Escova de Ar Quente 1000 W",
-      "raw_title": "Escova de Ar Quente 1000 W",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047303",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/kBu6OVQgHh6fv_kVIbl22h1xZZgvq_7Y6Hq-_gf_a8k/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0QzQTQ3MTM1NjY1OUQwODEwMUNBRTM4Qz/c0QTVDMTQxODBEODBFMjM1MTYwMDEzQ0Y3NjZCREQzQjlDNDU0RkEucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "fb16f6f875937390",
@@ -671,51 +251,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "93f33b884b4838bb",
-      "brand": "LIVERGY",
-      "title": "LIVERGY Calças Casuais",
-      "raw_title": "Calças Casuais",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047059",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/TOwhEjUTL0l5XrDsxLObT70VbPNOlhJqCnZw8JF3YKA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQ0QjVCRTgxRTIxNzFDNDBEN0ZERTcyM0/QxMzhENTA3RENDQkYzRDkwNkM2QzZERDZCMkI5Mjc3OUJDMUZBOUYucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "83de1a32d827f929",
-      "brand": "LUPILU",
-      "title": "LUPILU Blocos de Construção Magnéticos",
-      "raw_title": "Blocos de Construção Magnéticos",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047007",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/q6AzRvTQxR-Y5TTLKf4nQxeAGyuQ38QqK3VLM_nsELg/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZCQTFCRkEzNjFFQzBBMjhEODk2M0RGQU/JDQ0VFNzlFQzNDMDVFMTNGQTA1RjhERjVFRTcwNzQ4OEE3NjVFRkIucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "1c9f3ffd4aa1102a",
@@ -734,9 +272,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "920589260bc5c778",
@@ -755,51 +293,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "224543dbc0960e89",
-      "brand": "LUPILU",
-      "title": "LUPILU Trampolim com Rede",
-      "raw_title": "Trampolim com Rede",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047472",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/-UjJsd4EF6ySEkMF7I0I94Kixpo4i6Fvmms33wHtVSc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Q1NEZEQzYxRTFGRkJGOTUzMEQzRjk5MD/U5RTJGNjgyMkI0RUQ4MDc3M0YzNkMwQ0I0QTFENDQzM0NCMUE5NUUucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "ec08d90ebeba4292",
-      "brand": "ORAL-B",
-      "title": "ORAL-B Toldo Vela",
-      "raw_title": "Toldo Vela",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047013",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/G8LZJLcNdRix3iCiOYkbF60BLw1o_OlmFa6AqWMgfHU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M3ODUwMUJBMzIwQzc5NzMxMjcwQjYzMT/lERDI5NkE5MTcwQTMwOTEzOTc1NTQzRThFNjJCQkIxNEI0QjNBQjMucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "0b9050984349489e",
@@ -818,9 +314,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2f40bb8f99635b71",
@@ -839,30 +335,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "5af88bb1ca1247c8",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Aspersor Oscilante/ Circular",
-      "raw_title": "Aspersor Oscilante/ Circular",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046973",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/OuP2eL5-RdLtCsd_0k-5vr--tdCGRPmr1ooCisLGFxQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzdGMUU0RERGMUVEOEVEQUE1RjRDOEI1Qz/g4RkE3RkUyMEM0REZDM0JDRjAzQ0MxNTNFNTJEQUZGMzE2MTZBRTcucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "c7919389449d4719",
@@ -881,9 +356,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "486e654d47e97d57",
@@ -902,9 +377,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "3da9f99c99a0b838",
@@ -923,9 +398,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "595659d656115c86",
@@ -944,9 +419,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "9a6b65ecb7c2866d",
@@ -965,9 +440,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "bfa055e1bc25c229",
@@ -986,30 +461,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "75f89aefaf67d3c7",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Ligação/ Acoplamento/ Válvula para Torneira",
-      "raw_title": "Ligação/ Acoplamento/ Válvula para Torneira",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046981",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/zaayuBTOD_ZGpoophyIq9d2H4Bp3q-2wBLQRyeBAZ00/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhERjFEMUMxNzNERUY3Q0I5QTA5OTdFQk/QxM0VGNTVFMDcxNzBGMEE3NENDRjIxNTcyRjIxNUI3MzYyNzIxMzIucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "96e80f7380df36fc",
@@ -1028,30 +482,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "1cd37e75fc2eeee7",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Ligação/ Adaptador de Mangueira",
-      "raw_title": "Ligação/ Adaptador de Mangueira",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046979",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/G0WUjAZ9bOcrYHicGsd6uaDWYxUds4ZiXgDSqrIMSbA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0VEMDRCOUIzMTBCNDZDQkMwQzUxQjcxMj/FDODk0MDQ0RUQ1OEJEMEYzN0RFM0Y4QzJEQzM1RERFNjhFNEI2MTkucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "8598f36922ca209c",
@@ -1070,30 +503,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "70f4bfbc5d6970c6",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Mangueira de Jardim",
-      "raw_title": "Mangueira de Jardim",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046969",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/so-8gPlO3dQEQz3Feviye6nLXyOLuu90KoGxG_gXaFI/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzgxQTE2OUE5QjEyMUM4NzRCRDMzMkM4Mj/kyNzA3NjZDM0M5NTBFRkU1QzEwNThCMjU1QjQ4NEM4MUVEMkYzQjIucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "f655239263dd8792",
@@ -1112,30 +524,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "84d4f8ca4e5c061c",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Mini Aparelho de Limpeza a Alta Pressão 1400 W",
-      "raw_title": "Mini Aparelho de Limpeza a Alta Pressão 1400 W",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046977",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/mOjAL9-HYjh4y3c8VNdbCAcwd071mULEkMGvlfymDjU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzUxMjQwMEY3MjAzNzcxNjdBQzUzNjRBND/lEMkU1RjJEMDJFMjE3NjU4RjlDNzExOTQ0MTk3QjM4QTA4QTFBNUQucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "54f86fe9baca124e",
@@ -1154,30 +545,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "addd5503c5d91262",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Pistola de Rega/ Pulverizador Multifunções",
-      "raw_title": "Pistola de Rega/ Pulverizador Multifunções",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046971",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/9DKoB1nizXGkIPj29Ga38IikrmTGr7UyDj6HrzeBE14/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzE5Q0U1RThFRUZDNjE0MERFMjlEQjQ2NT/ZGQjYyMUM0NUI0NENFODVGNTFGRkQzRDQ4ODdFQTdDQTU4NTQ4NTYucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "4bdc7e648b77cbb5",
@@ -1196,30 +566,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "a3f472a6f80db2ac",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Programador de Rega",
-      "raw_title": "Programador de Rega",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046975",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/vdAT4M2jBfwTXK8GbRpNQN-Lq-R_UmThe6sCRlPzy3M/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzA5NDQ3RjFEQ0UwNTY0NzFCODYwMUZDMk/JCQTIxQTJDQjM4RUQwOEM0MTdDMzAyRUJEMzU5MUM2NzFGQzc1QjIucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "306326f13b1fdc1c",
@@ -1238,30 +587,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "9eeaf96f60238a0c",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Pulverizador de Água 4 V com Bateria",
-      "raw_title": "Pulverizador de Água 4 V com Bateria",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046983",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/YA4Hg2NaRLxDGALWX4n6rL0aEr6DY8Y_NwbWzKimBz4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzUzRkRFNTVCNDIwODgzMTAwQTA3RTdDNz/NERjNFNjExNUQ0RjkwNjI5QjhGMDFCMTlDQjExNzJDMDFEOTcwMTAucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "c3c240b078b6fac0",
@@ -1280,30 +608,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "58d9c2ad0ab90f5c",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Roçadora a Gasolina",
-      "raw_title": "Roçadora a Gasolina",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046967",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/g7yOjysNLch5F_dZaaJdfhkXEpbzX7sa7mGyLPmD07M/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY4NDVBMjg4M0VFRjdFNkMwNEUyQkRENE/I3N0ZGRTlGMzlGRTdBQzYxMjNGODA2OTQ4QzYzMjJGNzdCNTQwRUYucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "42e0d606e5b5c17e",
@@ -1322,9 +629,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "4554b6720a43a351",
@@ -1343,9 +650,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "b79ca49828a55945",
@@ -1364,9 +671,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "052b4eb82273d83f",
@@ -1385,30 +692,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "e26a0b93f47f372c",
-      "brand": "PLAYTIVE",
-      "title": "PLAYTIVE Puzzle em Madeira",
-      "raw_title": "Puzzle em Madeira",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047011",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/jNcpA0IG2iamrgtMvbEvSAgdUiDvwYeqLtYrNc1FRyw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzgxOEU4NTM0RUVEQjBCNzk3NjlCMDVFNE/E4OEVFREQ5MDNDODZDMjhCMjI0OUVEM0UyNDY2NDMzOEU0QTI4ODQucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "6dfc9bf8f842a298",
@@ -1427,114 +713,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "0afa0948cfb72e65",
-      "brand": "REMINGTON",
-      "title": "REMINGTON Acessórios de Cosmética em Silicone",
-      "raw_title": "Acessórios de Cosmética em Silicone",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047017",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/stZH2dBRePLCs5d5cwWrRp0_L12lBEkFvhcvlQEVl_0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMyQzJCN0Q2RkFCMkM1NjU3NjRBNzlDNU/ZDRjFBMjY1NkExQUYzMkU2MTZCMUYxRjk4NkJEOUZDMDgxRkI1QTgucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "928413b4b887e8f1",
-      "brand": "REMINGTON",
-      "title": "REMINGTON Secador 2200 W",
-      "raw_title": "Secador 2200 W",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047019",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/6BPYO5YhQT5R0O3OtiU2lxmIE1jt6ekQS7O9eZ5Pg4Y/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY3ODlFMjExRDVCMjBEMjI4OUU4MjdFMz/BEMTdBOUMzQTJDRDNBNEE4MUNCNURBQzA2NzZGRjVBMEMwRjAyREUucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "456ccd79b2861f0b",
-      "brand": "RENOVA",
-      "title": "RENOVA Livarno Velinhas XXL",
-      "raw_title": "Livarno Velinhas XXL",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047307",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/-yUcT4TISHJ_rR-VU-TJRrZxp12_SD2d2XSc2c079B0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcHQvMS9FM0IzQzk0REM1NkE4Mzc4RkFBNUE0MjE/3RTAzNUJEMUEwRjM0Q0QyQzNDOEU1QzU0RjBCMDBBQjE2NjE0OERDLnBuZw.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "4839e5dc148af9a5",
-      "brand": "W5",
-      "title": "W5 Xau Sabão Natural 110 Doses + Quanto 95 Doses",
-      "raw_title": "Xau Sabão Natural 110 Doses + Quanto 95 Doses",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047385",
-      "category": "Cozinha & casa",
-      "image": "https://imgproxy-retcat.assets.schwarz/xaiRFScTtS_BChnNg7MpkvR4dDx9hyriM1ZtzappNL8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Q2Q0M2MUY1NTFEQzY1QjZGRkJCNzc2Nk/MyRDhBMDk4RDAyMTk2QTk0RDlBQTkwNDg5MEYzNDg2QTJBQTg2NkQucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Cozinha e Cuidado do Lar",
-      "source_url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "034678157fb63efb",
-      "brand": "WENKO",
-      "title": "WENKO Escova de Dentes Elétrica Oral-B Pro Vitality",
-      "raw_title": "Escova de Dentes Elétrica Oral-B Pro Vitality",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047015",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/amclw09hCqmlA3etvH5Xyoo1uENGsdxeSq8gH_xLuQQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0NFMzQ0ODJFMkM3RkRFRTM0MjgxOEQ3Rk/I1RkRDMkVBRUM0NTE3M0UxOTUwOEFDNjlCMkEwMDE2QUUyODMxNTIucG5n.png",
-      "availability_start": "2026-05-17",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "c09e88aa4c25704c",
@@ -1553,9 +734,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "ff033258a38ddae2",
@@ -1574,9 +755,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "5ee4ee3e37742449",
@@ -1595,30 +776,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "d565eba6c8ce25cb",
-      "brand": "ESMARA MEN",
-      "title": "ESMARA MEN Polo de Manga Curta",
-      "raw_title": "Polo de Manga Curta",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047061",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/bHQ4oZMKzhEXTOBN2l2cFjZ6qPSln-g446yfSZTK5SI/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzNBNDlDQ0ZCNTVEOEJGNjg1Q0YxMUQwNj/M1RkFGNzY1MjYzQjQyNjAzRjM0NzA0NTgwODM2QUZFQzk1QUE3RDIucG5n.png",
-      "availability_start": "2026-05-21",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "d2e830399795db5d",
@@ -1637,9 +797,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "f81b98b313a10fc5",
@@ -1658,72 +818,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "e13516b71037ba20",
-      "brand": "GRILLMEISTER",
-      "title": "GRILLMEISTER W5 Lixívia",
-      "raw_title": "W5 Lixívia",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047522",
-      "category": "Cozinha & casa",
-      "image": "https://imgproxy-retcat.assets.schwarz/jVbuf3ToY0S8FUFeNp7dWZt37vj3vWBoVOAqLivngao/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzBBRjI5ODJFNzhBQTY0MjUzMzkyQkNGQz/QwOEZCMEFBQTYwOEM3NURENEY2RkQ2QzEzOEM2Qjk5MzZCNDdGMjkucG5n.png",
-      "availability_start": "2026-05-21",
-      "source_title": "Cozinha e Cuidado do Lar",
-      "source_url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "c4c8dec81192c5ad",
-      "brand": "LIDL",
-      "title": "LIDL T-shirt",
-      "raw_title": "T-shirt",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": null,
-      "category": "Acessórios",
-      "image": null,
-      "availability_start": "2026-05-21",
-      "source_title": "Moda e Acessórios",
-      "source_url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "1c4be7c08619a5ee",
-      "brand": "LIVARNO",
-      "title": "LIVARNO Máscara de Cabelo Argão",
-      "raw_title": "Máscara de Cabelo Argão",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047408",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/IGQ1pXas2tTTnur56n5ghV6JWyuJoOOCXZ98gh_TGug/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZCMzJCNEZENzhEMkRFRUU5ODk0QkRBQz/kyMDAyRjc5MzBCNTFFMUFDRjUzOEQxRDRENzA5ODgwQ0M1NDg4NUUucG5n.png",
-      "availability_start": "2026-05-21",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "c05e79aca0fb58f7",
@@ -1742,9 +839,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "ce5f1fa10762b93d",
@@ -1763,9 +860,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "3bc43e9d0a721d8a",
@@ -1784,9 +881,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "86bc98f4ec4210f2",
@@ -1805,9 +902,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "36a53339f1987f28",
@@ -1826,9 +923,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "afc9b63827878a55",
@@ -1847,9 +944,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "a1bfd4d2340b0b15",
@@ -1868,9 +965,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "0f81ad34073f0a64",
@@ -1889,9 +986,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2caf207e51fa145e",
@@ -1910,9 +1007,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "bb717074068a3c69",
@@ -1931,9 +1028,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "738c9d99c49fe184",
@@ -1952,9 +1049,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "902cb878c4b8b581",
@@ -1973,9 +1070,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "a89219494a462201",
@@ -1994,9 +1091,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "8913880cd23c0d95",
@@ -2015,9 +1112,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "f133edcaecc21903",
@@ -2036,9 +1133,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "c3d6c1ae0294e253",
@@ -2057,30 +1154,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "1b6d5618b7046b0b",
-      "brand": "W5",
-      "title": "W5 Pastilhas All in One Limão",
-      "raw_title": "W5 Pastilhas All in One Limão",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047387",
-      "category": "Cozinha & casa",
-      "image": "https://imgproxy-retcat.assets.schwarz/40Ab_ib0U-Xfnm5uq-ffWLudcnW0t53dzgrgAR_ukH4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcHQvMS9GMzhBRUE3Mzk5QTk0QUQyOEY4NjY4NDU/wNEQxNzgyMEQwMjNENkIzM0Q1M0ZDQTcyRjc3QUY5MzA2MzU0QzJCLnBuZw.png",
-      "availability_start": "2026-05-21",
-      "source_title": "Cozinha e Cuidado do Lar",
-      "source_url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "e75e0553353c3a07",
@@ -2099,9 +1175,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "dd02573210f5637c",
@@ -2120,9 +1196,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "9aba834f01370768",
@@ -2141,9 +1217,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2f9777c1f34e7aed",
@@ -2162,9 +1238,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "aebae0be3cce8f16",
@@ -2183,9 +1259,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "a67cb75a4c92d1d8",
@@ -2204,9 +1280,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "99f33ea52c5cefed",
@@ -2225,9 +1301,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "cbc32e6e990cca2d",
@@ -2246,9 +1322,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "d371c4ff66b23a3b",
@@ -2267,9 +1343,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2d6fb4ee1d9ad121",
@@ -2288,9 +1364,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "4c9abe67d2dfe32e",
@@ -2309,9 +1385,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "958d9b79f1b590a3",
@@ -2330,9 +1406,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "3eb45aa075982d1b",
@@ -2351,9 +1427,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "c403243d97a725da",
@@ -2372,9 +1448,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "99cc5ff6e64cfc6b",
@@ -2393,30 +1469,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "dcc7c8c0ded747c3",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Chinelos de Banho para Criança",
-      "raw_title": "Chinelos de Banho para Criança",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046963",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/rD6_hWtc3C8ukCyWhbBySHkzekr_K5hhaeh4teQThK0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzBDN0Y4N0VBREE2REY4QjgxMzQxRDZFQj/kxQzM2MzExNzIxMzA4NURCRDk4M0ZFMDNDNjg1QUY5RDVDMkM0MkUucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "85a1dc36130d3cdf",
@@ -2435,9 +1490,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "8cb9b07449d08bed",
@@ -2456,30 +1511,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "24c48f00c7248ac7",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Chinelos de Banho para Senhora/ Homem",
-      "raw_title": "Chinelos de Banho para Senhora/ Homem",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046539",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/4ramt852Jcq_ddEJ7yM3MMbP_8jaPPmKYo-uDB9Fagg/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzI5QzM3REY4RkJFNjE3NDFDMkI2ODRDN0/JGMDFERDUzMDQxODQyMjE0NDBCMTEwQzQyQjQ3RTI0NzBDOUFBQTEucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "f0e2b6a1a4a4667b",
@@ -2498,9 +1532,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "9cff98a3d687de3e",
@@ -2519,9 +1553,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "c3dd8d4a3c53c0ae",
@@ -2540,9 +1574,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "7f959275ce380cbe",
@@ -2561,9 +1595,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "0b0ac1aa5ecf6530",
@@ -2582,9 +1616,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "84e3f26b26dd622d",
@@ -2603,9 +1637,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "8c6980d3ca3b31f6",
@@ -2624,9 +1658,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "89bd2717e2758d62",
@@ -2645,9 +1679,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "3f9d62924954d999",
@@ -2666,9 +1700,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "8271d7c7fe4aaafe",
@@ -2687,9 +1721,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "6ba5fb98ebeca845",
@@ -2708,9 +1742,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "34bd6c5b7b082fbd",
@@ -2729,9 +1763,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "b2e328e3e5475748",
@@ -2750,30 +1784,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "23b26f4668b60e86",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Rosca de Praia para Guarda-sol",
-      "raw_title": "Rosca de Praia para Guarda-sol",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046521",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/cgX6oJPhXBB9m4tHhxJ7FoENkW7DxWzLxbxmcwiB5ew/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ZFRDk4MjkwQTNDODI3N0Q3OTkwODZFRT/Y1ODdGQTg3OTU1NzM3QjkzRDA3NzhCQTI0OEM0M0RGNDE4NDJGNDMucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "5cd16ada1dd012c0",
@@ -2792,9 +1805,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "3080e5a456236970",
@@ -2813,30 +1826,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "72ca0bd24aca3f77",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Toalha de Praia",
-      "raw_title": "Toalha de Praia",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046517",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/icwtkVxH78uToomCzzRnfR3wPN_MloDAXOkzsHQlGJ4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0I1Q0ExQTY1NzU1OTIzRTE0QTM4OTQyMz/U4M0ZGMjI0OEJGNTg4NDIxREVDRDMzMUQ2RTFENTRENzA3M0M0RjkucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "9b38050ffb4cc273",
@@ -2855,30 +1847,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "f49282b365db8630",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Toalha em Microfibra",
-      "raw_title": "Toalha em Microfibra",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046519",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/PBywQYokyWYcIkdGrlGQHStagMciLgLtpYTbcI8h3A4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzJEOUVCQThEREQyN0YyRjNBMDUzMTlBNz/gyNzM1NTRGNjFCMDM2NEI1ODU3MzYyQUEwOUE2RTBDMTdGNUYwREEucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Desporto e Tempos Livres",
-      "source_url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "5769463a2ed82765",
@@ -2897,9 +1868,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "1cccec0f7a877520",
@@ -2918,9 +1889,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "0baccc388496b551",
@@ -2939,30 +1910,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "3239b36698afe6bc",
-      "brand": "DISNEY",
-      "title": "DISNEY Mala com Brinquedos de Praia",
-      "raw_title": "Mala com Brinquedos de Praia",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047480",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/koceYBPRth-J_FbiDQZyjhmTlG0WcNSaKV1csBDxHqo/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzI1M0I0MTA4N0UyQUFDRjJBQjhGQzI0N0/FDMjU1MTlFRkIzMjFFREQwRTg4MThGNDE2NDA4NUEzMERBRDFFOTEucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "e53f1ec5870ac5e7",
@@ -2981,9 +1931,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "36e7a539efb32e13",
@@ -3002,30 +1952,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "ca3c286754465556",
-      "brand": "HAPPY PEOPLE",
-      "title": "HAPPY PEOPLE Máquina de Bolhas de Sabão",
-      "raw_title": "Máquina de Bolhas de Sabão",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047474",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/wblQXGZCfvOiJwWf68NFmXTI4G6Nt8SmZcHg2dlAz7A/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MwRkYyNjAyMzc4QzQyNTlDN0I4NkQxMD/dFNzI4NkFBQTQ2RTgwOTNEMzg5MzdEQzZGRURDNDYwQUY1RDJEQzMucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "99c29f9bd0119d52",
@@ -3044,9 +1973,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "7be3504f0f38e088",
@@ -3065,30 +1994,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "999d0aac903e638a",
-      "brand": "INTEX",
-      "title": "INTEX Pistola de Água",
-      "raw_title": "Pistola de Água",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047476",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/ZeDAOzVtE8ByLkTkUbvvALyq47r3EdUWNW2Y0opFyhM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzUwNjRDRjdEQ0VFMUM3NDBFMERBOUQ2M0/MxNzZENURDMjIxODg3ODBCNTlBMDFBRTlFODk4MDgwODREQzQyOTIucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "6c347e6c641bb4ec",
@@ -3107,9 +2015,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "40a0bef1fc659181",
@@ -3128,9 +2036,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "5d0dea31950bf629",
@@ -3149,9 +2057,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "aff690535b59fb6f",
@@ -3170,9 +2078,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "9c65c1e0342d9622",
@@ -3191,9 +2099,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "629f1389edb5f419",
@@ -3212,30 +2120,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "54b8029fc49204ed",
-      "brand": "LIDL",
-      "title": "LIDL Brinquedos de Verão",
-      "raw_title": "Brinquedos de Verão",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047482",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/kVZb8B-zbbcyc7sbat4mQSoYj-bcsp39L_Np6A2KkM4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RGQjI4N0M5RTIzNTMxNkE5NUQ5NTlBOU/FCOEEwQUEyRDQyMDA4ODZEMEIxNjgxQ0NERTUxRjkzQTc4QTgyQjkucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "08b6c1e648fa9bc2",
@@ -3254,9 +2141,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "93bf658d85c73e3e",
@@ -3275,30 +2162,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "a80537c5fcd770ce",
-      "brand": "LIDL",
-      "title": "LIDL Conjunto para Brincar na Areia",
-      "raw_title": "Conjunto para Brincar na Areia",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046537",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/6L5hk9brg4-rzIceXDlKPTMs7CIvcL4Au1on0CqMvgk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY1NzJCOTU1QjUzREE0Qjg4MDhBOTlGRT/lCQzFDRjQ2NkEzOTA3RkE4OThCQzI5MDY5QjhBNkUwRTg0NDE2MDkucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2918b0472af9b43e",
@@ -3317,9 +2183,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "798cc9b879c9342b",
@@ -3338,30 +2204,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "0b0d8cd857b1fb82",
-      "brand": "LIDL",
-      "title": "LIDL Molho de Rosas",
-      "raw_title": "Molho de Rosas",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046069",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/H084tqvtbaAQI2GEWkR14Gm7maHurdiUArl6DLe1odw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQ1MTE2MDU0MTM3QzFCNEI2N0QzMkQ3MT/cyNzZCMzhGNEVDMTA4QzhCMUZBOEM5OTRCNUMwM0IyRTQyMUZBN0MucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "b2e6f5d2c91ed75e",
@@ -3380,30 +2225,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "7c37e916c62f4957",
-      "brand": "LIDL",
-      "title": "LIDL Poncho para Criança",
-      "raw_title": "Poncho para Criança",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": null,
-      "category": "Outros achados",
-      "image": null,
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "a68c3df84f97aa01",
@@ -3422,9 +2246,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2fd0c43d427d9e06",
@@ -3443,30 +2267,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "871f8aa31a148a04",
-      "brand": "LIDL",
-      "title": "LIDL Toalha Praia 180 cm",
-      "raw_title": "Toalha Praia 180 cm",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": null,
-      "category": "Desporto & lazer",
-      "image": null,
-      "availability_start": "2026-05-24",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "e5bc74f515cfa48a",
@@ -3485,9 +2288,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "32c1dbd1645a0f9e",
@@ -3506,9 +2309,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "bb4a236fd1f646db",
@@ -3527,30 +2330,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "8b0adb383d5b8cdb",
-      "brand": "LIVARNO",
-      "title": "LIVARNO Papel Higiénico Olé 2 Folhas",
-      "raw_title": "Papel Higiénico Olé 2 Folhas",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047003",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/gEn4c83Htup4ccGlXXfcrkMTpDWEYZoWb4duuWG1bsQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc5MDQ4NkRGMkY3Mjg0N0YyQ0QyMUY2Nk/JFQUYwMUFFOERBOEFBQjk4RDdBNkQ2RkQwNUM1OEVCMTEwNDNCRjAucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "f2828526dde42393",
@@ -3569,9 +2351,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "e041e8c13ce50e51",
@@ -3590,30 +2372,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "d3d95ac0aa3731a7",
-      "brand": "LUPILU",
-      "title": "LUPILU Bola/ Braçadeiras/ Bóia Insuflável",
-      "raw_title": "Bola/ Braçadeiras/ Bóia Insuflável",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047484",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/yGYAKYx4oam4mGTJE5iPzptI9GMDccJszwh7ze2B-SM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzA5RThFMEUzNkUxRDZBQjMwODZBRkI2N0/ZGQUNBRkMxOUU2MzFBMDQyN0UxNjRERTMwMkM0MUI5QTM5RUEwOTkucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "48960ef14f15771a",
@@ -3632,9 +2393,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "5d82fbfc847bd94e",
@@ -3653,9 +2414,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "f00ddaa84d83ff52",
@@ -3674,9 +2435,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "adf5580fddb7c353",
@@ -3695,9 +2456,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "5f350033d063905c",
@@ -3716,9 +2477,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "8a8d94c6727ebc61",
@@ -3737,9 +2498,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "e48e45e132412785",
@@ -3758,9 +2519,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "212000d577a5e9f6",
@@ -3779,9 +2540,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "c772f3f9fa4a225d",
@@ -3800,9 +2561,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "94e75f2eba5be08a",
@@ -3821,30 +2582,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "39519b3861343f84",
-      "brand": "LUPILU",
-      "title": "LUPILU Mochila/ Bolsa de Cintura",
-      "raw_title": "Mochila/ Bolsa de Cintura",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047005",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/oDPIB8lPQyA1Yi3CDJ6yrSJfC6b1bm-jeNxXeAgFZTk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Y5OTM1OTVBODFDRjZDNTlBNzgzN0RDRj/A2MkE5MEFGMTA4QUI0NERDM0ZEOTUxNDQ2RTRENDk3Q0VERkQ5RDMucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "5861994a263000c1",
@@ -3863,30 +2603,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "48aff6e4508fb15b",
-      "brand": "LUPILU",
-      "title": "LUPILU Piscina Insuflável Dino",
-      "raw_title": "Piscina Insuflável Dino",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047478",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/x7UVshUYx2NjHqbHFayJWI7xtJBDOu0UiUJCxxV2bpE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc5MDk4NEZDMERCMUVBQUQzNUMwNzRCNU/JEQzIzQzA2MkVCM0MwQzBFNEY1MEFBRTQ0RUU0NjhCRDc1QkFFRjAucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "a6ff199448093400",
@@ -3905,9 +2624,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2cf80d070c78e01c",
@@ -3926,9 +2645,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "40bc4901469e35f1",
@@ -3947,9 +2666,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "04b4bd2a13045abd",
@@ -3968,9 +2687,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "6278e08205384f47",
@@ -3989,9 +2708,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "9658dbe98eba0b6a",
@@ -4010,9 +2729,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "e29aa53814f427a2",
@@ -4031,30 +2750,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "7044504569036818",
-      "brand": "PARKSIDE",
-      "title": "PARKSIDE Argolas",
-      "raw_title": "Argolas",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10046961",
-      "category": "Jardim",
-      "image": "https://imgproxy-retcat.assets.schwarz/gpyOSw2vDNc2uwr7Zg0XuGZLgRN0LbswIsDddR1iJTw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0FEQTBDNjEyNTc0NERCOUFFMERDRUMwRD/RFQTEzNTE3QzE0MjQ0NkMzNzZENDI1NkUxNzFDRDY3ODY0NERFQzMucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Ferramentas e Jardim",
-      "source_url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "1e9c38c8e51aa08d",
@@ -4073,9 +2771,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "d7a70122967092bb",
@@ -4094,9 +2792,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "f9ace5dbbef725c5",
@@ -4115,9 +2813,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "d6186751bdcfb1bc",
@@ -4136,9 +2834,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "70d52df03b701254",
@@ -4157,9 +2855,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "360a07f50d455686",
@@ -4178,9 +2876,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "73958c2e5f29996a",
@@ -4199,51 +2897,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "3a25e6d653d7e08d",
-      "brand": "W5",
-      "title": "W5 Lixívia com Detergente Perfumada",
-      "raw_title": "Lixívia com Detergente Perfumada",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10048098",
-      "category": "Cozinha & casa",
-      "image": "https://imgproxy-retcat.assets.schwarz/BEORzxpJltZEh5_f5VXlFGt59eObkoMrruR3cabVr9w/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0U1NDIwMjhDQjI4MjU2QTQ2MjJFOTE0Nk/M0Mzc0MTkzNTU0RDEwRjAyQTdCRjQxQ0ZEMkM4RUE3QjZFNEQwQTgucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Cozinha e Cuidado do Lar",
-      "source_url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "3632f2b122391f29",
-      "brand": "W5",
-      "title": "W5 Pastilha para Máquina da Loiça Platinum Plus",
-      "raw_title": "Pastilha para Máquina da Loiça Platinum Plus",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10048010",
-      "category": "Cozinha & casa",
-      "image": "https://imgproxy-retcat.assets.schwarz/enBPmxz-_Aaz_ecfHWKSLcaavTPkxdzLhypCe-jCtMw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ZBNTE1RDg3OTZEQTA0MUI2RDhBREJBNk/Y5RDVEQzIwRjk2RUJBOUM3RUUyQjk5RTlFQTBGRUVFMTRCRUExMTMucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Cozinha e Cuidado do Lar",
-      "source_url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "35f57ef3f9ddbaad",
@@ -4262,51 +2918,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "58a3b113dd603ac2",
-      "brand": "LIDL",
-      "title": "LIDL Janela para Proteção contra Insetos",
-      "raw_title": "Janela para Proteção contra Insetos",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047436",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/ys9PrceASgqf9X7pVZZVse-mf8rxoV_reS2DN_pfEvc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcHQvMS8zNkNBQUM5MjA1MzMwRTBENzg3OEZFODZ/GNDU5MjcwOUUwNEFGNzFBMDY4MDVCQTRFMkFCMDBFMDJEQjVEMzIzLnBuZw.png",
-      "availability_start": "2026-05-28",
-      "source_title": "Casa e Decoração",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "3862a643a229fcb5",
-      "brand": "LIDL",
-      "title": "LIDL Lava Loiça Concentrado",
-      "raw_title": "Lava Loiça Concentrado",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": null,
-      "category": "Cozinha & casa",
-      "image": null,
-      "availability_start": "2026-05-28",
-      "source_title": "Cozinha e Cuidado do Lar",
-      "source_url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "6fb05d918579dc4e",
@@ -4325,9 +2939,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "3704fcef6773842b",
@@ -4346,9 +2960,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "4dcc65dce5f698c3",
@@ -4367,9 +2981,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "12e8a2aae64738ba",
@@ -4388,9 +3002,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "61537de271819b04",
@@ -4409,9 +3023,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2a99a7835471c15a",
@@ -4430,9 +3044,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "1859c6099314f261",
@@ -4451,9 +3065,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "82a819253b9d3d1a",
@@ -4472,9 +3086,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "40a1f23a2da567f5",
@@ -4493,9 +3107,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "683d1898b7f46544",
@@ -4514,9 +3128,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "4bbe243c8b6180d0",
@@ -4535,9 +3149,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "de24a83249237b5b",
@@ -4556,9 +3170,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "bf60e8a10ecd1f5e",
@@ -4577,9 +3191,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "82ac3a5f8e52ab79",
@@ -4598,9 +3212,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "f9adfcb18817115a",
@@ -4619,9 +3233,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "4b5f235bb4489ca7",
@@ -4640,9 +3254,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "45b5146c4d49b9dc",
@@ -4661,9 +3275,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "2662254700a9a6a9",
@@ -4682,9 +3296,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "74000eff10f21b2f",
@@ -4703,9 +3317,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "363d207c5fc3096e",
@@ -4724,9 +3338,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "ae693f4f3722100a",
@@ -4745,9 +3359,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "056a95ee7d54e82d",
@@ -4766,9 +3380,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "91ba454cb8290e08",
@@ -4787,9 +3401,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "d276ca6223605cec",
@@ -4808,9 +3422,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "f231812e6ffde5e7",
@@ -4829,9 +3443,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     },
     {
       "id": "9ac3a441bee56f7a",
@@ -4850,72 +3464,9 @@
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.92,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "33bbfe6313c99ea2",
-      "brand": "W5",
-      "title": "W5 Lava Tudo Amoniacal",
-      "raw_title": "Lava Tudo Amoniacal",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10048100",
-      "category": "Cozinha & casa",
-      "image": "https://imgproxy-retcat.assets.schwarz/_sB-Tr1CUjdIU64_Ac9MAGv3sBfFJXwVnOSiouimVBw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc2RjQ4MkZDQUY3RjA3OEZFRjRBNzY3Nj/cxOTU3NzgzMkY5MUYyRDNERjAwQTA5ODgxMUY5RDkwMTlFN0RBRDcucG5n.png",
-      "availability_start": "2026-05-28",
-      "source_title": "Cozinha e Cuidado do Lar",
-      "source_url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "d05c3f9c1c0e3571",
-      "brand": "CHAR-BROIL",
-      "title": "CHAR-BROIL Grelhador com Rodas em Cerâmica",
-      "raw_title": "Grelhador com Rodas em Cerâmica",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10047524",
-      "category": "Cozinha & casa",
-      "image": "https://imgproxy-retcat.assets.schwarz/UqqCWlEyDnw1VnRQvkYxEvHOQVGJSC9XtFAS34PyvHQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzczRjBBNzQwRUU5MTM1REJCREU5QzU4ME/I4RTJDODJFRjg4RENGQjIwNDE5M0NCQ0Q3RkEzRUJCRjhDREQ1MUQucG5n.png",
-      "availability_start": "2026-05-31",
-      "source_title": "Cozinha e Cuidado do Lar",
-      "source_url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
-    },
-    {
-      "id": "0f3489f92019f2e9",
-      "brand": "FAIRY",
-      "title": "FAIRY Grelhador a Gás",
-      "raw_title": "Grelhador a Gás",
-      "price": null,
-      "currency": null,
-      "unit": "Cada emb.",
-      "product_code": "10048004",
-      "category": "Cozinha & casa",
-      "image": "https://imgproxy-retcat.assets.schwarz/ON6Py5V969A3sYXbjo6d53zFgKz9Qv2njkdTh8TrYIc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcHQvMS84NjhENzJCNDlCOUE3REQ4REVBMTVGRkY/xQzRFNUNBREQwOEMwOUE1M0YxODY0ODlDMEI2NTU0QjI4ODk2MzQyLnBuZw.png",
-      "availability_start": "2026-05-31",
-      "source_title": "Cozinha e Cuidado do Lar",
-      "source_url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.72,
-      "first_seen": "2026-05-22T06:48:58Z",
-      "last_seen": "2026-05-22T06:48:58Z"
+      "confidence": 0.95,
+      "first_seen": "2026-05-22T07:46:26Z",
+      "last_seen": "2026-05-22T07:46:26Z"
     }
   ],
   "campaigns": [
@@ -4943,43 +3494,43 @@
     {
       "url": "https://www.lidl.pt/c/cozinha-e-cuidado-do-lar/s10068166",
       "title": "Cozinha e Cuidado do Lar",
-      "availability_start": "2026-05-17",
-      "product_count": 9,
+      "availability_start": null,
+      "product_count": 0,
       "discovered_from": "Cozinha e Cuidado do Lar"
     },
     {
       "url": "https://www.lidl.pt/c/ferramentas-e-jardim/s10068222",
       "title": "Ferramentas e Jardim",
-      "availability_start": "2026-05-17",
-      "product_count": 12,
+      "availability_start": null,
+      "product_count": 0,
       "discovered_from": "Ferramentas e Jardim"
     },
     {
       "url": "https://www.lidl.pt/c/desporto-e-tempos-livres/s10068226",
       "title": "Desporto e Tempos Livres",
-      "availability_start": "2026-05-17",
-      "product_count": 12,
+      "availability_start": null,
+      "product_count": 0,
       "discovered_from": "Desporto e Tempos Livres"
     },
     {
       "url": "https://www.lidl.pt/c/casa-e-decoracao/s10068371",
       "title": "Casa e Decoração",
-      "availability_start": "2026-05-17",
-      "product_count": 12,
+      "availability_start": null,
+      "product_count": 0,
       "discovered_from": "Casa e Decoração"
     },
     {
       "url": "https://www.lidl.pt/c/moda-e-acessorios/s10068373",
       "title": "Moda e Acessórios",
-      "availability_start": "2026-05-17",
-      "product_count": 12,
+      "availability_start": null,
+      "product_count": 0,
       "discovered_from": "Moda e Acessórios"
     },
     {
       "url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos/s10068225",
       "title": "Bebé, Criança e Brinquedos",
-      "availability_start": "2026-05-17",
-      "product_count": 12,
+      "availability_start": null,
+      "product_count": 0,
       "discovered_from": "Bebé, Criança e Brinquedos"
     },
     {
