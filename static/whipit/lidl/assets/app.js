@@ -1,7 +1,33 @@
-const q=document.getElementById('q'),brand=document.getElementById('brand'),cat=document.getElementById('cat'),statusEl=document.getElementById('status'),count=document.getElementById('count');
+const q=document.getElementById('q'),brand=document.getElementById('brand'),cat=document.getElementById('cat'),sortEl=document.getElementById('sort'),count=document.getElementById('count'),grid=document.getElementById('grid');
 const cards=[...document.querySelectorAll('[data-card]')];
-function apply(){const term=(q.value||'').trim().toLowerCase(),b=brand.value,c=cat.value,s=statusEl.value;let visible=0;for(const card of cards){const ok=(!term||card.dataset.search.includes(term))&&(!b||card.dataset.brand===b)&&(!c||card.dataset.category===c)&&(!s||card.dataset.status===s);card.hidden=!ok;if(ok)visible++}count.textContent=visible}
-[q,brand,cat,statusEl].forEach(el=>el.addEventListener('input',apply));
+const ageRankFresh={fresh:0,future:1,aging:2,old:3,unknown:4};
+const ageRankUpcoming={future:0,fresh:1,aging:2,old:3,unknown:4};
+const ageRankLast={old:0,aging:1,fresh:2,future:3,unknown:4};
+const num=v=>Number(v||0);
+const dateNum=c=>Number(String(c.dataset.date||'').replaceAll('-',''))||0;
+function byText(a,b){return (a.dataset.title||'').localeCompare(b.dataset.title||'', 'pt')}
+function sortCards(rows){
+  const mode=sortEl.value||'fresh';
+  rows.sort((a,b)=>{
+    if(mode==='upcoming') return (ageRankUpcoming[a.dataset.age]??9)-(ageRankUpcoming[b.dataset.age]??9) || dateNum(a)-dateNum(b) || byText(a,b);
+    if(mode==='lastcall') return (ageRankLast[a.dataset.age]??9)-(ageRankLast[b.dataset.age]??9) || dateNum(a)-dateNum(b) || byText(a,b);
+    if(mode==='price') return num(a.dataset.price)-num(b.dataset.price) || byText(a,b);
+    if(mode==='az') return byText(a,b);
+    return (ageRankFresh[a.dataset.age]??9)-(ageRankFresh[b.dataset.age]??9) || dateNum(b)-dateNum(a) || byText(a,b);
+  });
+  return rows;
+}
+function apply(){
+  const term=(q.value||'').trim().toLowerCase(),b=brand.value,c=cat.value;let visible=[];
+  for(const card of cards){
+    const ok=(!term||card.dataset.search.includes(term))&&(!b||card.dataset.brand===b)&&(!c||card.dataset.category===c);
+    card.hidden=!ok;if(ok)visible.push(card);
+  }
+  sortCards(visible).forEach(card=>grid.appendChild(card));
+  count.textContent=visible.length;
+}
+[q,brand,cat,sortEl].forEach(el=>el.addEventListener('input',apply));
+apply();
 const base='/whipit/lidl';
 const modal=document.getElementById('shops-modal'), list=document.getElementById('shops-list'), statusBox=document.getElementById('shops-status'), storeSearch=document.getElementById('store-search'), useLocation=document.getElementById('use-location');
 let storesCache=null,userPos=null;
