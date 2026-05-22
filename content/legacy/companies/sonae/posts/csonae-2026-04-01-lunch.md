@@ -1,5 +1,7 @@
 ---
 aliases:
+  - /legacy/companies/sonae/sonae-2026-04-01-lunch/
+  - /companies/sonae/sonae-2026-04-01-lunch/
   - /companies/sonae/posts/csonae-2026-04-01-lunch/
 edition_id: "sonae-2026-04-01-lunch"
 channel: "grupo_sonae"
