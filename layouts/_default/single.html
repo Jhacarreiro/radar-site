@@ -15,7 +15,7 @@
   {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
   <div class="source-group">
     <span class="source-label"><strong>Fonte principal</strong></span>
-    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }}{{ with (or .title .publisher) }} — {{ . }}{{ end }}</a>
   </div>
   {{ end }}
   {{ with $item.verification_sources }}
@@ -23,7 +23,7 @@
     <span class="source-label"><strong>Verificação</strong></span>
     {{ range . }}
     {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
-    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }}{{ with (or .title .publisher) }} — {{ . }}{{ end }}</a>
     {{ end }}
   </div>
   {{ end }}
@@ -32,11 +32,11 @@
     <span class="source-label"><strong>Contexto</strong></span>
     {{ range $item.context_sources }}
     {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
-    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }}{{ with (or .title .publisher) }} — {{ . }}{{ end }}</a>
     {{ end }}
     {{ range $item.related_sources }}
     {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
-    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }}{{ with (or .title .publisher) }} — {{ . }}{{ end }}</a>
     {{ end }}
   </div>
   {{ end }}
@@ -45,7 +45,7 @@
     <span class="source-label"><strong>Agência</strong></span>
     {{ range . }}
     {{ $domain := index (split (index (split .url "//") 1) "/") 0 }}
-    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }} — {{ .title }}</a>
+    <a href="{{ .url }}" target="_blank" rel="noopener"><img class="source-favicon" src="https://www.google.com/s2/favicons?sz=16&domain={{ $domain }}" alt=""> {{ $domain }}{{ with (or .title .publisher) }} — {{ . }}{{ end }}</a>
     {{ end }}
   </div>
   {{ end }}
