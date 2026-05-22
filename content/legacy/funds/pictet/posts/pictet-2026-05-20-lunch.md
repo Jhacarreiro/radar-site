@@ -3,7 +3,7 @@ edition_id: "pictet-2026-05-20-lunch"
 channel: "pictet"
 date: "2026-05-20"
 window: "almoço"
-title: "Pictet lunch - M&A and approvals"
+title: "GHO and CBC merged the specialist capital stack"
 items:
   - title: "GHO and CBC merged the specialist capital stack"
     primary_source:

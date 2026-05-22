@@ -3,7 +3,7 @@ edition_id: "pictet-2026-05-15-lunch"
 channel: "pictet"
 date: "2026-05-15"
 window: "lunch"
-title: "Radar | Pictet - 2026-05-15 Lunch"
+title: "Biogen closed the Apellis trade"
 items:
   - title: "Biogen closed the Apellis trade"
     primary_source:

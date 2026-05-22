@@ -2,7 +2,7 @@
 edition_id: "lifescience-2026-05-19-am"
 channel: "lifescience"
 date: "2026-05-19"
-title: "Life Sciences Radar - Morning Edition"
+title: "FDA tries to make repurposing investable"
 window: "morning"
 whatsapp_message_id: ""
 items:

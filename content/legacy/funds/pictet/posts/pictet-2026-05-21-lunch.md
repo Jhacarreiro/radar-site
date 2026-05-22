@@ -3,7 +3,7 @@ edition_id: "pictet-2026-05-21-lunch"
 channel: "pictet"
 date: "2026-05-21"
 window: "almoço"
-title: "Pictet lunch - M&A and approvals"
+title: "Medtronic bought earlier pain intervention"
 items:
   - title: "Medtronic bought earlier pain intervention"
     primary_source:
