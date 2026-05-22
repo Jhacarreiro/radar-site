@@ -59,6 +59,8 @@ items:
       - title: "Organon Cancels First Quarter Earnings Call"
         url: "https://www.organon.com/news/organon-cancels-first-quarter-earnings-call/"
     wire_copies: []
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-05-lunch/
 ---
 1️⃣ **Arvinas got approval before it got an owner**
 

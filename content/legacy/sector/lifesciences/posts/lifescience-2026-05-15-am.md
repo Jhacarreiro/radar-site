@@ -50,6 +50,8 @@ items:
       - title: "Isomorphic Labs announces its AI drug design engine"
         url: "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-15-am/
 ---
 1️⃣ **Aardvark's hold turns PWS into a regulator file**
 Aardvark said FDA placed a full clinical hold on ARD-101, covering the Phase III HERO and extension studies in Prader-Willi syndrome, and will unblind available data to decide the path forward.

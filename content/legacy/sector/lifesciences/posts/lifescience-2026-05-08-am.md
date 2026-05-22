@@ -51,6 +51,8 @@ items:
       - title: "FDA Press Releases RSS Feed"
         url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-08-am/
 ---
 1️⃣ **Odyssey reopened the biotech IPO window a little**
 

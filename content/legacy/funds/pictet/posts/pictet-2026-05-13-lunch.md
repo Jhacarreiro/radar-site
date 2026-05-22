@@ -69,6 +69,8 @@ items:
         url: "https://www.biopharmadive.com/news/lilly-gilead-lead-pharmas-deal-merger-drug-acquisition/819676/"
         publisher: "BioPharma Dive"
     wire_copies: []
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-13-lunch/
 ---
 
 1️⃣ **Fosun bought a global AR1001 option**

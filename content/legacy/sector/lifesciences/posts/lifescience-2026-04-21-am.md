@@ -45,6 +45,8 @@ items:
       - title: "Danaher Reports First Quarter 2025 Results"
         url: "https://investors.danaher.com/2025-04-22-Danaher-Reports-First-Quarter-2025-Results"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-04-21-am/
 ---
 1️⃣ **FDA is turning animal-free science into filing policy**
 

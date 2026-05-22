@@ -66,6 +66,8 @@ items:
         url: "https://www.ema.europa.eu/en/medicines/human/EPAR/sotyktu"
         publisher: "European Medicines Agency"
     wire_copies: []
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-11-lunch/
 ---
 1️⃣ **Novo found a home for discarded cell therapy**
 Cellular Intelligence acquired global rights to Novo Nordisk's clinical-stage allogeneic Parkinson's cell therapy, with Novo taking equity and retaining milestones and royalties.

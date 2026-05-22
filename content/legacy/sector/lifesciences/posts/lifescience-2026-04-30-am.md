@@ -47,6 +47,8 @@ items:
     wire_copies:
       - title: "Newron Reports a Pause of Enrollment of New Study Participants in US Centers of ENIGMA-TRS 2 Study"
         url: "https://www.biospace.com/press-releases/newron-reports-a-pause-of-enrollment-of-new-study-participants-in-us-centers-of-enigma-trs-2-study"
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-04-30-am/
 ---
 1️⃣ **Chiesi is buying a working HAE launch**
 

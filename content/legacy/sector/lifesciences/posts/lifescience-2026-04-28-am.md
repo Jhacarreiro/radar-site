@@ -47,6 +47,8 @@ items:
       - title: "Seaport and Hemab target $180m IPOs as biotech listings accumulate"
         url: "https://www.pharmaceutical-technology.com/news/seaport-and-hemab-target-180m-ipos-as-biotech-listings-accumulate/"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-04-28-am/
 ---
 1️⃣ **Lilly just paid for the next gene-editing bet**
 

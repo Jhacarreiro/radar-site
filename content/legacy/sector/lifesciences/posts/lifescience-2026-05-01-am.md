@@ -47,6 +47,8 @@ items:
       - title: "Axsome's Auvelity cleared for large Alzheimer's agitation market"
         url: "https://www.bioworld.com/articles/730751-axsomes-auvelity-cleared-for-large-alzheimers-agitation-market"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-01-am/
 ---
 1️⃣ **FDA is squeezing GLP-1 compounders again**
 

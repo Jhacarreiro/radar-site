@@ -57,6 +57,8 @@ items:
         url: "https://www.nasdaq.com/press-release/assertio-announces-amended-and-restated-merger-agreement-garda-therapeutics-2026-05"
         publisher: "Assertio via Nasdaq"
     wire_copies: []
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-08-lunch/
 ---
 1️⃣ **ADMA widened ASCENIV below adolescence**
 

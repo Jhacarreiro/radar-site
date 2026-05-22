@@ -74,6 +74,8 @@ items:
         url: "https://www.globenewswire.com/NewsRoom/AttachmentNg/0c95b04d-0b45-4e25-a7d5-7f1c918f8e08"
         publisher: "Collegium Pharmaceutical"
     wire_copies: []
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-15-lunch/
 ---
 
 1️⃣ **Biogen closed the Apellis trade**

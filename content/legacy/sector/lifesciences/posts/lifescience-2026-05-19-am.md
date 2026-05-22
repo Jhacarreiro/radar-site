@@ -45,6 +45,8 @@ items:
       - publisher: "FDA"
         url: "https://www.fda.gov/drugs/accelerated-approval-program"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-19-am/
 ---
 
 1️⃣ **FDA tries to make repurposing investable**

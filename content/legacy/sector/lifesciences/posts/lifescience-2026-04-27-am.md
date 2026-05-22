@@ -45,6 +45,8 @@ items:
       - title: "Biopharma Market Update 04.06.26"
         url: "https://www.stifel.com/newsletters/investmentbanking/bal/marketing/healthcare/biopharma_timopler/2026/BiopharmaMarketUpdate_040626.pdf"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-04-27-am/
 ---
 1️⃣ **In vivo CRISPR just got its Phase 3 proof point**
 

@@ -55,6 +55,8 @@ items:
       - title: "Center for Biologics Evaluation and Research (CBER)"
         url: "https://www.fda.gov/about-fda/fda-organization/center-biologics-evaluation-and-research-cber"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-04-am/
 ---
 1️⃣ **UCB just bought the autoimmune TCE race**
 

@@ -55,6 +55,8 @@ items:
     wire_copies:
       - title: "Reuters copy via KELO-AM"
         url: "https://kelo.com/2026/05/11/us-fda-mulls-repurposing-approved-drugs-to-expand-access/"
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-14-am/
 ---
 1️⃣ **RGX-202 puts Duchenne gene therapy back on FDA's desk**
 REGENXBIO said RGX-202 met the Phase III primary endpoint, with 93% of evaluable patients above 10% microdystrophin at Week 12, and is now aiming for accelerated approval in 2027.
