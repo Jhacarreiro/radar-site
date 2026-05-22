@@ -32,7 +32,7 @@ const base='/whipit/lidl';
 const modal=document.getElementById('shops-modal'), list=document.getElementById('shops-list'), statusBox=document.getElementById('shops-status'), storeSearch=document.getElementById('store-search'), useLocation=document.getElementById('use-location'), productBox=document.getElementById('availability-product'), productLink=document.getElementById('availability-product-link');
 let storesCache=null,userPos=null,currentProduct=null,availabilityAbort=null,availabilityTimer=null;
 function openAvailability(card){
-  currentProduct={title:card.dataset.productTitle,brand:card.dataset.productBrand,price:card.dataset.productPrice,date:card.dataset.productDateLabel,unit:card.dataset.productUnit,url:card.dataset.productUrl,availabilityId:card.dataset.availabilityId};
+  currentProduct={title:card.dataset.productTitle,brand:card.dataset.productBrand,price:card.dataset.productPrice,date:card.dataset.productDateLabel,unit:card.dataset.productUnit,url:card.dataset.productUrl,availabilityId:card.dataset.availabilityId,globalAvailable:card.dataset.globalAvailable==='1',globalText:card.dataset.globalAvailabilityText||''};
   modal.hidden=false;document.body.classList.add('modal-open');
   storeSearch.value=''; userPos=null; list.innerHTML='';
   renderProductHeader();
@@ -40,7 +40,9 @@ function openAvailability(card){
   loadStores();
 }
 function renderProductHeader(){
-  productBox.innerHTML=`<div class="availability-product-card"><strong>${escapeHtml(currentProduct.brand||'')}</strong><h3>${escapeHtml(currentProduct.title||'')}</h3><p>${escapeHtml(currentProduct.price||'')} · ${escapeHtml(currentProduct.date||'')} · ${escapeHtml(currentProduct.unit||'')}</p></div>`;
+  const productStatus=currentProduct.globalAvailable?'<div class="product-availability-status available"><b>▰▰▰</b><span>Melhor aposta</span></div>':'<div class="product-availability-status unknown"><b>▱▱▱</b><span>Sem dados</span></div>';
+  const globalText=currentProduct.globalText?`<p class="global-availability-text">${escapeHtml(currentProduct.globalText)}</p>`:'';
+  productBox.innerHTML=`<div class="availability-product-card"><div><strong>${escapeHtml(currentProduct.brand||'')}</strong><h3>${escapeHtml(currentProduct.title||'')}</h3><p>${escapeHtml(currentProduct.price||'')} · ${escapeHtml(currentProduct.date||'')} · ${escapeHtml(currentProduct.unit||'')}</p>${globalText}</div>${productStatus}</div>`;
   productLink.href=currentProduct.url||'https://www.lidl.pt/';
 }
 function closeShops(){modal.hidden=true;document.body.classList.remove('modal-open'); if(availabilityAbort) availabilityAbort.abort();}
@@ -53,11 +55,12 @@ function km(a,b,c,d){const R=6371,toRad=x=>x*Math.PI/180;const dLat=toRad(c-a),d
 function todayHours(store){const items=(store.opening_hours&&store.opening_hours.items)||[];const today=new Date().toISOString().slice(0,10);let item=items.find(x=>x.date===today)||items[0];if(!item)return 'Horário n/d';const ranges=item.timeRanges||[];if(!ranges.length)return 'Fechado';return ranges.map(r=>`${(r.from||'').slice(11,16)}–${(r.to||'').slice(11,16)}`).join(', ')}
 function mapsUrl(s){return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${s.latitude},${s.longitude}`)}`}
 function lidlStoreId(id){return String(id||'').replace(/^PT/,'')}
-function availabilityMeta(indicator){
+function availabilityMeta(indicator,store){
   const v=String(indicator||'UNKNOWN').toUpperCase();
   if(v==='AVAILABLE'||v==='HIGH_STOCK') return {bars:'▰▰▰',label:'Melhor aposta',cls:'available'};
   if(v==='LOW_STOCK') return {bars:'▰▰▱',label:'Boa aposta',cls:'low'};
   if(v==='SOLD_OUT'||v==='NOT_IN_THIS_STORE') return {bars:'▰▱▱',label:'Talvez',cls:'no'};
+  if(currentProduct&&currentProduct.globalAvailable&&store){return {bars:store.stock_bars||'▰▱▱',label:store.stock_label||'Talvez',cls:'estimated'}}
   return {bars:'▱▱▱',label:'Sem dados',cls:'unknown'};
 }
 async function fetchAvailability(stores){
@@ -101,7 +104,7 @@ async function verifyStores(){
   }
 }
 function storeCard(s,indicator,loading){
-  const meta=loading?{bars:'…',label:'A consultar',cls:'loading'}:availabilityMeta(indicator);
+  const meta=loading?{bars:'…',label:'A consultar',cls:'loading'}:availabilityMeta(indicator,s);
   const dist=s._dist!=null?`<span>${s._dist.toFixed(s._dist<10?1:0)} km</span>`:'';
   return `<article class="store-card availability ${meta.cls}"><div><h3>${escapeHtml(s.city||'Lidl')}</h3><p>${escapeHtml(s.street||'')}</p><div class="store-meta">${dist}<span>${escapeHtml(todayHours(s))}</span></div></div><div class="store-stock"><b>${escapeHtml(meta.bars)}</b><span>${escapeHtml(meta.label)}</span></div><div class="store-actions"><a href="${mapsUrl(s)}" target="_blank" rel="nofollow noopener">Maps</a><a href="${escapeAttr(s.official_url||'https://www.lidl.pt/c/lojas-e-horarios/s10020746')}" target="_blank" rel="nofollow noopener">Lidl</a></div></article>`
 }
