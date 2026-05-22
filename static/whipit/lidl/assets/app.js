@@ -29,20 +29,19 @@ function apply(){
 apply();
 
 const base='/whipit/lidl';
-const modal=document.getElementById('shops-modal'), list=document.getElementById('shops-list'), statusBox=document.getElementById('shops-status'), storeSearch=document.getElementById('store-search'), useLocation=document.getElementById('use-location'), productBox=document.getElementById('availability-product'), productLink=document.getElementById('availability-product-link'), debugToggle=document.getElementById('availability-debug-toggle'), debugBox=document.getElementById('availability-debug');
-let storesCache=null,userPos=null,currentProduct=null,availabilityAbort=null,availabilityTimer=null,lastDebug=null;
+const modal=document.getElementById('shops-modal'), list=document.getElementById('shops-list'), statusBox=document.getElementById('shops-status'), storeSearch=document.getElementById('store-search'), useLocation=document.getElementById('use-location'), productBox=document.getElementById('availability-product'), productLink=document.getElementById('availability-product-link');
+let storesCache=null,userPos=null,currentProduct=null,availabilityAbort=null,availabilityTimer=null;
 function openAvailability(card){
   currentProduct={title:card.dataset.productTitle,brand:card.dataset.productBrand,price:card.dataset.productPrice,date:card.dataset.productDateLabel,unit:card.dataset.productUnit,url:card.dataset.productUrl,availabilityId:card.dataset.availabilityId,globalAvailable:card.dataset.globalAvailable==='1',globalText:card.dataset.globalAvailabilityText||''};
   modal.hidden=false;document.body.classList.add('modal-open');
-  storeSearch.value=''; userPos=null; list.innerHTML=''; lastDebug=null; if(debugBox){debugBox.hidden=true;debugBox.textContent='';}
+  storeSearch.value=''; userPos=null; list.innerHTML='';
   renderProductHeader();
   statusBox.textContent=currentProduct.availabilityId?'Usa localização ou escreve cidade/rua para verificar até 5 lojas.':'Este produto não tem identificador de disponibilidade.';
   loadStores();
 }
 function renderProductHeader(){
-  const productStatus=currentProduct.globalAvailable?'<div class="product-availability-status available"><b>▰▰▰</b><span>Melhor aposta</span></div>':'<div class="product-availability-status unknown"><b>▱▱▱</b><span>Sem dados</span></div>';
   const globalText=currentProduct.globalText?`<p class="global-availability-text">${escapeHtml(currentProduct.globalText)}</p>`:'';
-  productBox.innerHTML=`<div class="availability-product-card"><div><strong>${escapeHtml(currentProduct.brand||'')}</strong><h3>${escapeHtml(currentProduct.title||'')}</h3><p>${escapeHtml(currentProduct.price||'')} · ${escapeHtml(currentProduct.date||'')} · ${escapeHtml(currentProduct.unit||'')}</p>${globalText}</div>${productStatus}</div>`;
+  productBox.innerHTML=`<a class="availability-product-card" href="${escapeAttr(currentProduct.url||'https://www.lidl.pt/')}" target="_blank" rel="nofollow noopener"><div><strong>${escapeHtml(currentProduct.brand||'')}</strong><h3>${escapeHtml(currentProduct.title||'')}</h3><p>${escapeHtml(currentProduct.price||'')} · ${escapeHtml(currentProduct.date||'')} · ${escapeHtml(currentProduct.unit||'')}</p>${globalText}</div></a>`;
   productLink.href=currentProduct.url||'https://www.lidl.pt/';
 }
 function closeShops(){modal.hidden=true;document.body.classList.remove('modal-open'); if(availabilityAbort) availabilityAbort.abort();}
@@ -57,11 +56,10 @@ function mapsUrl(s){return `https://www.google.com/maps/search/?api=1&query=${en
 function lidlStoreId(id){const n=String(id||'').replace(/[^0-9]/g,''); return n?String(parseInt(n,10)):''}
 function availabilityMeta(indicator,store){
   const v=String(indicator||'UNKNOWN').toUpperCase();
-  if(v==='AVAILABLE'||v==='HIGH_STOCK') return {bars:'▰▰▰',label:'Melhor aposta',cls:'available'};
-  if(v==='LOW_STOCK') return {bars:'▰▰▱',label:'Boa aposta',cls:'low'};
-  if(v==='SOLD_OUT'||v==='NOT_IN_THIS_STORE') return {bars:'▰▱▱',label:'Talvez',cls:'no'};
-  if(currentProduct&&currentProduct.globalAvailable&&store){return {bars:store.stock_bars||'▰▱▱',label:store.stock_label||'Talvez',cls:'estimated'}}
-  return {bars:'▱▱▱',label:'Sem dados',cls:'unknown'};
+  if(v==='AVAILABLE'||v==='HIGH_STOCK') return {bars:'▰▰▰',label:'Disponível',cls:'available'};
+  if(v==='LOW_STOCK') return {bars:'▰▰▱',label:'Últimas unidades',cls:'low'};
+  if(v==='SOLD_OUT'||v==='NOT_IN_THIS_STORE') return {bars:'▰▱▱',label:'Indisponível',cls:'no'};
+  return {bars:'▱▱▱',label:'Sem informação',cls:'unknown'};
 }
 async function fetchAvailability(stores){
   if(!currentProduct||!currentProduct.availabilityId) return new Map();
@@ -70,24 +68,9 @@ async function fetchAvailability(stores){
   const ids=stores.map(s=>lidlStoreId(s.id)).filter(Boolean).join(',');
   if(!ids) return new Map();
   const url=`https://www.lidl.pt/p/api/storestock/PT/pt/${encodeURIComponent(currentProduct.availabilityId)}?storeids=${ids}`;
-  const debug={product:currentProduct,storeIds:ids,requestUrl:url,requestedAt:new Date().toISOString(),responseStatus:null,response:null,error:null};
-  try{
-    const res=await fetch(url,{signal:availabilityAbort.signal,cache:'no-cache'});
-    debug.responseStatus=res.status;
-    const rows=await res.json();
-    debug.response=rows;
-    lastDebug=debug; renderDebug();
-    return new Map((Array.isArray(rows)?rows:[]).map(r=>[String(r.storeId),r.storeAvailabilityIndicator]));
-  }catch(e){
-    debug.error={name:e.name,message:e.message};
-    lastDebug=debug; renderDebug();
-    throw e;
-  }
-}
-function renderDebug(){
-  if(!debugBox) return;
-  if(!lastDebug){debugBox.textContent='Sem chamada ainda. Usa localização ou escreve cidade/rua.';return;}
-  debugBox.textContent=JSON.stringify(lastDebug,null,2);
+  const res=await fetch(url,{signal:availabilityAbort.signal,cache:'no-cache'});
+  const rows=await res.json();
+  return new Map((Array.isArray(rows)?rows:[]).map(r=>[String(r.storeId),r.storeAvailabilityIndicator]));
 }
 function candidateStores(){
   if(!storesCache) return [];
@@ -111,7 +94,7 @@ async function verifyStores(){
     const indicators=rows.map(s=>map.get(lidlStoreId(s.id))||'UNKNOWN');
     list.innerHTML=rows.map((s,i)=>storeCard(s,indicators[i],false)).join('');
     const allUnknown=indicators.every(v=>String(v||'UNKNOWN').toUpperCase()==='UNKNOWN');
-    statusBox.textContent=allUnknown?'A Lidl devolveu sem dados para estas lojas.':(userPos?`${rows.length} lojas mais próximas`:`${rows.length} lojas para “${term}”`);
+    statusBox.textContent=allUnknown?'Sem informação para estas lojas.':(userPos?`${rows.length} lojas mais próximas`:`${rows.length} lojas para “${term}”`);
   }catch(e){
     if(e.name==='AbortError') return;
     list.innerHTML=rows.map(s=>storeCard(s,'UNKNOWN',false)).join('');
@@ -123,7 +106,6 @@ function storeCard(s,indicator,loading){
   const dist=s._dist!=null?`<span>${s._dist.toFixed(s._dist<10?1:0)} km</span>`:'';
   return `<article class="store-card availability ${meta.cls}"><div><h3>${escapeHtml(s.city||'Lidl')}</h3><p>${escapeHtml(s.street||'')}</p><div class="store-meta">${dist}<span>${escapeHtml(todayHours(s))}</span></div></div><div class="store-stock"><b>${escapeHtml(meta.bars)}</b><span>${escapeHtml(meta.label)}</span></div><div class="store-actions"><a href="${mapsUrl(s)}" target="_blank" rel="nofollow noopener">Maps</a><a href="${escapeAttr(s.official_url||'https://www.lidl.pt/c/lojas-e-horarios/s10020746')}" target="_blank" rel="nofollow noopener">Lidl</a></div></article>`
 }
-debugToggle&&debugToggle.addEventListener('click',()=>{if(!debugBox)return;debugBox.hidden=!debugBox.hidden;renderDebug();});
 storeSearch&&storeSearch.addEventListener('input',()=>{clearTimeout(availabilityTimer);availabilityTimer=setTimeout(()=>verifyStores(),350)});
 useLocation&&useLocation.addEventListener('click',()=>{if(!navigator.geolocation){statusBox.textContent='Localização não disponível neste browser.';return}statusBox.textContent='A pedir localização…';navigator.geolocation.getCurrentPosition(pos=>{userPos={lat:pos.coords.latitude,lon:pos.coords.longitude};verifyStores()},()=>{statusBox.textContent='Não consegui obter localização. Podes escrever cidade ou rua.'},{enableHighAccuracy:false,timeout:10000,maximumAge:300000})});
 function escapeHtml(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
