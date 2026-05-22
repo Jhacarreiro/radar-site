@@ -2,9 +2,21 @@ const q=document.getElementById('q'),brand=document.getElementById('brand'),cat=
 const cards=[...document.querySelectorAll('[data-card]')];
 function apply(){const term=(q.value||'').trim().toLowerCase(),b=brand.value,c=cat.value,s=statusEl.value;let visible=0;for(const card of cards){const ok=(!term||card.dataset.search.includes(term))&&(!b||card.dataset.brand===b)&&(!c||card.dataset.category===c)&&(!s||card.dataset.status===s);card.hidden=!ok;if(ok)visible++}count.textContent=visible}
 [q,brand,cat,statusEl].forEach(el=>el.addEventListener('input',apply));
-const modal=document.getElementById('shops-modal');
-function openShops(){modal.hidden=false;document.body.classList.add('modal-open')}
+const base='/whipit/lidl';
+const modal=document.getElementById('shops-modal'), list=document.getElementById('shops-list'), statusBox=document.getElementById('shops-status'), storeSearch=document.getElementById('store-search'), useLocation=document.getElementById('use-location');
+let storesCache=null,userPos=null;
+function openShops(){modal.hidden=false;document.body.classList.add('modal-open');loadStores().then(renderStores)}
 function closeShops(){modal.hidden=true;document.body.classList.remove('modal-open')}
 document.querySelectorAll('[data-shops]').forEach(el=>el.addEventListener('click',openShops));
 document.querySelectorAll('[data-close-shops]').forEach(el=>el.addEventListener('click',closeShops));
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!modal.hidden)closeShops()});
+async function loadStores(){if(storesCache)return storesCache;statusBox.textContent='A carregar lojas…';const res=await fetch(`${base}/data/stores.json`,{cache:'no-cache'});const data=await res.json();storesCache=data.stores||[];statusBox.textContent=`${storesCache.length} lojas na base`;return storesCache}
+function km(a,b,c,d){const R=6371,toRad=x=>x*Math.PI/180;const dLat=toRad(c-a),dLon=toRad(d-b);const x=Math.sin(dLat/2)**2+Math.cos(toRad(a))*Math.cos(toRad(c))*Math.sin(dLon/2)**2;return 2*R*Math.asin(Math.sqrt(x))}
+function todayHours(store){const items=(store.opening_hours&&store.opening_hours.items)||[];const today=new Date().toISOString().slice(0,10);let item=items.find(x=>x.date===today)||items[0];if(!item)return 'Horário n/d';const ranges=item.timeRanges||[];if(!ranges.length)return 'Fechado';return ranges.map(r=>`${(r.from||'').slice(11,16)}–${(r.to||'').slice(11,16)}`).join(', ')}
+function mapsUrl(s){return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${s.latitude},${s.longitude}`)}`}
+function storeCard(s){const dist=s._dist!=null?`<span>${s._dist.toFixed(s._dist<10?1:0)} km</span>`:'';return `<article class="store-card"><div><h3>${escapeHtml(s.city||'Lidl')}</h3><p>${escapeHtml(s.street||'')}</p><div class="store-meta">${dist}<span>${escapeHtml(todayHours(s))}</span></div></div><div class="store-stock"><b>${escapeHtml(s.stock_bars||'▰▱▱')}</b><span>${escapeHtml(s.stock_label||'Talvez')}</span></div><div class="store-actions"><a href="${mapsUrl(s)}" target="_blank" rel="nofollow noopener">Maps</a><a href="${escapeAttr(s.official_url||'https://www.lidl.pt/c/lojas-e-horarios/s10020746')}" target="_blank" rel="nofollow noopener">Lidl</a></div></article>`}
+function renderStores(){if(!storesCache)return;let rows=[...storesCache];const term=(storeSearch.value||'').trim().toLowerCase();if(term){rows=rows.filter(s=>`${s.city||''} ${s.street||''} ${s.zip||''}`.toLowerCase().includes(term))}if(userPos){rows.forEach(s=>s._dist=km(userPos.lat,userPos.lon,s.latitude,s.longitude));rows.sort((a,b)=>(a._dist-b._dist)||(b.stock_score-a.stock_score));statusBox.textContent=`${rows.length} lojas · ordenadas por distância`}else{rows.sort((a,b)=>(b.stock_score-a.stock_score)||(a.city||'').localeCompare(b.city||'pt'));statusBox.textContent=`${rows.length} lojas · melhores apostas primeiro`}list.innerHTML=rows.slice(0,30).map(storeCard).join('')||'<p class="modal-note">Sem lojas para esse filtro.</p>'}
+storeSearch&&storeSearch.addEventListener('input',renderStores);
+useLocation&&useLocation.addEventListener('click',()=>{if(!navigator.geolocation){statusBox.textContent='Localização não disponível neste browser.';return}statusBox.textContent='A pedir localização…';navigator.geolocation.getCurrentPosition(pos=>{userPos={lat:pos.coords.latitude,lon:pos.coords.longitude};renderStores()},()=>{statusBox.textContent='Não consegui obter localização. Podes filtrar por cidade ou rua.'},{enableHighAccuracy:false,timeout:10000,maximumAge:300000})});
+function escapeHtml(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function escapeAttr(s){return escapeHtml(s).replace(/'/g,'&#39;')}
