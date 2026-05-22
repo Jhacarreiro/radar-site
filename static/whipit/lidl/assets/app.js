@@ -1,8 +1,8 @@
 const q=document.getElementById('q'),brand=document.getElementById('brand'),cat=document.getElementById('cat'),sortEl=document.getElementById('sort'),count=document.getElementById('count'),grid=document.getElementById('grid');
 const cards=[...document.querySelectorAll('[data-card]')];
-const ageRankFresh={fresh:0,future:1,aging:2,old:3,unknown:4};
+const ageRankFresh={fresh:0,aging:1,old:2,future:3,unknown:4};
 const ageRankUpcoming={future:0,fresh:1,aging:2,old:3,unknown:4};
-const ageRankLast={old:0,aging:1,fresh:2,future:3,unknown:4};
+const ageRankLast={aging:0,old:1,fresh:2,future:3,unknown:4};
 const num=v=>Number(v||0);
 const dateNum=c=>Number(String(c.dataset.date||'').replaceAll('-',''))||0;
 function byText(a,b){return (a.dataset.title||'').localeCompare(b.dataset.title||'', 'pt')}
@@ -12,7 +12,6 @@ function sortCards(rows){
     if(mode==='upcoming') return (ageRankUpcoming[a.dataset.age]??9)-(ageRankUpcoming[b.dataset.age]??9) || dateNum(a)-dateNum(b) || byText(a,b);
     if(mode==='lastcall') return (ageRankLast[a.dataset.age]??9)-(ageRankLast[b.dataset.age]??9) || dateNum(a)-dateNum(b) || byText(a,b);
     if(mode==='price') return num(a.dataset.price)-num(b.dataset.price) || byText(a,b);
-    if(mode==='az') return byText(a,b);
     return (ageRankFresh[a.dataset.age]??9)-(ageRankFresh[b.dataset.age]??9) || dateNum(b)-dateNum(a) || byText(a,b);
   });
   return rows;
@@ -46,3 +45,4 @@ storeSearch&&storeSearch.addEventListener('input',renderStores);
 useLocation&&useLocation.addEventListener('click',()=>{if(!navigator.geolocation){statusBox.textContent='Localização não disponível neste browser.';return}statusBox.textContent='A pedir localização…';navigator.geolocation.getCurrentPosition(pos=>{userPos={lat:pos.coords.latitude,lon:pos.coords.longitude};renderStores()},()=>{statusBox.textContent='Não consegui obter localização. Podes filtrar por cidade ou rua.'},{enableHighAccuracy:false,timeout:10000,maximumAge:300000})});
 function escapeHtml(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
 function escapeAttr(s){return escapeHtml(s).replace(/'/g,'&#39;')}
+
