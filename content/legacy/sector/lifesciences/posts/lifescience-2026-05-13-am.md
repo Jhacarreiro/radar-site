@@ -53,6 +53,8 @@ items:
       - title: "Life Sciences Sector Plan"
         url: "https://www.gov.uk/government/publications/life-sciences-sector-plan"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-13-am/
 ---
 1️⃣ **Makary's exit turns FDA timing into personnel risk**
 Marty Makary is resigning as FDA commissioner after 13 months, with Kyle Diamantas expected to take over in an acting role.

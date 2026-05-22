@@ -45,6 +45,8 @@ items:
       - title: "Teva Delivers Strong Q1 2026 Results Driven by Innovative Portfolio Growth and Disciplined Execution"
         url: "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2026/Teva-Delivers-Strong-Q1-2026-Results-Driven-by-Innovative-Portfolio-Growth-and-Disciplined-Execution/default.aspx"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-04-29-am/
 ---
 1️⃣ **FDA is moving trials out of batch mode**
 

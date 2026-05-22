@@ -60,6 +60,8 @@ items:
       - title: "Biogen and Denali Therapeutics Provide Update on Phase 2b LUMA Study of BIIB122 (DNL151) in Early-Stage Parkinson's Disease"
         publisher: "GlobeNewswire"
         url: "https://www.globenewswire.com/news-release/2026/05/21/3299824/0/en/biogen-and-denali-therapeutics-provide-update-on-phase-2b-luma-study-of-biib122-dnl151-in-early-stage-parkinson-s-disease.html"
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-22-am/
 ---
 
 1️⃣ **CHMP opens the EU access queue**

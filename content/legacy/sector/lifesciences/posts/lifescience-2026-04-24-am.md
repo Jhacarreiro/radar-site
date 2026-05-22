@@ -45,6 +45,8 @@ items:
       - title: "Press Release: Tolebrutinib demonstrated a 31% delay in time to onset of confirmed disability progression in non-relapsing secondary progressive multiple sclerosis phase 3 study"
         url: "https://www.sanofi.com/en/media-room/press-releases/2024/2024-09-20-09-30-00-2949552"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-04-24-am/
 ---
 1️⃣ **FDA just approved the first hearing-loss gene therapy**
 

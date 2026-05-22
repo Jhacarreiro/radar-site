@@ -48,6 +48,8 @@ items:
     wire_copies:
       - publisher: "Investing.com"
         url: "https://www.investing.com/news/sec-filings/astrazeneca-receives-us-approval-for-baxfendy-to-treat-hypertension-93CH-4696172"
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-21-lunch/
 ---
 1️⃣ **Medtronic bought earlier pain intervention**
 Medtronic agreed to acquire SPR Therapeutics for about US$650m upfront, adding a 60-day peripheral nerve stimulation system for chronic pain.

@@ -55,6 +55,8 @@ items:
     wire_copies:
       - title: "Business Wire copy via BioSpace"
         url: "https://www.biospace.com/press-releases/blackstone-life-sciences-invests-250-million-in-anagram-therapeutics-to-advance-novel-and-patient-friendly-oral-enzyme-replacement-therapy-for-pancreatic-insufficiency"
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-11-am/
 ---
 1️⃣ **FDA still has a commissioner problem**
 Axios says Marty Makary appears to have been spared for now, after Reuters and others reported that the White House had signed off on a plan to fire him.

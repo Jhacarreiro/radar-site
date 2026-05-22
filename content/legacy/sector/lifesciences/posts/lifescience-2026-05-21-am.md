@@ -47,6 +47,8 @@ items:
       - publisher: "KFF"
         url: "https://www.kff.org/medicare/examining-the-potential-impact-of-medicares-new-wiser-model/"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-21-am/
 ---
 
 1️⃣ **Healthcare PE gets a $21B specialist**

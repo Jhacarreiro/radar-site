@@ -49,6 +49,8 @@ items:
     wire_copies:
       - title: "Alcami to Acquire Contract Packaging Organization Tjoapack"
         url: "https://www.biospace.com/press-releases/alcami-to-acquire-contract-packaging-organization-tjoapack"
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-04-22-am/
 ---
 1️⃣ **Getinge just exposed the new pharma capex weak spot**
 

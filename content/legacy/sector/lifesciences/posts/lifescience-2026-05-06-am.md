@@ -55,6 +55,8 @@ items:
       - title: "Bristol Myers Squibb 2025 annual report"
         url: "https://www.bms.com/investors/financial-reporting/annual-reports.html"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-06-am/
 ---
 1️⃣ **Bayer is paying up for disease-modifying eyes**
 

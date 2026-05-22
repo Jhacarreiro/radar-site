@@ -60,6 +60,8 @@ items:
         url: "https://www.fiercebiotech.com/biotech/boehringer-furthers-inflammatory-expansion-eu407m-biobuck-bet-immunitas-asset"
         publisher: "Fierce Biotech"
     wire_copies: []
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-12-lunch/
 ---
 
 1️⃣ **BMS and Hengrui built a 13-asset bridge**

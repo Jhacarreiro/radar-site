@@ -50,6 +50,8 @@ items:
     wire_copies:
       - publisher: "PR Newswire"
         url: "https://www.prnewswire.com/news-releases/medtronic-announces-intent-to-acquire-spr-therapeutics-inc-expanding-care-options-for-people-living-with-chronic-pain-302777023.html"
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-22-lunch/
 ---
 1️⃣ **Datroway moved first in TNBC**
 FDA approved AstraZeneca and Daiichi Sankyo's Datroway for first-line metastatic triple-negative breast cancer patients who are not candidates for PD-1/PD-L1 therapy.

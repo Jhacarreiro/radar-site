@@ -50,6 +50,8 @@ items:
     wire_copies:
       - publisher: "PR Newswire"
         url: "https://www.prnewswire.com/news-releases/inmed-pharmaceuticals--mentari-therapeutics-announce-merger-to-advance-migraine-prevention-therapies-302776112.html"
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-20-lunch/
 ---
 1️⃣ **GHO and CBC merged the specialist capital stack**
 GHO and CBC signed a merger to create a healthcare-only investment manager with more than US$21bn in AUM, 200 staff and 13 offices.

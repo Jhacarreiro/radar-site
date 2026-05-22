@@ -78,6 +78,8 @@ items:
       - title: "European Commission Approves Pfizer's HYMPAVZI for the Treatment of Adults and Adolescents with Hemophilia A or B With Inhibitors"
         url: "https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_TUAKWDHC%3A0-european-commission-approves-pfizer-s-hympavzi-for-the-treatment-of-adults-and-adolescents-with-hemophilia-a-or-b-with-inhibitors/"
         publisher: "Reuters via TradingView"
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-14-lunch/
 ---
 
 1️⃣ **BeOne put BCL-2 into MCL**

@@ -59,6 +59,8 @@ items:
       - title: "Viridian Therapeutics Announces Positive Topline Results from Elegrobart Phase 3 REVEAL-1 Clinical Trial in Active Thyroid Eye Disease"
         url: "https://investors.viridiantherapeutics.com/news/news-details/2026/Viridian-Therapeutics-Announces-Positive-Topline-Results-from-Elegrobart-Phase-3-REVEAL1-Clinical-Trial-in-Active-Thyroid-Eye-Disease/default.aspx"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-05-am/
 ---
 1️⃣ **Madrigal is turning MASH into genotype segmentation**
 

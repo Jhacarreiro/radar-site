@@ -45,6 +45,8 @@ items:
       - title: "With Kailera's huge IPO, biotech may have its first opening to the public markets in years"
         url: "https://www.biocentury.com/article/655432/with-kaileras-huge-ipo-biotech-may-have-its-first-opening-to-the-public-markets-in-years"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-04-18-am/
 ---
 1️⃣ **FDA puts a real regulatory frame around genome editing**
 

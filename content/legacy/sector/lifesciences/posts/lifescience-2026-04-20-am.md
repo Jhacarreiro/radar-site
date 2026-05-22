@@ -45,6 +45,8 @@ items:
       - title: "AstraZeneca's COPD hits breathe life into class rocked by flops"
         url: "https://www.fiercebiotech.com/biotech/astrazeneca-delivers-dream-result-phase-3-copd-hits-breathe-life-class-rocked-flops"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-04-20-am/
 ---
 1️⃣ **Psychedelics just got a federal fast lane**
 

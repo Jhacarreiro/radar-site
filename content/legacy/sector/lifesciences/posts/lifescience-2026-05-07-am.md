@@ -53,6 +53,8 @@ items:
       - title: "FDA Press Releases RSS Feed"
         url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-07-am/
 ---
 1️⃣ **Angelini is buying a US rare disease platform**
 

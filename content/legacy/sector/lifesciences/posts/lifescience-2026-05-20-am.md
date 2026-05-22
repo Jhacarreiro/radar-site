@@ -45,6 +45,8 @@ items:
       - publisher: "Merck"
         url: "https://www.merck.com/news/merck-enters-into-research-and-development-funding-agreement-with-blackstone-life-sciences-for-sacituzumab-tirumotecan-sac-tmt/"
     wire_copies: []
+aliases:
+  - /sector/lifesciences/posts/lifescience-2026-05-20-am/
 ---
 
 1️⃣ **EU puts a number on trial competitiveness**

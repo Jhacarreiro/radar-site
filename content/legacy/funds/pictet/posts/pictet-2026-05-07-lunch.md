@@ -66,6 +66,8 @@ items:
         url: "https://s21.q4cdn.com/488056881/files/doc_events/2026/Mar/25/Merck-to-Acquire-Terns-Pharmaceuticals.pdf"
         publisher: "Merck investor presentation"
     wire_copies: []
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-07-lunch/
 ---
 1️⃣ **Roche bought the AI layer for pathology**
 

@@ -44,6 +44,8 @@ items:
       - publisher: "Natera"
         url: "https://www.nasdaq.com/press-release/signateratm-cdx-approved-fda-companion-diagnostic-muscle-invasive-bladder-cancer-mibc"
     wire_copies: []
+aliases:
+  - /funds/pictet/posts/pictet-2026-05-19-lunch/
 ---
 1️⃣ **Regeneron paid for a post-ADC option**
 Regeneron signed a Parabilis collaboration worth $125m upfront/equity plus up to about $2.2bn in milestones across five Helicon/AHC targets.
