@@ -1,5 +1,5 @@
 ---
-title: "Radar | Lifesciences"
+title: "Radar | Life Sciences"
 weight: 10
 description: "Regulation, reimbursement and strategic shifts across life sciences."
 meta: "Life sciences investors · sector · EN"

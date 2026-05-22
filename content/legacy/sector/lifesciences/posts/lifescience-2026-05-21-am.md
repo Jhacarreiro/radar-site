@@ -2,7 +2,7 @@
 edition_id: "lifescience-2026-05-21-am"
 channel: "lifescience"
 date: "2026-05-21"
-title: "Life Sciences Radar - Morning Edition"
+title: "Healthcare PE gets a $21B specialist"
 window: "morning"
 whatsapp_message_id: ""
 items:

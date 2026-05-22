@@ -2,7 +2,7 @@
 edition_id: "lifescience-2026-05-20-am"
 channel: "lifescience"
 date: "2026-05-20"
-title: "Life Sciences Radar - Morning Edition"
+title: "EU puts a number on trial competitiveness"
 window: "morning"
 whatsapp_message_id: ""
 items:

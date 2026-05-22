@@ -3,7 +3,7 @@ edition_id: "pictet-2026-05-22-lunch"
 channel: "pictet"
 date: "2026-05-22"
 window: "almoço"
-title: "Pictet lunch - M&A and approvals"
+title: "Datroway moved first in TNBC"
 items:
   - title: "Datroway moved first in TNBC"
     primary_source:

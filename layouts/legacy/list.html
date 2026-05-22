@@ -34,9 +34,9 @@
 <h1>{{ .Title }}</h1>
 {{ with .Description }}<p class="tagline">{{ . }}</p>{{ end }}
 
-{{ $pages := .Pages }}
-{{ if .Sections }}
-  {{ $pages = (where .Site.RegularPages "Section" .Section) }}
+{{ $pages := .RegularPagesRecursive }}
+{{ if not $pages }}
+  {{ $pages = .Pages }}
 {{ end }}
 
 {{ if $pages }}

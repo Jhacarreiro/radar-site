@@ -3,7 +3,7 @@ edition_id: "pictet-2026-05-14-lunch"
 channel: "pictet"
 date: "2026-05-14"
 window: "lunch"
-title: "Radar | Pictet - 2026-05-14 Lunch"
+title: "BeOne put BCL-2 into MCL"
 whatsapp_message_id: ""
 items:
   - title: "BeOne put BCL-2 into MCL"

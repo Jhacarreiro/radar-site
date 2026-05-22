@@ -3,7 +3,7 @@ edition_id: "pictet-2026-05-19-lunch"
 channel: "pictet"
 date: "2026-05-19"
 window: "almoço"
-title: "Pictet lunch - M&A and approvals"
+title: "Regeneron paid for a post-ADC option"
 items:
   - title: "Regeneron paid for a post-ADC option"
     primary_source:
