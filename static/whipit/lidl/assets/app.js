@@ -54,7 +54,7 @@ function fold(s){return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/
 function km(a,b,c,d){const R=6371,toRad=x=>x*Math.PI/180;const dLat=toRad(c-a),dLon=toRad(d-b);const x=Math.sin(dLat/2)**2+Math.cos(toRad(a))*Math.cos(toRad(c))*Math.sin(dLon/2)**2;return 2*R*Math.asin(Math.sqrt(x))}
 function todayHours(store){const items=(store.opening_hours&&store.opening_hours.items)||[];const today=new Date().toISOString().slice(0,10);let item=items.find(x=>x.date===today)||items[0];if(!item)return 'Horário n/d';const ranges=item.timeRanges||[];if(!ranges.length)return 'Fechado';return ranges.map(r=>`${(r.from||'').slice(11,16)}–${(r.to||'').slice(11,16)}`).join(', ')}
 function mapsUrl(s){return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${s.latitude},${s.longitude}`)}`}
-function lidlStoreId(id){return String(id||'').replace(/^PT/,'')}
+function lidlStoreId(id){const n=String(id||'').replace(/[^0-9]/g,''); return n?String(parseInt(n,10)):''}
 function availabilityMeta(indicator,store){
   const v=String(indicator||'UNKNOWN').toUpperCase();
   if(v==='AVAILABLE'||v==='HIGH_STOCK') return {bars:'▰▰▰',label:'Melhor aposta',cls:'available'};
@@ -77,7 +77,7 @@ async function fetchAvailability(stores){
     const rows=await res.json();
     debug.response=rows;
     lastDebug=debug; renderDebug();
-    return new Map((Array.isArray(rows)?rows:[]).map(r=>[String(r.storeId).padStart(5,'0'),r.storeAvailabilityIndicator]));
+    return new Map((Array.isArray(rows)?rows:[]).map(r=>[String(r.storeId),r.storeAvailabilityIndicator]));
   }catch(e){
     debug.error={name:e.name,message:e.message};
     lastDebug=debug; renderDebug();
