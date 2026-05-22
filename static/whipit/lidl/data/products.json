@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T11:54:30Z",
+  "generated_at": "2026-05-22T12:38:35Z",
   "source": "lidl.pt official campaign and leaflet pages",
   "product_count": 169,
   "products": [
@@ -18,12 +18,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w21/a10095024",
       "product_url": "https://www.lidl.pt/p/crivit-skate-pennyboard/p10047009",
+      "store_stock_id": "10047009",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "d6f83a80c926529e",
@@ -40,12 +41,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-blusa-de-malha/p10047029",
+      "store_stock_id": "10047029",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2b1c31632dd2e11b",
@@ -62,12 +64,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-calcas-casuais/p10047039",
+      "store_stock_id": "10047039",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "8f8ca917f51c533a",
@@ -84,12 +87,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-calcas-wide-leg/p10047035",
+      "store_stock_id": "10047035",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "5063a8af05e80560",
@@ -106,12 +110,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-casaco-de-malha-fina/p10047033",
+      "store_stock_id": "10047033",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "9cca72eaa3e47fc2",
@@ -128,12 +133,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-cuecas-para-senhora/p10047037",
+      "store_stock_id": "10047037",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "6dbf1851ea5376d0",
@@ -150,12 +156,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-leggings-capri/p10047027",
+      "store_stock_id": "10047027",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "cd28af8b20bcd9e8",
@@ -172,12 +179,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-macacao/p10047031",
+      "store_stock_id": "10047031",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "dc7c9fb41f127b26",
@@ -194,12 +202,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-t-shirt/p10047023",
+      "store_stock_id": "10047023",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "4d93f5bbeaf1401b",
@@ -216,12 +225,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-top/p10047025",
+      "store_stock_id": "10047025",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "3dc46a199d04a98f",
@@ -238,12 +248,13 @@
       "source_title": "Esmara Mulher",
       "source_url": "https://www.lidl.pt/c/esmara-mulher-w21/a10095028",
       "product_url": "https://www.lidl.pt/p/esmara-vestido-com-sutia-integrado/p10047021",
+      "store_stock_id": "10047021",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "fb16f6f875937390",
@@ -260,12 +271,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/livarno-toldo-vela/p10047003",
+      "store_stock_id": "10047003",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "1c9f3ffd4aa1102a",
@@ -282,12 +294,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w21/a10095024",
       "product_url": "https://www.lidl.pt/p/lupilu-blocos-de-construcao-magneticos/p10047005",
+      "store_stock_id": "10047005",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "920589260bc5c778",
@@ -304,12 +317,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w21/a10095024",
       "product_url": "https://www.lidl.pt/p/lupilu-puzzle-em-madeira/p10047007",
+      "store_stock_id": "10047007",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "0b9050984349489e",
@@ -326,12 +340,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-aparador-de-relva-20-v-sem-bateria/p10046991",
+      "store_stock_id": "10046991",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2f40bb8f99635b71",
@@ -348,12 +363,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-aspersor-oscilante-circular/p10046971",
+      "store_stock_id": "10046971",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "c7919389449d4719",
@@ -370,12 +386,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-bomba-de-agua-12-v-a-bateria/p10046983",
+      "store_stock_id": "10046983",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "486e654d47e97d57",
@@ -392,12 +409,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-capacete-de-protecao-florestal/p10046987",
+      "store_stock_id": "10046987",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "3da9f99c99a0b838",
@@ -414,12 +432,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-conjunto-de-pinceis/p10047001",
+      "store_stock_id": "10047001",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "595659d656115c86",
@@ -436,12 +455,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-corta-relvas-40-v-sem-bateria/p10046995",
+      "store_stock_id": "10046995",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "9a6b65ecb7c2866d",
@@ -458,12 +478,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-detetor-de-metais-portatil-4-v/p10046997",
+      "store_stock_id": "10046997",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "bfa055e1bc25c229",
@@ -480,12 +501,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-ligacao-acoplamento-valvula-para-torneira/p10046979",
+      "store_stock_id": "10046979",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "96e80f7380df36fc",
@@ -502,12 +524,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-ligacao-adaptador-de-mangueira/p10046977",
+      "store_stock_id": "10046977",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "8598f36922ca209c",
@@ -524,12 +547,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-mangueira-de-jardim/p10046967",
+      "store_stock_id": "10046967",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "f655239263dd8792",
@@ -546,12 +570,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-mini-aparelho-de-limpeza-a-alta-pressao-1400-w/p10046975",
+      "store_stock_id": "10046975",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "54f86fe9baca124e",
@@ -568,12 +593,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-pistola-de-rega-pulverizador-multifuncoes/p10046969",
+      "store_stock_id": "10046969",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "4bdc7e648b77cbb5",
@@ -590,12 +616,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-programador-de-rega/p10046973",
+      "store_stock_id": "10046973",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "306326f13b1fdc1c",
@@ -612,12 +639,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-pulverizador-de-agua-4-v-com-bateria/p10046981",
+      "store_stock_id": "10046981",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "c3c240b078b6fac0",
@@ -634,12 +662,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-rocadora-a-gasolina/p10046961",
+      "store_stock_id": "10046961",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "42e0d606e5b5c17e",
@@ -656,12 +685,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-serra-grande-de-jardinagem/p10046993",
+      "store_stock_id": "10046993",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "4554b6720a43a351",
@@ -678,12 +708,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-tesoura-para-sebes-4-v-recarregavel/p10046999",
+      "store_stock_id": "10046999",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "b79ca49828a55945",
@@ -700,12 +731,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-vassoura-de-exterior/p10046985",
+      "store_stock_id": "10046985",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "052b4eb82273d83f",
@@ -722,12 +754,13 @@
       "source_title": "Parkside Jardim",
       "source_url": "https://www.lidl.pt/c/parkside-jardim-w21/a10095023",
       "product_url": "https://www.lidl.pt/p/parkside-oculos-de-protecao-para-trabalho/p10046989",
+      "store_stock_id": "10046989",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "6dfc9bf8f842a298",
@@ -744,12 +777,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w21/a10095024",
       "product_url": "https://www.lidl.pt/p/playtive-trampolim-com-rede/p10047011",
+      "store_stock_id": "10047011",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "c09e88aa4c25704c",
@@ -766,12 +800,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/caterpillar-bone/p10047095",
+      "store_stock_id": "10047095",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "ff033258a38ddae2",
@@ -788,12 +823,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/caterpillar-meias-de-trabalho/p10047097",
+      "store_stock_id": "10047097",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "5ee4ee3e37742449",
@@ -810,12 +846,13 @@
       "source_title": "Esmara Homem",
       "source_url": "https://www.lidl.pt/c/esmara-homem-w21/a10095031",
       "product_url": "https://www.lidl.pt/p/esmara-men-bermudas-em-sweat/p10047063",
+      "store_stock_id": "10047063",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "d2e830399795db5d",
@@ -832,12 +869,13 @@
       "source_title": "Esmara Homem",
       "source_url": "https://www.lidl.pt/c/esmara-homem-w21/a10095031",
       "product_url": "https://www.lidl.pt/p/esmara-men-t-shirt/p10047061",
+      "store_stock_id": "10047061",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "f81b98b313a10fc5",
@@ -854,12 +892,13 @@
       "source_title": "Esmara Homem",
       "source_url": "https://www.lidl.pt/c/esmara-homem-w21/a10095031",
       "product_url": "https://www.lidl.pt/p/esmara-men-tenis/p10047065",
+      "store_stock_id": "10047065",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "c05e79aca0fb58f7",
@@ -876,12 +915,13 @@
       "source_title": "Esmara Homem",
       "source_url": "https://www.lidl.pt/c/esmara-homem-w21/a10095031",
       "product_url": "https://www.lidl.pt/p/livergy-calcas-chino/p10047067",
+      "store_stock_id": "10047067",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "ce5f1fa10762b93d",
@@ -898,12 +938,13 @@
       "source_title": "Esmara Homem",
       "source_url": "https://www.lidl.pt/c/esmara-homem-w21/a10095031",
       "product_url": "https://www.lidl.pt/p/livergy-polo-de-manga-curta/p10047059",
+      "store_stock_id": "10047059",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "3bc43e9d0a721d8a",
@@ -920,12 +961,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-acessorios-para-berbequim/p10047091",
+      "store_stock_id": "10047091",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "86bc98f4ec4210f2",
@@ -942,12 +984,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-amperimetro/p10047087",
+      "store_stock_id": "10047087",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "36a53339f1987f28",
@@ -964,12 +1007,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-bateria-12-v-4-ah/p10047083",
+      "store_stock_id": "10047083",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "afc9b63827878a55",
@@ -986,12 +1030,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-berbequim-percussao-12-v-sem-bateria/p10047073",
+      "store_stock_id": "10047073",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "a1bfd4d2340b0b15",
@@ -1008,12 +1053,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-bolsa-para-ferramentas/p10047075",
+      "store_stock_id": "10047075",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "0f81ad34073f0a64",
@@ -1030,12 +1076,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-conjunto-de-brocas-e-pontas/p10047081",
+      "store_stock_id": "10047081",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2caf207e51fa145e",
@@ -1052,12 +1099,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-conjunto-de-machos-e-caconetes/p10047093",
+      "store_stock_id": "10047093",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "bb717074068a3c69",
@@ -1074,12 +1122,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-conjunto-de-pontas/p10047077",
+      "store_stock_id": "10047077",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "738c9d99c49fe184",
@@ -1096,12 +1145,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-conjunto-de-pontas-de-chave-de-fendas-de-roquete/p10047089",
+      "store_stock_id": "10047089",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "902cb878c4b8b581",
@@ -1118,12 +1168,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-cortador-de-madeira-12-v-sem-bateria/p10047071",
+      "store_stock_id": "10047071",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "a89219494a462201",
@@ -1140,12 +1191,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-lixadora-multifuncoes-12-v/p10047069",
+      "store_stock_id": "10047069",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "8913880cd23c0d95",
@@ -1162,12 +1214,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-luz-led-12-v-sem-bateria/p10047079",
+      "store_stock_id": "10047079",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "f133edcaecc21903",
@@ -1184,12 +1237,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-palmilhas-de-gel/p10047099",
+      "store_stock_id": "10047099",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "c3d6c1ae0294e253",
@@ -1206,12 +1260,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w21/a10095032",
       "product_url": "https://www.lidl.pt/p/parkside-performance-carregador-12-v-2-4-a/p10047085",
+      "store_stock_id": "10047085",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "e75e0553353c3a07",
@@ -1228,12 +1283,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/bestway-jogo-rhino-rumble-para-piscina/p10047500",
+      "store_stock_id": "10047500",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "dd02573210f5637c",
@@ -1250,12 +1306,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/bestway-rolo-para-natacao/p10047464",
+      "store_stock_id": "10047464",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "9aba834f01370768",
@@ -1272,12 +1329,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/cien-beauty-conjunto-de-manicure-pedicure/p10047542",
+      "store_stock_id": "10047542",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2f9777c1f34e7aed",
@@ -1294,12 +1352,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/cien-beauty-escova-de-cabelo/p10047536",
+      "store_stock_id": "10047536",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "aebae0be3cce8f16",
@@ -1316,12 +1375,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/cien-beauty-hidropulsor-para-higiene-oral-3-7-v/p10047538",
+      "store_stock_id": "10047538",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "a67cb75a4c92d1d8",
@@ -1338,12 +1398,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/copacabana-by-ipanema-chinelos-de-homem-senhora/p10047446",
+      "store_stock_id": "10047446",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "99f33ea52c5cefed",
@@ -1360,12 +1421,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-abrigo-solar-para-praia/p10047422",
+      "store_stock_id": "10047422",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "cbc32e6e990cca2d",
@@ -1382,12 +1444,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-bola-em-neopreno/p10047462",
+      "store_stock_id": "10047462",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "d371c4ff66b23a3b",
@@ -1404,12 +1467,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-bomba-sup-remo-sup/p10047410",
+      "store_stock_id": "10047410",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2d6fb4ee1d9ad121",
@@ -1426,12 +1490,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-bomba-de-enchimento-eletrica/p10047468",
+      "store_stock_id": "10047468",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "4c9abe67d2dfe32e",
@@ -1448,12 +1513,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-cadeira-de-praia/p10047430",
+      "store_stock_id": "10047430",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "958d9b79f1b590a3",
@@ -1470,12 +1536,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-calcado-aquatico/p10047458",
+      "store_stock_id": "10047458",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "3eb45aa075982d1b",
@@ -1492,12 +1559,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-calcado-aquatico-para-crianca/p10047508",
+      "store_stock_id": "10047508",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "c403243d97a725da",
@@ -1514,12 +1582,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-calcoes-de-banho/p10047448",
+      "store_stock_id": "10047448",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "99cc5ff6e64cfc6b",
@@ -1536,12 +1605,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-cama-de-rede-para-agua/p10047428",
+      "store_stock_id": "10047428",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "85a1dc36130d3cdf",
@@ -1558,12 +1628,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-chinelos-de-banho-para-crianca/p10046539",
+      "store_stock_id": "10046539",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "8cb9b07449d08bed",
@@ -1580,12 +1651,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-chinelos-de-banho-para-crianca/p10047510",
+      "store_stock_id": "10047510",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "f0e2b6a1a4a4667b",
@@ -1602,12 +1674,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-chinelos-de-banho-para-senhora-homem/p10046521",
+      "store_stock_id": "10046521",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "9cff98a3d687de3e",
@@ -1624,12 +1697,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-colchao-insuflavel/p10047460",
+      "store_stock_id": "10047460",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "c3dd8d4a3c53c0ae",
@@ -1646,12 +1720,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-colchao-com-encosto-regulavel/p10047416",
+      "store_stock_id": "10047416",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "7f959275ce380cbe",
@@ -1668,12 +1743,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-colchao-de-rede-para-agua/p10047450",
+      "store_stock_id": "10047450",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "0b0ac1aa5ecf6530",
@@ -1690,12 +1766,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-espreguicadeira-insuflavel/p10047452",
+      "store_stock_id": "10047452",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "84e3f26b26dd622d",
@@ -1712,12 +1789,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-esteira-de-praia/p10047424",
+      "store_stock_id": "10047424",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "8c6980d3ca3b31f6",
@@ -1734,12 +1812,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-geleira-25-l/p10047420",
+      "store_stock_id": "10047420",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "89bd2717e2758d62",
@@ -1756,12 +1835,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-guarda-sol/p10047426",
+      "store_stock_id": "10047426",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "3f9d62924954d999",
@@ -1778,12 +1858,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-mochila-termica/p10047418",
+      "store_stock_id": "10047418",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "8271d7c7fe4aaafe",
@@ -1800,12 +1881,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-mascara-de-mergulho/p10047454",
+      "store_stock_id": "10047454",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "6ba5fb98ebeca845",
@@ -1822,12 +1904,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-piscina-de-lazer/p10047470",
+      "store_stock_id": "10047470",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "34bd6c5b7b082fbd",
@@ -1844,12 +1927,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-prancha-de-sup-insuflavel/p10047402",
+      "store_stock_id": "10047402",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "b2e328e3e5475748",
@@ -1866,12 +1950,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-rolo-para-natacao/p10047432",
+      "store_stock_id": "10047432",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "5cd16ada1dd012c0",
@@ -1888,12 +1973,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-rosca-de-praia-para-guarda-sol/p10046519",
+      "store_stock_id": "10046519",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "3080e5a456236970",
@@ -1910,12 +1996,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-saco-termico/p10047412",
+      "store_stock_id": "10047412",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "9b38050ffb4cc273",
@@ -1932,12 +2019,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-toalha-de-praia/p10046515",
+      "store_stock_id": "10046515",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "5769463a2ed82765",
@@ -1954,12 +2042,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-toalha-em-microfibra/p10046517",
+      "store_stock_id": "10046517",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "1cccec0f7a877520",
@@ -1976,12 +2065,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/crivit-oculos-de-natacao/p10047456",
+      "store_stock_id": "10047456",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "0baccc388496b551",
@@ -1998,12 +2088,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/disney-brinquedos-de-verao/p10047480",
+      "store_stock_id": "10047480",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "e53f1ec5870ac5e7",
@@ -2020,12 +2111,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/esmara-esmara-men-chinelos-para-senhora-homem/p10047466",
+      "store_stock_id": "10047466",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "36e7a539efb32e13",
@@ -2042,12 +2134,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/happy-people-boia-bola-colchao-insuflavel/p10047512",
+      "store_stock_id": "10047512",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "99c29f9bd0119d52",
@@ -2064,12 +2157,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/happy-people-pistola-de-agua/p10047474",
+      "store_stock_id": "10047474",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "7be3504f0f38e088",
@@ -2086,12 +2180,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/intex-piscina-insuflavel-dino/p10047476",
+      "store_stock_id": "10047476",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "6c347e6c641bb4ec",
@@ -2108,12 +2203,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/jada-toys-saqueta-de-figura-minecraft/p10047566",
+      "store_stock_id": "10047566",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "40a0bef1fc659181",
@@ -2130,12 +2226,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/john-bola-para-crianca/p10047506",
+      "store_stock_id": "10047506",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "5d0dea31950bf629",
@@ -2152,12 +2249,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/john-prancha-de-natacao-para-crianca/p10047514",
+      "store_stock_id": "10047514",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "aff690535b59fb6f",
@@ -2174,12 +2272,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/almofada-de-praia/p10047440",
+      "store_stock_id": "10047440",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "9c65c1e0342d9622",
@@ -2196,12 +2295,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/bola-bracadeiras-boia-insuflavel/p10047482",
+      "store_stock_id": "10047482",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "629f1389edb5f419",
@@ -2218,12 +2318,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/bolas-de-sabao-luminosas/p10047504",
+      "store_stock_id": "10047504",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "08b6c1e648fa9bc2",
@@ -2240,12 +2341,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/calcado-aquatico-para-crianca/p10047516",
+      "store_stock_id": "10047516",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "93bf658d85c73e3e",
@@ -2262,12 +2364,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/conjunto-de-raquetes/p10047442",
+      "store_stock_id": "10047442",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2918b0472af9b43e",
@@ -2284,12 +2387,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/guarda-sol-com-para-vento/p10047434",
+      "store_stock_id": "10047434",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "798cc9b879c9342b",
@@ -2306,12 +2410,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/mochila-bolsa-de-cintura/p10046537",
+      "store_stock_id": "10046537",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "b2e6f5d2c91ed75e",
@@ -2328,12 +2433,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/para-vento-300x100-cm/p10047438",
+      "store_stock_id": "10047438",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "a68c3df84f97aa01",
@@ -2350,12 +2456,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/pa-de-praia/p10047496",
+      "store_stock_id": "10047496",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2fd0c43d427d9e06",
@@ -2372,12 +2479,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/t-shirt-para-rapaz/p10047564",
+      "store_stock_id": "10047564",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "e5bc74f515cfa48a",
@@ -2394,12 +2502,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/toalha-praia-180-cm/p10047436",
+      "store_stock_id": "10047436",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "32c1dbd1645a0f9e",
@@ -2416,12 +2525,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-conjunto-de-toalhas-de-banho/p10047532",
+      "store_stock_id": "10047532",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "bb4a236fd1f646db",
@@ -2438,12 +2548,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-estante-toalheiro-em-bambu/p10047534",
+      "store_stock_id": "10047534",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "f2828526dde42393",
@@ -2460,12 +2571,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-tampo-para-sanita/p10047540",
+      "store_stock_id": "10047540",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "e041e8c13ce50e51",
@@ -2482,12 +2594,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-tapete-para-casa-de-banho/p10047544",
+      "store_stock_id": "10047544",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "48960ef14f15771a",
@@ -2504,12 +2617,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-boxers-para-menino/p10047560",
+      "store_stock_id": "10047560",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "5d82fbfc847bd94e",
@@ -2526,12 +2640,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-calcoes-sweat-para-menino/p10047556",
+      "store_stock_id": "10047556",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "f00ddaa84d83ff52",
@@ -2548,12 +2663,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-conjunto-para-brincar-na-areia/p10046525",
+      "store_stock_id": "10046525",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "adf5580fddb7c353",
@@ -2570,12 +2686,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-conjunto-para-brincar-na-areia/p10047498",
+      "store_stock_id": "10047498",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "5f350033d063905c",
@@ -2592,12 +2709,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-corsarios-para-menina/p10047552",
+      "store_stock_id": "10047552",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "8a8d94c6727ebc61",
@@ -2614,12 +2732,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-cuecas-para-menina/p10047558",
+      "store_stock_id": "10047558",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "e48e45e132412785",
@@ -2636,12 +2755,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-escorrega-insuflavel-piscina-infantil/p10047486",
+      "store_stock_id": "10047486",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "212000d577a5e9f6",
@@ -2658,12 +2778,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-jogo-de-bolas-de-sabao/p10047492",
+      "store_stock_id": "10047492",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "c772f3f9fa4a225d",
@@ -2680,12 +2801,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-mala-com-brinquedos-de-praia/p10047478",
+      "store_stock_id": "10047478",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "94e75f2eba5be08a",
@@ -2702,12 +2824,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-meias-desportivas/p10047562",
+      "store_stock_id": "10047562",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "5861994a263000c1",
@@ -2724,12 +2847,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-maquina-de-bolhas-de-sabao/p10047472",
+      "store_stock_id": "10047472",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "a6ff199448093400",
@@ -2746,12 +2870,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-piscina-para-crianca/p10047490",
+      "store_stock_id": "10047490",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2cf80d070c78e01c",
@@ -2768,12 +2893,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-piscina-aspersor-de-agua-para-crianca/p10047488",
+      "store_stock_id": "10047488",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "40bc4901469e35f1",
@@ -2790,12 +2916,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-pistola-eletrica-de-agua/p10047494",
+      "store_stock_id": "10047494",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "04b4bd2a13045abd",
@@ -2812,12 +2939,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-pistola-de-agua-com-tanque/p10047502",
+      "store_stock_id": "10047502",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "6278e08205384f47",
@@ -2834,12 +2962,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-poncho-para-crianca/p10047484",
+      "store_stock_id": "10047484",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "9658dbe98eba0b6a",
@@ -2856,12 +2985,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-t-shirt-para-crianca/p10047550",
+      "store_stock_id": "10047550",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "e29aa53814f427a2",
@@ -2878,12 +3008,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/lupilu-t-shirt-para-menina/p10047554",
+      "store_stock_id": "10047554",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "1e9c38c8e51aa08d",
@@ -2900,12 +3031,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/stark-bolsa-estanque-para-telemovel/p10047414",
+      "store_stock_id": "10047414",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "d7a70122967092bb",
@@ -2922,12 +3054,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/super-mario-material-para-escrita/p10047568",
+      "store_stock_id": "10047568",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "f9ace5dbbef725c5",
@@ -2944,12 +3077,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/super-mario-minecraft-pijama-curto-para-rapaz/p10047404",
+      "store_stock_id": "10047404",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "d6186751bdcfb1bc",
@@ -2966,12 +3100,13 @@
       "source_title": "Bebé, Criança e Brinquedos",
       "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "product_url": "https://www.lidl.pt/p/tesa-fita-adesiva-transparente/p10047518",
+      "store_stock_id": "10047518",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "70d52df03b701254",
@@ -2988,12 +3123,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/tronic-radio-para-casa-de-banho/p10047546",
+      "store_stock_id": "10047546",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "360a07f50d455686",
@@ -3010,12 +3146,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/tronic-ventilador-de-mesa/p10047548",
+      "store_stock_id": "10047548",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "73958c2e5f29996a",
@@ -3032,12 +3169,13 @@
       "source_title": "Verão Crivit",
       "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "product_url": "https://www.lidl.pt/p/vitalmaxx-pistola-de-massagem-muscular/p10047444",
+      "store_stock_id": "10047444",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "35f57ef3f9ddbaad",
@@ -3054,12 +3192,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/3m-fita-autocolante-para-exterior/p10047618",
+      "store_stock_id": "10047618",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "441968dfa3c85e57",
@@ -3076,12 +3215,13 @@
       "source_title": "Moda Esmara",
       "source_url": "https://www.lidl.pt/c/moda-esmara-w22/a10095387",
       "product_url": "https://www.lidl.pt/p/esmara-blazer/p10047620",
+      "store_stock_id": "10047620",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "00de158b867d5a9b",
@@ -3098,12 +3238,13 @@
       "source_title": "Moda Esmara",
       "source_url": "https://www.lidl.pt/c/moda-esmara-w22/a10095387",
       "product_url": "https://www.lidl.pt/p/esmara-blusa-bordada/p10047626",
+      "store_stock_id": "10047626",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "d00a8065d09e758a",
@@ -3120,12 +3261,13 @@
       "source_title": "Moda Esmara",
       "source_url": "https://www.lidl.pt/c/moda-esmara-w22/a10095387",
       "product_url": "https://www.lidl.pt/p/esmara-calcas-de-perna-larga/p10047624",
+      "store_stock_id": "10047624",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "b771c658944ef204",
@@ -3142,12 +3284,13 @@
       "source_title": "Moda Esmara",
       "source_url": "https://www.lidl.pt/c/moda-esmara-w22/a10095387",
       "product_url": "https://www.lidl.pt/p/esmara-t-shirt/p10047622",
+      "store_stock_id": "10047622",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "6fb05d918579dc4e",
@@ -3164,12 +3307,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-cortina-mosquiteira-com-lamelas/p10047576",
+      "store_stock_id": "10047576",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "3704fcef6773842b",
@@ -3186,12 +3330,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-janela-de-correr-para-protecao-contra-insetos/p10047570",
+      "store_stock_id": "10047570",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "4dcc65dce5f698c3",
@@ -3208,12 +3353,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-janela-para-protecao-contra-insetos/p10047574",
+      "store_stock_id": "10047574",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "12e8a2aae64738ba",
@@ -3230,12 +3376,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-janela-para-protecao-contra-insetos/p10047408",
+      "store_stock_id": "10047408",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "61537de271819b04",
@@ -3252,12 +3399,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-lampada-eliminadora-de-insetos-4-7-w/p10047584",
+      "store_stock_id": "10047584",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2a99a7835471c15a",
@@ -3274,12 +3422,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-porta-para-protecao-contra-insetos/p10047578",
+      "store_stock_id": "10047578",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "1859c6099314f261",
@@ -3296,12 +3445,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-rede-mosquiteira/p10047580",
+      "store_stock_id": "10047580",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "82a819253b9d3d1a",
@@ -3318,12 +3468,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-rede-mosquiteira-para-porta/p10047582",
+      "store_stock_id": "10047582",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "40a1f23a2da567f5",
@@ -3340,12 +3491,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-rede-para-protecao-de-insetos-magnetica/p10047572",
+      "store_stock_id": "10047572",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "683d1898b7f46544",
@@ -3362,12 +3514,13 @@
       "source_title": "Casa e Decoração Livarno",
       "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "product_url": "https://www.lidl.pt/p/livarno-repelente-eletrico-com-led/p10047586",
+      "store_stock_id": "10047586",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "4bbe243c8b6180d0",
@@ -3384,12 +3537,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-acessorios-para-rebarbadora/p10047590",
+      "store_stock_id": "10047590",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "de24a83249237b5b",
@@ -3406,12 +3560,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-alicate/p10047606",
+      "store_stock_id": "10047606",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "bf60e8a10ecd1f5e",
@@ -3428,12 +3583,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-alicate-de-pressao/p10047596",
+      "store_stock_id": "10047596",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "82ac3a5f8e52ab79",
@@ -3450,12 +3606,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-aparafusadora-4-v-a-bateria/p10047598",
+      "store_stock_id": "10047598",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "f9adfcb18817115a",
@@ -3472,12 +3629,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-capacete-de-soldadura-automatico/p10047594",
+      "store_stock_id": "10047594",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "4b5f235bb4489ca7",
@@ -3494,12 +3652,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-conjunto-de-limas-de-oficina/p10047592",
+      "store_stock_id": "10047592",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "45b5146c4d49b9dc",
@@ -3516,12 +3675,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-desentupidor-de-canos-de-ar-comprimido/p10047612",
+      "store_stock_id": "10047612",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "2662254700a9a6a9",
@@ -3538,12 +3698,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-fio-para-soldar/p10047610",
+      "store_stock_id": "10047610",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "74000eff10f21b2f",
@@ -3560,12 +3721,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-lanterna-led-a-bateria/p10047600",
+      "store_stock_id": "10047600",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "363d207c5fc3096e",
@@ -3582,12 +3744,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-lixadora-conjunto-de-folhas-de-lixa/p10047616",
+      "store_stock_id": "10047616",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "ae693f4f3722100a",
@@ -3604,12 +3767,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-medidor-de-distancia-a-laser/p10047608",
+      "store_stock_id": "10047608",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "056a95ee7d54e82d",
@@ -3626,12 +3790,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-perfuradora-de-bancada-400-w/p10047588",
+      "store_stock_id": "10047588",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "91ba454cb8290e08",
@@ -3648,12 +3813,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-pe-de-cabra-alavanca/p10047604",
+      "store_stock_id": "10047604",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "d276ca6223605cec",
@@ -3670,12 +3836,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-rebarbadora-angular-750-w/p10047406",
+      "store_stock_id": "10047406",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "f231812e6ffde5e7",
@@ -3692,12 +3859,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/parkside-oleo-multiusos/p10047614",
+      "store_stock_id": "10047614",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     },
     {
       "id": "9ac3a441bee56f7a",
@@ -3714,12 +3882,13 @@
       "source_title": "Ferramentas Parkside",
       "source_url": "https://www.lidl.pt/c/ferramentas-parkside-w22/a10095385",
       "product_url": "https://www.lidl.pt/p/tronic-pilhas-tipo-botao/p10047602",
+      "store_stock_id": "10047602",
       "source_type": "official_campaign_page",
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T11:54:30Z",
-      "last_seen": "2026-05-22T11:54:30Z"
+      "first_seen": "2026-05-22T12:38:35Z",
+      "last_seen": "2026-05-22T12:38:35Z"
     }
   ],
   "campaigns": [
