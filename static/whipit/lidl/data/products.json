@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T08:56:58Z",
+  "generated_at": "2026-05-22T09:21:34Z",
   "source": "lidl.pt official campaign and leaflet pages",
   "product_count": 165,
   "products": [
@@ -21,8 +21,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "d6f83a80c926529e",
@@ -42,8 +42,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2b1c31632dd2e11b",
@@ -63,8 +63,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "8f8ca917f51c533a",
@@ -84,8 +84,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "5063a8af05e80560",
@@ -105,8 +105,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "9cca72eaa3e47fc2",
@@ -126,8 +126,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "6dbf1851ea5376d0",
@@ -147,8 +147,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "cd28af8b20bcd9e8",
@@ -168,8 +168,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "dc7c9fb41f127b26",
@@ -189,8 +189,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "4d93f5bbeaf1401b",
@@ -210,8 +210,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "3dc46a199d04a98f",
@@ -231,8 +231,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "fb16f6f875937390",
@@ -252,8 +252,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "1c9f3ffd4aa1102a",
@@ -273,8 +273,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "920589260bc5c778",
@@ -294,8 +294,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "0b9050984349489e",
@@ -315,8 +315,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2f40bb8f99635b71",
@@ -336,8 +336,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "c7919389449d4719",
@@ -357,8 +357,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "486e654d47e97d57",
@@ -378,8 +378,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "3da9f99c99a0b838",
@@ -399,8 +399,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "595659d656115c86",
@@ -420,8 +420,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "9a6b65ecb7c2866d",
@@ -441,8 +441,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "bfa055e1bc25c229",
@@ -462,8 +462,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "96e80f7380df36fc",
@@ -483,8 +483,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "8598f36922ca209c",
@@ -504,8 +504,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "f655239263dd8792",
@@ -525,8 +525,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "54f86fe9baca124e",
@@ -546,8 +546,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "4bdc7e648b77cbb5",
@@ -567,8 +567,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "306326f13b1fdc1c",
@@ -588,8 +588,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "c3c240b078b6fac0",
@@ -609,8 +609,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "42e0d606e5b5c17e",
@@ -630,8 +630,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "4554b6720a43a351",
@@ -651,8 +651,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "b79ca49828a55945",
@@ -672,8 +672,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "052b4eb82273d83f",
@@ -693,8 +693,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "6dfc9bf8f842a298",
@@ -714,8 +714,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "c09e88aa4c25704c",
@@ -735,8 +735,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "ff033258a38ddae2",
@@ -756,8 +756,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "5ee4ee3e37742449",
@@ -777,8 +777,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "d2e830399795db5d",
@@ -798,8 +798,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "f81b98b313a10fc5",
@@ -819,8 +819,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "c05e79aca0fb58f7",
@@ -840,8 +840,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "ce5f1fa10762b93d",
@@ -861,8 +861,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "3bc43e9d0a721d8a",
@@ -882,8 +882,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "86bc98f4ec4210f2",
@@ -903,8 +903,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "36a53339f1987f28",
@@ -924,8 +924,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "afc9b63827878a55",
@@ -945,8 +945,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "a1bfd4d2340b0b15",
@@ -966,8 +966,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "0f81ad34073f0a64",
@@ -987,8 +987,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2caf207e51fa145e",
@@ -1008,8 +1008,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "bb717074068a3c69",
@@ -1029,8 +1029,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "738c9d99c49fe184",
@@ -1050,8 +1050,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "902cb878c4b8b581",
@@ -1071,8 +1071,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "a89219494a462201",
@@ -1092,8 +1092,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "8913880cd23c0d95",
@@ -1113,8 +1113,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "f133edcaecc21903",
@@ -1134,8 +1134,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "c3d6c1ae0294e253",
@@ -1155,8 +1155,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "e75e0553353c3a07",
@@ -1176,8 +1176,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "dd02573210f5637c",
@@ -1197,8 +1197,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "9aba834f01370768",
@@ -1218,8 +1218,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2f9777c1f34e7aed",
@@ -1239,8 +1239,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "aebae0be3cce8f16",
@@ -1260,8 +1260,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "a67cb75a4c92d1d8",
@@ -1281,8 +1281,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "99f33ea52c5cefed",
@@ -1302,8 +1302,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "cbc32e6e990cca2d",
@@ -1323,8 +1323,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "d371c4ff66b23a3b",
@@ -1344,8 +1344,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2d6fb4ee1d9ad121",
@@ -1365,8 +1365,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "4c9abe67d2dfe32e",
@@ -1386,8 +1386,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "958d9b79f1b590a3",
@@ -1407,8 +1407,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "3eb45aa075982d1b",
@@ -1428,8 +1428,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "c403243d97a725da",
@@ -1449,8 +1449,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "99cc5ff6e64cfc6b",
@@ -1470,8 +1470,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "85a1dc36130d3cdf",
@@ -1491,8 +1491,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "8cb9b07449d08bed",
@@ -1512,8 +1512,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "f0e2b6a1a4a4667b",
@@ -1533,8 +1533,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "9cff98a3d687de3e",
@@ -1554,8 +1554,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "c3dd8d4a3c53c0ae",
@@ -1575,8 +1575,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "7f959275ce380cbe",
@@ -1596,8 +1596,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "0b0ac1aa5ecf6530",
@@ -1617,8 +1617,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "84e3f26b26dd622d",
@@ -1638,8 +1638,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "8c6980d3ca3b31f6",
@@ -1659,8 +1659,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "89bd2717e2758d62",
@@ -1680,8 +1680,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "3f9d62924954d999",
@@ -1701,8 +1701,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "8271d7c7fe4aaafe",
@@ -1722,8 +1722,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "6ba5fb98ebeca845",
@@ -1743,8 +1743,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "34bd6c5b7b082fbd",
@@ -1764,8 +1764,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "b2e328e3e5475748",
@@ -1785,8 +1785,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "5cd16ada1dd012c0",
@@ -1806,8 +1806,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "3080e5a456236970",
@@ -1827,8 +1827,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "9b38050ffb4cc273",
@@ -1848,8 +1848,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "5769463a2ed82765",
@@ -1869,8 +1869,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "1cccec0f7a877520",
@@ -1890,8 +1890,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "0baccc388496b551",
@@ -1911,8 +1911,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "e53f1ec5870ac5e7",
@@ -1932,8 +1932,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "36e7a539efb32e13",
@@ -1953,8 +1953,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "99c29f9bd0119d52",
@@ -1974,8 +1974,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "7be3504f0f38e088",
@@ -1995,8 +1995,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "6c347e6c641bb4ec",
@@ -2016,8 +2016,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "40a0bef1fc659181",
@@ -2037,8 +2037,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "5d0dea31950bf629",
@@ -2058,8 +2058,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "aff690535b59fb6f",
@@ -2079,8 +2079,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "9c65c1e0342d9622",
@@ -2100,8 +2100,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "629f1389edb5f419",
@@ -2121,8 +2121,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "08b6c1e648fa9bc2",
@@ -2142,8 +2142,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "93bf658d85c73e3e",
@@ -2163,8 +2163,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2918b0472af9b43e",
@@ -2184,8 +2184,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "798cc9b879c9342b",
@@ -2205,8 +2205,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "b2e6f5d2c91ed75e",
@@ -2226,8 +2226,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "a68c3df84f97aa01",
@@ -2247,8 +2247,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2fd0c43d427d9e06",
@@ -2268,8 +2268,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "e5bc74f515cfa48a",
@@ -2289,8 +2289,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "32c1dbd1645a0f9e",
@@ -2310,8 +2310,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "bb4a236fd1f646db",
@@ -2331,8 +2331,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "f2828526dde42393",
@@ -2352,8 +2352,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "e041e8c13ce50e51",
@@ -2373,8 +2373,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "48960ef14f15771a",
@@ -2394,8 +2394,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "5d82fbfc847bd94e",
@@ -2415,8 +2415,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "f00ddaa84d83ff52",
@@ -2436,8 +2436,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "adf5580fddb7c353",
@@ -2457,8 +2457,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "5f350033d063905c",
@@ -2478,8 +2478,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "8a8d94c6727ebc61",
@@ -2499,8 +2499,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "e48e45e132412785",
@@ -2520,8 +2520,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "212000d577a5e9f6",
@@ -2541,8 +2541,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "c772f3f9fa4a225d",
@@ -2562,8 +2562,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "94e75f2eba5be08a",
@@ -2583,8 +2583,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "5861994a263000c1",
@@ -2604,8 +2604,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "a6ff199448093400",
@@ -2625,8 +2625,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2cf80d070c78e01c",
@@ -2646,8 +2646,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "40bc4901469e35f1",
@@ -2667,8 +2667,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "04b4bd2a13045abd",
@@ -2688,8 +2688,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "6278e08205384f47",
@@ -2709,8 +2709,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "9658dbe98eba0b6a",
@@ -2730,8 +2730,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "e29aa53814f427a2",
@@ -2751,8 +2751,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "1e9c38c8e51aa08d",
@@ -2772,8 +2772,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "d7a70122967092bb",
@@ -2793,8 +2793,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "f9ace5dbbef725c5",
@@ -2814,8 +2814,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "d6186751bdcfb1bc",
@@ -2835,8 +2835,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "70d52df03b701254",
@@ -2856,8 +2856,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "360a07f50d455686",
@@ -2877,8 +2877,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "73958c2e5f29996a",
@@ -2898,8 +2898,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "35f57ef3f9ddbaad",
@@ -2919,8 +2919,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "6fb05d918579dc4e",
@@ -2940,8 +2940,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "3704fcef6773842b",
@@ -2961,8 +2961,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "4dcc65dce5f698c3",
@@ -2982,8 +2982,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "12e8a2aae64738ba",
@@ -3003,8 +3003,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "61537de271819b04",
@@ -3024,8 +3024,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2a99a7835471c15a",
@@ -3045,8 +3045,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "1859c6099314f261",
@@ -3066,8 +3066,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "82a819253b9d3d1a",
@@ -3087,8 +3087,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "40a1f23a2da567f5",
@@ -3108,8 +3108,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "683d1898b7f46544",
@@ -3129,8 +3129,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "4bbe243c8b6180d0",
@@ -3150,8 +3150,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "de24a83249237b5b",
@@ -3171,8 +3171,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "bf60e8a10ecd1f5e",
@@ -3192,8 +3192,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "82ac3a5f8e52ab79",
@@ -3213,8 +3213,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "f9adfcb18817115a",
@@ -3234,8 +3234,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "4b5f235bb4489ca7",
@@ -3255,8 +3255,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "45b5146c4d49b9dc",
@@ -3276,8 +3276,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "2662254700a9a6a9",
@@ -3297,8 +3297,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "74000eff10f21b2f",
@@ -3318,8 +3318,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "363d207c5fc3096e",
@@ -3339,8 +3339,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "ae693f4f3722100a",
@@ -3360,8 +3360,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "056a95ee7d54e82d",
@@ -3381,8 +3381,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "91ba454cb8290e08",
@@ -3402,8 +3402,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "d276ca6223605cec",
@@ -3423,8 +3423,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "f231812e6ffde5e7",
@@ -3444,8 +3444,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     },
     {
       "id": "9ac3a441bee56f7a",
@@ -3465,8 +3465,8 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T08:56:58Z",
-      "last_seen": "2026-05-22T08:56:58Z"
+      "first_seen": "2026-05-22T09:21:34Z",
+      "last_seen": "2026-05-22T09:21:34Z"
     }
   ],
   "campaigns": [
