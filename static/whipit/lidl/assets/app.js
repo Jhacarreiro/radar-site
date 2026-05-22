@@ -53,24 +53,21 @@ function fold(s){return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/
 function km(a,b,c,d){const R=6371,toRad=x=>x*Math.PI/180;const dLat=toRad(c-a),dLon=toRad(d-b);const x=Math.sin(dLat/2)**2+Math.cos(toRad(a))*Math.cos(toRad(c))*Math.sin(dLon/2)**2;return 2*R*Math.asin(Math.sqrt(x))}
 function todayHours(store){const items=(store.opening_hours&&store.opening_hours.items)||[];const today=new Date().toISOString().slice(0,10);let item=items.find(x=>x.date===today)||items[0];if(!item)return 'Horário n/d';const ranges=item.timeRanges||[];if(!ranges.length)return 'Fechado';return ranges.map(r=>`${(r.from||'').slice(11,16)}–${(r.to||'').slice(11,16)}`).join(', ')}
 function mapsUrl(s){return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${s.latitude},${s.longitude}`)}`}
-function lidlStoreId(id){const n=String(id||'').replace(/[^0-9]/g,''); return n?String(parseInt(n,10)):''}
-function availabilityMeta(indicator,store){
-  const v=String(indicator||'UNKNOWN').toUpperCase();
-  if(v==='AVAILABLE'||v==='HIGH_STOCK') return {bars:'▰▰▰',label:'Disponível',cls:'available'};
-  if(v==='LOW_STOCK') return {bars:'▰▰▱',label:'Últimas unidades',cls:'low'};
-  if(v==='SOLD_OUT'||v==='NOT_IN_THIS_STORE') return {bars:'▰▱▱',label:'Indisponível',cls:'no'};
-  return {bars:'▱▱▱',label:'Sem informação',cls:'unknown'};
-}
+const availabilityApi='https://webhook.gallivanter.biz/api/lidl/availability';
 async function fetchAvailability(stores){
   if(!currentProduct||!currentProduct.availabilityId) return new Map();
   if(availabilityAbort) availabilityAbort.abort();
   availabilityAbort=new AbortController();
-  const ids=stores.map(s=>lidlStoreId(s.id)).filter(Boolean).join(',');
-  if(!ids) return new Map();
-  const url=`https://www.lidl.pt/p/api/storestock/PT/pt/${encodeURIComponent(currentProduct.availabilityId)}?storeids=${ids}`;
-  const res=await fetch(url,{signal:availabilityAbort.signal,cache:'no-cache'});
-  const rows=await res.json();
-  return new Map((Array.isArray(rows)?rows:[]).map(r=>[String(r.storeId),r.storeAvailabilityIndicator]));
+  const res=await fetch(availabilityApi,{
+    method:'POST',
+    signal:availabilityAbort.signal,
+    cache:'no-cache',
+    headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({product_code:currentProduct.availabilityId,store_ids:stores.map(s=>s.id)})
+  });
+  if(!res.ok) throw new Error('availability_api_failed');
+  const data=await res.json();
+  return new Map((data.stores||[]).map(r=>[String(r.store_id),r]));
 }
 function candidateStores(){
   if(!storesCache) return [];
@@ -91,20 +88,20 @@ async function verifyStores(){
   statusBox.textContent=`A consultar disponibilidade em ${rows.length} lojas…`;
   try{
     const map=await fetchAvailability(rows);
-    const indicators=rows.map(s=>map.get(lidlStoreId(s.id))||'UNKNOWN');
-    list.innerHTML=rows.map((s,i)=>storeCard(s,indicators[i],false)).join('');
-    const allUnknown=indicators.every(v=>String(v||'UNKNOWN').toUpperCase()==='UNKNOWN');
+    const results=rows.map(s=>map.get(s.id)||{bars:'▱▱▱',label:'Sem informação',class:'unknown'});
+    list.innerHTML=rows.map((s,i)=>storeCard(s,results[i],false)).join('');
+    const allUnknown=results.every(v=>(v.class||'unknown')==='unknown');
     statusBox.textContent=allUnknown?'Sem informação para estas lojas.':(userPos?`${rows.length} lojas mais próximas`:`${rows.length} lojas para “${term}”`);
   }catch(e){
     if(e.name==='AbortError') return;
-    list.innerHTML=rows.map(s=>storeCard(s,'UNKNOWN',false)).join('');
+    list.innerHTML=rows.map(s=>storeCard(s,{bars:'▱▱▱',label:'Sem informação',class:'unknown'},false)).join('');
     statusBox.textContent='Não consegui consultar a Lidl agora.';
   }
 }
-function storeCard(s,indicator,loading){
-  const meta=loading?{bars:'…',label:'A consultar',cls:'loading'}:availabilityMeta(indicator,s);
+function storeCard(s,result,loading){
+  const meta=loading?{bars:'…',label:'A consultar',class:'loading'}:(result||{bars:'▱▱▱',label:'Sem informação',class:'unknown'});
   const dist=s._dist!=null?`<span>${s._dist.toFixed(s._dist<10?1:0)} km</span>`:'';
-  return `<article class="store-card availability ${meta.cls}"><div><h3>${escapeHtml(s.city||'Lidl')}</h3><p>${escapeHtml(s.street||'')}</p><div class="store-meta">${dist}<span>${escapeHtml(todayHours(s))}</span></div></div><div class="store-stock"><b>${escapeHtml(meta.bars)}</b><span>${escapeHtml(meta.label)}</span></div><div class="store-actions"><a href="${mapsUrl(s)}" target="_blank" rel="nofollow noopener">Maps</a><a href="${escapeAttr(s.official_url||'https://www.lidl.pt/c/lojas-e-horarios/s10020746')}" target="_blank" rel="nofollow noopener">Lidl</a></div></article>`
+  return `<article class="store-card availability ${meta.class}"><div><h3>${escapeHtml(s.city||'Lidl')}</h3><p>${escapeHtml(s.street||'')}</p><div class="store-meta">${dist}<span>${escapeHtml(todayHours(s))}</span></div></div><div class="store-stock"><b>${escapeHtml(meta.bars)}</b><span>${escapeHtml(meta.label)}</span></div><div class="store-actions"><a href="${mapsUrl(s)}" target="_blank" rel="nofollow noopener">Maps</a><a href="${escapeAttr(s.official_url||'https://www.lidl.pt/c/lojas-e-horarios/s10020746')}" target="_blank" rel="nofollow noopener">Lidl</a></div></article>`
 }
 storeSearch&&storeSearch.addEventListener('input',()=>{clearTimeout(availabilityTimer);availabilityTimer=setTimeout(()=>verifyStores(),350)});
 useLocation&&useLocation.addEventListener('click',()=>{if(!navigator.geolocation){statusBox.textContent='Localização não disponível neste browser.';return}statusBox.textContent='A pedir localização…';navigator.geolocation.getCurrentPosition(pos=>{userPos={lat:pos.coords.latitude,lon:pos.coords.longitude};verifyStores()},()=>{statusBox.textContent='Não consegui obter localização. Podes escrever cidade ou rua.'},{enableHighAccuracy:false,timeout:10000,maximumAge:300000})});
