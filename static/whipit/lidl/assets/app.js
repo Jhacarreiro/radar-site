@@ -29,12 +29,12 @@ function apply(){
 apply();
 
 const base='/whipit/lidl';
-const modal=document.getElementById('shops-modal'), list=document.getElementById('shops-list'), statusBox=document.getElementById('shops-status'), storeSearch=document.getElementById('store-search'), useLocation=document.getElementById('use-location'), productBox=document.getElementById('availability-product'), productLink=document.getElementById('availability-product-link');
-let storesCache=null,userPos=null,currentProduct=null,availabilityAbort=null,availabilityTimer=null;
+const modal=document.getElementById('shops-modal'), list=document.getElementById('shops-list'), statusBox=document.getElementById('shops-status'), storeSearch=document.getElementById('store-search'), useLocation=document.getElementById('use-location'), productBox=document.getElementById('availability-product'), productLink=document.getElementById('availability-product-link'), debugToggle=document.getElementById('availability-debug-toggle'), debugBox=document.getElementById('availability-debug');
+let storesCache=null,userPos=null,currentProduct=null,availabilityAbort=null,availabilityTimer=null,lastDebug=null;
 function openAvailability(card){
   currentProduct={title:card.dataset.productTitle,brand:card.dataset.productBrand,price:card.dataset.productPrice,date:card.dataset.productDateLabel,unit:card.dataset.productUnit,url:card.dataset.productUrl,availabilityId:card.dataset.availabilityId,globalAvailable:card.dataset.globalAvailable==='1',globalText:card.dataset.globalAvailabilityText||''};
   modal.hidden=false;document.body.classList.add('modal-open');
-  storeSearch.value=''; userPos=null; list.innerHTML='';
+  storeSearch.value=''; userPos=null; list.innerHTML=''; lastDebug=null; if(debugBox){debugBox.hidden=true;debugBox.textContent='';}
   renderProductHeader();
   statusBox.textContent=currentProduct.availabilityId?'Usa localização ou escreve cidade/rua para verificar até 5 lojas.':'Este produto não tem identificador de disponibilidade.';
   loadStores();
@@ -70,9 +70,24 @@ async function fetchAvailability(stores){
   const ids=stores.map(s=>lidlStoreId(s.id)).filter(Boolean).join(',');
   if(!ids) return new Map();
   const url=`https://www.lidl.pt/p/api/storestock/PT/pt/${encodeURIComponent(currentProduct.availabilityId)}?storeids=${ids}`;
-  const res=await fetch(url,{signal:availabilityAbort.signal,cache:'no-cache'});
-  const rows=await res.json();
-  return new Map((Array.isArray(rows)?rows:[]).map(r=>[String(r.storeId).padStart(5,'0'),r.storeAvailabilityIndicator]));
+  const debug={product:currentProduct,storeIds:ids,requestUrl:url,requestedAt:new Date().toISOString(),responseStatus:null,response:null,error:null};
+  try{
+    const res=await fetch(url,{signal:availabilityAbort.signal,cache:'no-cache'});
+    debug.responseStatus=res.status;
+    const rows=await res.json();
+    debug.response=rows;
+    lastDebug=debug; renderDebug();
+    return new Map((Array.isArray(rows)?rows:[]).map(r=>[String(r.storeId).padStart(5,'0'),r.storeAvailabilityIndicator]));
+  }catch(e){
+    debug.error={name:e.name,message:e.message};
+    lastDebug=debug; renderDebug();
+    throw e;
+  }
+}
+function renderDebug(){
+  if(!debugBox) return;
+  if(!lastDebug){debugBox.textContent='Sem chamada ainda. Usa localização ou escreve cidade/rua.';return;}
+  debugBox.textContent=JSON.stringify(lastDebug,null,2);
 }
 function candidateStores(){
   if(!storesCache) return [];
@@ -108,6 +123,7 @@ function storeCard(s,indicator,loading){
   const dist=s._dist!=null?`<span>${s._dist.toFixed(s._dist<10?1:0)} km</span>`:'';
   return `<article class="store-card availability ${meta.cls}"><div><h3>${escapeHtml(s.city||'Lidl')}</h3><p>${escapeHtml(s.street||'')}</p><div class="store-meta">${dist}<span>${escapeHtml(todayHours(s))}</span></div></div><div class="store-stock"><b>${escapeHtml(meta.bars)}</b><span>${escapeHtml(meta.label)}</span></div><div class="store-actions"><a href="${mapsUrl(s)}" target="_blank" rel="nofollow noopener">Maps</a><a href="${escapeAttr(s.official_url||'https://www.lidl.pt/c/lojas-e-horarios/s10020746')}" target="_blank" rel="nofollow noopener">Lidl</a></div></article>`
 }
+debugToggle&&debugToggle.addEventListener('click',()=>{if(!debugBox)return;debugBox.hidden=!debugBox.hidden;renderDebug();});
 storeSearch&&storeSearch.addEventListener('input',()=>{clearTimeout(availabilityTimer);availabilityTimer=setTimeout(()=>verifyStores(),350)});
 useLocation&&useLocation.addEventListener('click',()=>{if(!navigator.geolocation){statusBox.textContent='Localização não disponível neste browser.';return}statusBox.textContent='A pedir localização…';navigator.geolocation.getCurrentPosition(pos=>{userPos={lat:pos.coords.latitude,lon:pos.coords.longitude};verifyStores()},()=>{statusBox.textContent='Não consegui obter localização. Podes escrever cidade ou rua.'},{enableHighAccuracy:false,timeout:10000,maximumAge:300000})});
 function escapeHtml(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
