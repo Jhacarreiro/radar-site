@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-22T14:27:32Z",
+  "generated_at": "2026-05-22T15:10:58Z",
   "source": "lidl.pt official campaign and leaflet pages",
-  "product_count": 169,
+  "product_count": 162,
   "products": [
     {
       "id": "5e29764b627a8642",
@@ -23,9 +23,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "d6f83a80c926529e",
@@ -47,9 +58,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "2b1c31632dd2e11b",
@@ -71,9 +93,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "8f8ca917f51c533a",
@@ -95,9 +128,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "5063a8af05e80560",
@@ -119,9 +163,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "9cca72eaa3e47fc2",
@@ -143,9 +198,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "6dbf1851ea5376d0",
@@ -167,9 +233,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "cd28af8b20bcd9e8",
@@ -191,9 +268,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "dc7c9fb41f127b26",
@@ -215,9 +303,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "4d93f5bbeaf1401b",
@@ -239,9 +338,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "3dc46a199d04a98f",
@@ -263,9 +373,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "fb16f6f875937390",
@@ -287,9 +408,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "1c9f3ffd4aa1102a",
@@ -311,9 +443,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "920589260bc5c778",
@@ -335,9 +478,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "0b9050984349489e",
@@ -359,9 +513,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "2f40bb8f99635b71",
@@ -383,9 +548,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "c7919389449d4719",
@@ -407,9 +583,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "486e654d47e97d57",
@@ -431,9 +618,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "3da9f99c99a0b838",
@@ -455,9 +653,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "595659d656115c86",
@@ -479,9 +688,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "9a6b65ecb7c2866d",
@@ -503,9 +723,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "bfa055e1bc25c229",
@@ -527,9 +758,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "96e80f7380df36fc",
@@ -551,9 +793,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "8598f36922ca209c",
@@ -575,9 +828,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "f655239263dd8792",
@@ -599,9 +863,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "54f86fe9baca124e",
@@ -623,9 +898,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "4bdc7e648b77cbb5",
@@ -647,9 +933,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "306326f13b1fdc1c",
@@ -671,9 +968,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "c3c240b078b6fac0",
@@ -695,9 +1003,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "42e0d606e5b5c17e",
@@ -719,9 +1038,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "4554b6720a43a351",
@@ -743,9 +1073,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "b79ca49828a55945",
@@ -767,9 +1108,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "052b4eb82273d83f",
@@ -791,9 +1143,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "6dfc9bf8f842a298",
@@ -815,9 +1178,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 18.05. - 24.05.",
+          "Disponível na loja 18.05. - 24.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "c09e88aa4c25704c",
@@ -839,9 +1213,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "ff033258a38ddae2",
@@ -863,9 +1248,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "5ee4ee3e37742449",
@@ -887,9 +1283,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "d2e830399795db5d",
@@ -911,9 +1318,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "f81b98b313a10fc5",
@@ -935,9 +1353,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "c05e79aca0fb58f7",
@@ -959,9 +1388,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "ce5f1fa10762b93d",
@@ -983,9 +1423,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "3bc43e9d0a721d8a",
@@ -1007,9 +1458,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "86bc98f4ec4210f2",
@@ -1031,9 +1493,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "36a53339f1987f28",
@@ -1055,9 +1528,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "afc9b63827878a55",
@@ -1079,9 +1563,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "a1bfd4d2340b0b15",
@@ -1103,9 +1598,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "0f81ad34073f0a64",
@@ -1127,9 +1633,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "2caf207e51fa145e",
@@ -1151,9 +1668,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "bb717074068a3c69",
@@ -1175,9 +1703,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "738c9d99c49fe184",
@@ -1199,9 +1738,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "902cb878c4b8b581",
@@ -1223,9 +1773,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "a89219494a462201",
@@ -1247,9 +1808,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "8913880cd23c0d95",
@@ -1271,9 +1843,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "f133edcaecc21903",
@@ -1295,9 +1878,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "c3d6c1ae0294e253",
@@ -1319,9 +1913,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja 22.05. - 28.05.",
+          "Disponível na loja 22.05. - 28.05."
+        ],
+        "types": [
+          "IN_STORE_TODAY_DATE_RANGE",
+          "IN_STORE_TODAY_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "e75e0553353c3a07",
@@ -1343,33 +1948,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
-    },
-    {
-      "id": "dd02573210f5637c",
-      "brand": "BESTWAY",
-      "title": "BESTWAY Rolo para Natação",
-      "raw_title": "Rolo para Natação",
-      "price": 6.99,
-      "currency": "EUR",
-      "unit": "Cada emb.",
-      "product_code": "10047464",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/NIYH5s52wpmjKtx9oZDMfhhIN8hhyRp5aGAjXODXK78/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M0NDQ5OEZGQTMyNTIxMzA0NEJGOTNDNz/FCNEVGNzYzQkVDNDA4NDlDMjJCQTdGQURGMjNFQjFENDA2M0IxQ0IucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Verão Crivit",
-      "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
-      "product_url": "https://www.lidl.pt/p/bestway-rolo-para-natacao/p10047464",
-      "store_stock_id": "0507740",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "9aba834f01370768",
@@ -1391,33 +1983,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
-    },
-    {
-      "id": "2f9777c1f34e7aed",
-      "brand": "CIEN BEAUTY",
-      "title": "CIEN BEAUTY Escova de Cabelo",
-      "raw_title": "Escova de Cabelo",
-      "price": 0.89,
-      "currency": "EUR",
-      "unit": "Cada emb.",
-      "product_code": "10047536",
-      "category": "Beleza & cuidado",
-      "image": "https://imgproxy-retcat.assets.schwarz/mVwzDJBlxZ9LmiSw8hnoB_B8dkR8IY3wszrnFYh1YLY/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzNGMTEzNDJBQzgyNzA1QzFFMjZEQTIwRT/JCREZCRjYwMTJCQTRBMTUzRjFEMzMzMkIzNTdDOTM5QjQ4OEU4QTYucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Casa e Decoração Livarno",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
-      "product_url": "https://www.lidl.pt/p/cien-beauty-escova-de-cabelo/p10047536",
-      "store_stock_id": "0508806",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "aebae0be3cce8f16",
@@ -1439,9 +2018,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "a67cb75a4c92d1d8",
@@ -1463,9 +2053,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "99f33ea52c5cefed",
@@ -1487,9 +2088,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "cbc32e6e990cca2d",
@@ -1511,9 +2123,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "d371c4ff66b23a3b",
@@ -1535,9 +2158,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "2d6fb4ee1d9ad121",
@@ -1559,9 +2193,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "4c9abe67d2dfe32e",
@@ -1583,9 +2228,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "958d9b79f1b590a3",
@@ -1607,33 +2263,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
-    },
-    {
-      "id": "3eb45aa075982d1b",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Calçado Aquático para Criança",
-      "raw_title": "Calçado Aquático para Criança",
-      "price": 4.99,
-      "currency": "EUR",
-      "unit": "Cada par",
-      "product_code": "10047508",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/ZkUyEvCpGHe4txkm7dF_WvaqVk24BegMNeLKfpAWIe4/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzgzRTc2MkM4RjZEQjMwNjE0Mzk4RTc4ND/YyMDg4M0Q3NDQ3MjdDRDVGQkU5NjgyNjQzMDE5RDM0OTNGQUU1MEEucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Verão Crivit",
-      "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
-      "product_url": "https://www.lidl.pt/p/crivit-calcado-aquatico-para-crianca/p10047508",
-      "store_stock_id": "0470496",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "c403243d97a725da",
@@ -1655,9 +2298,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "99cc5ff6e64cfc6b",
@@ -1679,9 +2333,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "85a1dc36130d3cdf",
@@ -1703,33 +2368,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
-    },
-    {
-      "id": "8cb9b07449d08bed",
-      "brand": "CRIVIT",
-      "title": "CRIVIT Chinelos de Banho para Criança",
-      "raw_title": "Chinelos de Banho para Criança",
-      "price": 3.99,
-      "currency": "EUR",
-      "unit": "Cada par",
-      "product_code": "10047510",
-      "category": "Desporto & lazer",
-      "image": "https://imgproxy-retcat.assets.schwarz/CV9VdY-zFKFaJxVx-tIPng0RPQBeEGc0bjFTLaki9U0/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzAzM0E0MEQwRjQ4RjA3NTk0MjdCRDZDQk/Y4RDVENDgyQkExREVDOTJGQTJERDY5MzQwMUI5QTVGRTYyQzc0RjYucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Verão Crivit",
-      "source_url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
-      "product_url": "https://www.lidl.pt/p/crivit-chinelos-de-banho-para-crianca/p10047510",
-      "store_stock_id": "0507774",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "f0e2b6a1a4a4667b",
@@ -1751,9 +2403,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "9cff98a3d687de3e",
@@ -1775,9 +2438,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "c3dd8d4a3c53c0ae",
@@ -1799,9 +2473,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "7f959275ce380cbe",
@@ -1823,9 +2508,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "0b0ac1aa5ecf6530",
@@ -1847,9 +2543,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "84e3f26b26dd622d",
@@ -1871,9 +2578,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "8c6980d3ca3b31f6",
@@ -1895,9 +2613,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "89bd2717e2758d62",
@@ -1919,9 +2648,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "3f9d62924954d999",
@@ -1943,9 +2683,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "8271d7c7fe4aaafe",
@@ -1967,9 +2718,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "6ba5fb98ebeca845",
@@ -1991,9 +2753,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "34bd6c5b7b082fbd",
@@ -2015,9 +2788,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "b2e328e3e5475748",
@@ -2039,9 +2823,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "5cd16ada1dd012c0",
@@ -2063,9 +2858,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "3080e5a456236970",
@@ -2087,9 +2893,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "9b38050ffb4cc273",
@@ -2111,9 +2928,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "5769463a2ed82765",
@@ -2135,9 +2963,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "1cccec0f7a877520",
@@ -2159,9 +2998,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "0baccc388496b551",
@@ -2183,9 +3033,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "e53f1ec5870ac5e7",
@@ -2207,9 +3068,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "36e7a539efb32e13",
@@ -2231,9 +3103,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "99c29f9bd0119d52",
@@ -2255,9 +3138,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "7be3504f0f38e088",
@@ -2279,9 +3173,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "6c347e6c641bb4ec",
@@ -2303,9 +3208,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "40a0bef1fc659181",
@@ -2327,33 +3243,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
-    },
-    {
-      "id": "5d0dea31950bf629",
-      "brand": "JOHN",
-      "title": "JOHN Prancha de Natação para Criança",
-      "raw_title": "Prancha de Natação para Criança",
-      "price": 3.99,
-      "currency": "EUR",
-      "unit": "Cada emb.",
-      "product_code": "10047514",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/jqUepTs_9xsjJEc2V8q-7otMnFG3i2J3jGoks8ViY94/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzNEQjgyMzhEMDYyNDc1NUM5MjFDNUZEMz/I3MTZGNDk2QjVBNjFFNUVCMzVFMzc4QjdENzUyMDk1Mzc0NkYyQkQucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
-      "product_url": "https://www.lidl.pt/p/john-prancha-de-natacao-para-crianca/p10047514",
-      "store_stock_id": "0532521",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "aff690535b59fb6f",
@@ -2375,9 +3278,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "9c65c1e0342d9622",
@@ -2399,9 +3313,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "629f1389edb5f419",
@@ -2423,9 +3348,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "08b6c1e648fa9bc2",
@@ -2447,9 +3383,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "93bf658d85c73e3e",
@@ -2471,9 +3418,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "2918b0472af9b43e",
@@ -2495,9 +3453,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "798cc9b879c9342b",
@@ -2519,9 +3488,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "b2e6f5d2c91ed75e",
@@ -2543,9 +3523,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "a68c3df84f97aa01",
@@ -2567,9 +3558,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "2fd0c43d427d9e06",
@@ -2591,9 +3593,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "e5bc74f515cfa48a",
@@ -2615,33 +3628,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
-    },
-    {
-      "id": "32c1dbd1645a0f9e",
-      "brand": "LIVARNO",
-      "title": "LIVARNO Conjunto de Toalhas de Banho",
-      "raw_title": "Conjunto de Toalhas de Banho",
-      "price": 11.99,
-      "currency": "EUR",
-      "unit": "Cada emb.",
-      "product_code": "10047532",
-      "category": "Acessórios",
-      "image": "https://imgproxy-retcat.assets.schwarz/peA57z3wdV6vv6FIQiIiZqV8ZyjdfUPvgMkyc5t5ACU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY3QTQ2OTA4MjU2NkI0RkU3MDE1MUQwND/NBRDVGMUIzMjhFQjRBRDIwNzdFNkIzRjM4MEU0RTk4REUxRTNBMDAucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Casa e Decoração Livarno",
-      "source_url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
-      "product_url": "https://www.lidl.pt/p/livarno-conjunto-de-toalhas-de-banho/p10047532",
-      "store_stock_id": "0508880",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "bb4a236fd1f646db",
@@ -2663,9 +3663,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "f2828526dde42393",
@@ -2687,9 +3698,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "e041e8c13ce50e51",
@@ -2711,9 +3733,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "48960ef14f15771a",
@@ -2735,9 +3768,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "5d82fbfc847bd94e",
@@ -2759,9 +3803,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "f00ddaa84d83ff52",
@@ -2783,9 +3838,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "adf5580fddb7c353",
@@ -2807,9 +3873,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "5f350033d063905c",
@@ -2831,9 +3908,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "8a8d94c6727ebc61",
@@ -2855,9 +3943,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "e48e45e132412785",
@@ -2879,9 +3978,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "212000d577a5e9f6",
@@ -2903,9 +4013,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "c772f3f9fa4a225d",
@@ -2927,9 +4048,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "94e75f2eba5be08a",
@@ -2951,9 +4083,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "5861994a263000c1",
@@ -2975,9 +4118,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "a6ff199448093400",
@@ -2999,9 +4153,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "2cf80d070c78e01c",
@@ -3023,9 +4188,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "40bc4901469e35f1",
@@ -3047,9 +4223,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "04b4bd2a13045abd",
@@ -3071,33 +4258,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
-    },
-    {
-      "id": "6278e08205384f47",
-      "brand": "LUPILU",
-      "title": "LUPILU Poncho para Criança",
-      "raw_title": "Poncho para Criança",
-      "price": 7.99,
-      "currency": "EUR",
-      "unit": "Cada emb.",
-      "product_code": "10047484",
-      "category": "Outros achados",
-      "image": "https://imgproxy-retcat.assets.schwarz/o-TGyBBeK7gcfy-xl5jiMluWRayz0mfVv3kXQ7_Lhrk/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzA5RThFMEUzNkUxRDZBQjMwODZBRkI2N0/ZGQUNBRkMxOUU2MzFBMDQyN0UxNjRERTMwMkM0MUI5QTM5RUEwOTkucG5n.png",
-      "availability_start": "2026-05-24",
-      "source_title": "Bebé, Criança e Brinquedos",
-      "source_url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
-      "product_url": "https://www.lidl.pt/p/lupilu-poncho-para-crianca/p10047484",
-      "store_stock_id": "0506158",
-      "source_type": "official_campaign_page",
-      "availability_source": "official_lidl_campaign_with_date",
-      "extraction_method": "campaign_html_embedded_product_data",
-      "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "9658dbe98eba0b6a",
@@ -3119,9 +4293,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "e29aa53814f427a2",
@@ -3143,9 +4328,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "1e9c38c8e51aa08d",
@@ -3167,9 +4363,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "d7a70122967092bb",
@@ -3191,9 +4398,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "f9ace5dbbef725c5",
@@ -3215,9 +4433,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "d6186751bdcfb1bc",
@@ -3239,9 +4468,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "70d52df03b701254",
@@ -3263,9 +4503,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "360a07f50d455686",
@@ -3287,9 +4538,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "73958c2e5f29996a",
@@ -3311,9 +4573,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 25.05. a 31.05.",
+          "Disponível na loja de 25.05. a 31.05."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "35f57ef3f9ddbaad",
@@ -3335,9 +4608,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "441968dfa3c85e57",
@@ -3359,9 +4643,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "00de158b867d5a9b",
@@ -3383,9 +4678,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "d00a8065d09e758a",
@@ -3407,9 +4713,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "b771c658944ef204",
@@ -3431,9 +4748,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "6fb05d918579dc4e",
@@ -3455,9 +4783,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "3704fcef6773842b",
@@ -3479,9 +4818,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "4dcc65dce5f698c3",
@@ -3503,9 +4853,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "12e8a2aae64738ba",
@@ -3527,9 +4888,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "61537de271819b04",
@@ -3551,9 +4923,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "2a99a7835471c15a",
@@ -3575,9 +4958,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "1859c6099314f261",
@@ -3599,9 +4993,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "82a819253b9d3d1a",
@@ -3623,9 +5028,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "40a1f23a2da567f5",
@@ -3647,9 +5063,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "683d1898b7f46544",
@@ -3671,9 +5098,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "4bbe243c8b6180d0",
@@ -3695,9 +5133,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "de24a83249237b5b",
@@ -3719,9 +5168,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "bf60e8a10ecd1f5e",
@@ -3743,9 +5203,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "82ac3a5f8e52ab79",
@@ -3767,9 +5238,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "f9adfcb18817115a",
@@ -3791,9 +5273,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "4b5f235bb4489ca7",
@@ -3815,9 +5308,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "45b5146c4d49b9dc",
@@ -3839,9 +5343,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "2662254700a9a6a9",
@@ -3863,9 +5378,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "74000eff10f21b2f",
@@ -3887,9 +5413,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "363d207c5fc3096e",
@@ -3911,9 +5448,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "ae693f4f3722100a",
@@ -3935,9 +5483,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "056a95ee7d54e82d",
@@ -3959,9 +5518,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "91ba454cb8290e08",
@@ -3983,9 +5553,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "d276ca6223605cec",
@@ -4007,9 +5588,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "f231812e6ffde5e7",
@@ -4031,9 +5623,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     },
     {
       "id": "9ac3a441bee56f7a",
@@ -4055,9 +5658,20 @@
       "availability_source": "official_lidl_campaign_with_date",
       "extraction_method": "campaign_html_embedded_product_data",
       "confidence": 0.95,
-      "first_seen": "2026-05-22T14:27:32Z",
-      "last_seen": "2026-05-22T14:27:32Z",
-      "image_source": "product_detail_api"
+      "first_seen": "2026-05-22T15:10:58Z",
+      "last_seen": "2026-05-22T15:10:58Z",
+      "image_source": "product_detail_api",
+      "global_availability": {
+        "available": true,
+        "texts": [
+          "Disponível na loja de 29.05. a 04.06.",
+          "Disponível na loja de 29.05. a 04.06."
+        ],
+        "types": [
+          "IN_STORE_FROM_FUTURE_DATE_RANGE",
+          "IN_STORE_FROM_FUTURE_DATE_RANGE"
+        ]
+      }
     }
   ],
   "campaigns": [
@@ -4170,21 +5784,21 @@
       "url": "https://www.lidl.pt/c/verao-crivit-w22/a10095333",
       "title": "Verão Crivit",
       "availability_start": "2026-05-25",
-      "product_count": 39,
+      "product_count": 36,
       "discovered_from": "A partir de 2ª feira, 25/5 Aproveita os dias de praia com CRIVIT"
     },
     {
       "url": "https://www.lidl.pt/c/casa-e-decoracao-livarno-w22/a10095384",
       "title": "Casa e Decoração Livarno",
       "availability_start": "2026-05-29",
-      "product_count": 19,
+      "product_count": 17,
       "discovered_from": "A partir de 6ª feira, 29/5 Renova a casa com LIVARNO"
     },
     {
       "url": "https://www.lidl.pt/c/bebe-crianca-e-brinquedos-w22/a10095335",
       "title": "Bebé, Criança e Brinquedos",
       "availability_start": "2026-05-25",
-      "product_count": 35,
+      "product_count": 33,
       "discovered_from": "A partir de 2ª feira, 25/5 Bebé, Criança e Brinquedos"
     },
     {
