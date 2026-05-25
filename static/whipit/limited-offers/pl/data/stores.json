@@ -1,7 +1,5 @@
 {
-  "generated_at": "2026-05-23T20:04:45Z",
   "country": "PL",
-  "city_pages_seen": 12,
   "store_count": 153,
   "stores": [
     {
@@ -102,7 +100,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01191",
@@ -147,7 +146,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02015",
@@ -240,7 +240,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01225",
@@ -284,7 +285,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01769",
@@ -328,7 +330,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01723",
@@ -372,7 +375,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01609",
@@ -416,7 +420,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01661",
@@ -460,7 +465,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01738",
@@ -504,7 +510,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01387",
@@ -548,7 +555,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01304",
@@ -592,7 +600,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01790",
@@ -636,7 +645,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01980",
@@ -681,7 +691,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02228",
@@ -774,7 +785,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02102",
@@ -817,7 +829,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01979",
@@ -861,7 +874,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01244",
@@ -906,7 +920,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01861",
@@ -949,7 +964,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02183",
@@ -1042,7 +1058,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01694",
@@ -1086,7 +1103,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01763",
@@ -1130,7 +1148,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01762",
@@ -1174,7 +1193,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02167",
@@ -1214,7 +1234,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02321",
@@ -1307,7 +1328,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01768",
@@ -1351,7 +1373,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01102",
@@ -1395,7 +1418,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02149",
@@ -1438,7 +1462,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02140",
@@ -1531,7 +1556,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01842",
@@ -1573,7 +1599,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01894",
@@ -1670,7 +1697,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01913",
@@ -1714,7 +1742,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01882",
@@ -1756,7 +1785,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01639",
@@ -1796,7 +1826,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01674",
@@ -1840,7 +1871,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01789",
@@ -1884,7 +1916,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02006",
@@ -1928,7 +1961,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01596",
@@ -1972,7 +2006,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01556",
@@ -2014,7 +2049,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01564",
@@ -2059,7 +2095,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01875",
@@ -2103,7 +2140,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01209",
@@ -2147,7 +2185,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01682",
@@ -2191,7 +2230,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01158",
@@ -2235,7 +2275,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02218",
@@ -2275,7 +2316,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01194",
@@ -2320,7 +2362,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01329",
@@ -2366,7 +2409,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01740",
@@ -2411,7 +2455,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01916",
@@ -2455,7 +2500,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01334",
@@ -2501,7 +2547,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02172",
@@ -2541,7 +2588,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02157",
@@ -2637,7 +2685,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01046",
@@ -2681,7 +2730,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01962",
@@ -2725,7 +2775,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01215",
@@ -2769,7 +2820,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01456",
@@ -2813,7 +2865,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01989",
@@ -2909,7 +2962,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01344",
@@ -2953,7 +3007,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01574",
@@ -2998,7 +3053,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02202",
@@ -3094,7 +3150,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01624",
@@ -3193,7 +3250,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01422",
@@ -3239,7 +3297,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01273",
@@ -3285,7 +3344,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01536",
@@ -3331,7 +3391,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01618",
@@ -3375,7 +3436,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02207",
@@ -3468,7 +3530,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01411",
@@ -3512,7 +3575,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01919",
@@ -3608,7 +3672,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01163",
@@ -3653,7 +3718,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01471",
@@ -3697,7 +3763,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01568",
@@ -3742,7 +3809,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01965",
@@ -3786,7 +3854,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01123",
@@ -3831,7 +3900,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02280",
@@ -3871,7 +3941,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bialystok/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01507",
@@ -3915,7 +3986,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02220",
@@ -3955,7 +4027,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01268",
@@ -4000,7 +4073,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01484",
@@ -4045,7 +4119,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01521",
@@ -4091,7 +4166,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01636",
@@ -4136,7 +4212,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01841",
@@ -4182,7 +4259,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02101",
@@ -4225,7 +4303,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01975",
@@ -4267,7 +4346,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01481",
@@ -4311,7 +4391,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02254",
@@ -4351,7 +4432,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01985",
@@ -4395,7 +4477,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01641",
@@ -4439,7 +4522,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01234",
@@ -4484,7 +4568,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02059",
@@ -4524,7 +4609,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01735",
@@ -4568,7 +4654,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01260",
@@ -4613,7 +4700,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02137",
@@ -4653,7 +4741,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02107",
@@ -4693,7 +4782,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01418",
@@ -4737,7 +4827,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01431",
@@ -4781,7 +4872,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01113",
@@ -4826,7 +4918,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01414",
@@ -4870,7 +4963,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02242",
@@ -4910,7 +5004,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01843",
@@ -4954,7 +5049,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01440",
@@ -4998,7 +5094,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01686",
@@ -5042,7 +5139,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01705",
@@ -5087,7 +5185,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01891",
@@ -5132,7 +5231,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02058",
@@ -5176,7 +5276,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01476",
@@ -5221,7 +5322,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01261",
@@ -5266,7 +5368,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01033",
@@ -5311,7 +5414,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01793",
@@ -5356,7 +5460,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01509",
@@ -5400,7 +5505,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02268",
@@ -5443,7 +5549,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01077",
@@ -5487,7 +5594,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01730",
@@ -5532,7 +5640,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02003",
@@ -5577,7 +5686,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01806",
@@ -5621,7 +5731,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01474",
@@ -5666,7 +5777,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01331",
@@ -5710,7 +5822,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02212",
@@ -5750,7 +5863,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02039",
@@ -5794,7 +5908,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02090",
@@ -5837,7 +5952,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/ciechanow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01844",
@@ -5879,7 +5995,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01604",
@@ -5923,7 +6040,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01241",
@@ -5968,7 +6086,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01565",
@@ -6012,7 +6131,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01690",
@@ -6056,7 +6176,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01413",
@@ -6100,7 +6221,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01567",
@@ -6144,7 +6266,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bydgoszcz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01804",
@@ -6188,7 +6311,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01576",
@@ -6233,7 +6357,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01558",
@@ -6277,7 +6402,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01149",
@@ -6322,7 +6448,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/czeladz/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02306",
@@ -6362,7 +6489,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01162",
@@ -6407,7 +6535,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01598",
@@ -6452,7 +6581,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02188",
@@ -6495,7 +6625,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01171",
@@ -6539,7 +6670,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bochnia/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01439",
@@ -6583,7 +6715,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01750",
@@ -6628,7 +6761,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01506",
@@ -6674,7 +6808,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01820",
@@ -6720,7 +6855,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01600",
@@ -6766,7 +6902,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01174",
@@ -6812,7 +6949,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01477",
@@ -6857,7 +6995,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01886",
@@ -6901,7 +7040,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01566",
@@ -6945,7 +7085,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01337",
@@ -6989,7 +7130,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chojnice/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01993",
@@ -7035,7 +7177,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01508",
@@ -7080,7 +7223,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/biala-podlaska/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02248",
@@ -7120,7 +7264,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/belchatow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01737",
@@ -7164,7 +7309,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01177",
@@ -7209,7 +7355,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chelm/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02113",
@@ -7252,7 +7399,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bytom/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01377",
@@ -7293,7 +7441,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL01129",
@@ -7339,7 +7488,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/chorzow/",
+      "retailer": "LIDL"
     },
     {
       "id": "PL02064",
@@ -7379,9 +7529,8 @@
           }
         ]
       },
-      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/"
+      "official_url": "https://www.lidl.pl/s/pl-PL/sklepy/bielsko-biala/",
+      "retailer": "LIDL"
     }
-  ],
-  "diagnostics": [],
-  "note": "Initial limited PL store sample for two-country test."
+  ]
 }
