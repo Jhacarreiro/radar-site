@@ -22,3 +22,6 @@
 
 /* Card commercial layout v4 — date only in top badge. */
 .price-date{display:none!important}.price-block{align-self:end}
+
+/* Modal controls v5 — isolate browser location button from product CTAs. */
+.shops-tools{align-items:stretch}.shops-tools #use-location{width:auto;min-width:max-content;white-space:nowrap;line-height:1;align-self:stretch;padding:0 16px}.shops-tools input{min-width:0}@media(max-width:520px){.shops-tools{grid-template-columns:1fr!important}.shops-tools #use-location{width:100%;min-width:0;min-height:46px}}
