@@ -13,7 +13,7 @@
       "price": 4.0,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=18&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -29,7 +29,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "5726b6f509bfa7c2",
@@ -41,7 +42,7 @@
       "price": 19.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=20&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -57,7 +58,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "7d615a094515a7bc",
@@ -69,7 +71,7 @@
       "price": 5.0,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=18&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -85,7 +87,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "7c355d1aa2344dcc",
@@ -97,7 +100,7 @@
       "price": 5.0,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Criança & lazer",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=18&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -113,7 +116,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Criança & lazer"
     },
     {
       "id": "4aa77d5d839ffda8",
@@ -141,7 +145,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Ferramentas & jardim"
     },
     {
       "id": "03aeeb56400494ed",
@@ -153,7 +158,7 @@
       "price": 3.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Limpeza",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=21&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -169,7 +174,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Limpeza"
     },
     {
       "id": "7e26b2aaf314ce37",
@@ -181,7 +187,7 @@
       "price": 7.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=20&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -197,7 +203,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "1fee0bf8c4351b9a",
@@ -209,7 +216,7 @@
       "price": 39.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=20&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -225,7 +232,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "b790c8bb60abe45f",
@@ -237,7 +245,7 @@
       "price": 5.0,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=19&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -253,7 +261,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "55fe871e36e18810",
@@ -265,7 +274,7 @@
       "price": 3.0,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=18&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -281,7 +290,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "a8212a0d19a39624",
@@ -293,7 +303,7 @@
       "price": 69.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=21&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -309,7 +319,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "87b9655dbaf60869",
@@ -321,7 +332,7 @@
       "price": 5.0,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=19&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -337,7 +348,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "702f068864703481",
@@ -349,7 +361,7 @@
       "price": 3.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=21&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -365,7 +377,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "f1be22133058e4fc",
@@ -377,7 +390,7 @@
       "price": 6.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=21&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -393,7 +406,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "77ef479129e52e68",
@@ -405,7 +419,7 @@
       "price": 2.0,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=19&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -421,7 +435,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "7bdc9c4ccceb98d3",
@@ -433,7 +448,7 @@
       "price": 1.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=22&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -449,7 +464,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "369f9d261d48c42a",
@@ -461,7 +477,7 @@
       "price": 3.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=21&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -477,7 +493,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "95a28b3c840d1abb",
@@ -489,7 +506,7 @@
       "price": 11.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=22&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -505,7 +522,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "90a845e103540c77",
@@ -517,7 +535,7 @@
       "price": 11.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=20&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -533,7 +551,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "80896b062f4732ef",
@@ -545,7 +564,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=20&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -561,7 +580,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "aad13d0d38f5f8a0",
@@ -573,7 +593,7 @@
       "price": 3.0,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=18&ImageType=Normal",
       "availability_start": "2026-05-27",
       "availability_end": null,
@@ -589,7 +609,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "a1bfd4d2340b0b15",
@@ -600,7 +621,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047075",
-      "category": "Acessórios",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/pnY7JCF40l3oqJolo_kwbfaWqCXjjhkcWi7JD-JQbQE/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk3OEU5MzZFN0IzNUVBNjJGQUI0RTJGRj/FDQUM1OUJGOEYwQUE3ODA3RDcxOTg2NkUxMDk4RUEwRTQzRDcyRDIucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -615,7 +636,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "2caf207e51fa145e",
@@ -626,7 +648,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047093",
-      "category": "Acessórios",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/FjPu2iTkA7OU7uUqHwrJN5Pkcyl4PC-89ZEoVQbngoU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhCQzMxRDJFNUJBOTIxNkRCNTNBMUMzQz/UwNjVCRUUwOEU5MzExRkI5MkFEMkQyMDQzMDRDNDI5RDRDN0MwMkQucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -641,7 +663,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "bb717074068a3c69",
@@ -652,7 +675,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047077",
-      "category": "Acessórios",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/jmdQ21KhSyXRM8C03Y0U2-rNSRlxBX3dR66_WO1xO64/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU3QUQ1OEFDOUVENjFCM0E4NDhFMThDRD/UxM0E0NDI3OEFEMzM4REI0MDJDOTQ5OUI2M0ZGMjRERjExMTBBOEUucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -667,7 +690,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "738c9d99c49fe184",
@@ -678,7 +702,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047089",
-      "category": "Acessórios",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/GCXM-BRQ6xZbgjN_EM9NaXvwf2a88X4oRtKZ7no69I4/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MzNjEzOTExQkIwOTE4ODAyN0QzRUYxNT/EwRTkwMjcxMkU2QjBFRENFNjlFQ0FCQkFEMjQyNUE4QkYxNTJCNzQucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -693,7 +717,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "3bc43e9d0a721d8a",
@@ -704,7 +729,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047091",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/SaONHGu4EkF23EB9gqPBzBRDpuzNcHktRtdOzZaWBsg/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMwQkYwN0FENDkyMDM5REYzMUM2QTgzRU/I2RTBEODcxQkIxNDk4OEZGMzU3MjUyQzI3RjMyOEQ2OTAzMjI5ODAucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -719,7 +744,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "36a53339f1987f28",
@@ -730,7 +756,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047083",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/_IySWOVzxHW4c97n_ey6SEdtbJBB_bGrRPWGkwlM7xw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzJCMTFEQzhCNkE0MDVDQ0E2QjdBMDZFRD/Q5Qjg2QzgxQjNGNzQwMUIzMjgxNDU2QkZGQUE4N0E1OTk3RUJBRkQucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -745,7 +771,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "afc9b63827878a55",
@@ -756,7 +783,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047073",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/GHXCbbxYyG1uhlK1sI1lT9H327ZE6IoOFQRW-OmHWZc/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M2Nzg0MjREOUI2MTk5Qjk2OTY3NkJCQT/FDOTQxREFDQTIzQ0YxOEI0RTIwREVDQzQzMTAzQzE3MDk4Mjg1NEIucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -771,7 +798,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "0f81ad34073f0a64",
@@ -782,7 +810,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047081",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/OYgZs7jAOYpdMNg66WqLjGz9NkCew3WRLgK7BccjrY0/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzYyOTRFMjMxRENDNTBEQkVDNjY4OUIxRU/VEQURENDFFQkE2NTUzNDAxNTA1RTkxQThGMDU1RjA1RTZDQjhBNjkucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -797,7 +825,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "902cb878c4b8b581",
@@ -808,7 +837,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047071",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/j6m-qyhQGL1Esjz7tCa8EmE_Y4GzfJ_uS2MUdFG5tRI/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0NCODgxMUQyMjY1RTM0MDZCM0JEQkVBND/hFOUY3QTAwQ0IxRjAyNEREQ0UwRDNFNjgyRUMwRUY0MzJEOTQ1RkMucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -823,7 +852,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "a89219494a462201",
@@ -834,7 +864,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047069",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/re2N0eERCvu0Rr8xTXnl5ND1I7JF5SzhoYTNEm7ME7s/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU0MDY2NTMzQUMzOEVFRkMxM0RFMTMzQT/U3MjY4NUQ4QjdGRkNEMDcxRDVBM0RBMTUwMkY4OTlBRjM1MzY4RUEucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -849,7 +879,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "8913880cd23c0d95",
@@ -860,7 +891,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047079",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/qfRsw67Q3c5WUOkGmfaKDwdECbzL1uro01dSeIhscfo/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzlDMzRGNkVDQjZEMEI5MDVCNDBFNDU5Rk/REMTA1RDBFQUVFMDRDMkFBQzgxOTFCNUVFNTlBNEQ3QkJFNDU1MDEucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -875,7 +906,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "c3d6c1ae0294e253",
@@ -886,7 +918,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047085",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/BARFEamS-aGEBFn7l1_-oaGlZC7kS6v2QZaf3pOxpPM/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhDNzFEMkQ1RjQwNTk3NEM5NEMzRDY4OU/QwRTEyQkI5RUVGNTZENTU4RDVCODU5MTk5REJGMThDMjY1NEQwQzUucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -901,7 +933,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "86bc98f4ec4210f2",
@@ -912,7 +945,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047087",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/ua7es64NnI-YAsRD73Pn5A1A9kirhVyKNS-oAGEDZik/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzVDNUVGNjhFMUVBRjc2RUM0ODhDODZBMj/MxN0NBNkVBM0I4QTFCQ0NENTY3RTA0N0YzMkZBRjg2NkY1OEU0N0YucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -927,7 +960,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "f133edcaecc21903",
@@ -938,7 +972,7 @@
       "currency": "EUR",
       "unit": "Cada par",
       "product_code": "10047099",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/TG5k1m_8y_PjrYtakxwJJpg1-XO6q9XN6fXFIXks9GU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzI4MTk2M0FDM0M3OTU3ODY0REEzMDE3RT/hBRkRFN0QyOTg0NjA4QjAwMzFCNTNENDdDMDlGQzg3RTI3RjlBNzIucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -953,7 +987,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "5ee4ee3e37742449",
@@ -964,7 +999,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047063",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/jm6wM4ZWAl4MSkIgaEp0aN5bcaX_ve_g6otgtkbxwzw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzVFNUUzRTVFMEQyMjA4MTY5NUM2RkYxMU/E5MEUyMDNFNjlENzdCMDM2Q0U2RDRFNzc4QUIzMUYxQkQ4Njc4MTUucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Esmara Homem",
@@ -979,7 +1014,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "c05e79aca0fb58f7",
@@ -990,7 +1026,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047067",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/GX1UPcjsqxwTVuWdfyzTU6PC4nJ9UoTadfvk2ix_7-o/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0JDODFEMjU0MDVCMjBEQzk0OUQ5MUVFNT/Q1RTJCRDA3MUI0QzRBNDZFOTBCQzRFRkMzOTVDNkUzRUFGNkVDMkIucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Esmara Homem",
@@ -1005,7 +1041,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "ce5f1fa10762b93d",
@@ -1016,7 +1053,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047059",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/UgHvzzHTY9Y7lCslJWWTjr97G0sFRah7KjJgXCiOOHE/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQ0QjVCRTgxRTIxNzFDNDBEN0ZERTcyM0/QxMzhENTA3RENDQkYzRDkwNkM2QzZERDZCMkI5Mjc3OUJDMUZBOUYucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Esmara Homem",
@@ -1031,7 +1068,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "d2e830399795db5d",
@@ -1042,7 +1080,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047061",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/aEEDlm0YXr2IHH9EQTv2WI6uljEQIP6v-u0tJrsC94Y/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzNBNDlDQ0ZCNTVEOEJGNjg1Q0YxMUQwNj/M1RkFGNzY1MjYzQjQyNjAzRjM0NzA0NTgwODM2QUZFQzk1QUE3RDIucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Esmara Homem",
@@ -1057,7 +1095,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "f81b98b313a10fc5",
@@ -1068,7 +1107,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047065",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/DQwVIVDbv8dNshmOxlnp8IMl-TM0cQ-p7XD4YPfP8Y0/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0I2MDcwMDE0OTEzNkRDNkNGOUQ4QTQ5Qk/JBREIyMkRDNkIxQjlGNzQ2NDlBODczQ0Y1RTY1RDg5MTcyNDBFMzQucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Esmara Homem",
@@ -1083,7 +1122,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "c09e88aa4c25704c",
@@ -1094,7 +1134,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047095",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/7Y5gmfAsMPtkNB6sIZuYZLWvAoxIHyI-NB3w_oi8BVE/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MxN0U4QUZCN0MxRUFGNzQzRTAyMzA2MD/kzNTNGNkEyNjFFRTFCMEM5RkU1RkQ5NTYzMTg5RDE1RjAyQkFBMjkucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -1109,7 +1149,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "ff033258a38ddae2",
@@ -1120,7 +1161,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047097",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/u2YzizPnaBDw_5Ttm8c8Cfv18LyteXNA38zN2uXbO4c/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M2RjlBQzlDRTA1Q0Q0OTNFOTlCOTNGM0/M2MTY4QTE1OTdGODQ1QTg0MDM0RTQyODg1RjcyMTI4RTA4NzNFQUUucG5n.png",
       "availability_start": "2026-05-21",
       "source_title": "Ferramentas Parkside",
@@ -1135,7 +1176,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "1e9c38c8e51aa08d",
@@ -1146,7 +1188,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047414",
-      "category": "Acessórios",
+      "category": "Desporto & lazer",
       "image": "https://imgproxy-retcat.assets.schwarz/1NjUpCaGWnRq4vpUdOzswyx_7MhU3BLq_sNT0D-GcR0/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Q2MEM0QTM5RjUzMzUzOUIyNzIyNjk4Nk/VFMTJEMkJGNTAzNjNBNDY3REM4MDM0RTI0QUUzOTY5MUZCMjY1Q0YucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Verão Crivit",
@@ -1161,7 +1203,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "9aba834f01370768",
@@ -1172,7 +1215,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047542",
-      "category": "Acessórios",
+      "category": "Beleza & cuidado",
       "image": "https://imgproxy-retcat.assets.schwarz/rFlwxiXqGWS74ukJfDqTOEuigXZYu208HsP_gf5MEDg/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RCNzRGODkzNERCQjE5MTZCQkMxRUJEQj/k4QTA4NEQwRTJCN0I4NTEzRjU5Q0ZGNDdERTAwOTlDQjFFNUMwREEucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Casa e Decoração Livarno",
@@ -1187,7 +1230,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "93bf658d85c73e3e",
@@ -1198,7 +1242,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047442",
-      "category": "Acessórios",
+      "category": "Desporto & lazer",
       "image": "https://imgproxy-retcat.assets.schwarz/LhNpOslyxeqekraXGwvo5LbdJoSn5jNzbCqBKt37QgI/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcHQvMS83QzQ4NzVFNkY0QjRFNDJFRUNEODk5OTB/GNkNFRkI1OTkwQzgwNzdCRTYyNTg0NDM0MURDM0JEMkU4N0VDREJGLnBuZw.png",
       "availability_start": "2026-05-24",
       "source_title": "Verão Crivit",
@@ -1213,7 +1257,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "f00ddaa84d83ff52",
@@ -1224,7 +1269,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046525",
-      "category": "Acessórios",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/QHyyATFjgJchoxnL4Ui1hhrERdFI9LxvAcZD8ahYhek/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0UwNEVGMzkwQ0Y0RjcwMkQ3NzYyQkFBMk/U1NDdGMUIxRTc4QUFEM0FFNjkzMDgzNjdERTc5QTExNDU3NkUzQkMucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -1239,7 +1284,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "adf5580fddb7c353",
@@ -1250,7 +1296,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047498",
-      "category": "Acessórios",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/WMWl0YO-TGYL7Kv2DgSBxL7BLigfjARw_Km56mqFOCU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0JDNkExNDkyQTFFOEVCMzU5MTU2Njg5Nz/I0RTQ4MTYxNjk1QkJGRTE0ODczN0QyNTMzNkQ5RTQ5RTMzN0RBQzIucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -1265,7 +1311,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "798cc9b879c9342b",
@@ -1276,7 +1323,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046537",
-      "category": "Acessórios",
+      "category": "Desporto & lazer",
       "image": "https://imgproxy-retcat.assets.schwarz/kaOGGNqffm9OE-9UdQDrEt2JkjckVet5Srxb05JlFQA/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY1NzJCOTU1QjUzREE0Qjg4MDhBOTlGRT/lCQzFDRjQ2NkEzOTA3RkE4OThCQzI5MDY5QjhBNkUwRTg0NDE2MDkucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -1291,7 +1338,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "aebae0be3cce8f16",
@@ -1317,7 +1365,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Beleza & cuidado"
     },
     {
       "id": "99f33ea52c5cefed",
@@ -1343,7 +1392,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "aff690535b59fb6f",
@@ -1369,7 +1419,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "cbc32e6e990cca2d",
@@ -1395,7 +1446,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "2d6fb4ee1d9ad121",
@@ -1421,7 +1473,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "d371c4ff66b23a3b",
@@ -1447,7 +1500,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "4c9abe67d2dfe32e",
@@ -1473,7 +1527,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "958d9b79f1b590a3",
@@ -1499,7 +1554,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "c403243d97a725da",
@@ -1525,7 +1581,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "99cc5ff6e64cfc6b",
@@ -1551,7 +1608,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "85a1dc36130d3cdf",
@@ -1562,7 +1620,7 @@
       "currency": "EUR",
       "unit": "Cada par",
       "product_code": "10046539",
-      "category": "Desporto & lazer",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/0SmaGZMAQU5DFRiksVtBSNbdkVaYRjzoHcMIFFwNvbk/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzI5QzM3REY4RkJFNjE3NDFDMkI2ODRDN0/JGMDFERDUzMDQxODQyMjE0NDBCMTEwQzQyQjQ3RTI0NzBDOUFBQTEucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Verão Crivit",
@@ -1577,7 +1635,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "f0e2b6a1a4a4667b",
@@ -1603,7 +1662,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "a67cb75a4c92d1d8",
@@ -1629,7 +1689,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "e53f1ec5870ac5e7",
@@ -1655,7 +1716,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "c3dd8d4a3c53c0ae",
@@ -1681,7 +1743,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "7f959275ce380cbe",
@@ -1707,7 +1770,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "9cff98a3d687de3e",
@@ -1733,7 +1797,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "0b0ac1aa5ecf6530",
@@ -1759,7 +1824,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "84e3f26b26dd622d",
@@ -1785,7 +1851,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "8c6980d3ca3b31f6",
@@ -1811,7 +1878,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "89bd2717e2758d62",
@@ -1837,7 +1905,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "2918b0472af9b43e",
@@ -1863,7 +1932,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "c772f3f9fa4a225d",
@@ -1874,7 +1944,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047478",
-      "category": "Desporto & lazer",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/XDUPjI3qc2ciGTY32tIQdHulWvbduvZTySSGM9plTv8/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc5MDk4NEZDMERCMUVBQUQzNUMwNzRCNU/JEQzIzQzA2MkVCM0MwQzBFNEY1MEFBRTQ0RUU0NjhCRDc1QkFFRjAucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -1889,7 +1959,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "3f9d62924954d999",
@@ -1915,7 +1986,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "8271d7c7fe4aaafe",
@@ -1941,7 +2013,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "b2e6f5d2c91ed75e",
@@ -1967,7 +2040,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "6ba5fb98ebeca845",
@@ -1993,7 +2067,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "73958c2e5f29996a",
@@ -2019,7 +2094,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "34bd6c5b7b082fbd",
@@ -2045,7 +2121,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "a68c3df84f97aa01",
@@ -2071,7 +2148,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "b2e328e3e5475748",
@@ -2097,7 +2175,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "5cd16ada1dd012c0",
@@ -2123,7 +2202,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "3080e5a456236970",
@@ -2149,7 +2229,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "9b38050ffb4cc273",
@@ -2175,7 +2256,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "5769463a2ed82765",
@@ -2201,7 +2283,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "e5bc74f515cfa48a",
@@ -2227,7 +2310,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "1cccec0f7a877520",
@@ -2253,7 +2337,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "e48e45e132412785",
@@ -2264,7 +2349,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047486",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/r3EHMBD5TVLwUS_wgB2yw9_8hqg3fr-oBZDqQLrB7Gw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzlEQjBGQUE5MjY5RjVCNDVCREFCQjlBOT/EyMjEwRkZDMENBODlCRjU2ODRBN0ZERjM5OUEzMDcyMUYyQkFFRjQucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2279,7 +2364,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "2cf80d070c78e01c",
@@ -2290,7 +2376,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047488",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/wurodmGULbR1pTrrrRQRfFpe5-_kCG9dOrWMu1rYyKo/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Y5MTRENThCQTg2MkI4MzIxQUY4MjQ5OD/BDRUMzOTQ0RDY0RjM0RUIyN0E4MDIxRUYxQUQ4QTEwMjREMzIxQTEucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2305,7 +2391,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "40a0bef1fc659181",
@@ -2316,7 +2403,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047506",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/ieYf152gagbDUNkVLnhWU7NAlAssYnWw5YizPUy2KBU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzM2MTQxNjMwNTU5ODdDRjA0ODgwNDZBM0/M2Qzk5RjdGOENFMjYxOTUzQ0MwQTcyQ0I0RDNCNzI0NDhGRDkyNjYucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2331,7 +2418,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "9c65c1e0342d9622",
@@ -2342,7 +2430,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047482",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://imgproxy-retcat.assets.schwarz/_w_Miqfl9vvAFGn1QH0mlK3kTP7mimR_VNxcEVYOg_M/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RGQjI4N0M5RTIzNTMxNkE5NUQ5NTlBOU/FCOEEwQUEyRDQyMDA4ODZEMEIxNjgxQ0NERTUxRjkzQTc4QTgyQjkucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2357,7 +2445,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "629f1389edb5f419",
@@ -2368,7 +2457,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047504",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://imgproxy-retcat.assets.schwarz/S7Bk9rOy3OXnykBZDh4Mws4wOnWsEeY6QrQee4XYqhg/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzdCM0ZBNjQ0RkExMDBBRjBCODkzNzA4OT/I2OTRBMjU2MjFENzBGMjNGNTlCQTlDNTQ4QzJDM0ZFMkFEQzIyNjYucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2383,7 +2472,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "48960ef14f15771a",
@@ -2394,7 +2484,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047560",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/H4iunO6fFEV6iOfqcCguS7KkjoUoKkjvVMRR_nFHUyw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzkwQjgyNjE2OTcyRTkxOUVDM0NGQTkyNU/EzMTkwREQ4Qjc0NTIxM0E0REMzQTQ0NzQ0REFDNjY0N0YwRUFCODYucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2409,7 +2499,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "0baccc388496b551",
@@ -2420,7 +2511,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047480",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/AYy7PZuIViVOC-Gz-K7NUvNmskmOukiI4FkTZ7CEd7g/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzI1M0I0MTA4N0UyQUFDRjJBQjhGQzI0N0/FDMjU1MTlFRkIzMjFFREQwRTg4MThGNDE2NDA4NUEzMERBRDFFOTEucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2435,7 +2526,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "36e7a539efb32e13",
@@ -2446,7 +2538,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047512",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/mHUdCSNiGvu-YTAyLQ6IuPuYYR-B3t4_IFfXDNdOUO0/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ZFMjg3QzdCNEQ1Q0JEODJENEU0MjZBMz/VCNzAyNTA0OEM2RUIzNkY4NUFCMThDQjVBNUYxQUI3MjQzRERCOTUucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2461,7 +2553,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "08b6c1e648fa9bc2",
@@ -2472,7 +2565,7 @@
       "currency": "EUR",
       "unit": "Cada par",
       "product_code": "10047516",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/bUm2f8L-rdyw8rYr6TeEAxvIezHbTgBzCFKNNZ_NVw4/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhCRDRBQTUxM0JDMTlEQUE5Qzc4Nzc0OE/IzQkEzMDU3OUQzMzM3NzRCQjM1NTg5RjE4Nzg4M0E3MTg3N0QyMkMucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2487,7 +2580,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "5d82fbfc847bd94e",
@@ -2498,7 +2592,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047556",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/Ec7UAr6NKdQjleLHMr8p1GkRm4h9GNdBZBWvP_x0ofA/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E2MjYzOTczRDk4REU2MzU3M0JBMjQ4MD/JCNjQxRjVGMjFEMUE5RjM3QzUzQkNEQUEwMDk3MTgyNDU2QzRGN0YucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2513,7 +2607,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "5f350033d063905c",
@@ -2524,7 +2619,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047552",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/Wy9D52PPGurHICp1hS-TH22UhmBCyBAGO_EtHxNXsfo/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzFFMTZFMDZBMzZCODgyRUM5QjA2QUUwRT/gxNkJBNkI1QTYxRTY2RTE4NUMyMDMwMTY3ODk4OTIxRTdGRTMxQTIucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2539,7 +2634,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "8a8d94c6727ebc61",
@@ -2550,7 +2646,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047558",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/oEP0lr6_QV1eq9CLe23ESHgmzvyVQ4Op6SbyWV1x2iA/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMyNURGQzU3RUU4NUI4QTdBNkIxMjc3MD/FDOUJEMDNCMzNBNTQxNkEwNTJENjZBOTY2NTQ4OUMxNjkwMTAwREUucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2565,7 +2661,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "bb4a236fd1f646db",
@@ -2576,7 +2673,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047534",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/nF_5MmeL5Wh2EvOUKn7V0QfOFwrij_VKLQSaiINDmss/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzVDRkRFQTc4Mzk4M0Q5ODNFQzZEOUM3QU/I3MzhDQ0M0RDBGMTc0NTFEQkZFOTMzMjU1NEIxMzAwOUJBQTE0ODgucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Casa e Decoração Livarno",
@@ -2591,7 +2688,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "d6186751bdcfb1bc",
@@ -2602,7 +2700,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047518",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/B5fuk7HtPurJZgnznG-2RISbOfO9Wd228qazhLJBjEw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQ1QTY5MEU4M0IxQjM0Qzg5MTZDN0E0N0/MyNzc0QUJERjA3QTMwQ0U2MjlBMUE3RjgwOThFRDlDRTFFMDBGMUYucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2617,7 +2715,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "212000d577a5e9f6",
@@ -2628,7 +2727,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047492",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/FbVCB11MvqcgAc8AMnuG2B_9NnJgwbSX41xG1AfSfsY/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc5MzI5MEM3Qjk4NDE1RjkzMDU1MUFEOT/JGNUQyNEZCQUFGNkRBMjQ4MEFBMERBOTk0MDdDRjgyMTBEQkE3M0QucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2643,7 +2742,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "e75e0553353c3a07",
@@ -2654,7 +2754,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047500",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://imgproxy-retcat.assets.schwarz/3DBoO1o4JS9qBLIFDUyjdTCpZhlbZRIH3cxmJJJ2P-w/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk1MEUxNDVBOUQ2QkZCNDM3MUIxOUUxRD/g4M0ZCM0NCOEUyQkVGODc2MjdGNERCMjNGNERGRUFEMDlFRDdFRjAucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2669,7 +2769,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "d7a70122967092bb",
@@ -2680,7 +2781,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047568",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://imgproxy-retcat.assets.schwarz/_xORFxIq8tc1BrGXoZp6QfEN2WYYF0fmnTLkq18MF8E/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzM2M0UyOTI2MUI1MzAxQUQ5Mjk5NzhFQT/dCQjZGNzJFQjEyNEU5QUZFOUI5RjM4OTZDMzc3NzQ4N0VBNzMyOUEucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2695,7 +2796,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "94e75f2eba5be08a",
@@ -2706,7 +2808,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047562",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/DKP-_UiZJ6F30kxy2oYE83xVzWyEk6j6nt_ZZ8mIMSE/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0EzOTQwN0VGNEQyNjYzOUVBMTkyRTAxND/JFMDM3NEZGNzQ0RkRDRTI4RDc0MDdEMzI3RTIzQUQ0MDk2ODE2ODIucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2721,7 +2823,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "5861994a263000c1",
@@ -2732,7 +2835,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047472",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/SUKHkeE4H9zklGB-BARmgbXL85faawINTS2C57enl8Y/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Q1NEZEQzYxRTFGRkJGOTUzMEQzRjk5MD/U5RTJGNjgyMkI0RUQ4MDc3M0YzNkMwQ0I0QTFENDQzM0NCMUE5NUUucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2747,7 +2850,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "f9ace5dbbef725c5",
@@ -2758,7 +2862,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047404",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/qX8MVN8EP8bsJUgXwhSLN6-iclzGj0TaE12zka9DKVE/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc3RDA5OURCNzdEMkExMTNCOTFBQzY0OD/M0QzJFRDE2ODgyNjVDQ0QwRDgwMDgxNUQ0ODY0MjBDRDQ0RTNCNEEucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2773,7 +2877,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "7be3504f0f38e088",
@@ -2784,7 +2889,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047476",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://imgproxy-retcat.assets.schwarz/uutVIeRXzE0yQoT0BBEGx6kmr53rGRhRTJmbl6XrvFs/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzUwNjRDRjdEQ0VFMUM3NDBFMERBOUQ2M0/MxNzZENURDMjIxODg3ODBCNTlBMDFBRTlFODk4MDgwODREQzQyOTIucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2799,7 +2904,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "a6ff199448093400",
@@ -2810,7 +2916,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047490",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/ew8jHxYs4uikK8ICC84PkJ-UHWls-XaT3oFOCVivsak/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzVERDZFODlBMUZFQ0VCMTI1MzVGMEVDNz/M3RkFDQkI1NjJCNDI2NkQ0NjMwRTM5RTJCMTk1QjNDRDJBMzZCRjMucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2825,7 +2931,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "99c29f9bd0119d52",
@@ -2836,7 +2943,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047474",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/lPykAftynMDEn4YOszCFLCljTwH3noWdsWlqtrkrR5Y/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MwRkYyNjAyMzc4QzQyNTlDN0I4NkQxMD/dFNzI4NkFBQTQ2RTgwOTNEMzg5MzdEQzZGRURDNDYwQUY1RDJEQzMucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2851,7 +2958,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "04b4bd2a13045abd",
@@ -2862,7 +2970,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047502",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/PobR0ZfSJnjxIpa6bSZAAUy5lM2tJtfAPu6jt5Zb_0w/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMzMUU1OTdDRDAwNkQwQTQxMjZFNTI2OD/U5RTIwQUI0NDc1MDdFNUUwM0JBODQwOTY3OTM2RUFDQkEzQjdDNTcucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2877,7 +2985,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "40bc4901469e35f1",
@@ -2888,7 +2997,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047494",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/z1mJXAuyJtDw5rZOD1TID4PUB5-IzN6ilSDP98Pgc04/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk4NkE3OUVFQUY4NEM3NTI4NzBDMjM1OU/Q1NTUyNUE0MDJFNTlBRTJGQTlEM0M5NzA3NkI4QTNBNDI0RTg5QjIucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2903,7 +3012,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "70d52df03b701254",
@@ -2914,7 +3024,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047546",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/z-rNbCRPVUlXgPctcg0IAd5K6gEmXJ_puUN9qLMRuYE/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzcyQUVCN0U0RkEyMEYyMERFQUVGRTREMz/VFQTA5NUY4QzM4RjE2RjhGMjZFQzM4M0NFNjkxNDlCMUM2NjRFRTYucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Casa e Decoração Livarno",
@@ -2929,7 +3039,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "6c347e6c641bb4ec",
@@ -2940,7 +3051,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047566",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/o0wtIPHHtMP3g8mmUtahVmAVabiUbUgYiQyL8kUXOyw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E2OUY1Q0ZFMTI2QjBBRUJDREQ3NzM3RT/RENTBCRDk5MDc0Mzc2NkY0RjFFQTA4Nzc5MTdDNjc5MDAzMzE5MDkucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2955,7 +3066,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "9658dbe98eba0b6a",
@@ -2966,7 +3078,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047550",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/26xj_T8k10_2TA8xl_aIweGO54_rX05cx7PdiJTJ-fs/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhFOTI3QjI5RDk5NkIwQjQ0NDA2OUYzRj/ExMDFGODNBQTJERjE4OUMyRDNCRjc1QkIyRDhBQUVGQjUwOERDOUIucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -2981,7 +3093,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "e29aa53814f427a2",
@@ -2992,7 +3105,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047554",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/SCAUHQjia2DNJtiv_fAphtvpB0qD9EiVJeXe8NDXU_s/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Q4RDA4OTJDQjVCQTkxMDUwRTQ2QTQ4Mz/lBQTYyQjU3OEMwMzBCQUFBRDJBRjg3RTk2NTY4NDBFMzk3ODcxOEEucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -3007,7 +3120,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "2fd0c43d427d9e06",
@@ -3018,7 +3132,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047564",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/aWh4kE2OedFbkStp6P9MWEatKKZxnUNjdIc5t5Y8gRo/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzdDOUY0RjVBRTdEMThBMTI2RjU4NjM2Qz/k1MThENUM3REIxQThFRTI1MzQ0NjlCNTU2QkUzMTIwN0FEODBBMkIucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -3033,7 +3147,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "f2828526dde42393",
@@ -3044,7 +3159,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047540",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/qV1hoBN29884ejC2JJY4vbE8hD4RxPsidChNyaQnq8Y/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQ5NTQ4RTdBQjQxMEJDNUZEQjg0QzU3MD/czQzNGNzEyMEI5Q0RENUQ3MjE5RUE1QzRGNkIzQUExNEUwMURDQ0UucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Casa e Decoração Livarno",
@@ -3059,7 +3174,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "e041e8c13ce50e51",
@@ -3070,7 +3186,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047544",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/U9DVcgHqCZu9td3-ixzJ0FOhn4wAnkNssxf3sTzWELQ/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RFNDg0N0Q0M0UzMTRBMTVBOEUwQzdGRj/g0MDAyOEYzQjRBNzBGOTM0NUI1MzE1MzA2REI1NDMyMkNCNzc3M0YucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Casa e Decoração Livarno",
@@ -3085,7 +3201,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "360a07f50d455686",
@@ -3096,7 +3213,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047548",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/YDyqlESJ6b6x4R10BzNTCiAMx7XDYbKAVjmIZqkYG5A/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZBRTI0QUNGNzgyOTk0N0E3QzFCMjZGOD/ZFREUwOUQwQTRDMDJGM0U2MTA5QjA4N0RCQ0U3NkFDMUE1QjE4NUUucG5n.png",
       "availability_start": "2026-05-24",
       "source_title": "Casa e Decoração Livarno",
@@ -3111,7 +3228,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "55d339a42b6625de",
@@ -3123,7 +3241,7 @@
       "price": 4.0,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=1&ImageType=Normal",
       "availability_start": "2026-05-25",
       "availability_end": "2026-05-31",
@@ -3139,7 +3257,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "4b5f235bb4489ca7",
@@ -3150,7 +3269,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047592",
-      "category": "Acessórios",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/oyHG_4tOUxKjp6Lj7s2p0iTxJDhGQvsbqG1EVhMgWIw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0EzMThENjE0OTIwRThCN0U0MDFCNzI0Qk/MyQkQ5ODE4MkM3RjE3MTE0NEQ1QTIwMEVERTlCOTA3RTAyNThEOTAucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3165,7 +3284,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Acessórios"
     },
     {
       "id": "4bbe243c8b6180d0",
@@ -3176,7 +3296,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047590",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/JXNITdLF3r0NBmXNt6oJMeREO8ZTKr9kaaCC8rzY-4g/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzE2M0E0MUE5NjRERUEzOUZENzVCQ0M3OE/FENUVCRUY2QzBENjMzRTdCMjk5M0RDQ0RCNEI5NkMzOUNEQzg5N0IucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3191,7 +3311,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "82ac3a5f8e52ab79",
@@ -3202,7 +3323,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047598",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/dFpuGCwkxRKacdrHp4ExCho7ob9aPUNNEbWqnQzgv3o/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMwNDk3MzBENzkxRUUwODI3NjI0RUM4OD/A0MTRDOUMzRTRGMkQ5NkEwRjI0QjMwOEE3RkQ3NTdGQjQzOEYxMjIucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3217,7 +3338,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "74000eff10f21b2f",
@@ -3228,7 +3350,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047600",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/a1b97LkF2kguImKsjN_zlkCpLZiXEGNCOrhGKI7eXQQ/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzFCRUNBNjMzMDI1Q0QzMjEzRDhEN0M4OD/UyRTExODAwNzM2NEQ1Q0NBQTFEODdGNDZFQ0FGM0YzRkU4OUQzNzQucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3243,7 +3365,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "363d207c5fc3096e",
@@ -3254,7 +3377,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047616",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/-RoO1iGFWLKASl3Kc1WhGrfzQkqtDVUrOgcs1aD1V_M/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzIyRjNGOUNDQjYxNjY5NzkyNjdEMDI1MU/VBQTI5MENDODMwRDUzNjlGQzE4REEwODFGRTQ4NTM4RUQ5ODg2NzMucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3269,7 +3392,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "056a95ee7d54e82d",
@@ -3280,7 +3404,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047588",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/5Kjpsx6WqRxQTvNAVA3TJOmKAe9eqfiMbEUyrXlin9U/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzdBM0M4QUUwMTczNThFNTQ2MTAxOENEOD/YyRDE4NTQ2Njk0MzQ3NkE3QjY4NTdEOTRFOTQ2NzMyQTQ3Rjg1MUUucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3295,7 +3419,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "d276ca6223605cec",
@@ -3306,7 +3431,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047406",
-      "category": "Ferramentas",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/18Fj6Xr_dskffDTdLBIo38Tm6_wnCjxEArhtTqP7iRc/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQ0MkY4RkRDNEY4ODcyODIzNDRDRUIzNE/QxNzdDRjYxOTU1MjNBNjQ0N0Y2NUJEMDQ3Qjc3MDg2NTcwQUY2OUIucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3321,7 +3446,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Ferramentas"
     },
     {
       "id": "de24a83249237b5b",
@@ -3332,7 +3458,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047606",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/3CQamOdRYl2Arx29GnddDkpOlzEe5dRvB-Zlh31Yitw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzJEQTQ1NUIwNjU0OEJBMUE4RTgwRjEyMz/M2ODg3QTgxOUVDMTQyMkE2NzQ3QTUzMEEwNEM4Q0E3NjhGNzExMTQucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3347,7 +3473,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "bf60e8a10ecd1f5e",
@@ -3358,7 +3485,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047596",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/7hHvoAqgcgBmjaKkOStW5Vhb4TTJYQKb2ZaVMUaMYWo/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E2MDkwNTFCOTZENTlDRUMyRURDNzAxQj/g0NDUzMUUwMDZFNjAxNEEzMUI3MUVERjY1REU5Q0FDODM3REI5RTgucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3373,7 +3500,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "f9adfcb18817115a",
@@ -3384,7 +3512,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047594",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/-7BoSWwz6tPbnh8Jc_cNRDj1kCFy9ypnUt1HUgzspNM/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzNFMUY3Njc0RUEwMkI0RURFNjA1MDQxMT/E0NjRCNTc1QjIxNTYwQ0IwNzczNkY3MDBEQTlDOUJBRUI3QjZEMjUucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3399,7 +3527,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "45b5146c4d49b9dc",
@@ -3410,7 +3539,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047612",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/N2CgYKXO6TZrnvGZGEMB4m0DyAo__D0j1XGWrdcQgSg/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc3OERDRTFGMzVDMUM0RDYxOEVCQzlBNz/Y2MEIxMTYwNEVBRkU3RDVCQjBCMzlCQkE5MjBCRTM5QTU3QTlGMzAucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3425,7 +3554,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "2662254700a9a6a9",
@@ -3436,7 +3566,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047610",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/CG0AeU5BLr7HBkLlw91ZRG7MGFeLSIz6VuR9XgrWE4g/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzlFRjI4NkM3MkQwNDBCMjFFRjMxQzU5Mz/AxMUQzNzUwOUI0MjFGRTkxQ0NBOUQwQkIxQjcxQzkyNTRDQUNFNDIucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3451,7 +3581,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "ae693f4f3722100a",
@@ -3462,7 +3593,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047608",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/tc0N6CA5wSJaS99rc06RICywEgFrS56eHd6zgjPAc_o/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhFQUVGNTlCOTM2RkNGMTFFMEM1Q0QyRT/kwNkMxQTA1NDVDRDk2OUMzNUNCRTU1MzEyMDQ5NUVDMUE2MkI3MTIucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3477,7 +3608,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "91ba454cb8290e08",
@@ -3488,7 +3620,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047604",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/19VqW4RZggdFuMq_Q-kTGVk_Vdl3S0r8BAUIr1zxzys/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0U3RUU3QTBBQjMwOTFEQTI5MzlFOTM1OT/lBMUEwQ0E5NjMwMENGMEU3MjEwOTgzMUJGRDhCMTlCNzlDMjk1NzQucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3503,7 +3635,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "f231812e6ffde5e7",
@@ -3514,7 +3647,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047614",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/jHYmfnpOohozVjEFpiR6F1dP3iKJBf1sWCJJCQGDOdo/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzcyRTZCQjg1MTYzMUNBRTMzRjUyREM5QU/U4NUEwMTU5QTY2MEFFNDM1QkU2NjlBNjQ3OEUzMzg1RTQzQzY1NEUucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3529,7 +3662,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "441968dfa3c85e57",
@@ -3540,7 +3674,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047620",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/G19RaLW6qE-B0DLSHQIFj6WCZ6KSBiEuLk2nW2OXTgA/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMyQzMwMUE0NEZFODA3QUEwQjRBNzBDOE/ZFNDQxMDlCMjZGOEYwNUY2QjUwQUVGNDgxNjAzMDQ3MThFMERENEEucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Moda Esmara",
@@ -3555,7 +3689,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "00de158b867d5a9b",
@@ -3566,7 +3701,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047626",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/KBVaY4KmNAcLvQxYsQEyHXpndmz8uIDPrvhL0j8hMHU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ExRDFBREUxOTlENDczQTM5NzIzQ0JGMk/M1RDVENDc0MURFOEY0RjJDMEQ4QkVCNTg2RUIyRjcxRjY1Nzk3REUucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Moda Esmara",
@@ -3581,7 +3716,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "d00a8065d09e758a",
@@ -3592,7 +3728,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047624",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/qLU3q95gIH2uSmZxq86avcagzcV9Rozqu7Lj5eEive4/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MyNkVBNjIyODVEMkRDMUFDQTcxQkRBQk/Y3MDI0RkYyNEVGRDk3NDNBRTY0NEI4MkUyNEUzQ0ZDNkFDNTlGRjAucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Moda Esmara",
@@ -3607,7 +3743,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "b771c658944ef204",
@@ -3618,7 +3755,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047622",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/Ba5LU-SVrIz15zP7xpf3R0SwaglEZBtwm7A5Oe0N_h8/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0I4NzRERDhFMzc3QTY1ODUwMjYyRUUxMT/QzQTE4Qzk2NzE2NzdBMEYxQjA0RjAxMkREQzYzREVEQjUyRUUyM0IucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Moda Esmara",
@@ -3633,7 +3770,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "6fb05d918579dc4e",
@@ -3644,7 +3782,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047576",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/5P4eQYjSNAiRGF7lnFJ8of4UoAkP29febnD_QJglrrU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzBCNjIxRDJFNUEwNjJBNUFCMDA5QUVEMz/Y1NTFCMDFFMkUyMkQwQzdEQjMzQTBGOUYwRjZFNjg3MjIzRjBGRTQucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3659,7 +3797,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "35f57ef3f9ddbaad",
@@ -3670,7 +3809,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047618",
-      "category": "Outros achados",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/0kqzSol-wlbYKIBI6PL7_RkyT-Bt0nP12TW6sQf9FY8/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzJBRkZCRDQ2RUM0NkQyRjIyQ0E2QjM4OE/M0QzRCQzFBNUU0QzBBMzZCMjk4RjVBODk2QTBCNDM1QUZBNzA4QzIucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3685,7 +3824,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "3704fcef6773842b",
@@ -3696,7 +3836,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047570",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/EnlfaBNLE_81LAsqfh-PCEGj2sJo6tEQzDYd-_RTdZU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MzNjA4MzAyMzU5ODNDQjhFQUQyNkE0Qj/QzMzAxOUIxM0ZDMjMxNDY4MEZDNTQyOEFFMDVBOEMxREJGQjhBNjUucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3711,7 +3851,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "4dcc65dce5f698c3",
@@ -3722,7 +3863,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047574",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/FqaEJKfK5QL3tHkrkOZtrhUvpCdCKDCGiL-qOnkDBZE/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzczMEIwNUNDMTY5QkUyNDA5ODBCRjA4QT/I3NDc0Njk1NDdCMEI2QzExRDM1MTNGMzk5REQ5RkM4NjBFMDIyQUQucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3737,7 +3878,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "12e8a2aae64738ba",
@@ -3748,7 +3890,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047408",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/yEbVn38QZlPunfK2GPkNFOHJz77pVl2sPtXjl4OKrdY/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZCMzJCNEZENzhEMkRFRUU5ODk0QkRBQz/kyMDAyRjc5MzBCNTFFMUFDRjUzOEQxRDRENzA5ODgwQ0M1NDg4NUUucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3763,7 +3905,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "61537de271819b04",
@@ -3774,7 +3917,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047584",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/XsGaYS-tylV6hv7Nz-iU9W-bj2FFmntfqQ2OraD5As8/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzIwRDIwM0Y4MjNGQzBBMUEyMzI1MzU2Mz/M0QzczNkU2MDcwRkRFMjYyMkRBMzJCQUQ1MzU2RTNFMDRGMkVGRjYucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3789,7 +3932,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "9ac3a441bee56f7a",
@@ -3800,7 +3944,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047602",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/WuOPW-LqG8zIp7fH0QYrNM7pGy57b0Jz1oF56sIBgMQ/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU4RkJBRjU3MTdFRDdCQTRBN0NFQkM4N0/M1QTQ2Njc2NUVGRDE2RDExODJDMkQ4MTg5RDQxMUM5MUI1MkVDMUMucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Ferramentas Parkside",
@@ -3815,7 +3959,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "2a99a7835471c15a",
@@ -3826,7 +3971,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047578",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/GX_q8h9OJcgJ_GHXtm94TCpsWrhxI6BRbVv0MudV3KQ/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzVCOEM5RTMwQkY5OEI2OEVCQkJFNzhEOE/ZEMjE0RjBEMDNFMDM2MkY2NjEwMUEyOUVDNDE4MzY5RDJDOUE2RDQucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3841,7 +3986,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "1859c6099314f261",
@@ -3852,7 +3998,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047580",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/W6s6B6fRnOqWqdIlcREKNVG1x9R67EUK3nlwv1Dw5bU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0IxNkFEOThCQUE1MkI4QTU0NUY2OURBRj/hGRURENTQ3MzUyMkU2MDI4RERGMTEzRDY0NDY2MjM2NUVFRDgwQjcucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3867,7 +4013,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "82a819253b9d3d1a",
@@ -3878,7 +4025,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047582",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/EEwHMPRzW2RlOCciwfsLngFjDhQ6Olu2_HhrQqOEDHg/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU1N0ExMEM4RUQwMjNEQTU5Q0Y0MzNERE/ZDRUFCODJCQTFDREU4RjM5NjNDNkU2NjZDNTEwN0VDQkZGOTZFODEucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3893,7 +4040,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "40a1f23a2da567f5",
@@ -3904,7 +4052,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047572",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/YuHeJbunn4GnN8Q1y0G7HcjsV1A1sNH5ZjlGSgqSLcA/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RCMTlCMjY0NEI1RDBBQTg0OEJBMTRFOD/VGNzMzQkVCODlDNzFDN0NDRUUzRjVGRTM4MjRFRTk4OTU3OTA2QTEucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3919,7 +4067,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "683d1898b7f46544",
@@ -3930,7 +4079,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047586",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://imgproxy-retcat.assets.schwarz/a5-7zyM6ryd7rW3nqWbS4R3UrochBvFnqpPemd8xDuw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0IyMEJBMUEwMTVDNTMzMTEzMDlFNDhFMj/czQjdBMDU3NTgwQUJDQTlERTYwNEI4NjhEQjQzMDZCOUUwNjNCREMucG5n.png",
       "availability_start": "2026-05-28",
       "source_title": "Casa e Decoração Livarno",
@@ -3945,7 +4094,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "22d854457d8ef417",
@@ -3957,7 +4107,7 @@
       "price": 7.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=42&ImageType=Normal",
       "availability_start": "2026-05-29",
       "availability_end": null,
@@ -3973,7 +4123,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "3be984157b0f9fd6",
@@ -3985,7 +4136,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=42&ImageType=Normal",
       "availability_start": "2026-05-29",
       "availability_end": null,
@@ -4001,7 +4152,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "7724420a67d77dc1",
@@ -4013,7 +4165,7 @@
       "price": 11.96,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=33&ImageType=Normal",
       "availability_start": "2026-05-29",
       "availability_end": null,
@@ -4029,7 +4181,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "16c1d9024d7ebc38",
@@ -4041,7 +4194,7 @@
       "price": 6.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4057,7 +4210,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "a80352d073cb0a41",
@@ -4069,7 +4223,7 @@
       "price": 6.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4085,7 +4239,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "b36eac738bc7edd7",
@@ -4097,7 +4252,7 @@
       "price": 11.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=40&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4113,7 +4268,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "5064e31a43f43010",
@@ -4125,7 +4281,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=39&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4141,7 +4297,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "7e02fb63bc72f593",
@@ -4153,7 +4310,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=40&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4169,7 +4326,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "dd7d00e51bea2ee2",
@@ -4181,7 +4339,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=40&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4197,7 +4355,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "1b40a690bad7c79d",
@@ -4209,7 +4368,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=39&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4225,7 +4384,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "61ed86044705e1aa",
@@ -4237,7 +4397,7 @@
       "price": 3.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=38&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4253,7 +4413,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "e4c3c40a2392cc77",
@@ -4265,7 +4426,7 @@
       "price": 11.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4281,7 +4442,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "d159204ab541de77",
@@ -4293,7 +4455,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=36&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4309,7 +4471,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "08b160b569c9056e",
@@ -4321,7 +4484,7 @@
       "price": 10.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=41&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4337,7 +4500,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "38462444f40c4687",
@@ -4349,7 +4513,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=36&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4365,7 +4529,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "a379f03f4ee4fcd7",
@@ -4377,7 +4542,7 @@
       "price": 19.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=36&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4393,7 +4558,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "8e91d960434e7cd5",
@@ -4405,7 +4571,7 @@
       "price": 11.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=39&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4421,7 +4587,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "9f9c78c67f6c49d0",
@@ -4433,7 +4600,7 @@
       "price": 3.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4449,7 +4616,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "3cd25c44e9e764d3",
@@ -4461,7 +4629,7 @@
       "price": 11.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=40&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4477,7 +4645,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "7931680ca47c7032",
@@ -4489,7 +4658,7 @@
       "price": 6.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=36&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4505,7 +4674,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "1b46b6512244c77a",
@@ -4517,7 +4687,7 @@
       "price": 5.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4533,7 +4703,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "bfa366cceca0d27a",
@@ -4545,7 +4716,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=38&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4561,7 +4732,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "c982a2c5ba9b19ae",
@@ -4573,7 +4745,7 @@
       "price": 5.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=41&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4589,7 +4761,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "0f19ada6f3f0bd02",
@@ -4601,7 +4774,7 @@
       "price": 15.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=41&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4617,7 +4790,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "c8298453796c59d4",
@@ -4629,7 +4803,7 @@
       "price": 5.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=38&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4645,7 +4819,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "472ec01276d06ed1",
@@ -4657,7 +4832,7 @@
       "price": 7.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=38&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4673,7 +4848,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "6541065fdd7c770b",
@@ -4685,7 +4861,7 @@
       "price": 19.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=41&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4701,7 +4877,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "29ef741407ba19bd",
@@ -4713,7 +4890,7 @@
       "price": 2.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4729,7 +4906,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "fd944e0524b19f05",
@@ -4741,7 +4919,7 @@
       "price": 11.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=40&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4757,7 +4935,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "a2749833fbffdfd4",
@@ -4769,7 +4948,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=40&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4785,7 +4964,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "5098cadce1a3bdec",
@@ -4797,7 +4977,7 @@
       "price": 11.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=39&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4813,7 +4993,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "e9aac7d9de0ec2aa",
@@ -4825,7 +5006,7 @@
       "price": 23.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Beleza & cuidado",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=39&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4841,7 +5022,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "ab4490b76386c18c",
@@ -4853,7 +5035,7 @@
       "price": 2.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=41&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4869,7 +5051,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "031a149fb5647888",
@@ -4881,7 +5064,7 @@
       "price": 5.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=38&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4897,7 +5080,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "a33e2c327e66993b",
@@ -4909,7 +5093,7 @@
       "price": 7.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4925,7 +5109,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "3910d4e534221eef",
@@ -4937,7 +5122,7 @@
       "price": 2.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s22/2026_cw22_mo_promotion_aldi-uma-viagem-de-sabores-a-italia-2/Image.ashx?PageNumber=40&ImageType=Normal",
       "availability_start": "2026-05-30",
       "availability_end": null,
@@ -4953,7 +5138,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "95d83450083bf7ce",
@@ -4965,7 +5151,7 @@
       "price": 4.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=20&ImageType=Normal",
       "availability_start": "2026-06-03",
       "availability_end": null,
@@ -4981,7 +5167,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "b90ce6eca0181eda",
@@ -4993,7 +5180,7 @@
       "price": 6.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=20&ImageType=Normal",
       "availability_start": "2026-06-03",
       "availability_end": null,
@@ -5009,7 +5196,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "865683c096b7a50f",
@@ -5037,7 +5225,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "7edfd470711ece99",
@@ -5065,7 +5254,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "19ab84c9b0faa31a",
@@ -5093,7 +5283,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "e8acf34d36707681",
@@ -5121,7 +5312,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Ferramentas & jardim"
     },
     {
       "id": "126df703b0d9d66b",
@@ -5149,7 +5341,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Ferramentas & jardim"
     },
     {
       "id": "f3a658d8051c7c91",
@@ -5161,7 +5354,7 @@
       "price": 29.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=21&ImageType=Normal",
       "availability_start": "2026-06-03",
       "availability_end": null,
@@ -5177,7 +5370,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "0b1759a424e47bbd",
@@ -5189,7 +5383,7 @@
       "price": 17.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=19&ImageType=Normal",
       "availability_start": "2026-06-03",
       "availability_end": null,
@@ -5205,7 +5399,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "e56a9938a6b6512c",
@@ -5217,7 +5412,7 @@
       "price": 5.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=20&ImageType=Normal",
       "availability_start": "2026-06-03",
       "availability_end": null,
@@ -5233,7 +5428,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "29f8c76dc7e371d3",
@@ -5245,7 +5441,7 @@
       "price": 24.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=18&ImageType=Normal",
       "availability_start": "2026-06-03",
       "availability_end": null,
@@ -5261,7 +5457,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "9931474cb51fdfab",
@@ -5273,7 +5470,7 @@
       "price": 1.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=19&ImageType=Normal",
       "availability_start": "2026-06-03",
       "availability_end": null,
@@ -5289,7 +5486,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "408907ba4e5845d2",
@@ -5301,7 +5499,7 @@
       "price": 4.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=19&ImageType=Normal",
       "availability_start": "2026-06-03",
       "availability_end": null,
@@ -5317,7 +5515,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "15fdd037cc71b1b8",
@@ -5329,7 +5528,7 @@
       "price": 29.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-06-05",
       "availability_end": null,
@@ -5345,7 +5544,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "de5fdfc7a7c2bd72",
@@ -5357,7 +5557,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-06-05",
       "availability_end": null,
@@ -5373,7 +5573,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "d93415f104ed63e3",
@@ -5385,7 +5586,7 @@
       "price": 3.77,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Limpeza",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=37&ImageType=Normal",
       "availability_start": "2026-06-05",
       "availability_end": null,
@@ -5401,7 +5602,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Limpeza"
     },
     {
       "id": "e0b23c84d46cedbb",
@@ -5413,7 +5615,7 @@
       "price": 19.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=35&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5429,7 +5631,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "4fc94cdadc53bdbc",
@@ -5441,7 +5644,7 @@
       "price": 11.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=32&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5457,7 +5660,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "2531aed16deec8b4",
@@ -5469,7 +5673,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Casa",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=32&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5485,7 +5689,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Casa"
     },
     {
       "id": "275ff8e2d01c24f3",
@@ -5497,7 +5702,7 @@
       "price": 7.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=33&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5513,7 +5718,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "8f7064cca4f827e5",
@@ -5525,7 +5731,7 @@
       "price": 4.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=33&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5541,7 +5747,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "b0abf47552752191",
@@ -5553,7 +5760,7 @@
       "price": 29.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=35&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5569,7 +5776,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "f66d9c3a92c735bd",
@@ -5581,7 +5789,7 @@
       "price": 6.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=36&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5597,7 +5805,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "aa83e40ee80844d8",
@@ -5609,7 +5818,7 @@
       "price": 3.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=36&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5625,7 +5834,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "956890005c2ced41",
@@ -5637,7 +5847,7 @@
       "price": 7.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=34&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5653,7 +5863,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "e58dadcc495663dd",
@@ -5665,7 +5876,7 @@
       "price": 3.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=32&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5681,7 +5892,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Moda"
     },
     {
       "id": "214165a1dd51f72d",
@@ -5693,7 +5905,7 @@
       "price": 13.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=35&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5709,7 +5921,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "627446f446fdb5aa",
@@ -5721,7 +5934,7 @@
       "price": 9.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=33&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5737,7 +5950,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "a1d70f6bad45293c",
@@ -5749,7 +5963,7 @@
       "price": 14.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=35&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5765,7 +5979,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "918fecffdd7b6cba",
@@ -5777,7 +5992,7 @@
       "price": 3.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=36&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5793,7 +6008,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "c907cfbfc89ce44f",
@@ -5805,7 +6021,7 @@
       "price": 4.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=33&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5821,7 +6037,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "b137a6cdefb772c9",
@@ -5833,7 +6050,7 @@
       "price": 6.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=33&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5849,7 +6066,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "56aba8adc10f4c3b",
@@ -5861,7 +6079,7 @@
       "price": 5.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=32&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5877,7 +6095,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "64745642d36e7945",
@@ -5889,7 +6108,7 @@
       "price": 4.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Casa & limpeza",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=35&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5905,7 +6124,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "dd9022a64f608284",
@@ -5917,7 +6137,7 @@
       "price": 6.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=34&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5933,7 +6153,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "f4feabb043397581",
@@ -5945,7 +6166,7 @@
       "price": 17.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Desporto & lazer",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=35&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5961,7 +6182,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "f724d1baabd8100e",
@@ -5973,7 +6195,7 @@
       "price": 6.99,
       "currency": "EUR",
       "unit": "unidade",
-      "category": "Outros achados",
+      "category": "Moda & acessórios",
       "image": "https://ipaper.ipapercms.dk/aldi-portugal/2026/s23/2026_cw_23_mo_promotion_aldi-semana-xxl-2/Image.ashx?PageNumber=33&ImageType=Normal",
       "availability_start": "2026-06-06",
       "availability_end": null,
@@ -5989,7 +6211,8 @@
       "stock_supported": false,
       "stock_mode": "estimated",
       "availability_source": "aldi_leaflet_estimated_store_probability",
-      "confidence": 0.82
+      "confidence": 0.82,
+      "_raw_category": "Outros achados"
     },
     {
       "id": "0b9050984349489e",
@@ -6000,7 +6223,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046991",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/7qNJ9eYjlIBdYcks7ath_0NWGSbT0_jN-M_n2506Rvo/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzVGMkNDOURERDc1NEJDRTJDNzQ5MkYwRj/c3OTMwQkNDQTM4OTRFRkU4Njc0MjZEQUVEMENFQzlBNjUxMEU0NDUucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6015,7 +6238,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "2f40bb8f99635b71",
@@ -6026,7 +6250,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046971",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/ThmJZPBiNCsb8MAEWFPTyBzNnKaBZ34Ttzx_w0udAjc/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzE5Q0U1RThFRUZDNjE0MERFMjlEQjQ2NT/ZGQjYyMUM0NUI0NENFODVGNTFGRkQzRDQ4ODdFQTdDQTU4NTQ4NTYucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6041,7 +6265,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "c7919389449d4719",
@@ -6052,7 +6277,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046983",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/Vj11h6Mmd-cn5Y3dY0SF7DfQI_0z27JBhwPTQbJVIBU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzUzRkRFNTVCNDIwODgzMTAwQTA3RTdDNz/NERjNFNjExNUQ0RjkwNjI5QjhGMDFCMTlDQjExNzJDMDFEOTcwMTAucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6067,7 +6292,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "486e654d47e97d57",
@@ -6078,7 +6304,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046987",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/V8SKLPvDBagTz3PM_3V3r8vcZgTN6jKfGM1CS_ElAiU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M3Q0I2RkQ0OTQzQkM2M0YwRUVGN0Q5RU/M0OEMyMjFEMzUxRTQ3OEM3N0I1QTdGODE3REE1QzJCNjE3MEY0OEEucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6093,7 +6319,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "3da9f99c99a0b838",
@@ -6104,7 +6331,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047001",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/PWGR77eINO8WzplzZZmo-iMYYjKqqR1jvPvlBtmgdGg/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E4N0Q3RDU0NUIyNTJBQTQwRTFFOEYzQ0/ExRjYxQzBDMkU2Rjc2RjBCMUU5RkQwMjFGQzgxRUFFMjNFNEE0NUUucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6119,7 +6346,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "595659d656115c86",
@@ -6130,7 +6358,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046995",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/KAVQrqVNs3M9bmdqebaJJa3lUf5HOb9fSO31kF-HCcY/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMxM0FFMTAxQjI3Q0NCRjMwNjlDNDdEMU/E0NjEwMTEzOEJBMzI1M0YyMDQ2QzZDNEIwRThERjI2NDg4NzREMDkucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6145,7 +6373,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "9a6b65ecb7c2866d",
@@ -6156,7 +6385,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046997",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/VnbQMQaZCC1FBQV9M6qsKyGcd-aLhdL5Qk-KACkDWuc/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RERUEzRTJBQzA3Q0E5RjVENzM3RkMyOU/U3MERCRjRENUI4NUI3QzhERkRDRDlDQzQ3MkVBRkRFRjgyNUU1RjAucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6171,7 +6400,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "bfa055e1bc25c229",
@@ -6182,7 +6412,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046979",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/jhOjpxPbBr3Nz6d_MstzAjXz6yKw-sFWW8Ngnmqn7pw/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0VEMDRCOUIzMTBCNDZDQkMwQzUxQjcxMj/FDODk0MDQ0RUQ1OEJEMEYzN0RFM0Y4QzJEQzM1RERFNjhFNEI2MTkucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6197,7 +6427,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "96e80f7380df36fc",
@@ -6208,7 +6439,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046977",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/rRj37xJzpMjXaO6jvvWWqw0PVwaF3chzUVAezfpBl2s/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzUxMjQwMEY3MjAzNzcxNjdBQzUzNjRBND/lEMkU1RjJEMDJFMjE3NjU4RjlDNzExOTQ0MTk3QjM4QTA4QTFBNUQucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6223,7 +6454,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "8598f36922ca209c",
@@ -6234,7 +6466,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046967",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/6rvA9_w4WV6RJvjMLhp3bt3B4Oag4vPi3VaUPT_YaOE/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY4NDVBMjg4M0VFRjdFNkMwNEUyQkRENE/I3N0ZGRTlGMzlGRTdBQzYxMjNGODA2OTQ4QzYzMjJGNzdCNTQwRUYucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6249,7 +6481,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "f655239263dd8792",
@@ -6260,7 +6493,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046975",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/r143DzyhJyO0t003fnIjXMbqyzbiwCKKM1kV8XtgKVs/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzA5NDQ3RjFEQ0UwNTY0NzFCODYwMUZDMk/JCQTIxQTJDQjM4RUQwOEM0MTdDMzAyRUJEMzU5MUM2NzFGQzc1QjIucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6275,7 +6508,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "54f86fe9baca124e",
@@ -6286,7 +6520,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046969",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/E0C7lVTdYPDh7xywHzRw0pH6MKoaBalbqMsRiUDZ7Hs/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzgxQTE2OUE5QjEyMUM4NzRCRDMzMkM4Mj/kyNzA3NjZDM0M5NTBFRkU1QzEwNThCMjU1QjQ4NEM4MUVEMkYzQjIucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6301,7 +6535,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "4bdc7e648b77cbb5",
@@ -6312,7 +6547,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046973",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/hQnH2sUG7reJ8Lq5eF9XMmD6YC_Ii0Vxr4WYFSIRZaI/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzdGMUU0RERGMUVEOEVEQUE1RjRDOEI1Qz/g4RkE3RkUyMEM0REZDM0JDRjAzQ0MxNTNFNTJEQUZGMzE2MTZBRTcucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6327,7 +6562,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "306326f13b1fdc1c",
@@ -6338,7 +6574,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046981",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/_vA5ni4CGk4o95uKEBN8ODALZrM8xaO3CTtXbWQ9SGs/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhERjFEMUMxNzNERUY3Q0I5QTA5OTdFQk/QxM0VGNTVFMDcxNzBGMEE3NENDRjIxNTcyRjIxNUI3MzYyNzIxMzIucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6353,7 +6589,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "c3c240b078b6fac0",
@@ -6364,7 +6601,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046961",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/NvAhS5SeXrsv11YyLTdZWSS0T-HsASqxFqlv2PgErF8/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0FEQTBDNjEyNTc0NERCOUFFMERDRUMwRD/RFQTEzNTE3QzE0MjQ0NkMzNzZENDI1NkUxNzFDRDY3ODY0NERFQzMucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6379,7 +6616,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "42e0d606e5b5c17e",
@@ -6390,7 +6628,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046993",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/Q3sz5BlWxHlU5Ihm4x4aATelqByfEmwiM-VPIrvU8ls/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzUzQjZERDU4Mzk0QTIzNTJEQzlERkVGND/JGNzQxREUzMDFCNzRCMzMwRjA5RDVCRjQ1NTE3MUZGQThEQTQxNEUucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6405,7 +6643,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "4554b6720a43a351",
@@ -6416,7 +6655,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046999",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/oPNj9rujKXDniJQPfOabcdi4QDiP0SM_tyZLuHoUH8g/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0FDMUFEM0QyOTdFMTNCNkM3QTg0Qzc3ND/VGRTA3N0U5MkU3MjQ2MDMwNUEzQThEMzExODlFNjJBNEZCRERENDMucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6431,7 +6670,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "b79ca49828a55945",
@@ -6442,7 +6682,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046985",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/FXoq_IVPh0saKxg1ydE2k8DtYdyFFqFQXQDXwdbhe-A/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk1REM3MTZDQTlGQURCNEFGRTAxQTUzRk/I2QzBEQTc5NTYzOUQ5RkRBOTAzNjZEMkQwMEU1NjVGODQyNDMyMkQucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6457,7 +6697,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "052b4eb82273d83f",
@@ -6468,7 +6709,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10046989",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/EsZCbnq7Gtrqi8UCwz93qChPwZ5ztTiscjToyZg6daU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzUyRTA2MUVCQUNFODM5OTQ5M0ZFRTdBNE/U3QUNDNzMwQ0Q3RUU1RDg2MDY4OEFBNTg2QkNGREY0NThGRTFFMDEucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6483,7 +6724,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "5e29764b627a8642",
@@ -6509,7 +6751,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Desporto & lazer"
     },
     {
       "id": "fb16f6f875937390",
@@ -6520,7 +6763,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047003",
-      "category": "Jardim",
+      "category": "Ferramentas & jardim",
       "image": "https://imgproxy-retcat.assets.schwarz/91YQc9u7xYQFHu-WoAbWN4oFQ92SLefrckFFvTjoKrI/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc5MDQ4NkRGMkY3Mjg0N0YyQ0QyMUY2Nk/JFQUYwMUFFOERBOEFBQjk4RDdBNkQ2RkQwNUM1OEVCMTEwNDNCRjAucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Parkside Jardim",
@@ -6535,7 +6778,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Jardim"
     },
     {
       "id": "d6f83a80c926529e",
@@ -6546,7 +6790,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047029",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/vcS-deDx_8r3KLK08-X41BjR4---Q1xz6kcQHN6HRQo/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZCQjc4NUUxNzE3MDBCMDhERjQwRkI4NT/MyRjU0MDE2NDUyRDZGRDhDNjlGNkZGQzM1OUNEQjc1NDJFNzk3NjgucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6561,7 +6805,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "2b1c31632dd2e11b",
@@ -6572,7 +6817,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047039",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/T49kIizZDbR4Jnlzhmz7KiWynTiXDq1hgX96pkPQuK0/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzJBQUY2RkJCQjQ3MzZGNDNDOUY0NTE2OU/M0QzA4MjYwQTg3NzI3QUM5MzFDQzIwMUFEMEM2MDU0OTg5QjY2MjAucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6587,7 +6832,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "8f8ca917f51c533a",
@@ -6598,7 +6844,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047035",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/RL25yob1XhD2rVhqMkGmIzpijpAAUsx-NHlCa5NwS68/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0U5MjBBRTc2MDVBRUM2MTU4Q0FDQTQwRE/VGQTA4OTg4OTRCRDhCQUI2QjMwNzdGRjQyMTM2NkNGRDZDNkI4MzMucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6613,7 +6859,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "5063a8af05e80560",
@@ -6624,7 +6871,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047033",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/aWtFSk6bMtXHeYygwK8fc0aN2WT_5pU3NbynQP89iBA/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzgzOTRFNjExQUMyQjU2MjEyMTBCMkY3MU/FCNDlDMTQzM0M5QjFGRTE2Q0UzNzlFQzlDMTBGRDJDN0Q3MTRERDkucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6639,7 +6886,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "9cca72eaa3e47fc2",
@@ -6650,7 +6898,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047037",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/3ejr2j7zBwUB-mCaGCCF1pyRA8bILuVZPvGA_bn1dWU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZCRjczMjQzNjlCRkYzQTNCQTIxMTgzNU/U1QUM3ODRCOEZEQjBGMjYwRThGQUUyOUU1ODI4RDI3NkIyRjVBNkUucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6665,7 +6913,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "6dbf1851ea5376d0",
@@ -6676,7 +6925,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047027",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/Fct1INaj3jhCA_t0igrdONsp8F29d0yqQZ-4Gg3_cms/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E4RENFNjNEOTgxNjc4QjI1MDgwRjgxND/JGNTYwMTUyQjAyNTlBRjhBNDU2N0ZBRjcxQUVDMzIxQzYwNjE3QTAucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6691,7 +6940,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "cd28af8b20bcd9e8",
@@ -6702,7 +6952,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047031",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/Nx31Jy-rqFGsrYx1zKu6cq0QnFZquguoawHhSgZ5mvc/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk5Q0UzQjIxNDhGMDNFQzYxNzkwQzU0Qz/EzNjJBRTgyQzAzMkNCMUY2QkVFREZCOUZDMDkyRjRFNzRENTNFQTgucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6717,7 +6967,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "dc7c9fb41f127b26",
@@ -6728,7 +6979,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047023",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/zo8g9EvaW4OX6AqACCOjf1iMQb-qgGehYCagbI8Mo3I/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhBNDg4N0UzNUQzRUI5MzFEMDVGMDlDMD/ZBQUNGRTgyMUJFRkQyMjMxM0Q1OUYzMjYzRDBFMDNDNzc2RUFGRUUucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6743,7 +6994,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "4d93f5bbeaf1401b",
@@ -6754,7 +7006,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047025",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/93hSFJpwZ8FiH6iAfaF06g3cqxwaktQmSMW3KV5u1qU/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzM0RkRBRUU5RjU1QUM2MzM2MTk2OEQwQ0/YxMUEyQzY0MDU2MEM5Q0RDNzJFMUIyNTJDQ0YyMjRFQTNDNDRGMEMucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6769,7 +7021,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "3dc46a199d04a98f",
@@ -6780,7 +7033,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047021",
-      "category": "Moda",
+      "category": "Moda & acessórios",
       "image": "https://imgproxy-retcat.assets.schwarz/IcyrXWely-BQtGdVYJQZzVoQHOp4Bt-rute5FnDqSU4/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk1M0QzRjhBN0VBOEM1MDE2RURBMTQyMj/g0RjIxNUE0RkJFRTdEMzVBMzdGNjkyNDg5MzE0NDRDRENFNkZCOTUucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Esmara Mulher",
@@ -6795,7 +7048,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Moda"
     },
     {
       "id": "1c9f3ffd4aa1102a",
@@ -6806,7 +7060,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047005",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/u0RjAueQBdsobXSVVW9SImSZFmaCAWYSDUGoVJoNrl0/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Y5OTM1OTVBODFDRjZDNTlBNzgzN0RDRj/A2MkE5MEFGMTA4QUI0NERDM0ZEOTUxNDQ2RTRENDk3Q0VERkQ5RDMucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -6821,7 +7075,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "920589260bc5c778",
@@ -6832,7 +7087,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047007",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/IscJSd4YH5mGSN8jMgZm4ugqcdrBWOMq7-u9FeMwQBQ/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZCQTFCRkEzNjFFQzBBMjhEODk2M0RGQU/JDQ0VFNzlFQzNDMDVFMTNGQTA1RjhERjVFRTcwNzQ4OEE3NjVFRkIucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -6847,7 +7102,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     },
     {
       "id": "6dfc9bf8f842a298",
@@ -6858,7 +7114,7 @@
       "currency": "EUR",
       "unit": "Cada emb.",
       "product_code": "10047011",
-      "category": "Outros achados",
+      "category": "Criança & brinquedos",
       "image": "https://imgproxy-retcat.assets.schwarz/jx3eDvlbqaI9bas_AyiVo9gikURqtw8G2AD37_d0zO8/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzgxOEU4NTM0RUVEQjBCNzk3NjlCMDVFNE/E4OEVFREQ5MDNDODZDMjhCMjI0OUVEM0UyNDY2NDMzOEU0QTI4ODQucG5n.png",
       "availability_start": "2026-05-17",
       "source_title": "Bebé, Criança e Brinquedos",
@@ -6873,7 +7129,8 @@
       "country": "PT",
       "retailer": "LIDL",
       "stock_mode": "live",
-      "product_url_label": "Ver produto Lidl"
+      "product_url_label": "Ver produto Lidl",
+      "_raw_category": "Outros achados"
     }
   ],
   "campaigns": [
