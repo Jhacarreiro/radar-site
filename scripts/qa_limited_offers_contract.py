@@ -47,6 +47,17 @@ def article_attrs(index_html: str) -> list[dict[str, str]]:
     return [parse_attrs(m.group(0)) for m in re.finditer(r'<article\b[^>]*\bdata-card\b[^>]*>', index_html)]
 
 
+
+def validate_404_about(root: Path) -> None:
+    page = root / "static" / "404.html"
+    text = load_text(page)
+    if HTTPS_REDIRECT_MARKER not in text:
+        fail("404.html is missing HTTPS redirect marker")
+    if "About me — João Carreiro" not in text:
+        fail("404.html is not based on the About page")
+    if "/whipit/about/assets/style.css" not in text:
+        fail("404.html is missing About page stylesheet")
+
 def validate_https_redirects(root: Path) -> list[str]:
     checked: list[str] = []
     for path in sorted((root / "static").rglob("index.html")):
@@ -160,6 +171,7 @@ def main() -> int:
     if not base.exists():
         fail(f"limited-offers static directory not found: {base}")
     validate_https_redirects(root)
+    validate_404_about(root)
     validate_public_json(base)
     validate_lidl_availability_ids(base)
     validate_ui_regressions(base)
