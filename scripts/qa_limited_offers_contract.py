@@ -20,7 +20,7 @@ from urllib.request import Request, urlopen
 
 INTERNAL_FIELDS = {"store_stock_id", "global_availability", "image_source"}
 REAL_INDICATORS = {"AVAILABLE", "HIGH_STOCK", "LOW_STOCK", "SOLD_OUT", "NOT_IN_THIS_STORE"}
-HTTPS_REDIRECT_MARKER = 'location.protocol==="http:"&&location.hostname==="getrad.ar"'
+HTTPS_JS_REDIRECT_MARKER = 'location.protocol==="http:"&&location.hostname==="getrad.ar"'
 
 
 def fail(message: str) -> None:
@@ -51,23 +51,23 @@ def article_attrs(index_html: str) -> list[dict[str, str]]:
 def validate_404_about(root: Path) -> None:
     page = root / "static" / "404.html"
     text = load_text(page)
-    if HTTPS_REDIRECT_MARKER not in text:
-        fail("404.html is missing HTTPS redirect marker")
     if "About me — João Carreiro" not in text:
         fail("404.html is not based on the About page")
     if "/whipit/about/assets/style.css" not in text:
         fail("404.html is missing About page stylesheet")
 
-def validate_https_redirects(root: Path) -> list[str]:
+def validate_no_per_page_https_redirect(root: Path) -> list[str]:
+    """HTTPS is enforced by GitHub Pages settings, not by per-page JS."""
     checked: list[str] = []
-    for path in sorted((root / "static").rglob("index.html")):
-        text = load_text(path)
-        if HTTPS_REDIRECT_MARKER not in text:
-            fail(f"missing HTTPS redirect marker in {path}")
-        checked.append(str(path.relative_to(root)))
+    paths = sorted((root / "static").rglob("*.html"))
     baseof = root / "layouts" / "_default" / "baseof.html"
-    if baseof.exists() and HTTPS_REDIRECT_MARKER not in load_text(baseof):
-        fail(f"missing HTTPS redirect marker in {baseof}")
+    if baseof.exists():
+        paths.append(baseof)
+    for path in paths:
+        text = load_text(path)
+        if HTTPS_JS_REDIRECT_MARKER in text:
+            fail(f"per-page HTTPS JavaScript redirect should not be present in {path}")
+        checked.append(str(path.relative_to(root)))
     return checked
 
 
@@ -170,7 +170,7 @@ def main() -> int:
     base = root / "static" / "whipit" / "limited-offers"
     if not base.exists():
         fail(f"limited-offers static directory not found: {base}")
-    validate_https_redirects(root)
+    validate_no_per_page_https_redirect(root)
     validate_404_about(root)
     validate_public_json(base)
     validate_lidl_availability_ids(base)
