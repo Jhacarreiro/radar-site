@@ -26,3 +26,64 @@ async function verifyStores(){await loadStores();const term=(storeSearch.value||
 function storeCard(s,result,loading){const meta=loading?{bars:'…',label:tr('checking_short','Checking'),class:'loading'}:(result||{bars:'▱▱▱',label:tr('no_info','No information'),class:'unknown'}),dist=s._dist!=null?`<span>${s._dist.toFixed(s._dist<10?1:0)} km</span>`:'';return `<article class="store-card availability ${meta.class}"><div><h3>${escapeHtml(s.city||'Lidl')}</h3><p>${escapeHtml(s.street||'')}</p><div class="store-meta">${dist}<span>${escapeHtml(todayHours(s))}</span></div></div><div class="store-stock"><b>${escapeHtml(meta.bars)}</b><span>${escapeHtml(meta.label)}</span></div><div class="store-actions"><a href="${mapsUrl(s)}" target="_blank" rel="nofollow noopener">Maps</a><a href="${escapeAttr(s.official_url||lidlDomain)}" target="_blank" rel="nofollow noopener">Lidl</a></div></article>`}
 storeSearch&&storeSearch.addEventListener('input',()=>{clearTimeout(availabilityTimer);availabilityTimer=setTimeout(()=>verifyStores(),350)});useLocation&&useLocation.addEventListener('click',()=>{if(!window.isSecureContext){statusBox.textContent=tr('geo_insecure','A localização do browser só funciona em HTTPS. Abre esta página em https://getrad.ar.');return}if(!navigator.geolocation){statusBox.textContent=tr('geo_unavailable','Este browser não disponibiliza localização. Escreve cidade ou rua.');return}statusBox.textContent=tr('geo_asking','A pedir localização ao browser…');navigator.geolocation.getCurrentPosition(pos=>{userPos={lat:pos.coords.latitude,lon:pos.coords.longitude};verifyStores()},err=>{const code=err&&err.code;statusBox.textContent=code===1?tr('geo_denied','Permissão de localização bloqueada. Autoriza a localização para getrad.ar nas definições do browser, ou escreve cidade/rua.'):code===3?tr('geo_timeout','O browser não devolveu a localização a tempo. Tenta novamente ou escreve cidade/rua.'):tr('geo_failed','Não foi possível obter localização. Escreve cidade ou rua.')},{enableHighAccuracy:false,timeout:15000,maximumAge:300000})});
 function escapeHtml(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}function escapeAttr(s){return escapeHtml(s).replace(/'/g,'&#39;')}
+
+/* Limited Offers alerts UI — zero LLM */
+(function(){
+  const api='https://webhook.gallivanter.biz/api/lidl/availability';
+  const $=id=>document.getElementById(id);
+  const modal=$('alerts-modal'), status=$('alerts-status'), auth=$('alerts-auth'), app=$('alerts-app');
+  if(!modal||!status) return;
+  const tokenKey='limitedOffersAlertToken';
+  const token=()=>localStorage.getItem(tokenKey)||'';
+  const setStatus=t=>{status.textContent=t};
+  async function call(payload,authz=true){
+    const headers={'Content-Type':'application/json'};
+    if(authz&&token()) headers.Authorization='Bearer '+token();
+    const res=await fetch(api,{method:'POST',cache:'no-cache',headers,body:JSON.stringify(payload)});
+    const data=await res.json().catch(()=>({ok:false,error:'Resposta inválida'}));
+    if(!res.ok||data.ok===false) throw new Error(data.error||('HTTP '+res.status));
+    return data;
+  }
+  function open(){modal.hidden=false;document.body.classList.add('modal-open');refresh().catch(()=>{})}
+  function close(){modal.hidden=true;document.body.classList.remove('modal-open')}
+  document.querySelectorAll('[data-close-alerts]').forEach(x=>x.addEventListener('click',close));
+  $('alerts-open')?.addEventListener('click',open);
+  async function refresh(){
+    if(!token()){auth.hidden=false;app.hidden=true;setStatus('Login por código. Sem password.');return}
+    auth.hidden=true;app.hidden=false;setStatus('A carregar alertas…');
+    try{
+      const data=await call({alerts_action:'list'});
+      renderList(data.alerts||[]); setStatus('Sessão activa. Cria alertas por keyword, marca, categoria ou produto.');
+    }catch(e){localStorage.removeItem(tokenKey);auth.hidden=false;app.hidden=true;setStatus('Sessão expirada. Faz login outra vez.')}
+  }
+  function renderList(alerts){
+    const box=$('alerts-list'); if(!box) return;
+    const active=alerts.filter(a=>a.enabled!==0);
+    if(!active.length){box.innerHTML='<p class="modal-note">Ainda não tens alertas activos.</p>';return}
+    box.innerHTML=active.map(a=>`<article class="alert-item"><div><b>${escapeHtml(a.match_type)}: ${escapeHtml(a.match_value)}</b><span>${escapeHtml(a.channel)}</span></div><button class="button secondary" type="button" data-alert-delete="${a.id}">Desactivar</button></article>`).join('');
+    box.querySelectorAll('[data-alert-delete]').forEach(btn=>btn.addEventListener('click',async()=>{try{await call({alerts_action:'delete',alert_id:btn.dataset.alertDelete});refresh()}catch(e){setStatus(e.message)}}));
+  }
+  function escapeHtml(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+  $('alerts-start')?.addEventListener('click',async()=>{
+    const channel=$('alerts-channel').value,destination=$('alerts-destination').value.trim();
+    try{await call({alerts_action:'auth_start',channel,destination},false);$('alerts-code-row').hidden=false;setStatus('Código enviado. Introduz o código para entrar.')}catch(e){setStatus(e.message)}
+  });
+  $('alerts-verify')?.addEventListener('click',async()=>{
+    const channel=$('alerts-channel').value,destination=$('alerts-destination').value.trim(),code=$('alerts-code').value.trim();
+    try{const data=await call({alerts_action:'auth_verify',channel,destination,code},false);localStorage.setItem(tokenKey,data.token);await refresh()}catch(e){setStatus(e.message)}
+  });
+  $('alerts-create')?.addEventListener('click',async()=>{
+    try{
+      await call({alerts_action:'create',match_type:$('alerts-type').value,match_value:$('alerts-value').value.trim(),label:$('alerts-label').value.trim()});
+      $('alerts-value').value='';$('alerts-label').value='';await refresh();setStatus('Alerta guardado.')
+    }catch(e){setStatus(e.message)}
+  });
+  document.querySelectorAll('[data-alert-product]').forEach(btn=>btn.addEventListener('click',()=>{
+    const card=btn.closest('[data-card]'); if(!card) return;
+    open();
+    const value=card.dataset.productKey||card.dataset.availabilityId||card.dataset.productTitle||'';
+    $('alerts-type').value='product'; $('alerts-value').value=value; $('alerts-label').value=card.dataset.productTitle||'';
+    setStatus('Alerta preparado para este produto. Faz login e guarda.')
+  }));
+  refresh().catch(()=>{});
+})();
