@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-05-27T11:24:39Z",
+  "country": "PL",
+  "source": "https://www.lidl.pl official campaign/category pages",
+  "product_count": 1,
+  "products": [
+    {
+      "id": "70fa4593fdc4dd21",
+      "country": "PL",
+      "brand": "NINJA",
+      "title": "NINJA Frytkownica beztłuszczowa Air Fryer AF100EU, 3,8 L, 1500 W",
+      "raw_title": "Frytkownica beztłuszczowa Air Fryer AF100EU, 3,8 L, 1500 W",
+      "original_title": "Frytkownica beztłuszczowa Air Fryer AF100EU, 3,8 L, 1500 W",
+      "price": 219.0,
+      "currency": "PLN",
+      "unit": "* najniższa cena z 30 dni przed obniżką/ cena poza promocją",
+      "product_code": "10032852",
+      "product_id": "10032852",
+      "store_stock_id": "0552710",
+      "availability_id": "0552710",
+      "category": "Kuchnia i dom",
+      "image": "https://imgproxy-retcat.assets.schwarz/rSLwwnK86WmILVUi_f50CUXAvfk2wrfFOT2joCwcnWc/sm:1/exar:1:ce/w:1278/h:959/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0JBMTY1MDQzNTA3NjQwQzRDQzAzRTZFOT/IzQUNFODZDMDhEQ0UyRTE2NDVCOUM0NTYwNjJBMkU4QjE2NDBCNkIucG5n.png",
+      "availability_start": "2026-05-26",
+      "source_title": "Kuchnia i gospodarstwo domowe",
+      "source_url": "https://www.lidl.pl/c/kuchnia-i-gospodarstwo-domowe/a10095061",
+      "product_url": "https://www.lidl.pl/p/ninja-frytkownica-beztluszczowa-air-fryer-af100eu-3-8-l-1500-w/p10032852",
+      "source_type": "official_campaign_page",
+      "availability_source": "official_lidl_campaign_with_date",
+      "extraction_method": "campaign_html_embedded_product_data",
+      "confidence": 0.95,
+      "first_seen": "2026-05-27T11:24:39Z",
+      "last_seen": "2026-05-27T11:24:39Z"
+    }
+  ],
+  "campaigns": [
+    {
+      "url": "https://www.lidl.pl/c/promocje/s10076831",
+      "title": "Promocje",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/warsztat-i-ogrod/a10095063",
+      "title": "Warsztat i ogród",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/kuchnia-i-gospodarstwo-domowe/a10095061",
+      "title": "Kuchnia i gospodarstwo domowe",
+      "availability_start": "2026-05-26",
+      "product_count": 1,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/sport-i-wypoczynek/a10095060",
+      "title": "Sport i wypoczynek",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/moda-i-akcesoria/a10095057",
+      "title": "Moda i akcesoria",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/niemowle-dziecko-i-zabawki/a10095059",
+      "title": "Niemowlę, dziecko i zabawki",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/narzedzia-i-sprzet-ogrodowy/a10092927",
+      "title": "Narzędzia i sprzęt ogrodowy",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/zabawa-w-wodzie/a10095260",
+      "title": "Zabawa w wodzie",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/moda-dziecieca-z-ulubionymi-bohaterami/a10095258",
+      "title": "Moda dziecięca z ulubionymi bohaterami",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/moc-zabawy-dla-twojego-dziecka/a10095257",
+      "title": "Moc zabawy dla Twojego dziecka",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/moda-na-letnie-dni-dla-niej-i-dla-niego/a10095259",
+      "title": "Moda na letnie dni dla niej i dla niego",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    },
+    {
+      "url": "https://www.lidl.pl/c/rabaty-do-40-na-wybrane-meble-ogrodowe/s10094431",
+      "title": "Rabaty do 40% na wybrane meble ogrodowe",
+      "availability_start": null,
+      "product_count": 0,
+      "discovered_from": "seed"
+    }
+  ],
+  "leaflets": [],
+  "diagnostics": []
+}
