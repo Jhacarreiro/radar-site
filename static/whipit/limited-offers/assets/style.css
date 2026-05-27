@@ -35,3 +35,9 @@
 
 /* Limited Offers product alert icon v2 */
 .card{position:relative}.alert-fab{position:absolute;top:10px;right:10px;z-index:3;width:38px;height:38px;border:0;border-radius:999px;background:rgba(255,255,255,.92);box-shadow:0 8px 22px rgba(15,23,42,.22);display:grid;place-items:center;font-size:17px;line-height:1;cursor:pointer;backdrop-filter:blur(6px)}.alert-fab:hover{transform:translateY(-1px);box-shadow:0 10px 26px rgba(15,23,42,.28)}.alert-fab:active{transform:translateY(0)}
+
+/* Limited Offers image price badge v3 */
+.price-fab{position:absolute;right:10px;bottom:calc(100% - 220px + 10px);z-index:3;padding:.42rem .62rem;border-radius:999px;background:rgba(15,23,42,.88);color:#fff;font-weight:800;font-size:.98rem;line-height:1;box-shadow:0 8px 22px rgba(15,23,42,.24);backdrop-filter:blur(6px);pointer-events:none}@media(max-width:640px){.price-fab{bottom:calc(100% - 210px + 10px)}}
+
+/* Limited Offers image price badge v4 */
+.thumb{position:relative}.price-fab{position:absolute!important;right:10px!important;bottom:10px!important;top:auto!important;z-index:3;padding:.42rem .62rem;border-radius:999px;background:rgba(15,23,42,.88);color:#fff;font-weight:800;font-size:.98rem;line-height:1;box-shadow:0 8px 22px rgba(15,23,42,.24);backdrop-filter:blur(6px);pointer-events:none}
