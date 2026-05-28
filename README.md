@@ -5,7 +5,7 @@ Site: https://getrad.ar
 
 ## Stack
 - Hugo (static site generator)
-- Cloudflare Pages (hosting, deploy automatico a cada push para `main`)
+- GitHub Pages (hosting, deploy automatico a cada push para `main`)
 
 ## Estrutura
 
@@ -149,8 +149,8 @@ Ficheiro unico: `static/css/style.css`
 
 ## Deploy
 
-Push para `main` -> Cloudflare Pages faz build automatico com Hugo.
-Dominio: `getrad.ar` (CNAME via Cloudflare Pages)
+Push para `main` -> GitHub Pages faz build automatico com Hugo.
+Dominio: `getrad.ar` (CNAME configurado para GitHub Pages)
 
 ## Publicacao automatica
 
