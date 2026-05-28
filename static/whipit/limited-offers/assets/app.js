@@ -27,6 +27,7 @@ function storeCard(s,result,loading){const meta=loading?{bars:'…',label:tr('ch
 storeSearch&&storeSearch.addEventListener('input',()=>{clearTimeout(availabilityTimer);availabilityTimer=setTimeout(()=>verifyStores(),350)});useLocation&&useLocation.addEventListener('click',()=>{if(!window.isSecureContext){statusBox.textContent=tr('geo_insecure','A localização do browser só funciona em HTTPS. Abre esta página em https://getrad.ar.');return}if(!navigator.geolocation){statusBox.textContent=tr('geo_unavailable','Este browser não disponibiliza localização. Escreve cidade ou rua.');return}statusBox.textContent=tr('geo_asking','A pedir localização ao browser…');navigator.geolocation.getCurrentPosition(pos=>{userPos={lat:pos.coords.latitude,lon:pos.coords.longitude};verifyStores()},err=>{const code=err&&err.code;statusBox.textContent=code===1?tr('geo_denied','Permissão de localização bloqueada. Autoriza a localização para getrad.ar nas definições do browser, ou escreve cidade/rua.'):code===3?tr('geo_timeout','O browser não devolveu a localização a tempo. Tenta novamente ou escreve cidade/rua.'):tr('geo_failed','Não foi possível obter localização. Escreve cidade ou rua.')},{enableHighAccuracy:false,timeout:15000,maximumAge:300000})});
 function escapeHtml(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}function escapeAttr(s){return escapeHtml(s).replace(/'/g,'&#39;')}
 
+
 /* Limited Offers alerts UI — zero LLM */
 (function(){
   const api='https://webhook.gallivanter.biz/api/lidl/availability';
@@ -44,46 +45,53 @@ function escapeHtml(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','
     if(!res.ok||data.ok===false) throw new Error(data.error||('HTTP '+res.status));
     return data;
   }
+  function currentAlert(){
+    return {match_type:$('alerts-type')?.value||'keyword', match_value:($('alerts-value')?.value||'').trim(), label:($('alerts-label')?.value||'').trim()};
+  }
+  function validAlert(){
+    const a=currentAlert();
+    if(!a.match_value){setStatus('Escolhe primeiro o alerta: keyword, marca, categoria ou produto.');return null}
+    return a;
+  }
   function open(){modal.hidden=false;document.body.classList.add('modal-open');refresh().catch(()=>{})}
   function close(){modal.hidden=true;document.body.classList.remove('modal-open')}
   document.querySelectorAll('[data-close-alerts]').forEach(x=>x.addEventListener('click',close));
-  $('alerts-open')?.addEventListener('click',open);
+  $('alerts-open')?.addEventListener('click',()=>{ if($('alerts-type')) $('alerts-type').value='keyword'; if($('alerts-value')) $('alerts-value').value=''; if($('alerts-label')) $('alerts-label').value=''; open(); });
   async function refresh(){
-    if(!token()){auth.hidden=false;app.hidden=true;setStatus('Login por código. Sem password.');return}
-    auth.hidden=true;app.hidden=false;setStatus('A carregar alertas…');
-    try{
-      const data=await call({alerts_action:'list'});
-      renderList(data.alerts||[]); setStatus('Sessão activa. Cria alertas por keyword, marca, categoria ou produto.');
-    }catch(e){localStorage.removeItem(tokenKey);auth.hidden=false;app.hidden=true;setStatus('Sessão expirada. Faz login outra vez.')}
+    if(!token()){auth.hidden=false;app.hidden=true;setStatus('Escolhe o alerta e confirma WhatsApp/email para guardar.');return}
+    auth.hidden=true;app.hidden=false;setStatus('Sessão activa. Agora podes guardar alertas e desligar alertas activos.');
+    try{const data=await call({alerts_action:'list'}); renderList(data.alerts||[])}
+    catch(e){localStorage.removeItem(tokenKey);auth.hidden=false;app.hidden=true;setStatus('Sessão expirada. Confirma o contacto outra vez.')}
   }
   function renderList(alerts){
     const box=$('alerts-list'); if(!box) return;
     const active=alerts.filter(a=>a.enabled!==0);
     if(!active.length){box.innerHTML='<p class="modal-note">Ainda não tens alertas activos.</p>';return}
-    box.innerHTML=active.map(a=>`<article class="alert-item"><div><b>${escapeHtml(a.match_type)}: ${escapeHtml(a.match_value)}</b><span>${escapeHtml(a.channel)}</span></div><button class="button secondary" type="button" data-alert-delete="${a.id}">Desactivar</button></article>`).join('');
-    box.querySelectorAll('[data-alert-delete]').forEach(btn=>btn.addEventListener('click',async()=>{try{await call({alerts_action:'delete',alert_id:btn.dataset.alertDelete});refresh()}catch(e){setStatus(e.message)}}));
+    box.innerHTML=active.map(a=>`<article class="alert-item"><div><b>${escapeHtml(a.match_type)}: ${escapeHtml(a.match_value)}</b><span>${escapeHtml(a.channel)}</span></div><button class="button secondary" type="button" data-alert-delete="${a.id}">Desligar</button></article>`).join('');
+    box.querySelectorAll('[data-alert-delete]').forEach(btn=>btn.addEventListener('click',async()=>{try{await call({alerts_action:'delete',alert_id:btn.dataset.alertDelete});await refresh();setStatus('Alerta desligado.')}catch(e){setStatus(e.message)}}));
   }
   function escapeHtml(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
   $('alerts-start')?.addEventListener('click',async()=>{
+    if(!validAlert()) return;
     const channel=$('alerts-channel').value,destination=$('alerts-destination').value.trim();
-    try{await call({alerts_action:'auth_start',channel,destination},false);$('alerts-code-row').hidden=false;setStatus('Código enviado. Introduz o código para entrar.')}catch(e){setStatus(e.message)}
+    if(!destination){setStatus('Indica o WhatsApp ou email para receber o código.');return}
+    try{await call({alerts_action:'auth_start',channel,destination},false);$('alerts-code-row').hidden=false;setStatus('Código enviado. Introduz o código para confirmar.')}catch(e){setStatus(e.message)}
   });
   $('alerts-verify')?.addEventListener('click',async()=>{
     const channel=$('alerts-channel').value,destination=$('alerts-destination').value.trim(),code=$('alerts-code').value.trim();
-    try{const data=await call({alerts_action:'auth_verify',channel,destination,code},false);localStorage.setItem(tokenKey,data.token);await refresh()}catch(e){setStatus(e.message)}
+    try{const data=await call({alerts_action:'auth_verify',channel,destination,code},false);localStorage.setItem(tokenKey,data.token);await refresh();setStatus('Contacto confirmado. Agora carrega em Guardar alerta.')}catch(e){setStatus(e.message)}
   });
   $('alerts-create')?.addEventListener('click',async()=>{
-    try{
-      await call({alerts_action:'create',match_type:$('alerts-type').value,match_value:$('alerts-value').value.trim(),label:$('alerts-label').value.trim()});
-      $('alerts-value').value='';$('alerts-label').value='';await refresh();setStatus('Alerta guardado.')
-    }catch(e){setStatus(e.message)}
+    const a=validAlert(); if(!a) return;
+    if(!token()){setStatus('Confirma primeiro o WhatsApp/email com código.');return}
+    try{await call({alerts_action:'create',match_type:a.match_type,match_value:a.match_value,label:a.label});$('alerts-value').value='';$('alerts-label').value='';await refresh();setStatus('Alerta guardado.')}catch(e){setStatus(e.message)}
   });
   document.querySelectorAll('[data-alert-product]').forEach(btn=>btn.addEventListener('click',()=>{
     const card=btn.closest('[data-card]'); if(!card) return;
     open();
     const value=card.dataset.productKey||card.dataset.availabilityId||card.dataset.productTitle||'';
     $('alerts-type').value='product'; $('alerts-value').value=value; $('alerts-label').value=card.dataset.productTitle||'';
-    setStatus('Alerta preparado para este produto. Faz login e guarda.')
+    setStatus('Alerta preparado para este produto. Confirma contacto e guarda.')
   }));
   refresh().catch(()=>{});
 })();
