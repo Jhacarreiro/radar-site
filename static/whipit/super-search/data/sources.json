@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-29",
+  "updated": "2026-05-30",
   "modes": {
     "fast": {
       "label": "Fast",
@@ -29,9 +29,14 @@
       "key": "baidu",
       "name": "Baidu",
       "url": "https://www.baidu.com/",
+      "adapter": "4get",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "Useful for Chinese and international web coverage.",
       "display_flags": [
@@ -42,9 +47,14 @@
       "key": "bing",
       "name": "Bing",
       "url": "https://www.bing.com/",
+      "adapter": "SearXNG",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "Strong general-purpose web index, fast and broad.",
       "display_flags": [
@@ -56,10 +66,16 @@
       "key": "boardreader",
       "name": "Boardreader",
       "url": "https://boardreader.com/",
+      "adapter": "SearXNG",
       "modes": [
         "fast",
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "forums",
+        "original"
       ],
       "description": "Good for forums, discussions and community posts.",
       "display_flags": [
@@ -70,9 +86,14 @@
       "key": "dogpile",
       "name": "DogPile",
       "url": "https://www.dogpile.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Metasearch-style engine that can surface older or alternative results.",
       "display_flags": [
@@ -83,9 +104,14 @@
       "key": "duckduckgo",
       "name": "DuckDuckGo",
       "url": "https://duckduckgo.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "General web search with broad coverage and relatively low noise.",
       "display_flags": [
@@ -97,8 +123,13 @@
       "key": "ecosia",
       "name": "Ecosia",
       "url": "https://www.ecosia.org/",
+      "adapter": "Scrapling",
       "modes": [
         "all"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "General web search with mainstream coverage.",
       "display_flags": [
@@ -109,9 +140,15 @@
       "key": "entireweb",
       "name": "Entireweb",
       "url": "https://www.entireweb.com/",
+      "adapter": "Scrapling stealth",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "very-slow",
+        "cloudflare",
+        "original"
       ],
       "description": "Older web index; useful for deep or less obvious results.",
       "display_flags": [
@@ -123,9 +160,14 @@
       "key": "gibiru",
       "name": "Gibiru",
       "url": "https://gibiru.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Privacy-oriented search; useful as an alternative result lane.",
       "display_flags": [
@@ -137,9 +179,14 @@
       "key": "lukol",
       "name": "Lukol",
       "url": "https://www.lukol.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Privacy-oriented search; useful for alternative web results.",
       "display_flags": [
@@ -151,10 +198,16 @@
       "key": "metager",
       "name": "MetaGer",
       "url": "https://metager.org/",
+      "adapter": "SearXNG",
       "modes": [
         "fast",
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "metasearch",
+        "original"
       ],
       "description": "European metasearch; useful for varied and alternative results.",
       "display_flags": [
@@ -166,9 +219,14 @@
       "key": "oscobo",
       "name": "Oscobo",
       "url": "https://www.oscobo.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Privacy-focused web search with general-purpose results.",
       "display_flags": [
@@ -180,9 +238,14 @@
       "key": "qwant",
       "name": "Qwant",
       "url": "https://www.qwant.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "European privacy search with general web coverage.",
       "display_flags": [
@@ -194,9 +257,14 @@
       "key": "startpage",
       "name": "Startpage",
       "url": "https://www.startpage.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "Privacy search with broad mainstream coverage.",
       "display_flags": [
@@ -208,22 +276,32 @@
       "key": "swisscows",
       "name": "Swisscows",
       "url": "https://swisscows.com/",
+      "adapter": "4get",
       "modes": [
-        "all",
-        "longtail"
+        "fast",
+        "all"
       ],
-      "description": "Family-safe/privacy search, useful as an additional perspective.",
+      "flags": [
+        "fast",
+        "original"
+      ],
+      "description": "Family-safe/privacy search, now routed through fast local 4get instead of direct Scrapling.",
       "display_flags": [
-        "privacy",
-        "deep"
+        "fast",
+        "privacy"
       ]
     },
     {
       "key": "yahoo",
       "name": "Yahoo Search",
       "url": "https://search.yahoo.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Mainstream web search with broad general coverage.",
       "display_flags": [
@@ -234,9 +312,14 @@
       "key": "yandex",
       "name": "Yandex",
       "url": "https://yandex.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "International web index, useful for non-US/global coverage.",
       "display_flags": [
@@ -247,9 +330,14 @@
       "key": "brave",
       "name": "Brave Search",
       "url": "https://search.brave.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Independent general web search with fast broad coverage.",
       "display_flags": [
@@ -261,9 +349,14 @@
       "key": "ghostery",
       "name": "Ghostery Search",
       "url": "https://www.ghostery.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Privacy-oriented web search, useful as an additional source.",
       "display_flags": [
@@ -274,9 +367,14 @@
       "key": "yep",
       "name": "Yep",
       "url": "https://yep.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "sometimes-slow",
+        "extra"
       ],
       "description": "Independent web search, useful for alternative coverage.",
       "display_flags": [
@@ -287,9 +385,14 @@
       "key": "mojeek",
       "name": "Mojeek",
       "url": "https://www.mojeek.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Independent crawler, useful for non-mainstream results.",
       "display_flags": [
@@ -300,9 +403,15 @@
       "key": "marginalia",
       "name": "Marginalia Search",
       "url": "https://search.marginalia.nu/",
+      "adapter": "4get",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "small-web",
+        "extra"
       ],
       "description": "Excellent for independent sites, small web and non-SEO pages.",
       "display_flags": [
@@ -314,9 +423,15 @@
       "key": "wiby",
       "name": "Wiby",
       "url": "https://wiby.me/",
+      "adapter": "4get",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "small-web",
+        "extra"
       ],
       "description": "Good for old-school, independent and small-web pages.",
       "display_flags": [
@@ -328,10 +443,16 @@
       "key": "curlie",
       "name": "Curlie",
       "url": "https://curlie.org/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "directory",
+        "extra"
       ],
       "description": "Human-curated site catalogue; useful for discovering sites by topic.",
       "display_flags": [
@@ -342,8 +463,13 @@
       "key": "coccoc",
       "name": "Cốc Cốc",
       "url": "https://coccoc.com/search",
+      "adapter": "4get",
       "modes": [
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Vietnamese/global web search, useful for international coverage.",
       "display_flags": [
@@ -354,9 +480,14 @@
       "key": "google_cse",
       "name": "Google CSE",
       "url": "https://programmablesearchengine.google.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Google-powered custom search lane for mainstream web results.",
       "display_flags": [
@@ -364,11 +495,146 @@
       ]
     },
     {
+      "key": "wikidata_people",
+      "name": "Wikidata (people)",
+      "url": "https://www.wikidata.org/",
+      "adapter": "Wikidata API filtered",
+      "modes": [
+        "people"
+      ],
+      "flags": [
+        "people-only",
+        "structured",
+        "public-authority"
+      ],
+      "description": "Wikidata search exposed only in people mode, filtered to human/person-like descriptions for public entity confirmation.",
+      "display_flags": [
+        "people",
+        "structured"
+      ]
+    },
+    {
+      "key": "openalex_authors",
+      "name": "OpenAlex Authors",
+      "url": "https://openalex.org/",
+      "adapter": "SearXNG",
+      "modes": [
+        "people"
+      ],
+      "flags": [
+        "people-only",
+        "academic",
+        "public-authority"
+      ],
+      "description": "Academic author/profile lookup for people mode, useful for researchers, economists, scientists and policy authors.",
+      "display_flags": [
+        "people",
+        "academic"
+      ]
+    },
+    {
+      "key": "orcid",
+      "name": "ORCID",
+      "url": "https://orcid.org/",
+      "adapter": "ORCID public API",
+      "modes": [
+        "people"
+      ],
+      "flags": [
+        "people-only",
+        "academic",
+        "public-authority"
+      ],
+      "description": "Public researcher identifier lookup for people mode; best for academic and institutional author disambiguation.",
+      "display_flags": [
+        "people",
+        "academic"
+      ]
+    },
+    {
+      "key": "semantic_scholar",
+      "name": "Semantic Scholar",
+      "url": "https://www.semanticscholar.org/",
+      "adapter": "SearXNG",
+      "modes": [
+        "people"
+      ],
+      "flags": [
+        "people-only",
+        "academic"
+      ],
+      "description": "Scholarly search source for people mode, useful when the person is likely an author or researcher.",
+      "display_flags": [
+        "people",
+        "academic"
+      ]
+    },
+    {
+      "key": "google_scholar",
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/",
+      "adapter": "SearXNG",
+      "modes": [
+        "people"
+      ],
+      "flags": [
+        "people-only",
+        "academic"
+      ],
+      "description": "Scholarly search source for people mode; use for academic/publication context, not as a general identity source.",
+      "display_flags": [
+        "people",
+        "academic"
+      ]
+    },
+    {
+      "key": "github_people",
+      "name": "GitHub Profiles",
+      "url": "https://github.com/",
+      "adapter": "SearXNG",
+      "modes": [
+        "people"
+      ],
+      "flags": [
+        "people-only",
+        "technical"
+      ],
+      "description": "Public developer/profile lookup for people mode, useful for technical founders, maintainers and engineers.",
+      "display_flags": [
+        "people",
+        "technical"
+      ]
+    },
+    {
+      "key": "mastodon_users",
+      "name": "Mastodon Users",
+      "url": "https://joinmastodon.org/",
+      "adapter": "SearXNG",
+      "modes": [
+        "people"
+      ],
+      "flags": [
+        "people-only",
+        "social-public",
+        "noisy"
+      ],
+      "description": "Public federated-social user search for people mode; noisy, so results should be treated as weak candidates.",
+      "display_flags": [
+        "people",
+        "social"
+      ]
+    },
+    {
       "key": "radaris",
       "name": "Radaris",
       "url": "https://radaris.com/",
+      "adapter": "Scrapling stealth",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only",
+        "sensitive"
       ],
       "description": "People search source. Use only for explicit person lookups.",
       "display_flags": [
@@ -379,8 +645,13 @@
       "key": "truthfinder",
       "name": "TruthFinder",
       "url": "https://www.truthfinder.com/",
+      "adapter": "Scrapling stealth",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only",
+        "sensitive"
       ],
       "description": "People search source. Use only for explicit person lookups.",
       "display_flags": [
@@ -390,36 +661,43 @@
   ],
   "removed": [
     {
+      "key": "ask",
       "name": "Ask.com",
       "url": "https://www.ask.com/",
       "reason": "retired/no longer viable"
     },
     {
+      "key": "teoma",
       "name": "Teoma.com",
       "url": "https://www.teoma.com/",
       "reason": "DNS dead"
     },
     {
+      "key": "search_encrypt",
       "name": "Search Encrypt",
       "url": "https://www.searchencrypt.com/",
       "reason": "no longer behaves as search engine"
     },
     {
+      "key": "gigablast",
       "name": "GigaBlast",
       "url": "https://www.gigablast.com/",
       "reason": "DNS dead"
     },
     {
+      "key": "disconnect",
       "name": "Disconnect Search",
       "url": "https://search.disconnect.me/",
       "reason": "DuckDuckGo wrapper; user requested removal"
     },
     {
+      "key": "wolframalpha",
       "name": "WolframAlpha",
       "url": "https://www.wolframalpha.com/",
       "reason": "removed from project scope"
     },
     {
+      "key": "trustfinder_typo",
       "name": "trustfinder.com",
       "url": "https://trustfinder.com/",
       "reason": "typo/parked domain"
@@ -427,6 +705,7 @@
   ],
   "account_required": [
     {
+      "key": "infinity",
       "name": "Infinity Search",
       "url": "https://infinitysearch.co/",
       "reason": "account required/protected path"
