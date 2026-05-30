@@ -503,14 +503,11 @@
         "people"
       ],
       "flags": [
-        "people-only",
-        "structured",
-        "public-authority"
+        "people-only"
       ],
-      "description": "Wikidata search exposed only in people mode, filtered to human/person-like descriptions for public entity confirmation.",
+      "description": "Public entity lookup filtered to human/person-like descriptions.",
       "display_flags": [
-        "people",
-        "structured"
+        "people"
       ]
     },
     {
@@ -523,12 +520,10 @@
       ],
       "flags": [
         "people-only",
-        "academic",
-        "public-authority"
+        "academic"
       ],
-      "description": "Academic author/profile lookup for people mode, useful for researchers, economists, scientists and policy authors.",
+      "description": "Academic author and researcher profile lookup, useful for researchers, economists, scientists and policy authors.",
       "display_flags": [
-        "people",
         "academic"
       ]
     },
@@ -542,12 +537,10 @@
       ],
       "flags": [
         "people-only",
-        "academic",
-        "public-authority"
+        "academic"
       ],
-      "description": "Public researcher identifier lookup for people mode; best for academic and institutional author disambiguation.",
+      "description": "Public researcher identifier lookup, best for academic and institutional author disambiguation.",
       "display_flags": [
-        "people",
         "academic"
       ]
     },
@@ -563,9 +556,8 @@
         "people-only",
         "academic"
       ],
-      "description": "Scholarly search source for people mode, useful when the person is likely an author or researcher.",
+      "description": "Scholarly search source, useful when the person is likely an author or researcher.",
       "display_flags": [
-        "people",
         "academic"
       ]
     },
@@ -581,9 +573,8 @@
         "people-only",
         "academic"
       ],
-      "description": "Scholarly search source for people mode; use for academic/publication context, not as a general identity source.",
+      "description": "Scholarly search source for academic/publication context, not general identity lookup.",
       "display_flags": [
-        "people",
         "academic"
       ]
     },
@@ -599,29 +590,9 @@
         "people-only",
         "technical"
       ],
-      "description": "Public developer/profile lookup for people mode, useful for technical founders, maintainers and engineers.",
+      "description": "Public developer profile lookup, useful when the person is likely a technical founder, maintainer or engineer.",
       "display_flags": [
-        "people",
         "technical"
-      ]
-    },
-    {
-      "key": "mastodon_users",
-      "name": "Mastodon Users",
-      "url": "https://joinmastodon.org/",
-      "adapter": "SearXNG",
-      "modes": [
-        "people"
-      ],
-      "flags": [
-        "people-only",
-        "social-public",
-        "noisy"
-      ],
-      "description": "Public federated-social user search for people mode; noisy, so results should be treated as weak candidates.",
-      "display_flags": [
-        "people",
-        "social"
       ]
     },
     {
@@ -633,12 +604,11 @@
         "people"
       ],
       "flags": [
-        "people-only",
-        "sensitive"
+        "people-only"
       ],
-      "description": "People search source. Use only for explicit person lookups.",
+      "description": "People search source for explicit person lookups.",
       "display_flags": [
-        "people"
+        "background"
       ]
     },
     {
@@ -650,12 +620,11 @@
         "people"
       ],
       "flags": [
-        "people-only",
-        "sensitive"
+        "people-only"
       ],
-      "description": "People search source. Use only for explicit person lookups.",
+      "description": "People and background search source for explicit person lookups.",
       "display_flags": [
-        "people"
+        "background"
       ]
     }
   ],
