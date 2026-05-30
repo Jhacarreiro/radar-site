@@ -10,6 +10,8 @@ const hasMode=(s,m)=>(s.modes||[]).includes(m);
 const sortByName=xs=>[...xs].sort((a,b)=>(a.name||'').localeCompare(b.name||''));
 const allSources=()=>sortByName(C.sources||[]);
 const peopleSources=()=>allSources().filter(s=>hasMode(s,'people'));
+const recommendedPeopleSources=()=>peopleSources().filter(s=>!(s.flags||[]).includes('deep'));
+const deepPeopleSources=()=>peopleSources().filter(s=>(s.flags||[]).includes('deep'));
 const plateSources=()=>allSources().filter(s=>hasMode(s,'plates'));
 const generalSources=()=>allSources().filter(s=>hasMode(s,'all')&&!hasMode(s,'people')&&!hasMode(s,'plates'));
 const fastSources=()=>generalSources().filter(s=>hasMode(s,'fast'));
@@ -17,7 +19,7 @@ const deepSources=()=>generalSources().filter(s=>hasMode(s,'longtail')&&!hasMode
 const otherGeneralSources=()=>generalSources().filter(s=>!hasMode(s,'fast')&&!hasMode(s,'longtail'));
 function bclass(f){return f.includes('slow')?'badge slow':f.includes('people')?'badge people':f.includes('fast')?'badge fast':'badge'}
 function selectedKeys(){return [...checkedKeys]}
-function recommendedKeys(which=intent){if(which==='general')return fastSources().map(s=>s.key);if(which==='people')return peopleSources().map(s=>s.key);if(which==='plates')return plateSources().map(s=>s.key);return[]}
+function recommendedKeys(which=intent){if(which==='general')return fastSources().map(s=>s.key);if(which==='people')return recommendedPeopleSources().map(s=>s.key);if(which==='plates')return plateSources().map(s=>s.key);return[]}
 function setStatus(msg,isError=false){$('status').textContent=msg||'';$('status').className='status'+(isError?' error':'')}
 function maybeSearch(){if($('q').value.trim()&&checkedKeys.size)search();}
 function chooseIntent(next){intent=next;R={results:[],sources:[]};checkedKeys=new Set(recommendedKeys(next));render();if(checkedKeys.size)maybeSearch();else if(next==='plates')setStatus('No dedicated plate engines yet. Choose general engines below if you want to search public web mentions.');}
@@ -29,7 +31,8 @@ function groupsForIntent(){if(intent==='general')return[
   ['Deep Search','Slower engines for alternative, older, independent or less obvious results.',deepSources()],
   ['Slower general engines','',otherGeneralSources()]
 ];if(intent==='people')return[
-  ['Recommended people engines','People-focused sources selected automatically for this search type.',peopleSources()],
+  ['Recommended people engines','People-focused sources selected automatically.',recommendedPeopleSources()],
+  ['Deep people engines','Harder sources that may be slower or blocked. Select manually when needed.',deepPeopleSources()],
   ['Optional general engines','Add these manually if you also want wider public web mentions.',generalSources()]
 ];return[
   ['Recommended plate engines','Dedicated plate/VIN engines will appear here when available.',plateSources(),'No dedicated plate engines yet.'],
