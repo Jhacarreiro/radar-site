@@ -579,23 +579,6 @@
       ]
     },
     {
-      "key": "github_people",
-      "name": "GitHub Profiles",
-      "url": "https://github.com/",
-      "adapter": "SearXNG",
-      "modes": [
-        "people"
-      ],
-      "flags": [
-        "people-only",
-        "technical"
-      ],
-      "description": "Public developer profile lookup, useful when the person is likely a technical founder, maintainer or engineer.",
-      "display_flags": [
-        "technical"
-      ]
-    },
-    {
       "key": "radaris",
       "name": "Radaris",
       "url": "https://radaris.com/",
