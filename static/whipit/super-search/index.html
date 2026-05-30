@@ -30,11 +30,7 @@ function groupsForIntent(){if(intent==='general')return[
   ['Recommended','Best default engines for general web searches.',fastSources()],
   ['Deep Search','Slower engines for alternative, older, independent or less obvious results.',deepSources()],
   ['Slower general engines','',otherGeneralSources()]
-];if(intent==='people')return[
-  ['Recommended people engines','People-focused sources selected automatically.',recommendedPeopleSources()],
-  ['Deep people engines','Harder sources that may be slower or blocked. Select manually when needed.',deepPeopleSources()],
-  ['Optional general engines','Add these manually if you also want wider public web mentions.',generalSources()]
-];return[
+];if(intent==='people'){let groups=[['Recommended people engines','People-focused sources selected automatically.',recommendedPeopleSources()]];let deep=deepPeopleSources();if(deep.length)groups.push(['Deep people engines','Harder sources that may be slower or blocked. Select manually when needed.',deep]);groups.push(['Optional general engines','Add these manually if you also want wider public web mentions.',generalSources()]);return groups;}return[
   ['Recommended plate engines','Dedicated plate/VIN engines will appear here when available.',plateSources(),'No dedicated plate engines yet.'],
   ['Optional general engines','Add these manually to search public web mentions of a plate, VIN or vehicle.',generalSources()]
 ]}
