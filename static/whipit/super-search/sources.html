@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Super Search — About sources</title>
+<style>
+:root{--bg:#f7f7f5;--card:#fff;--ink:#171717;--muted:#6b665f;--line:#e6e1d8;--soft:#faf9f6;--green:#0f7b3a;--red:#9a2424}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.45}.top{position:sticky;top:0;z-index:3;background:#f7f7f5e8;backdrop-filter:blur(12px);border-bottom:1px solid var(--line);display:flex;justify-content:space-between;padding:13px max(16px,calc((100vw - 1100px)/2));font-weight:850}.top a{color:inherit;text-decoration:none}.wrap{width:min(1100px,calc(100% - 28px));margin:auto}.hero{padding:42px 0 22px}.eyebrow{color:var(--muted);font-size:13px;font-weight:760;text-transform:uppercase;letter-spacing:.08em}.hero h1{font-size:clamp(42px,7vw,78px);letter-spacing:-.06em;line-height:.95;margin:8px 0 14px}.lead{color:var(--muted);font-size:18px;max-width:720px;margin:0}.toolbar{display:flex;gap:12px;align-items:center;justify-content:space-between;margin:18px 0 16px}.dropdown{position:relative;width:min(100%,340px)}.dropdown button{width:100%;display:flex;align-items:center;justify-content:space-between;border:1px solid var(--line);border-radius:16px;background:var(--card);padding:12px 14px;font-weight:800;color:var(--ink);cursor:pointer}.dropdown button:hover{border-color:#cfc8bc}.menu{display:none;position:absolute;left:0;right:0;top:calc(100% + 8px);background:var(--card);border:1px solid var(--line);border-radius:18px;box-shadow:0 18px 45px #00000018;padding:8px;z-index:5}.dropdown.open .menu{display:block}.option{padding:10px 9px;border-radius:11px;cursor:pointer}.option:hover,.option.active{background:var(--soft)}.option b{display:block}.option span{display:block;color:var(--muted);font-size:12px;margin-top:2px}.count{color:var(--muted);font-size:14px}.section{margin:20px 0}.section h2{font-size:25px;letter-spacing:-.035em;margin:0 0 4px}.section p{margin:0 0 12px;color:var(--muted)}.list{display:grid;gap:8px}.source{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:13px 14px}.source-head{display:flex;justify-content:space-between;gap:14px;align-items:baseline}.source h3{font-size:17px;letter-spacing:-.015em;margin:0}.source a{color:inherit;text-decoration:none}.source a:hover{text-decoration:underline}.key{color:var(--muted);font:12px ui-monospace,SFMono-Regular,Menlo,monospace}.meta{color:var(--muted);font-size:13px;margin-top:4px}.desc{margin:8px 0 0;color:#34312d}.flags{margin-top:8px;color:var(--muted);font-size:12px}.sensitive{border-color:#ead0d0;background:#fffafa}.disabled{opacity:.62}.empty{border:1px dashed var(--line);border-radius:18px;padding:16px;color:var(--muted);background:var(--card)}@media(max-width:680px){.toolbar{align-items:stretch;flex-direction:column}.dropdown{width:100%}.source-head{display:block}.key{display:block;margin-top:3px}}
+</style>
+</head>
+<body>
+<nav class="top"><a href="index.html">Super Search</a><a href="sources.html">About</a></nav>
+<main class="wrap">
+<section class="hero">
+  <div class="eyebrow">About</div>
+  <h1>Sources</h1>
+  <p class="lead">Public overview of the engines available to Super Search. The dropdown filters the list; it closes on outside click or Escape.</p>
+</section>
+<div class="toolbar">
+  <div id="filter" class="dropdown">
+    <button id="filterBtn" type="button" aria-expanded="false"><span id="filterLabel">Main sources</span><span>⌄</span></button>
+    <div id="filterMenu" class="menu"></div>
+  </div>
+  <div id="count" class="count"></div>
+</div>
+<section id="mainSection" class="section"></section>
+<section id="extraSection" class="section"></section>
+</main>
+<script>
+const FILTERS={main:{label:'Main sources',desc:'Default general-purpose sources: fast, broad and reliable enough for everyday use.'},longtail:{label:'Long tail',desc:'Slower or more niche general engines for deeper discovery.'},people:{label:'People',desc:'People-mode sources. Wikipedia is intentionally excluded because we cannot force it to return people-only results.'},all:{label:'All sources',desc:'Everything currently listed, excluding removed/dead sources.'}};
+let catalog={sources:[]},filter='main',open=false;
+const $=id=>document.getElementById(id);
+const has=(s,m)=>(s.modes||[]).includes(m);
+const isPeople=s=>has(s,'people');
+const isMain=s=>has(s,'fast')&&has(s,'all')&&!isPeople(s);
+const isLong=s=>has(s,'longtail')&&!isMain(s)&&!isPeople(s);
+const byName=xs=>[...xs].sort((a,b)=>(a.name||'').localeCompare(b.name||''));
+function sourceList(){let src=catalog.sources||[];if(filter==='main')return byName(src.filter(isMain));if(filter==='longtail')return byName(src.filter(isLong));if(filter==='people')return byName(src.filter(isPeople));return byName(src)}
+function extraList(){if(filter!=='main')return[];return byName((catalog.sources||[]).filter(s=>!isMain(s)&&!['hackernews','reddit'].includes(s.key)))}
+function setOpen(next){open=next;$('filter').classList.toggle('open',open);$('filterBtn').setAttribute('aria-expanded',open?'true':'false')}
+function renderMenu(){let html=Object.entries(FILTERS).map(([k,v])=>`<div class="option ${k===filter?'active':''}" data-filter="${k}"><b>${v.label}</b><span>${v.desc}</span></div>`).join('');$('filterMenu').innerHTML=html;document.querySelectorAll('[data-filter]').forEach(x=>x.onclick=e=>{filter=x.dataset.filter;setOpen(false);render()})}
+function card(s){let modes=(s.modes||[]).join(', '), flags=(s.display_flags||s.flags||[]).join(', ');let cls='source'+((s.flags||[]).includes('sensitive')?' sensitive':'')+(has(s,'plates')?' disabled':'');return `<article class="${cls}"><div class="source-head"><h3><a href="${s.url}" target="_blank" rel="noopener">${s.name}</a></h3><span class="key">${s.key}</span></div><div class="meta">${s.adapter||''} · ${modes}</div><p class="desc">${s.description||''}</p>${flags?`<div class="flags">${flags}</div>`:''}</article>`}
+function renderSection(id,title,desc,list){$(id).innerHTML=`<h2>${title}</h2><p>${desc}</p><div class="list">${list.length?list.map(card).join(''):'<div class="empty">No sources in this group.</div>'}</div>`}
+function render(){let list=sourceList(), extra=extraList(), f=FILTERS[filter];$('filterLabel').textContent=f.label;$('count').textContent=`${list.length}${extra.length?` + ${extra.length} additional`:''} sources`;renderSection('mainSection',f.label,f.desc,list);if(extra.length)renderSection('extraSection','Additional sources','Shown after the main list. This includes all other available sources except Hacker News and Reddit.',extra);else $('extraSection').innerHTML='';renderMenu()}
+async function init(){catalog=await fetch('data/sources.json',{cache:'no-store'}).then(r=>r.json());$('filterBtn').onclick=e=>{e.stopPropagation();setOpen(!open)};$('filter').addEventListener('click',e=>e.stopPropagation());document.addEventListener('click',()=>setOpen(false));document.addEventListener('keydown',e=>{if(e.key==='Escape')setOpen(false)});render()}
+init().catch(e=>{document.body.innerHTML='<pre>Failed to load sources: '+e+'</pre>'})
+</script>
+</body>
+</html>
