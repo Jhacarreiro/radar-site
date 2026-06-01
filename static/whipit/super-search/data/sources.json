@@ -493,7 +493,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Portuguese vehicle lookup by plate, with basic vehicle details when available.",
+      "description": "Vehicle details for Portuguese registrations.",
       "display_flags": [
         "PT",
         "vehicle data"
@@ -506,7 +506,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Portuguese vehicle lookup by plate, VIN or chassis, with basic vehicle details and optional full report.",
+      "description": "Vehicle details and reports.",
       "display_flags": [
         "PT",
         "vehicle data"
@@ -519,7 +519,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Portuguese vehicle helper for inspection and IUC checks by plate.",
+      "description": "Inspection and IUC helper for Portuguese vehicles.",
       "display_flags": [
         "PT",
         "IPO/IUC"
@@ -532,7 +532,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Portuguese vehicle and insurance lookup by plate.",
+      "description": "Vehicle and insurance information service.",
       "display_flags": [
         "PT",
         "vehicle data"
@@ -545,7 +545,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Official Portuguese insurance check by plate and date.",
+      "description": "Official Portuguese insurance check.",
       "display_flags": [
         "PT",
         "official",
@@ -559,7 +559,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Recall check by Portuguese plate or VIN.",
+      "description": "Recall check for Portuguese vehicles.",
       "display_flags": [
         "PT",
         "recall"
@@ -572,7 +572,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Official inspection report service for Portuguese vehicles.",
+      "description": "Official inspection report service.",
       "display_flags": [
         "PT",
         "official",
@@ -599,7 +599,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Official vehicle plate information request service.",
+      "description": "Official vehicle registration information request service.",
       "display_flags": [
         "PT",
         "official"
@@ -607,12 +607,12 @@
     },
     {
       "key": "platesmania",
-      "name": "Platesmania Portugal",
+      "name": "Platesmania",
       "url": "https://platesmania.com/pt/",
       "modes": [
         "plates"
       ],
-      "description": "Visual plate lookup and vehicle sightings.",
+      "description": "Global visual vehicle sightings and plate gallery.",
       "display_flags": [
         "visual"
       ]
@@ -624,7 +624,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Registry lookup for rare, exotic and collectible vehicles.",
+      "description": "Registry for rare, exotic and collectible vehicles.",
       "display_flags": [
         "visual",
         "niche"
