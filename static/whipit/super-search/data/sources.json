@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated": "2026-05-31",
+  "version": 8,
+  "updated": "2026-06-01",
   "modes": {
     "fast": {
       "label": "Fast",
@@ -672,9 +672,9 @@
       "name": "Nigeria PhoneBook",
       "url": "https://nigeriaphonebook.com/",
       "modes": [
-        "phone"
+        "phone_optional"
       ],
-      "description": "Nigeria phone directory and phone number search.",
+      "description": "Regional Nigeria phone directory and phone number search.",
       "display_flags": [
         "phone",
         "directory",
