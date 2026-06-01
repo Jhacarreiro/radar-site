@@ -32,9 +32,14 @@
       "key": "baidu",
       "name": "Baidu",
       "url": "https://www.baidu.com/",
+      "adapter": "4get",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "Useful for Chinese and international web coverage.",
       "display_flags": [
@@ -45,9 +50,14 @@
       "key": "bing",
       "name": "Bing",
       "url": "https://www.bing.com/",
+      "adapter": "SearXNG",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "Strong general-purpose web index, fast and broad.",
       "display_flags": [
@@ -59,10 +69,16 @@
       "key": "boardreader",
       "name": "Boardreader",
       "url": "https://boardreader.com/",
+      "adapter": "SearXNG",
       "modes": [
         "fast",
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "forums",
+        "original"
       ],
       "description": "Good for forums, discussions and community posts.",
       "display_flags": [
@@ -73,9 +89,14 @@
       "key": "dogpile",
       "name": "DogPile",
       "url": "https://www.dogpile.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Metasearch-style engine that can surface older or alternative results.",
       "display_flags": [
@@ -86,9 +107,14 @@
       "key": "duckduckgo",
       "name": "DuckDuckGo",
       "url": "https://duckduckgo.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "General web search with broad coverage and relatively low noise.",
       "display_flags": [
@@ -100,8 +126,13 @@
       "key": "ecosia",
       "name": "Ecosia",
       "url": "https://www.ecosia.org/",
+      "adapter": "Scrapling",
       "modes": [
         "all"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "General web search with mainstream coverage.",
       "display_flags": [
@@ -112,9 +143,15 @@
       "key": "entireweb",
       "name": "Entireweb",
       "url": "https://www.entireweb.com/",
+      "adapter": "Scrapling stealth",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "very-slow",
+        "cloudflare",
+        "original"
       ],
       "description": "Older web index; useful for deep or less obvious results.",
       "display_flags": [
@@ -126,9 +163,14 @@
       "key": "gibiru",
       "name": "Gibiru",
       "url": "https://gibiru.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Privacy-oriented search; useful as an alternative result lane.",
       "display_flags": [
@@ -140,9 +182,14 @@
       "key": "lukol",
       "name": "Lukol",
       "url": "https://www.lukol.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Privacy-oriented search; useful for alternative web results.",
       "display_flags": [
@@ -154,10 +201,16 @@
       "key": "metager",
       "name": "MetaGer",
       "url": "https://metager.org/",
+      "adapter": "SearXNG",
       "modes": [
         "fast",
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "metasearch",
+        "original"
       ],
       "description": "European metasearch; useful for varied and alternative results.",
       "display_flags": [
@@ -169,9 +222,14 @@
       "key": "oscobo",
       "name": "Oscobo",
       "url": "https://www.oscobo.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Privacy-focused web search with general-purpose results.",
       "display_flags": [
@@ -183,9 +241,14 @@
       "key": "qwant",
       "name": "Qwant",
       "url": "https://www.qwant.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "European privacy search with general web coverage.",
       "display_flags": [
@@ -197,9 +260,14 @@
       "key": "startpage",
       "name": "Startpage",
       "url": "https://www.startpage.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "Privacy search with broad mainstream coverage.",
       "display_flags": [
@@ -211,9 +279,14 @@
       "key": "swisscows",
       "name": "Swisscows",
       "url": "https://swisscows.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "Family-safe/privacy search, now routed through fast local 4get instead of direct Scrapling.",
       "display_flags": [
@@ -225,8 +298,13 @@
       "key": "yahoo",
       "name": "Yahoo Search",
       "url": "https://search.yahoo.com/",
+      "adapter": "Scrapling",
       "modes": [
         "all"
+      ],
+      "flags": [
+        "slow",
+        "original"
       ],
       "description": "Mainstream web search with broad general coverage.",
       "display_flags": [
@@ -237,9 +315,14 @@
       "key": "yandex",
       "name": "Yandex",
       "url": "https://yandex.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "original"
       ],
       "description": "International web index, useful for non-US/global coverage.",
       "display_flags": [
@@ -250,9 +333,14 @@
       "key": "brave",
       "name": "Brave Search",
       "url": "https://search.brave.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Independent general web search with fast broad coverage.",
       "display_flags": [
@@ -264,9 +352,14 @@
       "key": "ghostery",
       "name": "Ghostery Search",
       "url": "https://www.ghostery.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Privacy-oriented web search, useful as an additional source.",
       "display_flags": [
@@ -277,9 +370,14 @@
       "key": "yep",
       "name": "Yep",
       "url": "https://yep.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "sometimes-slow",
+        "extra"
       ],
       "description": "Independent web search, useful for alternative coverage.",
       "display_flags": [
@@ -290,9 +388,14 @@
       "key": "mojeek",
       "name": "Mojeek",
       "url": "https://www.mojeek.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Independent crawler, useful for non-mainstream results.",
       "display_flags": [
@@ -303,9 +406,15 @@
       "key": "marginalia",
       "name": "Marginalia Search",
       "url": "https://search.marginalia.nu/",
+      "adapter": "4get",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "small-web",
+        "extra"
       ],
       "description": "Excellent for independent sites, small web and non-SEO pages.",
       "display_flags": [
@@ -317,9 +426,15 @@
       "key": "wiby",
       "name": "Wiby",
       "url": "https://wiby.me/",
+      "adapter": "4get",
       "modes": [
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "small-web",
+        "extra"
       ],
       "description": "Good for old-school, independent and small-web pages.",
       "display_flags": [
@@ -331,10 +446,16 @@
       "key": "curlie",
       "name": "Curlie",
       "url": "https://curlie.org/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all",
         "longtail"
+      ],
+      "flags": [
+        "fast",
+        "directory",
+        "extra"
       ],
       "description": "Human-curated site catalogue; useful for discovering sites by topic.",
       "display_flags": [
@@ -345,8 +466,13 @@
       "key": "coccoc",
       "name": "Cốc Cốc",
       "url": "https://coccoc.com/search",
+      "adapter": "4get",
       "modes": [
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Vietnamese/global web search, useful for international coverage.",
       "display_flags": [
@@ -357,9 +483,14 @@
       "key": "google_cse",
       "name": "Google CSE",
       "url": "https://programmablesearchengine.google.com/",
+      "adapter": "4get",
       "modes": [
         "fast",
         "all"
+      ],
+      "flags": [
+        "fast",
+        "extra"
       ],
       "description": "Google-powered custom search lane for mainstream web results.",
       "display_flags": [
@@ -370,8 +501,12 @@
       "key": "wikidata_people",
       "name": "Wikidata (people)",
       "url": "https://www.wikidata.org/",
+      "adapter": "Wikidata API filtered",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only"
       ],
       "description": "Public entity lookup filtered to human/person-like descriptions.",
       "display_flags": [
@@ -382,8 +517,13 @@
       "key": "openalex_authors",
       "name": "OpenAlex Authors",
       "url": "https://openalex.org/",
+      "adapter": "SearXNG",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only",
+        "academic"
       ],
       "description": "Academic author and researcher profile lookup, useful for researchers, economists, scientists and policy authors.",
       "display_flags": [
@@ -394,8 +534,13 @@
       "key": "orcid",
       "name": "ORCID",
       "url": "https://orcid.org/",
+      "adapter": "ORCID public API",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only",
+        "academic"
       ],
       "description": "Public researcher identifier lookup, best for academic and institutional author disambiguation.",
       "display_flags": [
@@ -406,8 +551,13 @@
       "key": "semantic_scholar",
       "name": "Semantic Scholar",
       "url": "https://www.semanticscholar.org/",
+      "adapter": "SearXNG",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only",
+        "academic"
       ],
       "description": "Scholarly search source, useful when the person is likely an author or researcher.",
       "display_flags": [
@@ -418,8 +568,13 @@
       "key": "google_scholar",
       "name": "Google Scholar",
       "url": "https://scholar.google.com/",
+      "adapter": "SearXNG",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only",
+        "academic"
       ],
       "description": "Scholarly search source for academic/publication context, not general identity lookup.",
       "display_flags": [
@@ -430,8 +585,13 @@
       "key": "spokeo",
       "name": "Spokeo",
       "url": "https://www.spokeo.com/",
+      "adapter": "result page",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only",
+        "result-page"
       ],
       "description": "People and contact lookup by name, phone, email or address.",
       "display_flags": [
@@ -442,8 +602,13 @@
       "key": "thatsthem",
       "name": "That’sThem",
       "url": "https://thatsthem.com/",
+      "adapter": "result page",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only",
+        "browser-wait"
       ],
       "description": "Free people, phone, address and email lookup. Requires browser wait after submitting the search form.",
       "display_flags": [
@@ -454,8 +619,13 @@
       "key": "ussearch",
       "name": "US Search",
       "url": "https://www.ussearch.com/",
+      "adapter": "result page",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only",
+        "result-page"
       ],
       "description": "People search with possible phones, addresses and relatives.",
       "display_flags": [
@@ -466,8 +636,12 @@
       "key": "radaris",
       "name": "Radaris",
       "url": "https://radaris.com/",
+      "adapter": "Scrapling stealth",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only"
       ],
       "description": "People search source for explicit person lookups.",
       "display_flags": [
@@ -478,8 +652,12 @@
       "key": "truthfinder",
       "name": "TruthFinder",
       "url": "https://www.truthfinder.com/",
+      "adapter": "Scrapling stealth",
       "modes": [
         "people"
+      ],
+      "flags": [
+        "people-only"
       ],
       "description": "People and background search source for explicit person lookups.",
       "display_flags": [
@@ -490,8 +668,13 @@
       "key": "verificarmatricula",
       "name": "VerificarMatricula.pt",
       "url": "https://verificarmatricula.pt/",
+      "adapter": "plate result page",
       "modes": [
         "plates"
+      ],
+      "flags": [
+        "plate-lookup",
+        "portugal"
       ],
       "description": "Vehicle details from a Portuguese registration search.",
       "display_flags": [
@@ -503,8 +686,13 @@
       "key": "infocarro",
       "name": "Infocarro",
       "url": "https://infocarro.pt/",
+      "adapter": "plate result page",
       "modes": [
         "plates"
+      ],
+      "flags": [
+        "plate-lookup",
+        "portugal"
       ],
       "description": "Vehicle details and report link.",
       "display_flags": [
@@ -516,10 +704,15 @@
       "key": "autoconsulta",
       "name": "AutoConsulta",
       "url": "https://autoconsulta.pt/",
+      "adapter": "plate browser form",
       "modes": [
-        "plates"
+        "plates_resource"
       ],
-      "description": "Inspection and IUC helper for Portuguese vehicles.",
+      "flags": [
+        "plate-lookup",
+        "portugal"
+      ],
+      "description": "IPO/IUC helper; opens separately and may require first-registration date.",
       "display_flags": [
         "PT",
         "IPO/IUC"
@@ -529,10 +722,15 @@
       "key": "infomatricula",
       "name": "InfoMatricula",
       "url": "https://infomatricula.pt/",
+      "adapter": "plate browser auth",
       "modes": [
         "plates"
       ],
-      "description": "Vehicle and insurance information service.",
+      "flags": [
+        "plate-lookup",
+        "portugal"
+      ],
+      "description": "Vehicle details and insurance data from the InfoMatricula lookup.",
       "display_flags": [
         "PT",
         "vehicle data"
@@ -542,8 +740,14 @@
       "key": "asf_tem_seguro",
       "name": "ASF Tem Seguro?",
       "url": "https://www.consumidor.asf.com.pt/servi%C3%A7os/verificar-seguro-atrav%C3%A9s-da-matr%C3%ADcula",
+      "adapter": "plate browser form",
       "modes": [
         "plates"
+      ],
+      "flags": [
+        "plate-lookup",
+        "portugal",
+        "official"
       ],
       "description": "Official insurance status service.",
       "display_flags": [
@@ -556,8 +760,14 @@
       "key": "recall_acap",
       "name": "RECALL ACAP",
       "url": "https://recall.motordata.pt/",
+      "adapter": "plate form post",
       "modes": [
         "plates"
+      ],
+      "flags": [
+        "plate-lookup",
+        "portugal",
+        "official-sector"
       ],
       "description": "Recall status service.",
       "display_flags": [
@@ -569,8 +779,14 @@
       "key": "imt_inspecoes",
       "name": "IMT Inspeções Técnicas",
       "url": "https://www.gov.pt/servicos/obter-relatorio-de-resultados-das-inspecoes-tecnicas-de-veiculo",
+      "adapter": "official browser flow",
       "modes": [
         "plates_resource"
+      ],
+      "flags": [
+        "plate-lookup",
+        "portugal",
+        "official"
       ],
       "description": "Official paid inspection report service.",
       "display_flags": [
@@ -583,8 +799,15 @@
       "key": "automovel_online_certidao",
       "name": "Automóvel Online Certidão Permanente",
       "url": "https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=certidaoOnline",
+      "adapter": "official browser flow",
       "modes": [
         "plates_resource"
+      ],
+      "flags": [
+        "plate-lookup",
+        "portugal",
+        "official",
+        "paid"
       ],
       "description": "Official paid permanent vehicle certificate service.",
       "display_flags": [
@@ -596,8 +819,15 @@
       "key": "gov_info_matricula",
       "name": "Gov.pt Informação sobre Matrícula",
       "url": "https://www2.gov.pt/servicos/pedir-informacao-sobre-matricula-automovel",
+      "adapter": "official browser flow",
       "modes": [
         "plates_resource"
+      ],
+      "flags": [
+        "plate-lookup",
+        "portugal",
+        "official",
+        "paid"
       ],
       "description": "Official paid vehicle registration information request.",
       "display_flags": [
@@ -609,8 +839,13 @@
       "key": "platesmania",
       "name": "Platesmania",
       "url": "https://platesmania.com/pt/",
+      "adapter": "plate visual lookup",
       "modes": [
         "plates"
+      ],
+      "flags": [
+        "plate-lookup",
+        "visual-osint"
       ],
       "description": "Vehicle photo and plate sightings search.",
       "display_flags": [
@@ -621,10 +856,17 @@
       "key": "exclusive_car_registry",
       "name": "Exclusive Car Registry",
       "url": "https://exclusivecarregistry.com/list",
+      "adapter": "plate browser auth",
       "modes": [
-        "plates"
+        "plates_visual_reference"
       ],
-      "description": "Registry for rare, exotic and collectible vehicles.",
+      "flags": [
+        "plate-lookup",
+        "vin",
+        "chassis",
+        "niche"
+      ],
+      "description": "Rare/exotic car registry; public plate filters are not an unauthenticated plate-search engine.",
       "display_flags": [
         "visual",
         "niche"
@@ -634,8 +876,12 @@
       "key": "truecaller",
       "name": "Truecaller",
       "url": "https://www.truecaller.com/",
+      "adapter": "phone result page",
       "modes": [
         "phone"
+      ],
+      "flags": [
+        "phone-lookup"
       ],
       "description": "Reverse phone lookup and caller ID search.",
       "display_flags": [
@@ -646,8 +892,13 @@
       "key": "thisnumber",
       "name": "ThisNumber",
       "url": "https://www.thisnumber.com/",
+      "adapter": "phone result page",
       "modes": [
         "phone"
+      ],
+      "flags": [
+        "phone-lookup",
+        "directory"
       ],
       "description": "International phone directory search.",
       "display_flags": [
@@ -659,8 +910,12 @@
       "key": "syncme",
       "name": "Sync.me",
       "url": "https://sync.me/",
+      "adapter": "phone result page",
       "modes": [
         "phone"
+      ],
+      "flags": [
+        "phone-lookup"
       ],
       "description": "Caller ID search.",
       "display_flags": [
@@ -671,8 +926,14 @@
       "key": "nigeriaphonebook",
       "name": "Nigeria PhoneBook",
       "url": "https://nigeriaphonebook.com/",
+      "adapter": "phone result page",
       "modes": [
         "phone_optional"
+      ],
+      "flags": [
+        "phone-lookup",
+        "directory",
+        "regional"
       ],
       "description": "Regional Nigeria phone directory search.",
       "display_flags": [
