@@ -95,6 +95,9 @@ def validate_lidl_availability_ids(base: Path) -> None:
         aid = card.get("data-availability-id", "")
         url = card.get("data-product-url", "")
         title = card.get("data-product-title", "<unknown>")
+        stock_mode = card.get("data-stock-mode", "")
+        if stock_mode == "historical":
+            continue
         match = re.search(r"/p(\d{5,12})(?:[/?#]|$)", url)
         if not match:
             continue
