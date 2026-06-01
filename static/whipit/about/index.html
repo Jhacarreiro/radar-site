@@ -9,4 +9,4 @@
     if (event.key === 'Escape') menu.removeAttribute('open');
   });
 })();
-</script></body></html>
+</script><script>(function(){const sel="details.projects-menu,details.country-menu";function close(except){document.querySelectorAll(sel+"[open]").forEach(function(d){if(d!==except)d.removeAttribute("open")})}document.addEventListener("toggle",function(e){const d=e.target;if(d.matches&&d.matches(sel)&&d.open)close(d)},true);document.addEventListener("click",function(e){if(!e.target.closest(sel))close(null)});document.addEventListener("keydown",function(e){if(e.key==="Escape")close(null)});})();</script></body></html>
