@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 10,
   "updated": "2026-06-01",
   "modes": {
     "fast": {
@@ -493,7 +493,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Vehicle details for Portuguese registrations.",
+      "description": "Vehicle details from a Portuguese registration search.",
       "display_flags": [
         "PT",
         "vehicle data"
@@ -506,7 +506,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Vehicle details and reports.",
+      "description": "Vehicle details and report link.",
       "display_flags": [
         "PT",
         "vehicle data"
@@ -545,7 +545,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Official Portuguese insurance check.",
+      "description": "Official insurance status service.",
       "display_flags": [
         "PT",
         "official",
@@ -559,7 +559,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Recall check for Portuguese vehicles.",
+      "description": "Recall status service.",
       "display_flags": [
         "PT",
         "recall"
@@ -570,9 +570,9 @@
       "name": "IMT Inspeções Técnicas",
       "url": "https://www.gov.pt/servicos/obter-relatorio-de-resultados-das-inspecoes-tecnicas-de-veiculo",
       "modes": [
-        "plates"
+        "plates_resource"
       ],
-      "description": "Official inspection report service.",
+      "description": "Official paid inspection report service.",
       "display_flags": [
         "PT",
         "official",
@@ -584,9 +584,9 @@
       "name": "Automóvel Online Certidão Permanente",
       "url": "https://www.automovelonline.mj.pt/AutoOnlineProd/FrontOfficeController?action=certidaoOnline",
       "modes": [
-        "plates"
+        "plates_resource"
       ],
-      "description": "Official permanent vehicle certificate service.",
+      "description": "Official paid permanent vehicle certificate service.",
       "display_flags": [
         "PT",
         "official"
@@ -597,9 +597,9 @@
       "name": "Gov.pt Informação sobre Matrícula",
       "url": "https://www2.gov.pt/servicos/pedir-informacao-sobre-matricula-automovel",
       "modes": [
-        "plates"
+        "plates_resource"
       ],
-      "description": "Official vehicle registration information request service.",
+      "description": "Official paid vehicle registration information request.",
       "display_flags": [
         "PT",
         "official"
@@ -612,7 +612,7 @@
       "modes": [
         "plates"
       ],
-      "description": "Global visual vehicle sightings and plate gallery.",
+      "description": "Vehicle photo and plate sightings search.",
       "display_flags": [
         "visual"
       ]
@@ -637,7 +637,7 @@
       "modes": [
         "phone"
       ],
-      "description": "Reverse phone number lookup and caller identification.",
+      "description": "Reverse phone lookup and caller ID search.",
       "display_flags": [
         "phone"
       ]
@@ -649,7 +649,7 @@
       "modes": [
         "phone"
       ],
-      "description": "International phone directory and reverse phone number lookup.",
+      "description": "International phone directory search.",
       "display_flags": [
         "phone",
         "directory"
@@ -662,7 +662,7 @@
       "modes": [
         "phone"
       ],
-      "description": "Reverse phone number lookup and caller identification.",
+      "description": "Caller ID search.",
       "display_flags": [
         "phone"
       ]
@@ -674,7 +674,7 @@
       "modes": [
         "phone_optional"
       ],
-      "description": "Regional Nigeria phone directory and phone number search.",
+      "description": "Regional Nigeria phone directory search.",
       "display_flags": [
         "phone",
         "directory",
