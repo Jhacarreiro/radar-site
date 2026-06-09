@@ -1,0 +1,29 @@
+name: Limited Offers i18n QA
+
+on:
+  push:
+    paths:
+      - 'static/whipit/limited-offers/**'
+      - 'scripts/qa_limited_offers_i18n.py'
+      - '.github/workflows/limited-offers-i18n.yml'
+  pull_request:
+    paths:
+      - 'static/whipit/limited-offers/**'
+      - 'scripts/qa_limited_offers_i18n.py'
+      - '.github/workflows/limited-offers-i18n.yml'
+
+jobs:
+  limited-offers-i18n:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check Limited Offers JavaScript
+        run: node --check static/whipit/limited-offers/assets/app.js
+      - name: Check Limited Offers PT/PL translations
+        run: python3 scripts/qa_limited_offers_i18n.py
