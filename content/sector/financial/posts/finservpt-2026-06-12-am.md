@@ -22,7 +22,7 @@ items:
         published_at: 2026-06-11
     context_sources:
       - title: Monetary policy statement with Q&A
-        url: https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260611~3c91d9f7e8.en.html
+        url: https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is260611~372040d313.en.html
         publisher: European Central Bank
         published_at: 2026-06-11
     wire_copies: []
