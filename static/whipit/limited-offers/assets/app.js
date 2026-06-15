@@ -1,33 +1,7 @@
 const body=document.body, country=body.dataset.country||'PT', locale=body.dataset.locale||'pt-PT', base=body.dataset.basePath||'/whipit/limited-offers', lidlDomain=body.dataset.lidlDomain||'https://www.lidl.pt';
-let UI={};try{UI=JSON.parse(document.getElementById('limited-offers-ui')?.textContent||'{}')}catch(e){};const tr=(k,f)=>UI[k]||f;
+let UI={};try{UI=JSON.parse(document.getElementById('lidl-ui')?.textContent||'{}')}catch(e){};const tr=(k,f)=>UI[k]||f;
 const q=document.getElementById('q'),brand=document.getElementById('brand'),cat=document.getElementById('cat'),sortEl=document.getElementById('sort'),count=document.getElementById('count'),grid=document.getElementById('grid');
 const cards=[...document.querySelectorAll('[data-card]')], stateRank={now:0,lastcall:1,future:2,past:3,unknown:4};
-function uniqSorted(values){return [...new Set(values.map(v=>(v||'').trim()).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pt',{sensitivity:'base'}));}
-function productOptions(){return cards.map(c=>({value:c.dataset.productKey||c.dataset.availabilityId||c.dataset.productTitle||'', label:c.dataset.productTitle||c.querySelector('h3')?.textContent?.trim()||'', brand:c.dataset.productBrand||c.dataset.brand||'', category:c.dataset.category||''})).filter(x=>x.value&&x.label).sort((a,b)=>a.label.localeCompare(b.label,'pt',{sensitivity:'base'}));}
-function optionHtml(value,label){return `<option value="${escapeHtml(value)}">${escapeHtml(label)}</option>`;}
-function configureAlertValue(){
-  const type=document.getElementById('alerts-type')?.value||'brand', select=document.getElementById('alerts-value'), keyword=document.getElementById('alerts-keyword');
-  if(!select||!keyword) return;
-  keyword.hidden=type!=='keyword'; select.hidden=type==='keyword';
-  if(type==='keyword'){keyword.placeholder=tr('alert_keyword_placeholder','Ex.: berbequim, fraldas, LEGO'); return;}
-  let opts=[];
-  if(type==='brand') opts=uniqSorted(cards.map(c=>c.dataset.brand)).map(v=>({value:v,label:v}));
-  else if(type==='category') opts=uniqSorted(cards.map(c=>c.dataset.category)).map(v=>({value:v,label:v}));
-  else if(type==='product') opts=productOptions();
-  const first=type==='brand'?tr('alert_choose_brand','Escolhe uma marca'):type==='category'?tr('alert_choose_category','Escolhe uma categoria'):tr('alert_choose_product','Escolhe um produto');
-  select.innerHTML=optionHtml('',first)+opts.map(o=>optionHtml(o.value,o.label)).join('');
-}
-function setAlertType(type,value=''){
-  if(document.getElementById('alerts-type')) document.getElementById('alerts-type').value=type;
-  configureAlertValue();
-  if(type==='keyword') { if(document.getElementById('alerts-keyword')) document.getElementById('alerts-keyword').value=value; }
-  else if(document.getElementById('alerts-value')) document.getElementById('alerts-value').value=value;
-}
-const urlParams=new URLSearchParams(location.search);
-if(q&&urlParams.get('q')) q.value=urlParams.get('q');
-if(brand&&urlParams.get('brand')) brand.value=urlParams.get('brand');
-if(cat&&urlParams.get('cat')) cat.value=urlParams.get('cat');
-if(sortEl&&urlParams.get('sort')) sortEl.value=urlParams.get('sort');
 const num=v=>Number(v||0), dateNum=c=>Number(String(c.dataset.date||'').replaceAll('-',''))||0, byText=(a,b)=>(a.dataset.title||'').localeCompare(b.dataset.title||'',locale);
 function allowedByMode(card,mode){const st=card.dataset.status||'unknown';if(mode==='fresh')return st==='now'||st==='lastcall';if(mode==='upcoming')return st==='future';if(mode==='lastcall')return st==='lastcall';if(mode==='past')return st==='past';return true}
 function sortCards(rows){const mode=sortEl.value||'all';rows.sort((a,b)=>{if(mode==='upcoming')return dateNum(a)-dateNum(b)||byText(a,b);if(mode==='past')return dateNum(b)-dateNum(a)||byText(a,b);if(mode==='lastcall')return dateNum(a)-dateNum(b)||byText(a,b);if(mode==='price')return num(a.dataset.price)-num(b.dataset.price)||byText(a,b);return (stateRank[a.dataset.status]??9)-(stateRank[b.dataset.status]??9)||dateNum(b)-dateNum(a)||byText(a,b)});return rows}
@@ -72,61 +46,52 @@ function escapeHtml(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','
     return data;
   }
   function currentAlert(){
-    const type=$('alerts-type')?.value||'brand';
-    const value=(type==='keyword'?$('alerts-keyword')?.value:$('alerts-value')?.value)||'';
-    return {match_type:type, match_value:value.trim(), label:''};
+    return {match_type:$('alerts-type')?.value||'keyword', match_value:($('alerts-value')?.value||'').trim(), label:($('alerts-label')?.value||'').trim()};
   }
   function validAlert(){
     const a=currentAlert();
     if(!a.match_value){setStatus('Escolhe primeiro o alerta: keyword, marca, categoria ou produto.');return null}
     return a;
   }
-  function open(mode='create'){modal.hidden=false;document.body.classList.add('modal-open');modal.dataset.mode=mode;refresh().catch(()=>{})}
+  function open(){modal.hidden=false;document.body.classList.add('modal-open');refresh().catch(()=>{})}
   function close(){modal.hidden=true;document.body.classList.remove('modal-open')}
   document.querySelectorAll('[data-close-alerts]').forEach(x=>x.addEventListener('click',close));
-  $('alerts-open')?.addEventListener('click',()=>{ setAlertType('brand',''); open('create'); });
-  $('alerts-type')?.addEventListener('change',()=>configureAlertValue());
-  function configureDestinationPlaceholder(){const ch=$('alerts-channel')?.value||'email', d=$('alerts-destination'); if(d) d.placeholder=ch==='email'?tr('alert_destination_email','email@exemplo.com'):tr('alert_destination_whatsapp','+351...');}
-  $('alerts-channel')?.addEventListener('change',configureDestinationPlaceholder);
-  configureDestinationPlaceholder();
+  $('alerts-open')?.addEventListener('click',()=>{ if($('alerts-type')) $('alerts-type').value='keyword'; if($('alerts-value')) $('alerts-value').value=''; if($('alerts-label')) $('alerts-label').value=''; open(); });
   async function refresh(){
-    if(!token()){auth.hidden=false;app.hidden=true;setStatus(modal.dataset.mode==='manage'?tr('alert_manage_intro','Introduz o email ou WhatsApp onde recebes alertas. Enviamos um código para abrir a tua lista.'):tr('alert_create_intro','Confirma WhatsApp/email com código para guardar ou gerir alertas.'));return}
-    auth.hidden=true;app.hidden=false;setStatus(tr('alert_session_active','Sessão activa. Agora podes guardar alertas e desligar alertas activos.'));
+    if(!token()){auth.hidden=false;app.hidden=true;setStatus('Escolhe o alerta e confirma WhatsApp/email para guardar.');return}
+    auth.hidden=true;app.hidden=false;setStatus('Sessão activa. Agora podes guardar alertas e desligar alertas activos.');
     try{const data=await call({alerts_action:'list'}); renderList(data.alerts||[])}
-    catch(e){localStorage.removeItem(tokenKey);auth.hidden=false;app.hidden=true;setStatus(tr('alert_session_expired','Sessão expirada. Confirma o contacto outra vez.'))}
+    catch(e){localStorage.removeItem(tokenKey);auth.hidden=false;app.hidden=true;setStatus('Sessão expirada. Confirma o contacto outra vez.')}
   }
   function renderList(alerts){
     const box=$('alerts-list'); if(!box) return;
     const active=alerts.filter(a=>a.enabled!==0);
-    if(!active.length){box.innerHTML='<p class="modal-note">'+escapeHtml(tr('alert_empty','Ainda não tens alertas activos.'))+'</p>';return}
-    box.innerHTML=active.map(a=>`<article class="alert-item"><div><b>${escapeHtml(a.label||a.match_value)}</b><span>${escapeHtml(a.match_type)} · ${escapeHtml(a.channel)}</span></div><button class="button secondary" type="button" data-alert-delete="${a.id}">${escapeHtml(tr('alert_delete','Desligar'))}</button></article>`).join('');
-    box.querySelectorAll('[data-alert-delete]').forEach(btn=>btn.addEventListener('click',async()=>{try{await call({alerts_action:'delete',alert_id:btn.dataset.alertDelete});await refresh();setStatus(tr('alert_deleted','Alerta desligado.'))}catch(e){setStatus(e.message)}}));
+    if(!active.length){box.innerHTML='<p class="modal-note">Ainda não tens alertas activos.</p>';return}
+    box.innerHTML=active.map(a=>`<article class="alert-item"><div><b>${escapeHtml(a.match_type)}: ${escapeHtml(a.match_value)}</b><span>${escapeHtml(a.channel)}</span></div><button class="button secondary" type="button" data-alert-delete="${a.id}">Desligar</button></article>`).join('');
+    box.querySelectorAll('[data-alert-delete]').forEach(btn=>btn.addEventListener('click',async()=>{try{await call({alerts_action:'delete',alert_id:btn.dataset.alertDelete});await refresh();setStatus('Alerta desligado.')}catch(e){setStatus(e.message)}}));
   }
   function escapeHtml(s){return String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
   $('alerts-start')?.addEventListener('click',async()=>{
+    if(!validAlert()) return;
     const channel=$('alerts-channel').value,destination=$('alerts-destination').value.trim();
-    if(!destination){setStatus(tr('alert_destination_required','Indica o WhatsApp ou email para receber o código.'));return}
-    try{await call({alerts_action:'auth_start',channel,destination},false);$('alerts-code-row').hidden=false;setStatus(tr('alert_code_sent','Código enviado. Introduz o código para confirmar.'))}catch(e){setStatus(e.message)}
+    if(!destination){setStatus('Indica o WhatsApp ou email para receber o código.');return}
+    try{await call({alerts_action:'auth_start',channel,destination},false);$('alerts-code-row').hidden=false;setStatus('Código enviado. Introduz o código para confirmar.')}catch(e){setStatus(e.message)}
   });
   $('alerts-verify')?.addEventListener('click',async()=>{
     const channel=$('alerts-channel').value,destination=$('alerts-destination').value.trim(),code=$('alerts-code').value.trim();
-    try{const data=await call({alerts_action:'auth_verify',channel,destination,code},false);localStorage.setItem(tokenKey,data.token);await refresh();setStatus(currentAlert().match_value?tr('alert_confirmed_create','Contacto confirmado. Agora carrega em Guardar alerta.'):tr('alert_confirmed_manage','Contacto confirmado. Estes são os teus alertas.'))}catch(e){setStatus(e.message)}
+    try{const data=await call({alerts_action:'auth_verify',channel,destination,code},false);localStorage.setItem(tokenKey,data.token);await refresh();setStatus('Contacto confirmado. Agora carrega em Guardar alerta.')}catch(e){setStatus(e.message)}
   });
   $('alerts-create')?.addEventListener('click',async()=>{
     const a=validAlert(); if(!a) return;
-    if(!token()){setStatus(tr('alert_confirm_first','Confirma primeiro o WhatsApp/email com código.'));return}
-    try{await call({alerts_action:'create',match_type:a.match_type,match_value:a.match_value,label:''});setAlertType('brand','');await refresh();setStatus(tr('alert_saved','Alerta guardado.'))}catch(e){setStatus(e.message)}
+    if(!token()){setStatus('Confirma primeiro o WhatsApp/email com código.');return}
+    try{await call({alerts_action:'create',match_type:a.match_type,match_value:a.match_value,label:a.label});$('alerts-value').value='';$('alerts-label').value='';await refresh();setStatus('Alerta guardado.')}catch(e){setStatus(e.message)}
   });
   document.querySelectorAll('[data-alert-product]').forEach(btn=>btn.addEventListener('click',()=>{
     const card=btn.closest('[data-card]'); if(!card) return;
-    open('create');
+    open();
     const value=card.dataset.productKey||card.dataset.availabilityId||card.dataset.productTitle||'';
-    setAlertType('product',value);
-    setStatus(tr('alert_product_ready','Alerta preparado para este produto. Confirma contacto e guarda.'))
+    $('alerts-type').value='product'; $('alerts-value').value=value; $('alerts-label').value=card.dataset.productTitle||'';
+    setStatus('Alerta preparado para este produto. Confirma contacto e guarda.')
   }));
-  function openFromHash(){if(location.hash==='#alerts'){setAlertType('brand',''); open('manage');}}
-  window.addEventListener('hashchange',openFromHash);
-  configureAlertValue();
   refresh().catch(()=>{});
-  openFromHash();
 })();
