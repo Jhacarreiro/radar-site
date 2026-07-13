@@ -5,41 +5,41 @@ date: "2026-07-13"
 window: "manhã"
 title: "Radar FinServ Strategy PT - 13 julho 2026"
 items:
-  - title: "A Europa abriu o balcão único dos dados"
+  - title: "A AMLA já pôs datas no reporting"
     primary_source:
-      title: "ESMA launches data collection under the first phase of ESAP"
-      url: "https://www.esma.europa.eu/press-news/esma-news/esma-launches-data-collection-under-first-phase-esap"
-      publisher: "European Securities and Markets Authority"
+      title: "The EBA releases the final technical package for its 4.3 reporting framework to support Third-Country Branches reporting and AML Authority risk assessment data collection"
+      url: "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches"
+      publisher: "European Banking Authority"
     verification_sources:
-      - title: "The first phase of ESAP starts on 10 July"
-        url: "https://www.consob.it/web/consob-and-its-activities/w/the-first-phase-of-esap-the-european-single-access-point-for-data-on-companies-small-and-medium-sized-enterprises-financial-markets-and-sustainability-starts-on-10-july"
-        publisher: "CONSOB"
-      - title: "Regulation (EU) 2023/2859 establishing a European single access point"
-        url: "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32023R2859"
-        publisher: "EUR-Lex"
+      - title: "EBA releases final technical package for version 4.3 reporting framework supporting third-country branches and AML risk assessment"
+        url: "https://innoserve.com.cy/bulletin/eba-releases-final-technical-package-43-reporting-framework/"
+        publisher: "InnoServe"
+      - title: "EBA launches consultation on Reporting Framework 4.3 - New AML and Third-Country Branch reporting requirements"
+        url: "https://legal.pwc.de/en/news/articles/eba-launches-consultation-on-reporting-framework-4-3-new-aml-and-third-country-branch-reporting-requirements"
+        publisher: "PwC Legal"
     context_sources:
-      - title: "European Single Access Point (ESAP)"
-        url: "https://www.esma.europa.eu/esmas-activities/data/european-single-access-point-esap"
-        publisher: "European Securities and Markets Authority"
+      - title: "EBA moves to standardise reporting for third-country bank branches"
+        url: "https://www.xbrl.org/news/eba-moves-to-standardise-reporting-for-third-country-bank-branches/"
+        publisher: "XBRL International"
     wire_copies: []
-  - title: "A Plus500 pôs aquisição à frente da margem"
+  - title: "O menor banco independente dos EUA fechou"
     primary_source:
-      title: "Plus500 Ltd - Half Year 2026 Trading Update"
-      url: "https://www.tradingview.com/news/reuters.com,2026-07-13:newsml_RSM0506Ma:0-reg-plus500-ltd-half-year-2026-trading-update/"
-      publisher: "Plus500 via RNS"
+      title: "Kentland Bank Assumes All Deposits of Kentland Federal Savings and Loan Association"
+      url: "https://www.fdic.gov/news/press-releases/2026/kentland-bank-assumes-all-deposits-kentland-federal-savings-and-loan"
+      publisher: "Federal Deposit Insurance Corporation"
     verification_sources:
-      - title: "Plus500 H1 Revenue Climbs 12% to $462.9 Million as EBITDA Growth Stalls at 1%"
-        url: "https://www.financemagnates.com/forex/brokers/plus500-h1-revenue-climbs-12-to-4629-million-as-ebitda-growth-stalls-at-1/"
-        publisher: "Finance Magnates"
-      - title: "Plus500 backs outlook as revenue reaches three-year high"
-        url: "https://www.proactiveinvestors.co.uk/companies/news/1095315/plus500-backs-outlook-as-revenue-reaches-three-year-high-1095315.html"
-        publisher: "Proactive Investors"
+      - title: "OCC Appoints Receiver for Kentland Federal Savings and Loan Association, Kentland, Indiana"
+        url: "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-56.html"
+        publisher: "Office of the Comptroller of the Currency"
+      - title: "Smallest standalone bank in America fails"
+        url: "https://www.americanbanker.com/news/smallest-standalone-bank-in-america-fails"
+        publisher: "American Banker"
     context_sources:
-      - title: "Plus500 Posts Record H1 2026 as U.S. Expansion and 24/5 Trading Fuel Growth"
-        url: "https://www.tipranks.com/news/company-announcements/plus500-posts-record-h1-2026-as-u-s-expansion-and-24-5-trading-fuel-growth"
-        publisher: "TipRanks"
+      - title: "Kentland Federal Savings and Loan Association"
+        url: "https://www.fdic.gov/bank-failures/failed-bank-list/kentland-federal-savings-and-loan-association"
+        publisher: "Federal Deposit Insurance Corporation"
     wire_copies: []
-  - title: "O risco climático chegou ao departamento jurídico"
+  - title: "O BCE chamou os juristas ao risco climático"
     primary_source:
       title: "Climate litigation risk already here for banks and insurers, says ECB legal chief"
       url: "https://greencentralbanking.com/2026/07/10/climate-litigation-risk-banks-and-insurers-ecb/"
@@ -47,44 +47,44 @@ items:
     verification_sources:
       - title: "Global trends in climate change litigation: 2026 snapshot"
         url: "https://www.lse.ac.uk/granthaminstitute/publication/global-trends-in-climate-change-litigation-2026-snapshot/"
-        publisher: "LSE Grantham Research Institute"
+        publisher: "Grantham Research Institute, London School of Economics"
       - title: "Climate Litigation Snapshot 2026 Paints Complex Legal Landscape"
         url: "https://sdg.iisd.org/news/climate-litigation-snapshot-2026-paints-complex-legal-landscape/"
         publisher: "IISD SDG Knowledge Hub"
     context_sources:
-      - title: "Come hell or high water: addressing the risks of climate and environment-related litigation for the banking sector"
-        url: "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230904_1~9d14ab8648.en.html"
-        publisher: "European Central Bank"
+      - title: "How does the rise of climate change litigation impact insurers?"
+        url: "https://www.lse.ac.uk/granthaminstitute/explainers/how-does-the-rise-of-climate-change-litigation-impact-insurers/"
+        publisher: "Grantham Research Institute, London School of Economics"
     wire_copies: []
 ---
 
-1️⃣ **A Europa abriu o balcão único dos dados**
-A ESMA começou a receber dados financeiros e de sustentabilidade para o ESAP. A plataforma pública abre até julho de 2027, com informação de prospectos, participações e posições curtas.
+1️⃣ **A AMLA já pôs datas no reporting**
+A EBA fechou o framework 4.3: o reporting para a AMLA tem referência a 31 de dezembro de 2026; as filiais de bancos de fora da UE seguem em 31 de março de 2027.
 
 💡 Porque importa
-Pesquisa, reporting e distribuição ganham uma fonte europeia comum. Bancos e asset managers terão de rever fluxos de dados e produtos.
+AML e reporting prudencial passam a disputar os mesmos dados e equipas em dois calendários seguidos.
 
 ☕ Conversa de café
-Quem vai vender melhor informação quando o dado público estiver todo no mesmo balcão?
+Que banco ainda trata a AMLA e a filial europeia como dois projectos de dados separados?
 
 ---
 
-2️⃣ **A Plus500 pôs aquisição à frente da margem**
-A Plus500 aumentou a receita do primeiro semestre em 12%, para 462,9 milhões de dólares. O investimento em aquisição levou novos clientes a subir 17%, mas o EBITDA avançou apenas 1%.
+2️⃣ **O menor banco independente dos EUA fechou**
+Os reguladores fecharam a Kentland Federal e passaram depósitos e quase todos os activos para outro banco. Tinha 3,73 milhões de dólares em activos e era a menor instituição independente do país.
 
 💡 Porque importa
-O crescimento veio com custo. A aposta em prediction markets e negociação 24/5 mostra onde as plataformas procuram a próxima receita.
+Uma licença bancária tem custos fixos de tecnologia, risco e compliance. Em modelos minúsculos, sobra pouca escala para os absorver.
 
 ☕ Conversa de café
-Quanto custa manter clientes de trading quando a volatilidade deixa de ajudar?
+Um banco com 3,73 milhões em activos é uma instituição ou um sistema legado com balcão?
 
 ---
 
-3️⃣ **O risco climático chegou ao departamento jurídico**
-Há mais de 3.600 processos climáticos em 62 países; 249 foram abertos em 2025. Bancos, seguradoras, fundos de pensões e asset managers já aparecem como réus ou autores.
+3️⃣ **O BCE chamou os juristas ao risco climático**
+A directora-geral jurídica do BCE avisou que a litigância climática já está a materializar-se. O relatório da LSE conta mais de 3.600 casos em 62 países.
 
 💡 Porque importa
-Crédito, underwriting, D&O e planos de transição ganham exposição jurídica mensurável. Silêncio sobre clima também não elimina risco.
+Planos de transição ganham peso como evidência jurídica. Subscrição e crédito precisam da mesma leitura do risco.
 
 ☕ Conversa de café
-Quantos boards sabem hoje que cobertura têm para um processo contra o plano de transição?
+Quem assina um plano de transição sabendo que pode acabar anexado a uma acção judicial?
