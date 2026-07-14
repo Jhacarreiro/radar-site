@@ -5,86 +5,95 @@ date: "2026-07-14"
 window: "manhã"
 title: "Radar Financial Services PT - 14 julho 2026"
 items:
-  - title: "O FGA já paga a conta dos veículos sem seguro"
+  - title: "O BPI ganhou um A+ emprestado"
+    primary_source:
+      title: "Fitch Upgrades Banco BPI to 'A+'/Stable Following CaixaBank's Upgrade"
+      url: "https://www.fitchratings.com/research/banks/fitch-upgrades-banco-bpi-to-a-stable-following-caixabank-upgrade-13-07-2026"
+      publisher: "Fitch Ratings"
+    verification_sources:
+      - title: "Fitch sobe rating do BPI para A+ após revisão do CaixaBank"
+        url: "https://jornaleconomico.sapo.pt/noticias/fitch-sobe-rating-do-bpi-para-a-apos-revisao-do-caixabank/"
+        publisher: "Jornal Económico"
+      - title: "Fitch sobe rating do Banco BPI para A+"
+        url: "https://dinheirovivo.dn.pt/empresas/fitch-sobe-rating-do-banco-bpi-para-a"
+        publisher: "Dinheiro Vivo"
+    context_sources:
+      - title: "Fitch Upgrades Banco BPI's VR to 'bbb+'; Affirms IDR at 'A'/Positive"
+        url: "https://www.fitchratings.com/research/banks/fitch-upgrades-banco-bpi-vr-to-bbb-affirms-idr-at-a-positive-20-05-2026"
+        publisher: "Fitch Ratings"
+    wire_copies:
+      - title: "Fitch sobe rating do banco BPI para A+"
+        url: "https://www.lusa.pt/economia/article/2026-07-13/47454747/fitch-sobe-rating-do-banco-bpi-para-a"
+        publisher: "Lusa"
+  - title: "O Fundo de Garantia já sente os carros sem seguro"
     primary_source:
       title: "Perfil do Condutor sem Seguro"
       url: "https://www.fga.asf.com.pt/documents/d/site-fga/perfildocondutorsemseguro"
-      publisher: "Autoridade de Supervisão de Seguros e Fundos de Pensões"
+      publisher: "ASF / Fundo de Garantia Automóvel"
     verification_sources:
-      - title: "ASF estima que circulem 121 mil veículos sem seguro obrigatório"
-        url: "https://www.rtp.pt/noticias/economia/asf-estima-que-circulem-121-mil-veiculos-sem-seguro-obrigatorio_n1753045"
-        publisher: "RTP / Lusa"
-      - title: "ASF estima que 121 mil veículos circulem sem seguro obrigatório em Portugal"
-        url: "https://jornaleconomico.sapo.pt/noticias/asf-estima-que-121-mil-veiculos-circulem-sem-seguro-obrigatorio-em-portugal/"
-        publisher: "Jornal Económico"
-    context_sources:
       - title: "Há 121 mil veículos sem seguro obrigatório nas estradas portuguesas"
         url: "https://eco.sapo.pt/2026/07/13/ha-121-mil-veiculos-sem-seguro-obrigatorio-nas-estradas-portuguesas/"
         publisher: "ECO Seguros"
-    wire_copies: []
-  - title: "Os bancos multilaterais bateram recorde no clima"
-    primary_source:
-      title: "Multilateral development banks increase climate finance to record $163 billion in 2025, supporting climate-resilient and sustainable growth"
-      url: "https://www.eib.org/en/press/all/2026-249-multilateral-development-banks-increase-climate-finance-to-record-usd163-billion-in-2025-supporting-climate-resilient-and-sustainable-growth"
-      publisher: "European Investment Bank"
-    verification_sources:
-      - title: "Multilateral development banks increase climate finance to record US$ 163 billion in 2025"
-        url: "https://www.ebrd.com/home/news-and-events/news/2026/multilateral-development-banks-increase-climate-finance-to-recor.html"
-        publisher: "European Bank for Reconstruction and Development"
-      - title: "Development banks' climate pledges hit record, but World Bank pullback looms"
-        url: "https://www.933thedrive.com/2026/07/13/development-banks-boost-climate-finance-to-record-163-billion-but-world-bank-pullback-looms/"
-        publisher: "Reuters / 93.3 The Drive"
+      - title: "Perfil dos condutores sem seguro mostra tendência preocupante"
+        url: "https://www.revistacarros.pt/perfil-dos-condutores-sem-seguro-mostra-tendencia-preocupante/"
+        publisher: "Revista Carros"
     context_sources:
-      - title: "Multilateral development banks increase climate finance to record $163 billion in 2025, supporting climate-resilient and sustainable growth"
-        url: "https://www.afdb.org/en/news-and-events/multilateral-development-banks-increase-climate-finance-record-163-billion-2025-supporting-climate-resilient-and-sustainable-growth-95419"
-        publisher: "African Development Bank"
-    wire_copies: []
-  - title: "Portugal ficou abaixo do corte da FASTER"
+      - title: "Fundo de Garantia Automóvel"
+        url: "https://www.asf.com.pt/fga"
+        publisher: "ASF"
+    wire_copies:
+      - title: "ASF estima que circulem 121 mil veículos sem seguro obrigatório"
+        url: "https://www.rtp.pt/noticias/economia/asf-estima-que-circulem-121-mil-veiculos-sem-seguro-obrigatorio_n1753045"
+        publisher: "Lusa / RTP"
+  - title: "Bruxelas pôs travões nos 2 mil milhões da banca húngara"
     primary_source:
-      title: "Market capitalisation figures under the FASTER Directive"
-      url: "https://www.esma.europa.eu/sites/default/files/2026-07/ESMA12-2121844265-6026_FASTER_Market_capitalisation_figures_and_ratios.pdf"
-      publisher: "European Securities and Markets Authority"
+      title: "Commission approves €2 billion Hungarian capital injection into development bank Magyar Fejlesztési Bank"
+      url: "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1527"
+      publisher: "European Commission"
     verification_sources:
-      - title: "Member states market ratios updated by EU financial regulator"
-        url: "https://cyprus-mail.com/2026/07/13/member-states-market-ratios-updated-by-eu-financial-regulator"
-        publisher: "Cyprus Mail"
-      - title: "EU market cap rose 15.4% between 2024 and 2025 as Spain and Italy climbed the rankings"
-        url: "https://ieu-monitoring.com/editorial/eu-market-cap-rose-15-4-between-2024-and-2025-as-spain-and-italy-climbed-the-rankings/1245331"
-        publisher: "Insight EU Monitoring"
+      - title: "EC clears capital injection in Hungarian development bank"
+        url: "https://dteurope.com/finance/ec-clears-capital-injection-in-hungarian-development-bank/"
+        publisher: "Diplomacy & Trade"
+      - title: "EU injeta dois mil milhões de euros no banco húngaro Magyar Fejlesztesi"
+        url: "https://www.rtp.pt/noticias/economia/ue-injeta-dois-mil-milhoes-de-euros-no-banco-hungaro-magyar-fejlesztesi_n1753000"
+        publisher: "RTP"
     context_sources:
-      - title: "FASTER Directive"
-        url: "https://taxation-customs.ec.europa.eu/taxation/business-taxation/faster-directive_en"
-        publisher: "European Commission"
-    wire_copies: []
+      - title: "Commission approves €2 billion Hungarian capital injection into development bank Magyar Fejlesztési Bank"
+        url: "https://competition-policy.ec.europa.eu/about/news/commission-approves-eur2-billion-hungarian-capital-injection-development-bank-magyar-fejlesztesi-2026-07-13_en"
+        publisher: "European Commission Competition Policy"
+    wire_copies:
+      - title: "EU approves Hungary's €2 billion capital injection into Magyar Fejlesztesi Bank"
+        url: "https://live.euronext.com/en/financial-news/eu-approves-hungarys-eu2-billion-capital-injection-magyar-fejlesztesi-bank"
+        publisher: "Reuters / Euronext"
 ---
 
-1️⃣ **O FGA já paga a conta dos veículos sem seguro**
-A ASF estima 121 mil veículos sem seguro obrigatório. Em 2025, o Fundo de Garantia Automóvel pagou quase 12 milhões de euros em indemnizações e recuperou menos de 3 milhões junto dos responsáveis.
+1️⃣ **O BPI ganhou um A+ emprestado**
+A Fitch subiu o rating de longo prazo do BPI de A para A+. A dívida sénior passou também a A+ e os depósitos a AA-. O rating de viabilidade ficou em bbb+: a subida veio do apoio esperado do CaixaBank.
 
 💡 Porque importa
-O risco fica fora das carteiras, mas não desaparece. Bate no FGA, nas vítimas e na capacidade de recuperar sinistros graves.
+Credores e depositantes ganham uma protecção melhor. O risco próprio do banco não mudou; foi o respaldo do accionista que pesou.
 
 ☕ Conversa de café
-Quanto tempo aguenta o FGA a pagar 12 milhões e recuperar menos de 3?
-
----
-
-2️⃣ **Os bancos multilaterais bateram recorde no clima**
-Os bancos multilaterais financiaram 163 mil milhões de dólares em projectos climáticos em 2025. Destinaram 103 mil milhões a economias de rendimento baixo e médio, mais 21% do que no ano anterior.
-
-💡 Porque importa
-O balanço público puxa capital privado. Mas o Banco Mundial deu quase metade aos países em desenvolvimento e largou a meta climática de 45%.
-
-☕ Conversa de café
-Quem substitui metade do financiamento aos países pobres se o Banco Mundial tirar o pé?
+Quanto vale o A+ quando o rating de viabilidade continua em bbb+?
 
 ---
 
-3️⃣ **Portugal ficou abaixo do corte da FASTER**
-A ESMA avaliou o mercado accionista português em 71,7 mil milhões de euros em 2025, ou 0,56% do total da UE. O limiar que activa requisitos específicos da FASTER é 1,5% durante quatro anos seguidos.
+2️⃣ **O Fundo de Garantia já sente os carros sem seguro**
+A ASF estima 121 mil veículos sem seguro obrigatório. Até ao início de julho, o Fundo de Garantia Automóvel abriu 2.709 processos, mais 15% do que no mesmo período de 2025.
 
 💡 Porque importa
-Portugal fica fora do grupo mais exigido. Bancos e custodians transfronteiriços continuam a precisar de dados, registo e due diligence.
+O FGA indemniza primeiro e tenta cobrar depois. O aumento dos processos já põe mais esforço financeiro dentro do sistema segurador.
 
 ☕ Conversa de café
-Que custodian ainda gere reembolsos fiscais em folhas de cálculo?
+A polícia encontra os 121 mil antes ou o FGA continua a encontrá-los depois do acidente?
+
+---
+
+3️⃣ **Bruxelas pôs travões nos 2 mil milhões da banca húngara**
+A Comissão Europeia aprovou a injecção de 2 mil milhões de euros no banco estatal MFB. A Hungria teve de limitar a actividade a falhas de mercado e impedir que o banco bata o preço dos privados.
+
+💡 Porque importa
+O capital público passou com uma fronteira explícita: financiar onde o mercado falha sem usar o Estado para deslocar banca privada.
+
+☕ Conversa de café
+Quem decide onde acaba a falha de mercado quando há 2 mil milhões para colocar?
