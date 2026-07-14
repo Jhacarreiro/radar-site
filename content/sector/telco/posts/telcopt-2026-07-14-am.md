@@ -76,10 +76,10 @@ tags:
 A cobertura rural de redes de muito elevada capacidade chegou a 81,6% em 2025. A fibra ficou nos 73,1% e o 5G nos 95,3%, acima das médias da UE.
 
 💡 Porque importa
-O investimento público passa a ser execução: há cerca de meio milhão de edifícios nas zonas brancas à espera de fibra.
+O investimento público passa a ser execução: há mais de 400 mil edifícios nas zonas brancas à espera de fibra.
 
 ☕ Conversa de café
-Dos 1.967 pontos no mapa, quantos vão estar ligados a tempo de contar para 2030?
+Das 1.967 localidades no mapa, quantas vão estar ligadas a tempo de contar para 2030?
 
 ---
 
