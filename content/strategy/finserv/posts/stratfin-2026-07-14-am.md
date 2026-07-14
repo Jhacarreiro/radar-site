@@ -22,7 +22,7 @@ items:
         url: "https://www.nopan.com/blog/nopan-becomes-principal-member-of-epi-to-accelerate-wero-acceptance-among-enterprise-merchants"
         publisher: "Nopan"
     wire_copies: []
-  - title: "A escala finlandesa já tem 59,9% comprometidos"
+  - title: "Oma já tem 59,9% comprometidos com o S-Bank"
     primary_source:
       title: "Statement of the Board of Directors of Oma Savings Bank regarding the voluntary recommended public tender offer by S-Bank"
       url: "https://www.globenewswire.com/news-release/2026/07/14/3326581/0/en/oma-savings-bank-plc-statement-of-the-board-of-directors-of-oma-savings-bank-plc-regarding-the-voluntary-recommended-public-tender-offer-by-s-bank-plc.html"
@@ -39,7 +39,7 @@ items:
         url: "https://www.borenius.com/references/s-bank-plc-announces-a-voluntary-recommended-public-cash-tender-offer-of-eur-17-20-per-share-for-all-shares-in-oma-savings-bank-plc/"
         publisher: "Borenius"
     wire_copies: []
-  - title: "A Gjensidige ainda tem preço para a sinistralidade"
+  - title: "A Gjensidige protegeu a margem e ficou com a Tesla"
     primary_source:
       title: "Gjensidige Q2 2026: Higher general insurance service result"
       url: "https://news.cision.com/gjensidige-forsikring-asa/r/gjensidige-q2-2026--higher-general-insurance-service-result,c4373895"
@@ -52,9 +52,9 @@ items:
         url: "https://www.tipranks.com/news/company-announcements/gjensidige-boosts-underlying-insurance-earnings-and-expands-nordic-partnerships"
         publisher: "TipRanks"
     context_sources:
-      - title: "European Insurance M&A to Accelerate in 2026"
-        url: "https://www.fitchratings.com/research/insurance/european-insurance-m-a-to-accelerate-in-2026-16-02-2026"
-        publisher: "Fitch Ratings"
+      - title: "Interim report second quarter 2026"
+        url: "https://storage.mfn.se/c/aHR0cHM6Ly9hcGkzLm9zbG8ub3Nsb2JvcnMubm8vdjEvbmV3c3JlYWRlci9hdHRhY2htZW50P21lc3NhZ2VJZD02NzgwNDQmYXR0YWNobWVudElkPTMyOTU2NA/delarsrapport_q2_2026.pdf?news-id=87dbdacf-67e5-5d7d-adb9-dec1f3edadd9"
+        publisher: "Gjensidige Forsikring"
     wire_copies: []
 ---
 
@@ -69,22 +69,22 @@ Quem mede a conversão do Wero com o mesmo detalhe que mede Visa e Mastercard?
 
 ---
 
-2️⃣ **A escala finlandesa já tem 59,9% comprometidos**
-O board do Oma recomendou a oferta de 571,4 milhões de euros do S-Bank. Accionistas com 59,9% do capital já se comprometeram a aceitar.
+2️⃣ **Oma já tem 59,9% comprometidos com o S-Bank**
+O conselho de administração do Oma recomendou a oferta de 571,4 milhões de euros do S-Bank. Accionistas com 59,9% do capital já se comprometeram a aceitar.
 
 💡 Porque importa
 Tecnologia e regulação estão a empurrar bancos locais para a escala. O comprador paga um prémio de 47% para lá chegar.
 
 ☕ Conversa de café
-Que banco local defende independência quando 59,9% do capital já escolheu escala?
+Que banco local ainda defende independência com 59,9% do capital do outro lado?
 
 ---
 
-3️⃣ **A Gjensidige ainda tem preço para a sinistralidade**
+3️⃣ **A Gjensidige protegeu a margem e ficou com a Tesla**
 A Gjensidige fez 2,38 mil milhões de coroas norueguesas no serviço de seguros. Sem o revés judicial na Dinamarca, o rácio combinado ficou em 75,2%.
 
 💡 Porque importa
 Preço acima da sinistralidade e controlo de custos explicam a margem. A seguradora ainda acrescentou a Tesla à distribuição.
 
 ☕ Conversa de café
-Quanto tempo aguenta um rácio de 75,2% antes de o mercado começar a pedir preço?
+A Tesla entrega o cliente. Quem fica com o preço quando a sinistralidade sobe?
