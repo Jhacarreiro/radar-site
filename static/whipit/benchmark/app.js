@@ -1,12 +1,64 @@
-(()=>{const SRC='https://commandcode.ai/docs/plans/pro',$=s=>document.querySelector(s),S={models:[],tab:'pro',metric:'blend',query:'',minIntel:0};
-const money=(v,d=2)=>v===0?'Free':v==null?'—':'$'+v.toFixed(d).replace(/\.00$/,'');
-function pp(td){const t=(td?.textContent||'').replace(/\s+/g,' ').trim();if(/\bfree\b/i.test(t))return{o:0,e:0};const n=[...t.matchAll(/\$([0-9]+(?:\.[0-9]+)?)/g)].map(m=>+m[1]);return n.length?{o:n[0],e:n.at(-1)}:{o:null,e:null}}
-function ph(p){if(p.e===0)return'<span class="best">Free</span>';if(p.e==null)return'<span class="na">—</span>';return`<span class="price">${p.o!==p.e?`<del>${money(p.o,4)}</del>`:''}${money(p.e,4)}</span>`}
-function parse(doc){const t=[...doc.querySelectorAll('table')].find(x=>{const z=x.textContent||'';return z.includes('Intelligence')&&z.includes('Cache read')&&z.includes('Model')});if(!t)throw Error('Tabela de modelos não encontrada');return[...t.querySelectorAll('tbody tr')].map(tr=>{const c=[...tr.querySelectorAll('td')];if(c.length<7)return null;const a=c[0],name=(a.querySelector('a')?.textContent||a.textContent||'').replace(/\s+/g,' ').trim(),txt=(a.textContent||'').replace(/\s+/g,' ').trim(),im=(c[2]?.textContent||'').match(/\d+(?:\.\d+)?/),sm=(c[3]?.textContent||'').match(/\d+(?:\.\d+)?/),dm=txt.match(/-(\d+)%/),em=txt.match(/Ends\s+(.+)$/i),input=pp(c[4]),output=pp(c[5]),cache=pp(c[6]),free=/\bFree\b/i.test(txt)||input.e===0||output.e===0;return{name,intel:im?+im[0]:null,speed:sm?+sm[0]:null,input,output,cache,discount:dm?+dm[1]:null,ends:em?em[1].trim():null,free,deal:free||!!dm,offpeak:/Off-peak shown/i.test(txt)}}).filter(Boolean)}
-function mv(m,t){if(m.intel==null||m.intel<=0)return null;const i=m.intel,a=m.input.e,b=m.output.e,c=m.cache.e;if(t==='intel')return i;if(t==='input')return a==null?null:a/i;if(t==='output')return b==null?null:b/i;if(t==='blend')return a==null||b==null?null:((a+b)/2)/i;if(t==='typical')return a==null||b==null||c==null?null:((a*800+c*50000+b*175)/1e6)/i;return null}
-function fm(v,t){if(v==null)return'<span class="na">n/a</span>';if(t==='intel')return v.toFixed(1);if(v===0)return'<span class="best">$0</span>';return'$'+(t==='typical'?(v<1e-6?'&lt;0.000001':v.toFixed(6)):(v<.01?v.toFixed(4):v.toFixed(3)))}
-const esc=s=>String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
-function render(){let list=S.models.filter(m=>(S.tab==='pro'||S.tab==='deals'&&m.deal||S.tab==='free'&&m.free)&&m.intel!=null&&m.intel>=S.minIntel);if(S.query)list=list.filter(m=>m.name.toLowerCase().includes(S.query));const t=S.metric;list.sort((a,b)=>{const av=mv(a,t),bv=mv(b,t);if(t==='intel')return(bv??-Infinity)-(av??-Infinity);if(av==null&&bv==null)return(b.intel??-1)-(a.intel??-1);if(av==null)return 1;if(bv==null)return-1;return av-bv});$('#metricHead').textContent=t==='intel'?'Intelligence':t==='typical'?'Pedido típico / I':t==='input'?'Input / I':t==='output'?'Output / I':'Média / I';const f={blend:'Métrica: <code>((Input + Output) / 2) ÷ Intelligence</code>. Menor = melhor.',input:'Métrica: <code>Input ÷ Intelligence</code>, por 1M tokens. Menor = melhor.',output:'Métrica: <code>Output ÷ Intelligence</code>, por 1M tokens. Menor = melhor.',typical:'Métrica: <code>custo do pedido típico ÷ Intelligence</code>. Menor = melhor.',intel:'Ordenação por <code>Intelligence</code>. Maior = melhor.'};$('#formula').innerHTML=f[t];if(!list.length){$('#rows').innerHTML='<tr><td colspan="8" class="empty">Sem modelos para este filtro.</td></tr>';return}$('#rows').innerHTML=list.map((m,i)=>{const badges=(m.free?'<span class="badge free">FREE</span>':m.discount?`<span class="badge deal">-${m.discount}%</span>`:'')+(m.offpeak?'<span class="badge offpeak">OFF-PEAK</span>':''),extra=[m.ends?`Termina ${m.ends}`:'',m.intel==null?'Intelligence ainda não pontuado':''].filter(Boolean).join(' · ');return`<tr><td>${m.intel==null?'<span class="na">—</span>':i+1}</td><td class="model"><span class="name">${esc(m.name)}</span>${badges}${extra?`<span class="note">${esc(extra)}</span>`:''}</td><td class="score">${m.intel==null?'<span class="na">n/a</span>':m.intel.toFixed(1)}</td><td>${m.speed==null?'<span class="na">—</span>':m.speed}</td><td>${ph(m.input)}</td><td>${ph(m.output)}</td><td>${ph(m.cache)}</td><td class="score">${fm(mv(m,t),t)}</td></tr>`}).join('')}
-function counts(){const p=S.models.length,d=S.models.filter(x=>x.deal).length,f=S.models.filter(x=>x.free).length;$('#tabPro').textContent=p;$('#tabDeals').textContent=d;$('#tabFree').textContent=f}
-async function load(){$('#status').textContent='A carregar CommandCode…';$('#dot').className='dot';$('#refresh').disabled=true;try{const r=await fetch(SRC,{cache:'no-store'});if(!r.ok)throw Error(`HTTP ${r.status}`);const html=await r.text(),doc=new DOMParser().parseFromString(html,'text/html'),txt=doc.body.textContent.replace(/\s+/g,' ');S.models=parse(doc);const maxIntel=Math.max(...S.models.map(m=>m.intel??0));S.minIntel=Number((maxIntel*.9).toFixed(1));$('#minIntel').value=S.minIntel;$('#minIntel').max=maxIntel;counts();render();$('#status').textContent='Dados live da CommandCode';$('#dot').className='dot ok';$('#updated').textContent='actualizado '+new Intl.DateTimeFormat('pt-PT',{dateStyle:'medium',timeStyle:'short'}).format(new Date())}catch(e){$('#status').textContent='Falha ao ler a fonte: '+e.message;$('#dot').className='dot err';$('#rows').innerHTML='<tr><td colspan="8" class="empty">Não foi possível actualizar. Usa a fonte oficial e tenta novamente.</td></tr>'}finally{$('#refresh').disabled=false}}
-document.querySelectorAll('.tab[data-tab]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.tab[data-tab]').forEach(x=>x.classList.remove('active'));b.classList.add('active');S.tab=b.dataset.tab;render()}));$('#search').addEventListener('input',e=>{S.query=e.target.value.trim().toLowerCase();render()});$('#minIntel').addEventListener('input',e=>{S.minIntel=Number(e.target.value)||0;render()});$('#metric').addEventListener('change',e=>{S.metric=e.target.value;render()});$('#refresh').addEventListener('click',load);load()})();
+const DATA_REMOTE='https://raw.githubusercontent.com/Jhacarreiro/octopus-role-benchmarks/main/data/latest.json';
+const state={data:null,role:'implementer',basis:'blended50',query:'',minScore:null,showUnscored:false,sort:'value',dir:-1};
+const $=s=>document.querySelector(s);
+const fmt=n=>n==null?'—':Number(n).toLocaleString(undefined,{maximumFractionDigits:3});
+const money=n=>n==null?'—':'$'+Number(n).toLocaleString(undefined,{maximumFractionDigits:4});
+async function load(){
+  const urls=[DATA_REMOTE,'./data/latest.json']; let err;
+  for(const url of urls){try{const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw new Error(`${r.status}`);state.data=await r.json();break}catch(e){err=e}}
+  if(!state.data){$('#status').textContent='Unable to load current data: '+err;return}
+  renderRoles(); setDefaultThreshold(); render();
+}
+function role(){return state.data.roles.find(r=>r.id===state.role)||state.data.roles[0]}
+function renderRoles(){
+  $('#roles').innerHTML=state.data.roles.map(r=>`<button data-role="${r.id}">${r.label}</button>`).join('');
+  $('#roles').addEventListener('click',e=>{const b=e.target.closest('button[data-role]');if(!b)return;state.role=b.dataset.role;setDefaultThreshold();render()});
+}
+function setDefaultThreshold(){
+  const scores=state.data.models.map(m=>m.roleScores?.[state.role]?.score).filter(Number.isFinite);const max=Math.max(...scores);
+  state.minScore=Number((max*.9).toFixed(1)); $('#minScore').value=state.minScore;
+}
+function noteHtml(m){
+  const notes=[];
+  if(m.discountPercent)notes.push(`<span class="badge promo">-${m.discountPercent}%</span>`);
+  if(m.dataTraining)notes.push('<span class="badge warn">DATA USED FOR TRAINING</span>');
+  if(m.mapping?.status==='unscored')notes.push('<span class="badge">UNSCORED</span>');
+  if(m.offPeakShown)notes.push('<span class="badge">off-peak</span>');
+  return notes.join(' ');
+}
+function priceHtml(effective,list){return list!=null&&effective!=null&&list!==effective?`<span class="struck">${money(list)}</span>${money(effective)}`:money(effective)}
+function rows(){
+  const q=state.query.toLowerCase();
+  return state.data.models.filter(m=>{
+    if(q&&!m.name.toLowerCase().includes(q))return false;
+    const score=m.roleScores?.[state.role]?.score;
+    if(score==null)return state.showUnscored;
+    return score>=state.minScore;
+  }).sort((a,b)=>{
+    const ra=a.roleScores?.[state.role],rb=b.roleScores?.[state.role];
+    const va={name:a.name,score:ra?.score??-Infinity,input:a.inputPerM??Infinity,output:a.outputPerM??Infinity,cost:a.costs?.[state.basis]??Infinity,value:ra?.value?.[state.basis]??-Infinity};
+    const vb={name:b.name,score:rb?.score??-Infinity,input:b.inputPerM??Infinity,output:b.outputPerM??Infinity,cost:b.costs?.[state.basis]??Infinity,value:rb?.value?.[state.basis]??-Infinity};
+    if(state.sort==='name')return state.dir*va.name.localeCompare(vb.name);
+    return state.dir*(va[state.sort]-vb[state.sort]);
+  });
+}
+function render(){
+  document.querySelectorAll('#roles button').forEach(b=>b.classList.toggle('active',b.dataset.role===state.role));
+  const d=state.data,r=role();
+  $('#status').innerHTML=`Snapshot <strong>${d.date}</strong> · ${d.counts.scoredRows}/${d.counts.commandCodeRows} priced rows scored · ${d.counts.scoredFamilies} benchmark families · <span class="coverage">active components 100% covered</span>`;
+  const rs=rows(); $('#empty').hidden=rs.length>0;
+  $('#rows').innerHTML=rs.map(m=>{const rr=m.roleScores?.[state.role];const un=!rr;return `<tr class="${un?'unscored':''}"><td><span class="model">${m.name}</span><span class="sub">${m.aaModel?.slug||m.mapping?.reason||''}</span></td><td class="num">${un?'—':fmt(rr.score)}</td><td class="num">${priceHtml(m.inputPerM,m.inputListPerM)}</td><td class="num">${priceHtml(m.outputPerM,m.outputListPerM)}</td><td class="num">${money(m.costs?.[state.basis])}</td><td class="num">${un?'—':fmt(rr.value?.[state.basis])}</td><td>${noteHtml(m)}</td></tr>`}).join('');
+  renderMethodology(r);
+}
+function renderMethodology(r){
+  const d=state.data;
+  const weights=Object.entries(r.weights).map(([k,w])=>`<span class="weight">${d.benchmarks[k].label} <strong>${Math.round(w*100)}%</strong></span>`).join('');
+  const details=Object.keys(r.weights).map(k=>`<li><strong>${d.benchmarks[k].label}</strong> — ${d.benchmarks[k].description} Coverage: ${d.coverage[k].present}/${d.coverage[k].total}.</li>`).join('');
+  $('#methodology').innerHTML=`<h2>${r.label} methodology</h2><p>${r.purpose}</p><div class="weights">${weights}</div><p>${r.note}</p><p><strong>Role score</strong> is the weighted mean of the components above, each normalized to 0–100. <strong>Score/$</strong> divides that role score by the selected effective CommandCode Max cost basis. Active discounts are used.</p><details><summary>Benchmark definitions and coverage</summary><ul>${details}</ul></details><details><summary>Coverage and identity rules</summary><p>Every active component must cover 100% of the scored AA model-family universe. Missing values are never imputed and weights are never renormalized. Stealth or unresolved CommandCode models remain visible as UNSCORED. Commercial variants share a verified underlying AA benchmark but retain their own CommandCode price and policy flags.</p></details>`;
+}
+$('#costBasis').addEventListener('change',e=>{state.basis=e.target.value;render()});
+$('#minScore').addEventListener('input',e=>{state.minScore=Number(e.target.value)||0;render()});
+$('#search').addEventListener('input',e=>{state.query=e.target.value;render()});
+$('#showUnscored').addEventListener('change',e=>{state.showUnscored=e.target.checked;render()});
+document.querySelector('thead').addEventListener('click',e=>{const th=e.target.closest('th[data-sort]');if(!th)return;const s=th.dataset.sort;if(state.sort===s)state.dir*=-1;else{state.sort=s;state.dir=s==='cost'||s==='input'||s==='output'?1:-1}render()});
+load();
