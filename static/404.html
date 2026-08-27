@@ -3,30 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>About me — João Carreiro</title>
   <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="/whipit/about/assets/style.css">
+  <title>Page not found — Radar</title>
+  <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-  <script>
-    fetch('/whipit/about/', { cache: 'no-store' })
-      .then(function (response) {
-        if (!response.ok) throw new Error('Failed to load about page');
-        return response.text();
-      })
-      .then(function (html) {
-        document.open();
-        document.write(html);
-        document.close();
-      })
-      .catch(function () {
-        document.body.innerHTML =
-          '<main style="font-family:system-ui;padding:32px;max-width:720px;margin:auto">' +
-          '<h1>Page not found</h1>' +
-          '<p>This page does not exist, but you can continue here:</p>' +
-          '<p><a href="/whipit/about/">About me</a></p>' +
-          '</main>';
-      });
-  </script>
+  <main style="font-family:system-ui;padding:32px;max-width:720px;margin:auto">
+    <h1>Page not found</h1>
+    <p>This Radar page does not exist.</p>
+    <p><a href="/">Back to Radar</a></p>
+  </main>
 </body>
 </html>
