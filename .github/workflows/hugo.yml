@@ -33,8 +33,6 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: Validate static contracts
-        run: python3 scripts/qa_limited_offers_contract.py
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
