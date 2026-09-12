@@ -5,6 +5,7 @@ date: 2026-09-12
 title: Radar PT almoço
 items: 3
 window: almoço
+tags: [tecnologia, energia, Douro]
 ---
 
 1️⃣ **Os carros autónomos vão ter de explicar os próprios erros**
