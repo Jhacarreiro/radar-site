@@ -3,7 +3,7 @@ edition_id: newspt-2026-09-12-lunch
 channel: newspt
 date: 2026-09-12
 title: Radar PT almoço
-items: 3
+items: []
 window: almoço
 tags: [tecnologia, energia, Douro]
 ---
