@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-28-lunch
 channel: newspt
 date: 2026-07-28
 window: almoço
-title: "Radar PT - almoço de 28 de julho de 2026"
+title: "O iPhone ganhou 87 correções de segurança"
 whatsapp_message_id: ""
 items:
   - title: "O iPhone ganhou 87 correções de segurança"

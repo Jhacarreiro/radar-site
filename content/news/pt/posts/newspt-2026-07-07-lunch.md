@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-07-lunch
 channel: newspt
 date: 2026-07-07
 window: almoço
-title: "Radar PT - 2026-07-07 Almoço"
+title: "A DeepSeek quer o chip em casa"
 whatsapp_message_id: ""
 items:
   - title: "A DeepSeek quer o chip em casa"

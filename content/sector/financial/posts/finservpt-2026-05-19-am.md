@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-19-am"
 channel: "finservpt"
 date: "2026-05-19"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 19 de maio de 2026"
+title: "A dívida emitida voltou a subir"
 items:
   - title: "A dívida emitida voltou a subir"
     primary_source:

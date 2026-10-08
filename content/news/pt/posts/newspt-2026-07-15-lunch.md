@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-15-lunch
 channel: newspt
 date: 2026-07-15
 window: almoço
-title: "Radar PT - 2026-07-15 Almoço"
+title: "Há açúcar antes de haver planetas"
 whatsapp_message_id: ""
 items:
   - title: "Há açúcar antes de haver planetas"

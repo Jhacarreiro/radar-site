@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-12-lunch"
 channel: "newspt"
 date: "2026-05-12"
-title: "Radar | Edição PT - almoço"
+title: "O malware já aprendeu a pedir instruções à IA"
 window: "almoço"
 items:
   - title: "O malware já aprendeu a pedir instruções à IA"

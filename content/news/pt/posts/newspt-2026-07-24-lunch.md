@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-24-lunch
 channel: newspt
 date: 2026-07-24
 window: almoço
-title: "Radar PT - almoço de 24 de julho de 2026"
+title: "O ChatGPT já lê processos clínicos"
 whatsapp_message_id: ""
 items:
   - title: "O ChatGPT já lê processos clínicos"

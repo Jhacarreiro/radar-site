@@ -3,7 +3,7 @@ edition_id: stratfin-2026-05-21-am
 channel: stratfin
 date: 2026-05-21
 window: manhã
-title: Radar StratFin - manhã de 21 de maio de 2026
+title: "Washington mexeu nas rails da Fed"
 items:
   - title: Washington mexeu nas rails da Fed
     primary_source:

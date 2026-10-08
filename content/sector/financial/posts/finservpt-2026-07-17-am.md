@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-17-am"
 channel: "finservpt"
 date: "2026-07-17"
 window: "manhã"
-title: "Radar Financial Services PT - 17 julho 2026"
+title: "O setor financeiro foi buscar 2,3 mil milhões ao mercado"
 items:
   - title: "O setor financeiro foi buscar 2,3 mil milhões ao mercado"
     primary_source:

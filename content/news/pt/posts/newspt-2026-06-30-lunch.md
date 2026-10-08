@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-30-lunch
 channel: newspt
 date: 2026-06-30
 window: almoço
-title: Radar PT - almoço de 30 de junho de 2026
+title: "A bicicleta elétrica está a perder a corrente à vista"
 items:
   - title: A bicicleta elétrica está a perder a corrente à vista
     primary_source:

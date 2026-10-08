@@ -3,7 +3,7 @@ edition_id: universo-2026-06-01-am
 channel: universo
 date: 2026-06-01
 window: manhã
-title: Radar Universo - manhã de 1 de junho de 2026
+title: "O juro voltou à mesa"
 items:
   - title: O juro voltou à mesa
     primary_source:

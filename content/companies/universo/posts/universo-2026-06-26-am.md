@@ -3,7 +3,7 @@ edition_id: "universo-2026-06-26-am"
 channel: "universo"
 date: "2026-06-26"
 window: "manhã"
-title: "Radar Universo - manhã de 26 de junho de 2026"
+title: "A Apple mexeu no ticket de eletrónica"
 items:
   - title: "A Apple mexeu no ticket de eletrónica"
     primary_source:

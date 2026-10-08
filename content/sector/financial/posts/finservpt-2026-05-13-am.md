@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-13-am"
 channel: "finservpt"
 date: "2026-05-13"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 13 de maio de 2026"
+title: "O Tesouro volta hoje ao mercado longo"
 items:
   - title: "O Tesouro volta hoje ao mercado longo"
     primary_source:

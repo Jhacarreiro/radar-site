@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-07-am"
 channel: "finservpt"
 date: "2026-07-07"
 window: "manhã"
-title: "Radar Financial Services PT - 7 julho 2026"
+title: "O BdP encontrou preço mal contado"
 items:
   - title: "O BdP encontrou preço mal contado"
     primary_source:

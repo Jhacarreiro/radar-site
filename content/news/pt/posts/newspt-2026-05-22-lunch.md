@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-22-lunch"
 channel: "newspt"
 date: "2026-05-22"
-title: "Radar | Edição PT - almoço"
+title: "A IA da OpenAI entrou na matemática a sério"
 window: "almoço"
 items:
   - title: "A IA da OpenAI entrou na matemática a sério"

@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-21-am"
 channel: "finservpt"
 date: "2026-05-21"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 21 de maio de 2026"
+title: "O euro privado deixou de ser clube pequeno"
 items:
   - title: "O euro privado deixou de ser clube pequeno"
     primary_source:

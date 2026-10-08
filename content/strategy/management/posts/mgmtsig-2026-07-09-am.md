@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-09-am
 channel: mgmtsig
 date: 2026-07-09
 window: manhã
-title: "Management Signals - 2026-07-09 Morning"
+title: "Leadership moves into workflow"
 whatsapp_message_id: ""
 items:
   - title: "Leadership moves into workflow"

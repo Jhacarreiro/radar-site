@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-15-am"
 channel: "mgmtsig"
 date: "2026-05-15"
 window: "manhã"
-title: "Management Signals - morning of May 15, 2026"
+title: "No BATNA still has levers"
 items:
   - title: "No BATNA still has levers"
     primary_source:

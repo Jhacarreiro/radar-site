@@ -3,7 +3,7 @@ edition_id: finservpt-2026-05-28-am
 channel: finservpt
 date: 2026-05-28
 window: manhã
-title: Radar Financial Services PT - 28 maio 2026
+title: "O BdP mexeu na porta de entrada do crédito"
 items:
   - title: O BdP mexeu na porta de entrada do crédito
     primary_source:

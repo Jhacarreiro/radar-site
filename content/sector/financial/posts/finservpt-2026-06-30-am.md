@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-06-30-am"
 channel: "finservpt"
 date: "2026-06-30"
 window: "manhã"
-title: "Radar Financial Services PT - 30 junho 2026"
+title: "A garantia de depósitos já tem calendário"
 items:
   - title: "A garantia de depósitos já tem calendário"
     primary_source:

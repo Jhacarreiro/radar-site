@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-20-am"
 channel: "stratfin"
 date: "2026-07-20"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 20 julho 2026"
+title: "O crédito abriu para grandes e fechou para PME"
 items:
   - title: "O crédito abriu para grandes e fechou para PME"
     primary_source:

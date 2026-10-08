@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-14-am"
 channel: "finservpt"
 date: "2026-07-14"
 window: "manhã"
-title: "Radar Financial Services PT - 14 julho 2026"
+title: "O BPI ganhou um A+ emprestado"
 items:
   - title: "O BPI ganhou um A+ emprestado"
     primary_source:

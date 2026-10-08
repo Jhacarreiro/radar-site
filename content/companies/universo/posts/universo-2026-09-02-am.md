@@ -3,7 +3,7 @@ edition_id: universo-2026-09-02-am
 channel: universo
 date: 2026-09-02
 window: manhã
-title: "Radar Universo - manhã de 2 de setembro de 2026"
+title: "A CMVM avisa que as burlas de investimento estão a crescer"
 whatsapp_message_id: ""
 items:
   - title: "A CMVM avisa que as burlas de investimento estão a crescer"

@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-23-am"
 channel: "universo"
 date: "2026-07-23"
 window: "manhã"
-title: "Radar Universo - manhã de 23 de julho de 2026"
+title: "O Bankinter ganhou peso em Portugal"
 items:
   - title: "O Bankinter ganhou peso em Portugal"
     primary_source:

@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-05-am"
 channel: "finservpt"
 date: "2026-05-05"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 5 de maio de 2026"
+title: "A UniCredit comprou tempo para atacar a Alemanha"
 items:
   - title: "A UniCredit comprou tempo para atacar a Alemanha"
     primary_source:

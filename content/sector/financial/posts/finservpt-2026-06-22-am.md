@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-06-22-am"
 channel: "finservpt"
 date: "2026-06-22"
 window: "manhã"
-title: "Radar Financial Services PT - 22 junho 2026"
+title: "Santander pôs número na IA"
 items:
   - title: "Santander pôs número na IA"
     primary_source:

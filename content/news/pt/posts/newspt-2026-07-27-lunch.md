@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-27-lunch
 channel: newspt
 date: 2026-07-27
 window: almoço
-title: "Radar PT - almoço de 27 de julho de 2026"
+title: "A IA chinesa prometeu abrir um modelo que quase ninguém consegue alojar"
 whatsapp_message_id: ""
 items:
   - title: "A IA chinesa prometeu abrir um modelo que quase ninguém consegue alojar"

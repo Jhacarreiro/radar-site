@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-26-am
 channel: mgmtsig
 date: 2026-08-26
 window: manhã
-title: "Management Signals - morning edition, August 26, 2026"
+title: "Warn early, then explain the miss"
 whatsapp_message_id: ""
 items:
   - title: "Warn early, then explain the miss"

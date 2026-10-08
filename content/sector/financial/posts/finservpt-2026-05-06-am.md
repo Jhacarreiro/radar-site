@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-06-am"
 channel: "finservpt"
 date: "2026-05-06"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 6 de maio de 2026"
+title: "O Bison pôs a stablecoin no corredor institucional"
 items:
   - title: "O Bison pôs a stablecoin no corredor institucional"
     primary_source:

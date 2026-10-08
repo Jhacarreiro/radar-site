@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-29-am
 channel: mgmtsig
 date: 2026-07-29
 window: manhã
-title: "Management Signals - 2026-07-29 Morning"
+title: "Train managers before they inherit a team"
 whatsapp_message_id: ""
 items:
   - title: "Train managers before they inherit a team"

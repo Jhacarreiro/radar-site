@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-09-01-am"
 channel: "finservpt"
 date: "2026-09-01"
-title: "Radar Financial Services PT - manhã de 1 de setembro de 2026"
+title: "O Banco de Fomento tomou conta do seguro à exportação"
 whatsapp_message_id: "pending"
 window: "manhã"
 items:

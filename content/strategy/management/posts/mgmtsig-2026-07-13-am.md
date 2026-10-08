@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-13-am
 channel: mgmtsig
 date: 2026-07-13
 window: manhã
-title: "Management Signals - 2026-07-13 Morning"
+title: "The meritocracy gap is widening"
 whatsapp_message_id: ""
 items:
   - title: "The meritocracy gap is widening"

@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-16-lunch
 channel: newspt
 date: 2026-06-16
 window: almoço
-title: Radar PT - almoço de 16 de junho de 2026
+title: "O Facebook quer responder com o que as pessoas publicam"
 items:
   - title: O Facebook quer responder com o que as pessoas publicam
     primary_source:

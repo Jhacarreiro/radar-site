@@ -3,7 +3,7 @@ edition_id: universo-2026-08-14-am
 channel: universo
 date: 2026-08-14
 window: manhã
-title: "Radar Universo - manhã de 14 de agosto de 2026"
+title: "A inflação abrandou, mas o núcleo subiu"
 whatsapp_message_id: ""
 items:
   - title: "A inflação abrandou, mas o núcleo subiu"

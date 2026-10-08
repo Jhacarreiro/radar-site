@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-02-am"
 channel: "finservpt"
 date: "2026-07-02"
 window: "manhã"
-title: "Radar Financial Services PT - 2 julho 2026"
+title: "A fraude do Santander entrou por Portugal"
 items:
   - title: "A fraude do Santander entrou por Portugal"
     primary_source:

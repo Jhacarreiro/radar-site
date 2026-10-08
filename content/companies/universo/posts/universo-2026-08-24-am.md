@@ -3,7 +3,7 @@ edition_id: universo-2026-08-24-am
 channel: universo
 date: 2026-08-24
 window: manhã
-title: "Radar Universo - manhã de 24 de agosto de 2026"
+title: "A Alibaba levantou 8,74 mil milhões para IA"
 whatsapp_message_id: ""
 items:
   - title: "A Alibaba levantou 8,74 mil milhões para IA"

@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-12-lunch
 channel: newspt
 date: 2026-08-12
 window: almoço
-title: "Radar PT - almoço de 12 de agosto de 2026"
+title: "A Unitree pôs robôs humanoides na bolsa"
 whatsapp_message_id: ""
 items:
   - title: "A Unitree pôs robôs humanoides na bolsa"

@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-15-lunch"
 channel: "newspt"
 date: "2026-05-15"
-title: "Radar | Edição PT - almoço"
+title: "A IA entrou no orçamento das vacinas"
 window: "almoço"
 items:
   - title: "A IA entrou no orçamento das vacinas"

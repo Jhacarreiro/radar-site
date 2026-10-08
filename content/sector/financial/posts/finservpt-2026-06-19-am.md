@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-19-am
 channel: finservpt
 date: 2026-06-19
 window: manhã
-title: Radar Financial Services PT - 19 junho 2026
+title: "A EBA viu capital forte e risco mais caro"
 items:
   - title: A EBA viu capital forte e risco mais caro
     primary_source:

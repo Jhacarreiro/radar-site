@@ -3,7 +3,7 @@ edition_id: stratfin-2026-05-19-am
 channel: stratfin
 date: 2026-05-19
 window: manhã
-title: Radar StratFin - manhã de 19 de maio de 2026
+title: "Standard Chartered pôs número na AI"
 items:
   - title: Standard Chartered pôs número na AI
     primary_source:

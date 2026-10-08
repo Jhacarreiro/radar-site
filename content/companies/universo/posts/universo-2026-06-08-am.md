@@ -3,7 +3,7 @@ edition_id: universo-2026-06-08-am
 channel: universo
 date: 2026-06-08
 window: manhã
-title: Radar Universo - manhã de 8 de junho de 2026
+title: "O checkout ficou mais curto"
 items:
   - title: O checkout ficou mais curto
     primary_source:

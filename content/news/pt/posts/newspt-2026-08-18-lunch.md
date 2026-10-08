@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-18-lunch
 channel: newspt
 date: 2026-08-18
 window: almoço
-title: "Radar PT - almoço de 18 de agosto de 2026"
+title: "A Google comprou 600 milhões de mensagens de uma companhia aérea"
 whatsapp_message_id: ""
 items:
   - title: "A Google comprou 600 milhões de mensagens de uma companhia aérea"

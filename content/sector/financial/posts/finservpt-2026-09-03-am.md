@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-09-03-am"
 channel: "finservpt"
 date: "2026-09-03"
-title: "Radar Financial Services PT - manhã de 3 de setembro de 2026"
+title: "O BCE cortou o papel, não o capital"
 whatsapp_message_id: "pending"
 window: "manhã"
 items:

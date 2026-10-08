@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-30-am"
 channel: "universo"
 date: "2026-07-30"
 window: "manhã"
-title: "Radar Universo - manhã de 30 de julho de 2026"
+title: "A MC e a Worten alargaram o terreno da Universo"
 items:
   - title: "A MC e a Worten alargaram o terreno da Universo"
     primary_source:

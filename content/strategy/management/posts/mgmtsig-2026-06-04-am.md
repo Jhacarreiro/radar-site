@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-06-04-am"
 channel: "mgmtsig"
 date: "2026-06-04"
 window: "manhã"
-title: "Management Signals - morning of June 4, 2026"
+title: "Factories need a new map"
 items:
   - title: "Factories need a new map"
     primary_source:

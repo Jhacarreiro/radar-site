@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-03-am"
 channel: "finservpt"
 date: "2026-07-03"
 window: "manhã"
-title: "Radar Financial Services PT - 3 julho 2026"
+title: "O BdP fechou a torneira do esforço"
 items:
   - title: "O BdP fechou a torneira do esforço"
     primary_source:

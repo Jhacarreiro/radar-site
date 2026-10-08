@@ -3,7 +3,7 @@ edition_id: universo-2026-09-01-am
 channel: universo
 date: 2026-09-01
 window: manhã
-title: "Radar Universo - manhã de 1 de setembro de 2026"
+title: "A prestação da casa volta a subir em setembro"
 whatsapp_message_id: ""
 items:
   - title: "A prestação da casa volta a subir em setembro"

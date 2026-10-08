@@ -3,7 +3,7 @@ edition_id: finservpt-2026-05-26-am
 channel: finservpt
 date: 2026-05-26
 window: manhã
-title: Radar Financial Services PT - 26 maio 2026
+title: "O BCE voltou a pôr subida de juros na mesa"
 whatsapp_message_id: pending
 items:
   - title: O BCE voltou a pôr subida de juros na mesa

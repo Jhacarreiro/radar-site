@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-27-lunch
 channel: newspt
 date: 2026-08-27
 window: almoço
-title: "Radar PT - almoço de 27 de agosto de 2026"
+title: "A Meta travou o plano de substituir equipas por agentes de IA"
 whatsapp_message_id: ""
 items:
   - title: "A Meta travou o plano de substituir equipas por agentes de IA"

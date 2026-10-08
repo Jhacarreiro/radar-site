@@ -3,7 +3,7 @@ edition_id: universo-2026-05-14-am
 channel: universo
 date: 2026-05-14
 window: manhã
-title: Radar Universo - manhã de 14 de maio de 2026
+title: "A Klarna entrou no checkout da FNAC"
 items:
   - title: A Klarna entrou no checkout da FNAC
     primary_source:

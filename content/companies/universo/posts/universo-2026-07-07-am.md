@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-07-am"
 channel: "universo"
 date: "2026-07-07"
 window: "manhã"
-title: "Radar Universo - manhã de 7 de julho de 2026"
+title: "O crédito ainda não arrefeceu"
 items:
   - title: "O crédito ainda não arrefeceu"
     primary_source:

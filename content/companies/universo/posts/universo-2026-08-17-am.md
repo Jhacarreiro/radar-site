@@ -3,7 +3,7 @@ edition_id: universo-2026-08-17-am
 channel: universo
 date: 2026-08-17
 window: manhã
-title: "Radar Universo - manhã de 17 de agosto de 2026"
+title: "O salário subiu 5,1%. No bolso, ficou 1,8%"
 whatsapp_message_id: ""
 items:
   - title: "O salário subiu 5,1%. No bolso, ficou 1,8%"

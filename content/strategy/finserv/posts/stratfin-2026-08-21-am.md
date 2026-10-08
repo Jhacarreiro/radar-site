@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-08-21-am"
 channel: "stratfin"
 date: "2026-08-21"
-title: "Radar FinServ Strategy PT - manhã de 21 de agosto de 2026"
+title: "O MPS pôs EUR34 mil milhões na defesa contra a Intesa"
 window: "manhã"
 whatsapp_message_id: ""
 items:

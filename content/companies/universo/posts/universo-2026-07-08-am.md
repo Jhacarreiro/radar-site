@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-08-am"
 channel: "universo"
 date: "2026-07-08"
 window: "manhã"
-title: "Radar Universo - manhã de 8 de julho de 2026"
+title: "A fraude chegou antes da compra"
 items:
   - title: "A fraude chegou antes da compra"
     primary_source:

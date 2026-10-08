@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-13-am"
 channel: "stratfin"
 date: "2026-07-13"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 13 julho 2026"
+title: "A AMLA já pôs datas no reporting"
 items:
   - title: "A AMLA já pôs datas no reporting"
     primary_source:

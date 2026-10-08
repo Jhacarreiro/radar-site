@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-05-lunch
 channel: newspt
 date: 2026-06-05
 window: almoço
-title: Radar PT - almoço de 5 de junho de 2026
+title: "A Anthropic quer travão combinado para IA"
 items:
   - title: A Anthropic quer travão combinado para IA
     primary_source:

@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-13-lunch
 channel: newspt
 date: 2026-07-13
 window: almoço
-title: "Radar PT - 2026-07-13 Almoço"
+title: "Um chip já escreve 64 sequências de ADN em paralelo"
 whatsapp_message_id: ""
 items:
   - title: "Um chip já escreve 64 sequências de ADN em paralelo"

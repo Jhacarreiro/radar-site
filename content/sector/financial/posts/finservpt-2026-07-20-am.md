@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-20-am"
 channel: "finservpt"
 date: "2026-07-20"
 window: "manhã"
-title: "Radar Financial Services PT - 20 julho 2026"
+title: "Bruxelas encontrou 230 mil milhões presos nas fronteiras"
 items:
   - title: "Bruxelas encontrou 230 mil milhões presos nas fronteiras"
     primary_source:

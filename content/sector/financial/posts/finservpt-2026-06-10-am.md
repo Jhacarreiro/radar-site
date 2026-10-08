@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-10-am
 channel: finservpt
 date: 2026-06-10
 window: manhã
-title: Radar Financial Services PT - 10 junho 2026
+title: "O crédito intermediado está a cobrar a conveniência"
 items:
   - title: O crédito intermediado está a cobrar a conveniência
     primary_source:

@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-10-lunch
 channel: newspt
 date: 2026-06-10
 window: almoço
-title: Radar PT - almoço de 10 de junho de 2026
+title: "A Volta já passou os 10 milhões de embalagens"
 items:
   - title: A Volta já passou os 10 milhões de embalagens
     primary_source:

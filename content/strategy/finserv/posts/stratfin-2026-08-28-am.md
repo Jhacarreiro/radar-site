@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-08-28-am"
 channel: "stratfin"
 date: "2026-08-28"
-title: "Radar FinServ Strategy PT - manhã de 28 de agosto de 2026"
+title: "A IA autónoma já está a mudar as apólices cyber"
 window: "manhã"
 whatsapp_message_id: "pending"
 items:

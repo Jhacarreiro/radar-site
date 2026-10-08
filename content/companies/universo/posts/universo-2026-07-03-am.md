@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-03-am"
 channel: "universo"
 date: "2026-07-03"
 window: "manhã"
-title: "Radar Universo - manhã de 3 de julho de 2026"
+title: "O crédito levou travão"
 items:
   - title: "O crédito levou travão"
     primary_source:

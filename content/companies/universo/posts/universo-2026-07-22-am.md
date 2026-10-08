@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-22-am"
 channel: "universo"
 date: "2026-07-22"
 window: "manhã"
-title: "Radar Universo - manhã de 22 de julho de 2026"
+title: "Portugal ainda não apertou o crédito ao consumo"
 items:
   - title: "Portugal ainda não apertou o crédito ao consumo"
     primary_source:

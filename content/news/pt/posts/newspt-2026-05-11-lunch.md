@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-11-lunch"
 channel: "newspt"
 date: "2026-05-11"
-title: "Radar | Edição PT - almoço"
+title: "A Apple voltou a olhar para a Intel"
 window: "almoço"
 items:
   - title: "A Apple voltou a olhar para a Intel"

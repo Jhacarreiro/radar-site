@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-08-20-am"
 channel: "stratfin"
 date: "2026-08-20"
-title: "Radar FinServ Strategy PT - manhã de 20 de agosto de 2026"
+title: "O MPS prepara duas compras para travar a Intesa"
 window: "manhã"
 whatsapp_message_id: ""
 items:

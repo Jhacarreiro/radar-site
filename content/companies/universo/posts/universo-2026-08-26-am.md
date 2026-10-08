@@ -3,7 +3,7 @@ edition_id: universo-2026-08-26-am
 channel: universo
 date: 2026-08-26
 window: manhã
-title: "Radar Universo - manhã de 26 de agosto de 2026"
+title: "117 mil jovens já usaram a isenção na primeira casa"
 whatsapp_message_id: ""
 items:
   - title: "117 mil jovens já usaram a isenção na primeira casa"

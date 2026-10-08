@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-04-am"
 channel: "finservpt"
 date: "2026-05-04"
 window: "manhã"
-title: "Radar | Financial Services PT | Manhã"
+title: "O BPCE comprou o Novo Banco para crescer"
 whatsapp_message_id: ""
 items:
   - title: "O BPCE comprou o Novo Banco para crescer"

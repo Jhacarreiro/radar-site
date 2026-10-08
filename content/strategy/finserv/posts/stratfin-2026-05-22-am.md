@@ -3,7 +3,7 @@ edition_id: stratfin-2026-05-22-am
 channel: stratfin
 date: 2026-05-22
 window: manhã
-title: Radar StratFin - manhã de 22 de maio de 2026
+title: "JPMorgan passou o risco para a fila"
 items:
   - title: JPMorgan passou o risco para a fila
     primary_source:

@@ -3,7 +3,7 @@ edition_id: universo-2026-06-12-am
 channel: universo
 date: 2026-06-12
 window: manhã
-title: Radar Universo - manhã de 12 de junho de 2026
+title: "O intermediário ficou caro para o cliente frágil"
 items:
   - title: O intermediário ficou caro para o cliente frágil
     primary_source:

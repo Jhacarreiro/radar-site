@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-02-am
 channel: finservpt
 date: 2026-06-02
 window: manhã
-title: Radar Financial Services PT - 2 junho 2026
+title: "O euro entrou na sala dos safe assets"
 items:
   - title: O euro entrou na sala dos safe assets
     primary_source:

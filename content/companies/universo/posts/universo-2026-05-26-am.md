@@ -3,7 +3,7 @@ edition_id: universo-2026-05-26-am
 channel: universo
 date: 2026-05-26
 window: manhã
-title: Radar Universo - manhã de 26 de maio de 2026
+title: "O IBAN já trava fraude a sério"
 items:
   - title: O IBAN já trava fraude a sério
     primary_source:

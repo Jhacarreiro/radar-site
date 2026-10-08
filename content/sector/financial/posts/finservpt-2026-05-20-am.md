@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-20-am"
 channel: "finservpt"
 date: "2026-05-20"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 20 de maio de 2026"
+title: "O crédito da casa ficou com menos folga"
 items:
   - title: "O crédito da casa ficou com menos folga"
     primary_source:

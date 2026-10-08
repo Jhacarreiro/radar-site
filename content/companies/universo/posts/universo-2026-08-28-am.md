@@ -3,7 +3,7 @@ edition_id: universo-2026-08-28-am
 channel: universo
 date: 2026-08-28
 window: manhã
-title: "Radar Universo - manhã de 28 de agosto de 2026"
+title: "A Fidelidade lucrou 165 milhões no semestre"
 items:
   - title: "A Fidelidade lucrou 165 milhões no semestre"
     primary_source:

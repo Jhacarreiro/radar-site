@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-11-lunch
 channel: newspt
 date: 2026-08-11
 window: almoço
-title: "Radar PT - almoço de 11 de agosto de 2026"
+title: "A IA pode aumentar as emissões, mesmo quando promete salvar energia"
 whatsapp_message_id: ""
 items:
   - title: "A IA pode aumentar as emissões, mesmo quando promete salvar energia"

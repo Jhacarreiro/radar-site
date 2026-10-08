@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-27-lunch"
 channel: "newspt"
 date: "2026-05-27"
-title: "Radar | Edição PT - almoço"
+title: "Uma falha pequena abriu a porta aos agentes de IA"
 window: "almoço"
 items:
   - title: "Uma falha pequena abriu a porta aos agentes de IA"

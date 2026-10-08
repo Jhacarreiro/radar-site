@@ -3,7 +3,7 @@ edition_id: newspt-2026-05-29-lunch
 channel: newspt
 date: 2026-05-29
 window: almoço
-title: Radar PT - almoço de 29 de maio de 2026
+title: "O Copilot ficou menos pesado"
 items:
   - title: O Copilot ficou menos pesado
     primary_source:

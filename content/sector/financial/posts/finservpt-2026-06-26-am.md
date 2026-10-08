@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-06-26-am"
 channel: "finservpt"
 date: "2026-06-26"
 window: "manhã"
-title: "Radar Financial Services PT - 26 junho 2026"
+title: "O CVM ficou mais caro para reincidentes"
 items:
   - title: "O CVM ficou mais caro para reincidentes"
     primary_source:

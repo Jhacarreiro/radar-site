@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-24-am"
 channel: "universo"
 date: "2026-07-24"
 window: "manhã"
-title: "Radar Universo - manhã de 24 de julho de 2026"
+title: "O BCE deixou o preço em suspenso"
 items:
   - title: "O BCE deixou o preço em suspenso"
     primary_source:

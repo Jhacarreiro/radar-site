@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-08-14-am"
 channel: "stratfin"
 date: "2026-08-14"
-title: "Radar FinServ Strategy PT - manhã de 14 de agosto de 2026"
+title: "A Aviva já duplicou as sinergias da Direct Line"
 window: "manhã"
 whatsapp_message_id: ""
 items:

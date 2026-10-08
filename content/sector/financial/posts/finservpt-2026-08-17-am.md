@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-17-am"
 channel: "finservpt"
 date: "2026-08-17"
-title: "Radar Financial Services PT - manhã de 17 de agosto de 2026"
+title: "A Adyen comprou crescimento e subiu a fasquia"
 window: "manhã"
 whatsapp_message_id: ""
 items:

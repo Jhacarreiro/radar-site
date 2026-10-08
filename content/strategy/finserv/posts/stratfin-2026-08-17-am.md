@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-08-17-am"
 channel: "stratfin"
 date: "2026-08-17"
-title: "Radar FinServ Strategy PT - manhã de 17 de agosto de 2026"
+title: "A Revolut montou um segundo centro bancário na UE"
 window: "manhã"
 whatsapp_message_id: ""
 items:

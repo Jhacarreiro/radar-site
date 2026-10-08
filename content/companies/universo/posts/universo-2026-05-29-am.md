@@ -3,7 +3,7 @@ edition_id: universo-2026-05-29-am
 channel: universo
 date: 2026-05-29
 window: manhã
-title: Radar Universo - manhã de 29 de maio de 2026
+title: "A loja ainda traz volume"
 items:
   - title: A loja ainda traz volume
     primary_source:

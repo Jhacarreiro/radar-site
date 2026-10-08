@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-22-am"
 channel: "finservpt"
 date: "2026-07-22"
 window: "manhã"
-title: "Radar Financial Services PT - 22 julho 2026"
+title: "O Banco CTT já tem interessado e assessor"
 items:
   - title: "O Banco CTT já tem interessado e assessor"
     primary_source:

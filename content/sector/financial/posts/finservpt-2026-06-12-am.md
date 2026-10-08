@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-12-am
 channel: finservpt
 date: 2026-06-12
 window: manhã
-title: Radar Financial Services PT - 12 junho 2026
+title: "O BCE voltou a pôr preço no dinheiro"
 items:
   - title: O BCE voltou a pôr preço no dinheiro
     primary_source:

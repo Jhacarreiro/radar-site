@@ -3,7 +3,7 @@ edition_id: universo-2026-05-25-am
 channel: universo
 date: 2026-05-25
 window: manhã
-title: Radar Universo - manhã de 25 de maio de 2026
+title: "A burla voltou ao telefone do banco"
 items:
   - title: A burla voltou ao telefone do banco
     primary_source:

@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-09-02-am"
 channel: "stratfin"
 date: "2026-09-02"
-title: "Radar FinServ Strategy PT - manhã de 2 de setembro de 2026"
+title: "A Índia prepara pagamentos feitos por agentes de IA"
 window: "manhã"
 whatsapp_message_id: "pending"
 items:

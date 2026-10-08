@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-09-lunch
 channel: newspt
 date: 2026-06-09
 window: almoço
-title: Radar PT - almoço de 9 de junho de 2026
+title: "A Apple mostrou a Siri que ainda não chega ao iPhone europeu"
 items:
   - title: A Apple mostrou a Siri que ainda não chega ao iPhone europeu
     primary_source:

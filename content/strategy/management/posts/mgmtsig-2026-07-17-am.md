@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-17-am
 channel: mgmtsig
 date: 2026-07-17
 window: manhã
-title: "Management Signals - 2026-07-17 Morning"
+title: "Do not automate the apprenticeship"
 whatsapp_message_id: ""
 items:
   - title: "Do not automate the apprenticeship"

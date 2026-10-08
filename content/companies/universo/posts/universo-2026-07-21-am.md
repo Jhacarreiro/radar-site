@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-21-am"
 channel: "universo"
 date: "2026-07-21"
 window: "manhã"
-title: "Radar Universo - manhã de 21 de julho de 2026"
+title: "Bruxelas passou a fatura ao AliExpress"
 items:
   - title: "Bruxelas passou a fatura ao AliExpress"
     primary_source:

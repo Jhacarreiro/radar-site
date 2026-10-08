@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-10-test-sol-default-v3
 channel: newspt
 date: 2026-08-10
 window: almoço
-title: "Radar PT - almoço de 10 de agosto de 2026"
+title: "O Drive deixa de enviar fotografias para o Google Photos"
 whatsapp_message_id: ""
 items:
   - title: "O Drive deixa de enviar fotografias para o Google Photos"

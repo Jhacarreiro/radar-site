@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-05-am
 channel: finservpt
 date: 2026-06-05
 window: manhã
-title: Radar Financial Services PT - 5 junho 2026
+title: "O crédito voltou a puxar pela margem"
 items:
   - title: O crédito voltou a puxar pela margem
     primary_source:

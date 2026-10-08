@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-23-lunch
 channel: newspt
 date: 2026-07-23
 window: almoço
-title: "Radar PT - almoço de 23 de julho de 2026"
+title: "Os EUA puseram 5 mil milhões na ciência com IA"
 whatsapp_message_id: ""
 items:
   - title: "Os EUA puseram 5 mil milhões na ciência com IA"

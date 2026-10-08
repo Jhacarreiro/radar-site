@@ -3,7 +3,7 @@ edition_id: universo-2026-05-21-am
 channel: universo
 date: 2026-05-21
 window: manhã
-title: Radar Universo - manhã de 21 de maio de 2026
+title: "A Klarna entra no POS da Worldline"
 items:
   - title: A Klarna entra no POS da Worldline
     primary_source:

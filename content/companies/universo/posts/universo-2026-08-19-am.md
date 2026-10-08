@@ -3,7 +3,7 @@ edition_id: universo-2026-08-19-am
 channel: universo
 date: 2026-08-19
 window: manhã
-title: "Radar Universo - manhã de 19 de agosto de 2026"
+title: "Pensões profissionais podem passar a entrar por defeito"
 whatsapp_message_id: ""
 items:
   - title: "Pensões profissionais podem passar a entrar por defeito"

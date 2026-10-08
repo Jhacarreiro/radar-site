@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-16-lunch
 channel: newspt
 date: 2026-07-16
 window: almoço
-title: "Radar PT - 2026-07-16 Almoço"
+title: "A Hyundai vai ficar com a Boston Dynamics toda"
 whatsapp_message_id: ""
 items:
   - title: "A Hyundai vai ficar com a Boston Dynamics toda"

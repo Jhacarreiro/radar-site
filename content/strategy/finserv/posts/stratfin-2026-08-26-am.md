@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-08-26-am"
 channel: "stratfin"
 date: "2026-08-26"
-title: "Radar FinServ Strategy PT - manhã de 26 de agosto de 2026"
+title: "Os seguros portugueses fizeram 461 milhões no trimestre"
 window: "manhã"
 whatsapp_message_id: "pending"
 items:

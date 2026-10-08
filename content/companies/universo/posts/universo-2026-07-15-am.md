@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-15-am"
 channel: "universo"
 date: "2026-07-15"
 window: "manhã"
-title: "Radar Universo - manhã de 15 de julho de 2026"
+title: "A China já mora no carrinho"
 items:
   - title: "A China já mora no carrinho"
     primary_source:

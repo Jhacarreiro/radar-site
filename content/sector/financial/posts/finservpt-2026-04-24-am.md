@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-04-24-am"
 channel: "finservpt"
 date: "2026-04-24"
 window: "manhã"
-title: "Radar | Financial Services PT | Manhã"
+title: "Bruxelas compra tempo no trading book até 2027"
 whatsapp_message_id: ""
 items:
   - title: "Bruxelas compra tempo no trading book até 2027"

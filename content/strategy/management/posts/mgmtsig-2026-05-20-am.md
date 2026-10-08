@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-20-am"
 channel: "mgmtsig"
 date: "2026-05-20"
 window: "manhã"
-title: "Management Signals - morning of May 20, 2026"
+title: "Feedback is a risk decision"
 items:
   - title: "Feedback is a risk decision"
     primary_source:

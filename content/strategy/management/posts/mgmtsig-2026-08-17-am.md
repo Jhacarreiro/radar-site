@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-17-am
 channel: mgmtsig
 date: 2026-08-17
 window: manhã
-title: "Management Signals - morning edition, August 17, 2026"
+title: "Design less before you design faster"
 whatsapp_message_id: ""
 items:
   - title: "Design less before you design faster"

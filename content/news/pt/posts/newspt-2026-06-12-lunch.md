@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-12-lunch
 channel: newspt
 date: 2026-06-12
 window: almoço
-title: Radar PT - almoço de 12 de junho de 2026
+title: "A falha do SNS chegou às receitas"
 items:
   - title: A falha do SNS chegou às receitas
     primary_source:

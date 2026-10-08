@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-19-am"
 channel: "finservpt"
 date: "2026-08-19"
-title: "Radar Financial Services PT - manhã de 19 de agosto de 2026"
+title: "O BCE fechou a porta à Rauva"
 window: "manhã"
 whatsapp_message_id: ""
 items:

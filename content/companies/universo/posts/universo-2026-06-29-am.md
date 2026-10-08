@@ -3,7 +3,7 @@ edition_id: "universo-2026-06-29-am"
 channel: "universo"
 date: "2026-06-29"
 window: "manhã"
-title: "Radar Universo - manhã de 29 de junho de 2026"
+title: "A taxa entrou no carrinho chinês"
 items:
   - title: "A taxa entrou no carrinho chinês"
     primary_source:

@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-01-lunch
 channel: newspt
 date: 2026-07-01
 window: almoço
-title: Radar PT - almoço de 1 de julho de 2026
+title: "A IA entrou na bancada do RNA"
 items:
   - title: A IA entrou na bancada do RNA
     primary_source:

@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-29-am"
 channel: "universo"
 date: "2026-07-29"
 window: "manhã"
-title: "Radar Universo - manhã de 29 de julho de 2026"
+title: "O Banco CTT acelerou o crédito"
 items:
   - title: "O Banco CTT acelerou o crédito"
     primary_source:

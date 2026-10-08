@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-08-lunch
 channel: newspt
 date: 2026-07-08
 window: almoço
-title: "Radar PT - 2026-07-08 Almoço"
+title: "A Apple perdeu no tribunal europeu"
 whatsapp_message_id: ""
 items:
   - title: "A Apple perdeu no tribunal europeu"

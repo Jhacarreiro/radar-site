@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-17-am"
 channel: "universo"
 date: "2026-07-17"
 window: "manhã"
-title: "Radar Universo - manhã de 17 de julho de 2026"
+title: "A Trade Republic quer a conta principal"
 items:
   - title: "A Trade Republic quer a conta principal"
     primary_source:

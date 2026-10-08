@@ -3,7 +3,7 @@ edition_id: newspt-2026-09-02-lunch
 channel: newspt
 date: 2026-09-02
 window: almoço
-title: "Radar PT - almoço de 2 de setembro de 2026"
+title: "O Google vai buscar energia ao calor da Terra"
 whatsapp_message_id: ""
 items:
   - title: "O Google vai buscar energia ao calor da Terra"

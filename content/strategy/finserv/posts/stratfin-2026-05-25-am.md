@@ -3,7 +3,7 @@ edition_id: stratfin-2026-05-25-am
 channel: stratfin
 date: 2026-05-25
 window: manhã
-title: Radar StratFin - manhã de 25 de maio de 2026
+title: "O BCE ficou preso nos incentivos dos bancos"
 items:
   - title: O BCE ficou preso nos incentivos dos bancos
     primary_source:

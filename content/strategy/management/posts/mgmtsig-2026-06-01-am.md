@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-06-01-am"
 channel: "mgmtsig"
 date: "2026-06-01"
 window: "manhã"
-title: "Management Signals - morning of June 1, 2026"
+title: "Friction is a management choice"
 items:
   - title: "Friction is a management choice"
     primary_source:

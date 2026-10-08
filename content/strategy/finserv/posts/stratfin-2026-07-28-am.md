@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-28-am"
 channel: "stratfin"
 date: "2026-07-28"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 28 julho 2026"
+title: "O X pôs a conta bancária dentro da rede social"
 items:
   - title: "O X pôs a conta bancária dentro da rede social"
     primary_source:

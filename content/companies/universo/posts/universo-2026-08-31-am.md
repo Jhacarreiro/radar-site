@@ -3,7 +3,7 @@ edition_id: universo-2026-08-31-am
 channel: universo
 date: 2026-08-31
 window: manhã
-title: "Radar Universo - manhã de 31 de agosto de 2026"
+title: "A inflação subiu para 3,3% em agosto"
 whatsapp_message_id: ""
 items:
   - title: "A inflação subiu para 3,3% em agosto"

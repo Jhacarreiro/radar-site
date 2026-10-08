@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-12-am
 channel: mgmtsig
 date: 2026-08-12
 window: manhã
-title: "Management Signals - morning edition, August 12, 2026"
+title: "Decision rights need an owner, not another matrix"
 whatsapp_message_id: ""
 items:
   - title: "Decision rights need an owner, not another matrix"

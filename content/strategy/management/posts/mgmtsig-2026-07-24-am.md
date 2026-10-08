@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-24-am
 channel: mgmtsig
 date: 2026-07-24
 window: morning
-title: "Management Signals - 2026-07-24 Morning"
+title: "Step up early, then get out of the way"
 whatsapp_message_id: ""
 items:
   - title: "Step up early, then get out of the way"

@@ -2,7 +2,7 @@
 edition_id: "mgmtsig-2026-09-23-am"
 channel: "mgmtsig"
 date: "2026-09-23"
-title: "Management Signals | 23 September 2026 | Morning"
+title: "Your AI draft is somebody else's reading assignment"
 window: "manhã"
 whatsapp_message_id: ""
 items:

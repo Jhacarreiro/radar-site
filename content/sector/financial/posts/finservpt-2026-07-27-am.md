@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-27-am"
 channel: "finservpt"
 date: "2026-07-27"
 window: "manhã"
-title: "Radar Financial Services PT - 27 julho 2026"
+title: "A solvência das seguradoras perdeu 18 pontos"
 items:
   - title: "A solvência das seguradoras perdeu 18 pontos"
     primary_source:

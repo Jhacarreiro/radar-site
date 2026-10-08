@@ -3,7 +3,7 @@ edition_id: universo-2026-05-28-am
 channel: universo
 date: 2026-05-28
 window: manhã
-title: Radar Universo - manhã de 28 de maio de 2026
+title: "O travão saiu do aviso"
 items:
   - title: O travão saiu do aviso
     primary_source:

@@ -3,7 +3,7 @@ edition_id: universo-2026-08-27-am
 channel: universo
 date: 2026-08-27
 window: manhã
-title: "Radar Universo - manhã de 27 de agosto de 2026"
+title: "A APB está a aparecer no ecrã dos burlões"
 whatsapp_message_id: ""
 items:
   - title: "A APB está a aparecer no ecrã dos burlões"

@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-25-am
 channel: mgmtsig
 date: 2026-08-25
 window: manhã
-title: "Management Signals - morning edition, August 25, 2026"
+title: "Score leadership behaviour separately"
 whatsapp_message_id: ""
 items:
   - title: "Score leadership behaviour separately"

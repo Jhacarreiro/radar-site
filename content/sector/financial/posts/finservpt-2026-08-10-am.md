@@ -3,7 +3,7 @@ edition_id: finservpt-2026-08-10-am
 channel: finservpt
 date: 2026-08-10
 window: manhã
-title: "Radar Financial Services PT - manhã de 10 de agosto de 2026"
+title: "TC ameaça reembolso de 2 mil milhões do Fundo"
 whatsapp_message_id: ""
 items:
   - title: "TC ameaça reembolso de 2 mil milhões do Fundo"

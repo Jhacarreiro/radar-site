@@ -3,7 +3,7 @@ edition_id: finservpt-2026-05-29-am
 channel: finservpt
 date: 2026-05-29
 window: manhã
-title: Radar Financial Services PT - 29 maio 2026
+title: "Portugal pôs 20 anos a 3,875% no mercado"
 items:
   - title: Portugal pôs 20 anos a 3,875% no mercado
     primary_source:

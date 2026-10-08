@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-01-am"
 channel: "finservpt"
 date: "2026-05-01"
 window: "manhã"
-title: "Radar | Financial Services PT | Manhã"
+title: "O BCE deixou a margem presa no petróleo"
 whatsapp_message_id: ""
 items:
   - title: "O BCE deixou a margem presa no petróleo"

@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-03-am"
 channel: "stratfin"
 date: "2026-07-03"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 3 julho 2026"
+title: "Banco de Portugal apertou o funil"
 items:
   - title: "Banco de Portugal apertou o funil"
     primary_source:

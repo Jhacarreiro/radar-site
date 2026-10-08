@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-22-lunch
 channel: newspt
 date: 2026-07-22
 window: almoço
-title: "Radar PT - almoço de 22 de julho de 2026"
+title: "A IA da Google já procura falhas no código"
 whatsapp_message_id: ""
 items:
   - title: "A IA da Google já procura falhas no código"

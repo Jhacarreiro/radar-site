@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-08-27-am"
 channel: "stratfin"
 date: "2026-08-27"
-title: "Radar FinServ Strategy PT - manhã de 27 de agosto de 2026"
+title: "A Vanguard comprou a Altruist por cerca de 4 mil milhões de dólares"
 window: "manhã"
 whatsapp_message_id: "pending"
 items:

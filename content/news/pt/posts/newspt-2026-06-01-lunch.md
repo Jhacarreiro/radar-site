@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-01-lunch
 channel: newspt
 date: 2026-06-01
 window: almoço
-title: Radar PT - almoço de 1 de junho de 2026
+title: "O PC quer correr agentes sem pedir à cloud"
 items:
   - title: O PC quer correr agentes sem pedir à cloud
     primary_source:

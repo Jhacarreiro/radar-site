@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-20-lunch
 channel: newspt
 date: 2026-08-20
 window: almoço
-title: "Radar PT - almoço de 20 de agosto de 2026"
+title: "Uma vacina de mRNA passou o teste decisivo no melanoma"
 whatsapp_message_id: ""
 items:
   - title: "Uma vacina de mRNA passou o teste decisivo no melanoma"

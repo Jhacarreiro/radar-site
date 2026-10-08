@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-10-test-luna-flex
 channel: newspt
 date: 2026-08-10
 window: manhã
-title: "Radar PT - manhã de 10 de agosto de 2026"
+title: "O PIB português acelerou no segundo trimestre"
 whatsapp_message_id: ""
 items:
   - title: "O PIB português acelerou no segundo trimestre"

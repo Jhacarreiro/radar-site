@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-19-lunch
 channel: newspt
 date: 2026-06-19
 window: almoço
-title: Radar PT - almoço de 19 de junho de 2026
+title: "A IA também tira mão"
 items:
   - title: A IA também tira mão
     primary_source:

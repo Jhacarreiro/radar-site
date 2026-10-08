@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-03-lunch
 channel: newspt
 date: 2026-06-03
 window: almoço
-title: Radar PT - almoço de 3 de junho de 2026
+title: "A Microsoft pôs data no quantum"
 items:
   - title: A Microsoft pôs data no quantum
     primary_source:

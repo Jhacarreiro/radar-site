@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-15-am"
 channel: "finservpt"
 date: "2026-05-15"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 15 de maio de 2026"
+title: "O BdP quer baixar a alavanca da casa"
 items:
   - title: "O BdP quer baixar a alavanca da casa"
     primary_source:

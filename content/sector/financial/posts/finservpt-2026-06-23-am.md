@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-06-23-am"
 channel: "finservpt"
 date: "2026-06-23"
 window: "manhã"
-title: "Radar Financial Services PT - 23 junho 2026"
+title: "A resolução bancária tem 231 mil milhões para rolar"
 items:
   - title: "A resolução bancária tem 231 mil milhões para rolar"
     primary_source:

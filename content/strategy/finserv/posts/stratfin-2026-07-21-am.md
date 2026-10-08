@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-21-am"
 channel: "stratfin"
 date: "2026-07-21"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 21 julho 2026"
+title: "A FinWise comprou o stack e ficou com o risco"
 items:
   - title: "A FinWise comprou o stack e ficou com o risco"
     primary_source:

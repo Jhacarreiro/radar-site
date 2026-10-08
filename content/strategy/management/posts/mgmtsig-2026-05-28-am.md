@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-28-am"
 channel: "mgmtsig"
 date: "2026-05-28"
 window: "manhã"
-title: "Management Signals - morning of May 28, 2026"
+title: "Local teams need a real handshake"
 items:
   - title: "Local teams need a real handshake"
     primary_source:

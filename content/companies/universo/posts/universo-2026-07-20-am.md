@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-20-am"
 channel: "universo"
 date: "2026-07-20"
 window: "manhã"
-title: "Radar Universo - manhã de 20 de julho de 2026"
+title: "A carga entrou na loja"
 items:
   - title: "A carga entrou na loja"
     primary_source:

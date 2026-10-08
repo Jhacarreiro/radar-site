@@ -3,7 +3,7 @@ edition_id: universo-2026-06-03-am
 channel: universo
 date: 2026-06-03
 window: manhã
-title: Radar Universo - manhã de 3 de junho de 2026
+title: "O crédito voltou a aquecer"
 items:
   - title: O crédito voltou a aquecer
     primary_source:

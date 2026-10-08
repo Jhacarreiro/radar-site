@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-14-lunch"
 channel: "newspt"
 date: "2026-05-14"
-title: "Radar | Edição PT - almoço"
+title: "A geotermia entrou na corrida da IA"
 window: "almoço"
 items:
   - title: "A geotermia entrou na corrida da IA"

@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-06-03-am"
 channel: "mgmtsig"
 date: "2026-06-03"
 window: "manhã"
-title: "Management Signals - morning of June 3, 2026"
+title: "Decision loops need redesign"
 items:
   - title: "Decision loops need redesign"
     primary_source:

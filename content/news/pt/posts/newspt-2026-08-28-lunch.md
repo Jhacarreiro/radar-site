@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-28-lunch
 channel: newspt
 date: 2026-08-28
 window: almoço
-title: "Radar PT - almoço de 28 de agosto de 2026"
+title: "Uma norma quer pôr a IA a mexer em máquinas"
 whatsapp_message_id: ""
 items:
   - title: "Uma norma quer pôr a IA a mexer em máquinas"

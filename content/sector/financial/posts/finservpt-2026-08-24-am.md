@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-24-am"
 channel: "finservpt"
 date: "2026-08-24"
-title: "Radar Financial Services PT - manhã de 24 de agosto de 2026"
+title: "O euro digital já tem uma conta para os bancos"
 whatsapp_message_id: "pending"
 window: "manhã"
 items:

@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-30-am
 channel: mgmtsig
 date: 2026-07-30
 window: manhã
-title: "Management Signals - 2026-07-30 Morning"
+title: "Put meritocracy under audit"
 whatsapp_message_id: ""
 items:
   - title: "Put meritocracy under audit"

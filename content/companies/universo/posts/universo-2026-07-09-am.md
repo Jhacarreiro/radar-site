@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-09-am"
 channel: "universo"
 date: "2026-07-09"
 window: "manhã"
-title: "Radar Universo - manhã de 9 de julho de 2026"
+title: "O retalho ainda mexe"
 items:
   - title: "O retalho ainda mexe"
     primary_source:

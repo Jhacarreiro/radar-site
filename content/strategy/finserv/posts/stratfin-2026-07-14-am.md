@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-14-am"
 channel: "stratfin"
 date: "2026-07-14"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 14 julho 2026"
+title: "A Nopan quer pôr o Wero a render"
 items:
   - title: "A Nopan quer pôr o Wero a render"
     primary_source:

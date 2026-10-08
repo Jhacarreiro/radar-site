@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-22-lunch
 channel: newspt
 date: 2026-06-22
 window: almoço
-title: Radar PT - almoço de 22 de junho de 2026
+title: "O Santander meteu a IA na conta"
 items:
   - title: O Santander meteu a IA na conta
     primary_source:

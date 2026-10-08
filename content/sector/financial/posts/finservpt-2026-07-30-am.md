@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-30-am"
 channel: "finservpt"
 date: "2026-07-30"
 window: "manhã"
-title: "Radar Financial Services PT - 30 julho 2026"
+title: "O BCP fez a margem doméstica crescer 11,3%"
 items:
   - title: "O BCP fez a margem doméstica crescer 11,3%"
     primary_source:

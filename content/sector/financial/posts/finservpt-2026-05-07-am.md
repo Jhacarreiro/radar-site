@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-07-am"
 channel: "finservpt"
 date: "2026-05-07"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 7 de maio de 2026"
+title: "O BCP ainda tem margem, mas já compra crescimento"
 items:
   - title: "O BCP ainda tem margem, mas já compra crescimento"
     primary_source:

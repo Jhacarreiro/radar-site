@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-27-am"
 channel: "finservpt"
 date: "2026-08-27"
-title: "Radar Financial Services PT - manhã de 27 de agosto de 2026"
+title: "Emitir sem prospeto chega aos 12 milhões"
 whatsapp_message_id: "pending"
 window: "manhã"
 items:

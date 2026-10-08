@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-27-am"
 channel: "stratfin"
 date: "2026-07-27"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 27 julho 2026"
+title: "A Customers pôs o crédito comercial a fechar em sete dias"
 items:
   - title: "A Customers pôs o crédito comercial a fechar em sete dias"
     primary_source:

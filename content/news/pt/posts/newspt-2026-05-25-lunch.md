@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-25-lunch"
 channel: "newspt"
 date: "2026-05-25"
-title: "Radar | Edição PT - almoço"
+title: "O ataque ao GitHub entrou pelo editor de código"
 window: "almoço"
 items:
   - title: "O ataque ao GitHub entrou pelo editor de código"

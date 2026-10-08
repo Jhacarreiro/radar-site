@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-13-lunch"
 channel: "newspt"
 date: "2026-05-13"
-title: "Radar | Edição PT - almoço"
+title: "O Android quer deixar de ser só sistema operativo"
 window: "almoço"
 items:
   - title: "O Android quer deixar de ser só sistema operativo"

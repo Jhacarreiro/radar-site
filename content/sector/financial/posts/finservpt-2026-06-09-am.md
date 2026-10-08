@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-09-am
 channel: finservpt
 date: 2026-06-09
 window: manhã
-title: Radar Financial Services PT - 9 junho 2026
+title: "O BCE deu calendário ao reporting único"
 items:
   - title: O BCE deu calendário ao reporting único
     primary_source:

@@ -3,7 +3,7 @@ edition_id: stratfin-2026-05-20-am
 channel: stratfin
 date: 2026-05-20
 window: manhã
-title: Radar StratFin - manhã de 20 de maio de 2026
+title: "Deutsche tropeçou no screening"
 items:
   - title: Deutsche tropeçou no screening
     primary_source:

@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-18-am"
 channel: "finservpt"
 date: "2026-08-18"
-title: "Radar Financial Services PT - manhã de 18 de agosto de 2026"
+title: "A dívida longa voltou a 2007"
 window: "manhã"
 whatsapp_message_id: ""
 items:

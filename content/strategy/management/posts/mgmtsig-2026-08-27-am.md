@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-27-am
 channel: mgmtsig
 date: 2026-08-27
 window: manhã
-title: "Management Signals - morning edition, August 27, 2026"
+title: "Design the conversation before the meeting"
 whatsapp_message_id: ""
 items:
   - title: "Design the conversation before the meeting"

@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-14-am"
 channel: "finservpt"
 date: "2026-08-14"
-title: "Radar Financial Services PT - manhã de 14 de agosto de 2026"
+title: "O móvel duplicou, mas o numerário ainda manda"
 window: "manhã"
 whatsapp_message_id: ""
 items:

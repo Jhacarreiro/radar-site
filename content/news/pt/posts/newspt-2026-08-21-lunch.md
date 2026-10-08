@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-21-lunch
 channel: newspt
 date: 2026-08-21
 window: almoço
-title: "Radar PT - almoço de 21 de agosto de 2026"
+title: "Há empresas à procura de hidrogénio debaixo da terra"
 whatsapp_message_id: ""
 items:
   - title: "Há empresas à procura de hidrogénio debaixo da terra"

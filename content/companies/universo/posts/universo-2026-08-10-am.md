@@ -3,7 +3,7 @@ edition_id: universo-2026-08-10-am
 channel: universo
 date: 2026-08-10
 window: manhã
-title: "Radar Universo - manhã de 10 de agosto de 2026"
+title: "O retalho português acelerou em junho"
 whatsapp_message_id: ""
 items:
   - title: "O retalho português acelerou em junho"

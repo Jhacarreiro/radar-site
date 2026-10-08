@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-04-20-am"
 channel: "finservpt"
 date: "2026-04-20"
 window: "manhã"
-title: "Radar | Financial Services PT | Manhã"
+title: "UniCredit põe a tese Commerzbank em cima da mesa"
 items:
   - title: "UniCredit põe a tese Commerzbank em cima da mesa"
     primary_source:

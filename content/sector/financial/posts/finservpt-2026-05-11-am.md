@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-11-am"
 channel: "finservpt"
 date: "2026-05-11"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 11 de maio de 2026"
+title: "A Caixa voltou a comprar volume"
 items:
   - title: "A Caixa voltou a comprar volume"
     primary_source:

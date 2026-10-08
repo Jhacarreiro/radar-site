@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-09-03-am"
 channel: "stratfin"
 date: "2026-09-03"
-title: "Radar FinServ Strategy PT - manhã de 3 de setembro de 2026"
+title: "A falha de liquidez da ING já tem preço de capital"
 window: "manhã"
 whatsapp_message_id: "pending"
 items:

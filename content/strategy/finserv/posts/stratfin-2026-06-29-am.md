@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-06-29-am"
 channel: "stratfin"
 date: "2026-06-29"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 29 junho 2026"
+title: "Crédit Agricole encostou-se aos 30% do BPM"
 items:
   - title: "Crédit Agricole encostou-se aos 30% do BPM"
     primary_source:

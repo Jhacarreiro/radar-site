@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-22-am"
 channel: "stratfin"
 date: "2026-07-22"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 22 julho 2026"
+title: "O Pix passou de rail de pagamentos a barreira comercial"
 items:
   - title: "O Pix passou de rail de pagamentos a barreira comercial"
     primary_source:

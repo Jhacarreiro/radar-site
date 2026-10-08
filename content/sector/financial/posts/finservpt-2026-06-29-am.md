@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-06-29-am"
 channel: "finservpt"
 date: "2026-06-29"
 window: "manhã"
-title: "Radar Financial Services PT - 29 junho 2026"
+title: "A EBA mexeu no SREP de 2027"
 items:
   - title: "A EBA mexeu no SREP de 2027"
     primary_source:

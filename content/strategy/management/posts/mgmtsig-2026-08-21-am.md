@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-21-am
 channel: mgmtsig
 date: 2026-08-21
 window: manhã
-title: "Management Signals - morning edition, August 21, 2026"
+title: "Test readiness before you announce the strategy"
 whatsapp_message_id: ""
 items:
   - title: "Test readiness before you announce the strategy"

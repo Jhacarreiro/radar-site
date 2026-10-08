@@ -3,7 +3,7 @@ edition_id: "universo-2026-06-30-am"
 channel: "universo"
 date: "2026-06-30"
 window: "manhã"
-title: "Radar Universo - manhã de 30 de junho de 2026"
+title: "O teto do cartão baixa amanhã"
 items:
   - title: "O teto do cartão baixa amanhã"
     primary_source:

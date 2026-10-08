@@ -3,7 +3,7 @@ edition_id: universo-2026-06-24-am
 channel: universo
 date: 2026-06-24
 window: manhã
-title: "Radar Universo - manhã de 24 de junho de 2026"
+title: "O euro digital saiu do comité"
 items:
   - title: "O euro digital saiu do comité"
     primary_source:

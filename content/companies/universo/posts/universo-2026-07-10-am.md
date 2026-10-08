@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-10-am"
 channel: "universo"
 date: "2026-07-10"
 window: "manhã"
-title: "Radar Universo - manhã de 10 de julho de 2026"
+title: "A Musti encostou-se ao supermercado"
 items:
   - title: "A Musti encostou-se ao supermercado"
     primary_source:

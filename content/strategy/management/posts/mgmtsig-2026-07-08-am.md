@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-08-am
 channel: mgmtsig
 date: 2026-07-08
 window: manhã
-title: "Management Signals - 2026-07-08 Morning"
+title: "Purpose before models"
 whatsapp_message_id: ""
 items:
   - title: "Purpose before models"

@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-25-am"
 channel: "finservpt"
 date: "2026-08-25"
-title: "Radar Financial Services PT - manhã de 25 de agosto de 2026"
+title: "A Índia vai estrear obrigações tokenizadas"
 whatsapp_message_id: "pending"
 window: "manhã"
 items:

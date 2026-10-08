@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-09-01-am
 channel: mgmtsig
 date: 2026-09-01
 window: manhã
-title: "Management Signals - morning edition, September 1, 2026"
+title: "Delay the concession after a good story"
 whatsapp_message_id: ""
 items:
   - title: "Delay the concession after a good story"

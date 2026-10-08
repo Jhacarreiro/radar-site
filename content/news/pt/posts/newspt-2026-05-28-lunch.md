@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-28-lunch"
 channel: "newspt"
 date: "2026-05-28"
-title: "Radar | Edição PT - almoço"
+title: "A Amazon vendeu IA pela porta dos CPUs"
 window: "almoço"
 items:
   - title: "A Amazon vendeu IA pela porta dos CPUs"

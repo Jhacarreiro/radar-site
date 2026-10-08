@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-08-am
 channel: finservpt
 date: 2026-06-08
 window: manhã
-title: Radar Financial Services PT - 8 junho 2026
+title: "A banca italiana abriu a corrida por MPS"
 items:
   - title: A banca italiana abriu a corrida por MPS
     primary_source:

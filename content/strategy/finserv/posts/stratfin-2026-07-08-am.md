@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-08-am"
 channel: "stratfin"
 date: "2026-07-08"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 8 julho 2026"
+title: "Swift pôs preço antes da transferência"
 items:
   - title: "Swift pôs preço antes da transferência"
     primary_source:

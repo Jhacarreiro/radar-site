@@ -3,7 +3,7 @@ edition_id: universo-2026-05-27-am
 channel: universo
 date: 2026-05-27
 window: manhã
-title: Radar Universo - manhã de 27 de maio de 2026
+title: "A fraude ganhou sala própria"
 items:
   - title: A fraude ganhou sala própria
     primary_source:

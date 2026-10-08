@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-08-18-am"
 channel: "stratfin"
 date: "2026-08-18"
-title: "Radar FinServ Strategy PT - manhã de 18 de agosto de 2026"
+title: "A Citi comprou o motor de rewards da Kard"
 window: "manhã"
 whatsapp_message_id: ""
 items:

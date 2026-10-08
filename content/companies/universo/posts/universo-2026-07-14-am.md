@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-14-am"
 channel: "universo"
 date: "2026-07-14"
 window: "manhã"
-title: "Radar Universo - manhã de 14 de julho de 2026"
+title: "O carro sem seguro chegou ao fundo"
 items:
   - title: "O carro sem seguro chegou ao fundo"
     primary_source:

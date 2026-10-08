@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-02-lunch
 channel: newspt
 date: 2026-07-02
 window: almoço
-title: Radar PT - almoço de 2 de julho de 2026
+title: "A célula de laboratório já se divide"
 items:
   - title: A célula de laboratório já se divide
     primary_source:

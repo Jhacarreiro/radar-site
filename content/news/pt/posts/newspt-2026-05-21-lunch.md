@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-21-lunch"
 channel: "newspt"
 date: "2026-05-21"
-title: "Radar | Edição PT - almoço"
+title: "A BMS meteu o Claude na fábrica dos medicamentos"
 window: "almoço"
 items:
   - title: "A BMS meteu o Claude na fábrica dos medicamentos"

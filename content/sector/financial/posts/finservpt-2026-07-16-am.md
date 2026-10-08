@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-16-am"
 channel: "finservpt"
 date: "2026-07-16"
 window: "manhã"
-title: "Radar Financial Services PT - 16 julho 2026"
+title: "O BES ainda tem 630 milhões por fechar"
 items:
   - title: "O BES ainda tem 630 milhões por fechar"
     primary_source:

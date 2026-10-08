@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-15-am
 channel: finservpt
 date: 2026-06-15
 window: manhã
-title: Radar Financial Services PT - 15 junho 2026
+title: "Lisboa baixou a porta de entrada na bolsa"
 items:
   - title: Lisboa baixou a porta de entrada na bolsa
     primary_source:

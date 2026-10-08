@@ -3,7 +3,7 @@ edition_id: universo-2026-06-22-am
 channel: universo
 date: 2026-06-22
 window: manhã
-title: "Radar Universo - manhã de 22 de junho de 2026"
+title: "O consumo ficou sem folga"
 items:
   - title: "O consumo ficou sem folga"
     primary_source:

@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-22-am"
 channel: "mgmtsig"
 date: "2026-05-22"
 window: "manhã"
-title: "Management Signals - morning of May 22, 2026"
+title: "Roadmaps are not leadership"
 items:
   - title: "Roadmaps are not leadership"
     primary_source:

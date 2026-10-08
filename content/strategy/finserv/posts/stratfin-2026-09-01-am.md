@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-09-01-am"
 channel: "stratfin"
 date: "2026-09-01"
-title: "Radar FinServ Strategy PT - manhã de 1 de setembro de 2026"
+title: "A Aon vai pagar 17 mil milhões de dólares pela USI"
 window: "manhã"
 whatsapp_message_id: "pending"
 items:

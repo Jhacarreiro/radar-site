@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-29-lunch
 channel: newspt
 date: 2026-07-29
 window: almoço
-title: "Radar PT - almoço de 29 de julho de 2026"
+title: "Um avião comercial ficou 24 horas no ar"
 whatsapp_message_id: ""
 items:
   - title: "Um avião comercial ficou 24 horas no ar"

@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-21-am
 channel: mgmtsig
 date: 2026-07-21
 window: manhã
-title: "Management Signals - 2026-07-21 Morning"
+title: "A RACI chart is not a decision system"
 whatsapp_message_id: ""
 items:
   - title: "A RACI chart is not a decision system"

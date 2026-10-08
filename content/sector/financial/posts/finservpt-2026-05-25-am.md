@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-25-am"
 channel: "finservpt"
 date: "2026-05-25"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 25 de maio de 2026"
+title: "As caixas cripto desapareceram do mapa"
 items:
   - title: "As caixas cripto desapareceram do mapa"
     primary_source:

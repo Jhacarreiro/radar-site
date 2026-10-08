@@ -2,7 +2,7 @@
 edition_id: newspt-2026-09-12-lunch
 channel: newspt
 date: 2026-09-12
-title: Radar PT almoço
+title: "Os carros autónomos vão ter de explicar os próprios erros"
 items: []
 window: almoço
 tags: [tecnologia, energia, Douro]

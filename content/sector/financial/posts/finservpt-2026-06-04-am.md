@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-04-am
 channel: finservpt
 date: 2026-06-04
 window: manhã
-title: Radar Financial Services PT - 4 junho 2026
+title: "DORA ganhou o primeiro mapa de incidentes"
 items:
   - title: DORA ganhou o primeiro mapa de incidentes
     primary_source:

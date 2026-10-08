@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-21-lunch
 channel: newspt
 date: 2026-07-21
 window: almoço
-title: "Radar PT - almoço de 21 de julho de 2026"
+title: "Um avião híbrido chegou à altitude dos voos comerciais"
 whatsapp_message_id: ""
 items:
   - title: "Um avião híbrido chegou à altitude dos voos comerciais"

@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-25-am"
 channel: "mgmtsig"
 date: "2026-05-25"
 window: "manhã"
-title: "Management Signals - morning of May 25, 2026"
+title: "Change needs field intelligence"
 items:
   - title: "Change needs field intelligence"
     primary_source:

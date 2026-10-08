@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-16-am
 channel: finservpt
 date: 2026-06-16
 window: manhã
-title: Radar Financial Services PT - 16 junho 2026
+title: "Amex quer ficar antes do pagamento"
 items:
   - title: Amex quer ficar antes do pagamento
     primary_source:

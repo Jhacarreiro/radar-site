@@ -3,7 +3,7 @@ edition_id: newspt-2026-09-01-lunch
 channel: newspt
 date: 2026-09-01
 window: almoço
-title: "Radar PT - almoço de 1 de setembro de 2026"
+title: "A Amazon é acusada de inflacionar o preço dos anúncios"
 whatsapp_message_id: ""
 items:
   - title: "A Amazon é acusada de inflacionar o preço dos anúncios"

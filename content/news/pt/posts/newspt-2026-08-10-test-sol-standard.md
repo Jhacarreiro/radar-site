@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-10-test-sol-standard
 channel: newspt
 date: 2026-08-10
 window: manhã
-title: "Radar PT - manhã de 10 de agosto de 2026"
+title: "Voltar a Casa só avança com o OE2027"
 whatsapp_message_id: ""
 items:
   - title: "Voltar a Casa só avança com o OE2027"

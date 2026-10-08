@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-09-am"
 channel: "stratfin"
 date: "2026-07-09"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 9 julho 2026"
+title: "BCE pôs a IA no plano de ciber-risco"
 items:
   - title: "BCE pôs a IA no plano de ciber-risco"
     primary_source:

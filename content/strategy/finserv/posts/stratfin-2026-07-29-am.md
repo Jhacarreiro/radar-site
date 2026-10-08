@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-29-am"
 channel: "stratfin"
 date: "2026-07-29"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 29 julho 2026"
+title: "O wealth do Standard Chartered cresceu 43%"
 items:
   - title: "O wealth do Standard Chartered cresceu 43%"
     primary_source:

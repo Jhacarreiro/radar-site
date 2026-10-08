@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-19-am"
 channel: "mgmtsig"
 date: "2026-05-19"
 window: "manhã"
-title: "Management Signals - morning of May 19, 2026"
+title: "HQ is not the market"
 items:
   - title: "HQ is not the market"
     primary_source:

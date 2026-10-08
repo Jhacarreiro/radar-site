@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-17-lunch
 channel: newspt
 date: 2026-07-17
 window: almoço
-title: "Radar PT - 2026-07-17 Almoço"
+title: "A UE mandou abrir o Android à concorrência"
 whatsapp_message_id: ""
 items:
   - title: "A UE mandou abrir o Android à concorrência"

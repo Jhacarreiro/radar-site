@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-01-am"
 channel: "stratfin"
 date: "2026-07-01"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 1 julho 2026"
+title: "NatWest comprou escala em wealth"
 items:
   - title: "NatWest comprou escala em wealth"
     primary_source:

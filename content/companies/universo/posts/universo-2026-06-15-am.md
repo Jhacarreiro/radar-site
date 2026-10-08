@@ -3,7 +3,7 @@ edition_id: universo-2026-06-15-am
 channel: universo
 date: 2026-06-15
 window: manhã
-title: "Radar Universo - manhã de 15 de junho de 2026"
+title: "A IA ainda não ganhou o checkout"
 items:
   - title: "A IA ainda não ganhou o checkout"
     primary_source:

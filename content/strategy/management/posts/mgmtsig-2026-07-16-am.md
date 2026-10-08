@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-16-am
 channel: mgmtsig
 date: 2026-07-16
 window: manhã
-title: "Management Signals - 2026-07-16 Morning"
+title: "Shared dashboards create shared thinking"
 whatsapp_message_id: ""
 items:
   - title: "Shared dashboards create shared thinking"

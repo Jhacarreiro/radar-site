@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-09-02-am"
 channel: "finservpt"
 date: "2026-09-02"
-title: "Radar Financial Services PT - manhã de 2 de setembro de 2026"
+title: "A CMVM quer os bancos na linha da frente contra a fraude"
 whatsapp_message_id: "pending"
 window: "manhã"
 items:

@@ -3,7 +3,7 @@ edition_id: universo-2026-08-20-am
 channel: universo
 date: 2026-08-20
 window: manhã
-title: "Radar Universo - manhã de 20 de agosto de 2026"
+title: "A compra da MediaMarkt entrou no braço de ferro UE-China"
 whatsapp_message_id: ""
 items:
   - title: "A compra da MediaMarkt entrou no braço de ferro UE-China"

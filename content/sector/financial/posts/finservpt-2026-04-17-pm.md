@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-04-17-pm"
 channel: "finservpt"
 date: "2026-04-17"
 window: "tarde"
-title: "Radar | Financial Services PT | Tarde"
+title: "FCA tapa nomes nas posições curtas"
 items:
   - title: "FCA tapa nomes nas posições curtas"
     primary_source:

@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-14-lunch
 channel: newspt
 date: 2026-08-14
 window: almoço
-title: "Radar PT - almoço de 14 de agosto de 2026"
+title: "A Google pôs um modelo mais barato a trabalhar com agentes"
 whatsapp_message_id: ""
 items:
   - title: "A Google pôs um modelo mais barato a trabalhar com agentes"

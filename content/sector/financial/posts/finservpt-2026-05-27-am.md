@@ -3,7 +3,7 @@ edition_id: finservpt-2026-05-27-am
 channel: finservpt
 date: 2026-05-27
 window: manhã
-title: Radar Financial Services PT - 27 maio 2026
+title: "O financiamento especializado já pesa como setor"
 items:
   - title: O financiamento especializado já pesa como setor
     primary_source:

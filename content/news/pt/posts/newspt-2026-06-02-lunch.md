@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-02-lunch
 channel: newspt
 date: 2026-06-02
 window: almoço
-title: Radar PT - almoço de 2 de junho de 2026
+title: "A vacina contra este Ébola entrou em modo corrida"
 items:
   - title: A vacina contra este Ébola entrou em modo corrida
     primary_source:

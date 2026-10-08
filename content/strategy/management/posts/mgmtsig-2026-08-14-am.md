@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-14-am
 channel: mgmtsig
 date: 2026-08-14
 window: manhã
-title: "Management Signals - morning edition, August 14, 2026"
+title: "The CEO calendar is part of the operating model"
 whatsapp_message_id: ""
 items:
   - title: "The CEO calendar is part of the operating model"

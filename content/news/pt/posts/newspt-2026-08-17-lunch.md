@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-17-lunch
 channel: newspt
 date: 2026-08-17
 window: almoço
-title: "Radar PT - almoço de 17 de agosto de 2026"
+title: "A Nestlé quer vender comida para quem já perdeu o apetite"
 whatsapp_message_id: ""
 items:
   - title: "A Nestlé quer vender comida para quem já perdeu o apetite"

@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-14-am"
 channel: "finservpt"
 date: "2026-05-14"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 14 de maio de 2026"
+title: "O BdP voltou a pôr dinheiro na conta"
 items:
   - title: "O BdP voltou a pôr dinheiro na conta"
     primary_source:

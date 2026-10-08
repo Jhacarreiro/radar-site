@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-13-am"
 channel: "universo"
 date: "2026-07-13"
 window: "manhã"
-title: "Radar Universo - manhã de 13 de julho de 2026"
+title: "A fraude já sabe o CPE"
 items:
   - title: "A fraude já sabe o CPE"
     primary_source:

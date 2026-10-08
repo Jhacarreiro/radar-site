@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-10-am"
 channel: "finservpt"
 date: "2026-07-10"
 window: "manhã"
-title: "Radar Financial Services PT - 10 julho 2026"
+title: "O euro digital passou à mesa final"
 items:
   - title: "O euro digital passou à mesa final"
     primary_source:

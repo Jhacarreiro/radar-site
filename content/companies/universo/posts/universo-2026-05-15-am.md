@@ -3,7 +3,7 @@ edition_id: universo-2026-05-15-am
 channel: universo
 date: 2026-05-15
 window: manhã
-title: Radar Universo - manhã de 15 de maio de 2026
+title: "O BdP quer menos folga no crédito"
 items:
   - title: O BdP quer menos folga no crédito
     primary_source:

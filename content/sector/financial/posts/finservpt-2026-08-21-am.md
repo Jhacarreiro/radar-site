@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-21-am"
 channel: "finservpt"
 date: "2026-08-21"
-title: "Radar Financial Services PT - manhã de 21 de agosto de 2026"
+title: "A prestação nova já vai nos 731 euros"
 window: "manhã"
 whatsapp_message_id: ""
 items:

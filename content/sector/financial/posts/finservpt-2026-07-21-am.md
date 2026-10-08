@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-21-am"
 channel: "finservpt"
 date: "2026-07-21"
 window: "manhã"
-title: "Radar Financial Services PT - 21 julho 2026"
+title: "O BdP abriu 121 processos por conduta"
 items:
   - title: "O BdP abriu 121 processos por conduta"
     primary_source:

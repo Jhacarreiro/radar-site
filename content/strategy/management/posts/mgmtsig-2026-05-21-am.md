@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-21-am"
 channel: "mgmtsig"
 date: "2026-05-21"
 window: "manhã"
-title: "Management Signals - morning of May 21, 2026"
+title: "Career growth still has to happen"
 items:
   - title: "Career growth still has to happen"
     primary_source:

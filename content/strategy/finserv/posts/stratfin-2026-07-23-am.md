@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-23-am"
 channel: "stratfin"
 date: "2026-07-23"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 23 julho 2026"
+title: "A Gesa entrou no Oregon comprando depósitos"
 items:
   - title: "A Gesa entrou no Oregon comprando depósitos"
     primary_source:

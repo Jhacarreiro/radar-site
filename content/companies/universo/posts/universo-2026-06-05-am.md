@@ -3,7 +3,7 @@ edition_id: universo-2026-06-05-am
 channel: universo
 date: 2026-06-05
 window: manhã
-title: Radar Universo - manhã de 5 de junho de 2026
+title: "A Coface cortou a folga"
 items:
   - title: A Coface cortou a folga
     primary_source:

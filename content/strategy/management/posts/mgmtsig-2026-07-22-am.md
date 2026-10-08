@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-22-am
 channel: mgmtsig
 date: 2026-07-22
 window: morning
-title: "Management Signals - 2026-07-22 Morning"
+title: "Frontline ideas need a route to action"
 whatsapp_message_id: ""
 items:
   - title: "Frontline ideas need a route to action"

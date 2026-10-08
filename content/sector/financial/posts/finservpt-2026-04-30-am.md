@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-04-30-am"
 channel: "finservpt"
 date: "2026-04-30"
 window: "manhã"
-title: "Radar | Financial Services PT | Manhã"
+title: "O Novo Banco sai com lucro e menos margem"
 whatsapp_message_id: ""
 items:
   - title: "O Novo Banco sai com lucro e menos margem"

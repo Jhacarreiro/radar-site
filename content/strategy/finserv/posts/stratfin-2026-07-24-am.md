@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-24-am"
 channel: "stratfin"
 date: "2026-07-24"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 24 julho 2026"
+title: "O HSBC vendeu o risco e guardou o cliente"
 items:
   - title: "O HSBC vendeu o risco e guardou o cliente"
     primary_source:

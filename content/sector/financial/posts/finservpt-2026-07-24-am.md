@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-24-am"
 channel: "finservpt"
 date: "2026-07-24"
 window: "manhã"
-title: "Radar Financial Services PT - 24 julho 2026"
+title: "O BCP abriu um buraco nas contribuições para o Fundo de Resolução"
 items:
   - title: "O BCP abriu um buraco nas contribuições para o Fundo de Resolução"
     primary_source:

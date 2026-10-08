@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-09-03-am
 channel: mgmtsig
 date: 2026-09-03
 window: morning
-title: "Management Signals - morning edition, September 3, 2026"
+title: "Name the anxiety before launching the transformation"
 whatsapp_message_id: ""
 items:
   - title: "Name the anxiety before launching the transformation"

@@ -3,7 +3,7 @@ edition_id: universo-2026-05-20-am
 channel: universo
 date: 2026-05-20
 window: manhã
-title: Radar Universo - manhã de 20 de maio de 2026
+title: "A pobreza desceu, mas o risco ficou concentrado"
 items:
   - title: A pobreza desceu, mas o risco ficou concentrado
     primary_source:

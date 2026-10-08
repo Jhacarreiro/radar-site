@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-30-am"
 channel: "stratfin"
 date: "2026-07-30"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 30 julho 2026"
+title: "O BCP cresceu crédito e ainda baixou o custo dos depósitos"
 items:
   - title: "O BCP cresceu crédito e ainda baixou o custo dos depósitos"
     primary_source:

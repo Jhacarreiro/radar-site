@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-04-15-am"
 channel: "finservpt"
 date: "2026-04-15"
 window: "manhã"
-title: "Radar | Financial Services PT | Manhã"
+title: "BCE quer capital e liquidez sem fronteiras"
 status: "published"
 whatsapp_message_id: "3EB08F70CB87A7972763DA"
 items:

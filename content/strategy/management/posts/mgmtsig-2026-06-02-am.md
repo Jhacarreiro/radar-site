@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-06-02-am"
 channel: "mgmtsig"
 date: "2026-06-02"
 window: "manhã"
-title: "Management Signals - morning of June 2, 2026"
+title: "Boards should stop reading the deck"
 items:
   - title: "Boards should stop reading the deck"
     primary_source:

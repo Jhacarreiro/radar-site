@@ -3,7 +3,7 @@ edition_id: universo-2026-06-17-am
 channel: universo
 date: 2026-06-17
 window: manhã
-title: "Radar Universo - manhã de 17 de junho de 2026"
+title: "O terminal entrou na estratégia"
 items:
   - title: "O terminal entrou na estratégia"
     primary_source:

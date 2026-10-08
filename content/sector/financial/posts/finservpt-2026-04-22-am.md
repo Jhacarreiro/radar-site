@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-04-22-am"
 channel: "finservpt"
 date: "2026-04-22"
 window: "manhã"
-title: "Radar | Financial Services PT | Manhã"
+title: "Londres já quer regular o pagamento feito por agentes"
 items:
   - title: "Londres já quer regular o pagamento feito por agentes"
     primary_source:

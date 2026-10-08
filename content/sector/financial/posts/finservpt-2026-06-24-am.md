@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-06-24-am"
 channel: "finservpt"
 date: "2026-06-24"
 window: "manhã"
-title: "Radar Financial Services PT - 24 junho 2026"
+title: "O Bison pôs cripto dentro do banco"
 items:
   - title: "O Bison pôs cripto dentro do banco"
     primary_source:

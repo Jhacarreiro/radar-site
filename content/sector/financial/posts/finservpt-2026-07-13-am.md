@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-13-am"
 channel: "finservpt"
 date: "2026-07-13"
 window: "manhã"
-title: "Radar Financial Services PT - 13 julho 2026"
+title: "Londres pôs quatro clouds sob supervisão directa"
 items:
   - title: "Londres pôs quatro clouds sob supervisão directa"
     primary_source:

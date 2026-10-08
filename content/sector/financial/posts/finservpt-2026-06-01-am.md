@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-01-am
 channel: finservpt
 date: 2026-06-01
 window: manhã
-title: Radar Financial Services PT - 1 junho 2026
+title: "O BdP pôs junho em modo aperto"
 items:
   - title: O BdP pôs junho em modo aperto
     primary_source:

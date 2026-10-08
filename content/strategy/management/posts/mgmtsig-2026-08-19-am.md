@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-19-am
 channel: mgmtsig
 date: 2026-08-19
 window: manhã
-title: "Management Signals - morning edition, August 19, 2026"
+title: "Rebuild roles around outcomes, not old functions"
 whatsapp_message_id: ""
 items:
   - title: "Rebuild roles around outcomes, not old functions"

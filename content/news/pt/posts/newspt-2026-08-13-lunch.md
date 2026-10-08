@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-13-lunch
 channel: newspt
 date: 2026-08-13
 window: almoço
-title: "Radar PT - almoço de 13 de agosto de 2026"
+title: "A IA já quer escolher a loja e pagar por ti"
 whatsapp_message_id: ""
 items:
   - title: "A IA já quer escolher a loja e pagar por ti"

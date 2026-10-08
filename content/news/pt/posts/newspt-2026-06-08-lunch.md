@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-08-lunch
 channel: newspt
 date: 2026-06-08
 window: almoço
-title: Radar PT - almoço de 8 de junho de 2026
+title: "A Google foi alugar chips à SpaceX"
 items:
   - title: A Google foi alugar chips à SpaceX
     primary_source:

@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-31-lunch
 channel: newspt
 date: 2026-08-31
 window: almoço
-title: "Radar PT - almoço de 31 de agosto de 2026"
+title: "A NASA lançou um telescópio para mapear o universo escuro"
 whatsapp_message_id: ""
 items:
   - title: "A NASA lançou um telescópio para mapear o universo escuro"

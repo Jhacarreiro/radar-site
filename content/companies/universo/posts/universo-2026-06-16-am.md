@@ -3,7 +3,7 @@ edition_id: universo-2026-06-16-am
 channel: universo
 date: 2026-06-16
 window: manhã
-title: "Radar Universo - manhã de 16 de junho de 2026"
+title: "O consumo ficou mais curto"
 items:
   - title: "O consumo ficou mais curto"
     primary_source:

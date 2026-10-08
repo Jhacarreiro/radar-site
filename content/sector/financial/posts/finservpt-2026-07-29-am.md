@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-29-am"
 channel: "finservpt"
 date: "2026-07-29"
 window: "manhã"
-title: "Radar Financial Services PT - 29 julho 2026"
+title: "O Banco CTT cresceu para ficar no mesmo lucro"
 items:
   - title: "O Banco CTT cresceu para ficar no mesmo lucro"
     primary_source:

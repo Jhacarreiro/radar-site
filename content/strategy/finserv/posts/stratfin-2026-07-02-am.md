@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-02-am"
 channel: "stratfin"
 date: "2026-07-02"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 2 julho 2026"
+title: "SumUp entrou na conta do cliente"
 items:
   - title: "SumUp entrou na conta do cliente"
     primary_source:

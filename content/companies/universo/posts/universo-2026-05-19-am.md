@@ -3,7 +3,7 @@ edition_id: universo-2026-05-19-am
 channel: universo
 date: 2026-05-19
 window: manhã
-title: Radar Universo - manhã de 19 de maio de 2026
+title: "A Klarna quer sair do checkout online"
 items:
   - title: A Klarna quer sair do checkout online
     primary_source:

@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-17-am
 channel: finservpt
 date: 2026-06-17
 window: manhã
-title: Radar Financial Services PT - 17 junho 2026
+title: "A EBA tirou camadas sem tirar capital"
 items:
   - title: A EBA tirou camadas sem tirar capital
     primary_source:

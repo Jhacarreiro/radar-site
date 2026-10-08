@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-10-am"
 channel: "stratfin"
 date: "2026-07-10"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 10 julho 2026"
+title: "Private credit entrou no radar duro"
 items:
   - title: "Private credit entrou no radar duro"
     primary_source:

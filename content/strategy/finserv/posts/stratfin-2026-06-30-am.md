@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-06-30-am"
 channel: "stratfin"
 date: "2026-06-30"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 30 junho 2026"
+title: "Sygnum ganhou passaporte europeu cripto"
 items:
   - title: "Sygnum ganhou passaporte europeu cripto"
     primary_source:

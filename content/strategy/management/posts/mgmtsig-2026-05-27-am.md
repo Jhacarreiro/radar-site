@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-27-am"
 channel: "mgmtsig"
 date: "2026-05-27"
 window: "manhã"
-title: "Management Signals - morning of May 27, 2026"
+title: "Hiring is product work"
 items:
   - title: "Hiring is product work"
     primary_source:

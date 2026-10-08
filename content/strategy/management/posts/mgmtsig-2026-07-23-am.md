@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-23-am
 channel: mgmtsig
 date: 2026-07-23
 window: morning
-title: "Management Signals - 2026-07-23 Morning"
+title: "Team friction needs a trait map"
 whatsapp_message_id: ""
 items:
   - title: "Team friction needs a trait map"

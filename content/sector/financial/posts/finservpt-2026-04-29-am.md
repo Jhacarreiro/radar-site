@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-04-29-am"
 channel: "finservpt"
 date: "2026-04-29"
 window: "manhã"
-title: "Radar | Financial Services PT | Manhã"
+title: "O Estado abriu a Série F até 250 mil"
 whatsapp_message_id: ""
 items:
   - title: "O Estado abriu a Série F até 250 mil"

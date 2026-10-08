@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-27-am"
 channel: "universo"
 date: "2026-07-27"
 window: "manhã"
-title: "Radar Universo - manhã de 27 de julho de 2026"
+title: "A Revolut entrou nas compras do dia a dia"
 items:
   - title: "A Revolut entrou nas compras do dia a dia"
     primary_source:

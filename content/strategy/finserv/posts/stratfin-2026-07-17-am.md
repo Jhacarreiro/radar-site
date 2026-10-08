@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-17-am"
 channel: "stratfin"
 date: "2026-07-17"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 17 julho 2026"
+title: "O Deutsche levou as garantias multilaterais ao P&L"
 items:
   - title: "O Deutsche levou as garantias multilaterais ao P&L"
     primary_source:

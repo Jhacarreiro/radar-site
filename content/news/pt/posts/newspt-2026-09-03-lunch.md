@@ -3,7 +3,7 @@ edition_id: newspt-2026-09-03-lunch
 channel: newspt
 date: 2026-09-03
 window: almoço
-title: "Radar PT - almoço de 3 de setembro de 2026"
+title: "Congelar tumores está a evitar cirurgias da mama"
 whatsapp_message_id: ""
 items:
   - title: "Congelar tumores está a evitar cirurgias da mama"

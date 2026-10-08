@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-11-am
 channel: finservpt
 date: 2026-06-11
 window: manhã
-title: Radar Financial Services PT - 11 junho 2026
+title: "O BCE decide hoje a margem dos bancos"
 items:
   - title: O BCE decide hoje a margem dos bancos
     primary_source:

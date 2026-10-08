@@ -3,7 +3,7 @@ edition_id: universo-2026-08-25-am
 channel: universo
 date: 2026-08-25
 window: manhã
-title: "Radar Universo - manhã de 25 de agosto de 2026"
+title: "Tempestades fizeram subir pagamentos em 35%"
 whatsapp_message_id: ""
 items:
   - title: "Tempestades fizeram subir pagamentos em 35%"

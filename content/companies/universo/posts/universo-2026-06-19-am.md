@@ -3,7 +3,7 @@ edition_id: universo-2026-06-19-am
 channel: universo
 date: 2026-06-19
 window: manhã
-title: "Radar Universo - manhã de 19 de junho de 2026"
+title: "O crédito pessoal está cheio de dívida à volta"
 items:
   - title: "O crédito pessoal está cheio de dívida à volta"
     primary_source:

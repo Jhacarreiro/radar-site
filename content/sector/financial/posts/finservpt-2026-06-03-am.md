@@ -3,7 +3,7 @@ edition_id: finservpt-2026-06-03-am
 channel: finservpt
 date: 2026-06-03
 window: manhã
-title: Radar Financial Services PT - 3 junho 2026
+title: "A EBA puxou Nova Iorque para MiCA"
 items:
   - title: A EBA puxou Nova Iorque para MiCA
     primary_source:

@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-28-am
 channel: mgmtsig
 date: 2026-07-28
 window: manhã
-title: "Management Signals - 2026-07-28 Morning"
+title: "Make priorities survive a direct comparison"
 whatsapp_message_id: ""
 items:
   - title: "Make priorities survive a direct comparison"

@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-27-am
 channel: mgmtsig
 date: 2026-07-27
 window: manhã
-title: "Management Signals - 2026-07-27 Morning"
+title: "Make invisible workload visible"
 whatsapp_message_id: ""
 items:
   - title: "Make invisible workload visible"

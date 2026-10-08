@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-07-am"
 channel: "stratfin"
 date: "2026-07-07"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 7 julho 2026"
+title: "ING comprou entrada no wealth espanhol"
 items:
   - title: "ING comprou entrada no wealth espanhol"
     primary_source:

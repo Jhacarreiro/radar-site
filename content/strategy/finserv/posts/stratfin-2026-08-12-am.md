@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-08-12-am"
 channel: "stratfin"
 date: "2026-08-12"
 window: "manhã"
-title: "Radar | FinServ Strategy PT | 12 de agosto de 2026"
+title: "BMO e RBC vendem a Moneris por C$2 mil milhões"
 whatsapp_message_id: ""
 items:
   - title: "BMO e RBC vendem a Moneris por C$2 mil milhões"

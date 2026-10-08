@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-04-21-am"
 channel: "finservpt"
 date: "2026-04-21"
 window: "manhã"
-title: "Radar | Financial Services PT | Manhã"
+title: "A prestação da casa voltou a subir"
 items:
   - title: "A prestação da casa voltou a subir"
     primary_source:

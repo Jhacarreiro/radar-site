@@ -3,7 +3,7 @@ edition_id: universo-2026-09-03-am
 channel: universo
 date: 2026-09-03
 window: manhã
-title: "Radar Universo - manhã de 3 de setembro de 2026"
+title: "Casa Financeira quer abrir 20 lojas até ao fim do ano"
 whatsapp_message_id: ""
 items:
   - title: "Casa Financeira quer abrir 20 lojas até ao fim do ano"

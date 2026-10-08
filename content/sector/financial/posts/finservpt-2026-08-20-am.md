@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-20-am"
 channel: "finservpt"
 date: "2026-08-20"
-title: "Radar Financial Services PT - manhã de 20 de agosto de 2026"
+title: "A Fed voltou a discutir subidas"
 window: "manhã"
 whatsapp_message_id: ""
 items:

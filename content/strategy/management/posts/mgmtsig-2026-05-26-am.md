@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-26-am"
 channel: "mgmtsig"
 date: "2026-05-26"
 window: "manhã"
-title: "Management Signals - morning of May 26, 2026"
+title: "Productivity is not value yet"
 items:
   - title: "Productivity is not value yet"
     primary_source:

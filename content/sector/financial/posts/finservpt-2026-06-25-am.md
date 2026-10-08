@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-06-25-am"
 channel: "finservpt"
 date: "2026-06-25"
 window: "manhã"
-title: "Radar Financial Services PT - 25 junho 2026"
+title: "O supervisor único voltou à mesa"
 items:
   - title: "O supervisor único voltou à mesa"
     primary_source:

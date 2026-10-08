@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-08-am"
 channel: "finservpt"
 date: "2026-05-08"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 8 de maio de 2026"
+title: "A bolsa portuguesa voltou a perder escala"
 items:
   - title: "A bolsa portuguesa voltou a perder escala"
     primary_source:

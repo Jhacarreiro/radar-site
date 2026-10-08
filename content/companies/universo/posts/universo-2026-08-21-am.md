@@ -3,7 +3,7 @@ edition_id: universo-2026-08-21-am
 channel: universo
 date: 2026-08-21
 window: manhã
-title: "Radar Universo - manhã de 21 de agosto de 2026"
+title: "A Shein marcou a estreia em bolsa para 1 de setembro"
 whatsapp_message_id: ""
 items:
   - title: "A Shein marcou a estreia em bolsa para 1 de setembro"

@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-28-am"
 channel: "universo"
 date: "2026-07-28"
 window: "manhã"
-title: "Radar Universo - manhã de 28 de julho de 2026"
+title: "O Abanca comprou escala e já quer 20%"
 items:
   - title: "O Abanca comprou escala e já quer 20%"
     primary_source:

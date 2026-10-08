@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-03-lunch
 channel: newspt
 date: 2026-07-03
 window: almoço
-title: Radar PT - almoço de 3 de julho de 2026
+title: "A Meta travou nos agentes de IA"
 items:
   - title: A Meta travou nos agentes de IA
     primary_source:

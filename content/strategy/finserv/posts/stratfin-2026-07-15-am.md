@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-15-am"
 channel: "stratfin"
 date: "2026-07-15"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 15 julho 2026"
+title: "O Pilar 2 vai ter de mostrar as contas"
 items:
   - title: "O Pilar 2 vai ter de mostrar as contas"
     primary_source:

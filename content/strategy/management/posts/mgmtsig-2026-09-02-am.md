@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-09-02-am
 channel: mgmtsig
 date: 2026-09-02
 window: morning
-title: "Management Signals - morning edition, September 2, 2026"
+title: "Build networks into leadership development"
 whatsapp_message_id: ""
 items:
   - title: "Build networks into leadership development"

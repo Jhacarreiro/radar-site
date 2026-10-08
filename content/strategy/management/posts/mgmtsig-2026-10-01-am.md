@@ -2,7 +2,7 @@
 edition_id: "mgmtsig-2026-10-01-am"
 channel: "mgmtsig"
 date: "2026-10-01"
-title: "Management Signals | 1 October 2026"
+title: "AI adoption stalls in the invisible work"
 window: "morning"
 whatsapp_message_id: ""
 items:

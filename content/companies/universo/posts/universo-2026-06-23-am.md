@@ -3,7 +3,7 @@ edition_id: universo-2026-06-23-am
 channel: universo
 date: 2026-06-23
 window: manhã
-title: "Radar Universo - manhã de 23 de junho de 2026"
+title: "O originador saiu do banco"
 items:
   - title: "O originador saiu do banco"
     primary_source:

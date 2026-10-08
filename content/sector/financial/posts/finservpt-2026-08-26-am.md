@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-26-am"
 channel: "finservpt"
 date: "2026-08-26"
-title: "Radar Financial Services PT - manhã de 26 de agosto de 2026"
+title: "A Allianz levou a Caravela à Concorrência"
 whatsapp_message_id: "pending"
 window: "manhã"
 items:

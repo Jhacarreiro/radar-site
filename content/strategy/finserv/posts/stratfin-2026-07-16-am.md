@@ -3,7 +3,7 @@ edition_id: "stratfin-2026-07-16-am"
 channel: "stratfin"
 date: "2026-07-16"
 window: "manhã"
-title: "Radar FinServ Strategy PT - 16 julho 2026"
+title: "Stripe e Advent bateram à porta da PayPal"
 items:
   - title: "Stripe e Advent bateram à porta da PayPal"
     primary_source:

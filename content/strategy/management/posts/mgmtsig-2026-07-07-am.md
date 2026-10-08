@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-07-am
 channel: mgmtsig
 date: 2026-07-07
 window: manhã
-title: "Management Signals - 2026-07-07 Morning"
+title: "Alignment needs receipts"
 whatsapp_message_id: ""
 items:
   - title: "Alignment needs receipts"

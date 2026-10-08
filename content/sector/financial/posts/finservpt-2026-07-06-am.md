@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-06-am"
 channel: "finservpt"
 date: "2026-07-06"
 window: "manhã"
-title: "Radar Financial Services PT - 6 julho 2026"
+title: "O Estado subiu a fasquia da poupança"
 items:
   - title: "O Estado subiu a fasquia da poupança"
     primary_source:

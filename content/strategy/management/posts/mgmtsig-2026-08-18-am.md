@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-18-am
 channel: mgmtsig
 date: 2026-08-18
 window: manhã
-title: "Management Signals - morning edition, August 18, 2026"
+title: "Train strategists to challenge the machine"
 whatsapp_message_id: ""
 items:
   - title: "Train strategists to challenge the machine"

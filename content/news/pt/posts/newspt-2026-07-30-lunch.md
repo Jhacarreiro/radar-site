@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-30-lunch
 channel: newspt
 date: 2026-07-30
 window: almoço
-title: "Radar PT - almoço de 30 de julho de 2026"
+title: "Os EUA fecharam a porta a novos robots estrangeiros"
 whatsapp_message_id: ""
 items:
   - title: "Os EUA fecharam a porta a novos robots estrangeiros"

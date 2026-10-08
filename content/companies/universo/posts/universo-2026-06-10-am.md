@@ -3,7 +3,7 @@ edition_id: universo-2026-06-10-am
 channel: universo
 date: 2026-06-10
 window: manhã
-title: Radar Universo - manhã de 10 de junho de 2026
+title: "O retalho ganhou peso no crédito"
 items:
   - title: O retalho ganhou peso no crédito
     primary_source:

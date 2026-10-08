@@ -3,7 +3,7 @@ edition_id: universo-2026-06-04-am
 channel: universo
 date: 2026-06-04
 window: manhã
-title: Radar Universo - manhã de 4 de junho de 2026
+title: "A Revolut entrou no crédito pessoal"
 items:
   - title: A Revolut entrou no crédito pessoal
     primary_source:

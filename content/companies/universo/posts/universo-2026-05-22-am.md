@@ -3,7 +3,7 @@ edition_id: universo-2026-05-22-am
 channel: universo
 date: 2026-05-22
 window: manhã
-title: Radar Universo - manhã de 22 de maio de 2026
+title: "As transferências imediatas saíram do nicho"
 items:
   - title: As transferências imediatas saíram do nicho
     primary_source:

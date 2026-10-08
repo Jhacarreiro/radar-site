@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-15-lunch
 channel: newspt
 date: 2026-06-15
 window: almoço
-title: Radar PT - almoço de 15 de junho de 2026
+title: "O termómetro passou para dentro do corpo"
 items:
   - title: O termómetro passou para dentro do corpo
     primary_source:

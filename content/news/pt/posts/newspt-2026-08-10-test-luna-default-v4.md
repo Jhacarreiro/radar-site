@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-10-test-luna-default-v4
 channel: newspt
 date: 2026-08-10
 window: manhã
-title: "Radar PT - manhã de 10 de agosto de 2026"
+title: "O Cais do Sodré fica sem Metro até 26 de agosto"
 whatsapp_message_id: ""
 items:
   - title: "O Cais do Sodré fica sem Metro até 26 de agosto"

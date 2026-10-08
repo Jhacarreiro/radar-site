@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-23-am"
 channel: "finservpt"
 date: "2026-07-23"
 window: "manhã"
-title: "Radar Financial Services PT - 23 julho 2026"
+title: "O contactless já vale 85% dos pagamentos presenciais"
 items:
   - title: "O contactless já vale 85% dos pagamentos presenciais"
     primary_source:

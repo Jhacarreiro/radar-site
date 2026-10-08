@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-24-am
 channel: mgmtsig
 date: 2026-08-24
 window: manhã
-title: "Management Signals - morning edition, August 24, 2026"
+title: "Make exploration a separate mode"
 whatsapp_message_id: ""
 items:
   - title: "Make exploration a separate mode"

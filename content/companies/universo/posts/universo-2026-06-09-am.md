@@ -3,7 +3,7 @@ edition_id: universo-2026-06-09-am
 channel: universo
 date: 2026-06-09
 window: manhã
-title: Radar Universo - manhã de 9 de junho de 2026
+title: "O teto do cartão baixa"
 items:
   - title: O teto do cartão baixa
     primary_source:

@@ -2,7 +2,7 @@
 edition_id: "stratfin-2026-08-19-am"
 channel: "stratfin"
 date: "2026-08-19"
-title: "Radar FinServ Strategy PT - manhã de 19 de agosto de 2026"
+title: "A Munich Re comprou a At-Bay por $575 milhões"
 window: "manhã"
 whatsapp_message_id: ""
 items:

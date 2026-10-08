@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-14-lunch
 channel: newspt
 date: 2026-07-14
 window: almoço
-title: "Radar PT - 2026-07-14 Almoço"
+title: "Um reator foi controlado à distância por um algoritmo"
 whatsapp_message_id: ""
 items:
   - title: "Um reator foi controlado à distância por um algoritmo"

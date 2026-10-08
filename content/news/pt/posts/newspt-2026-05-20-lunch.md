@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-20-lunch"
 channel: "newspt"
 date: "2026-05-20"
-title: "Radar | Edição PT - almoço"
+title: "A pesquisa da Google ficou mais agente"
 window: "almoço"
 items:
   - title: "A pesquisa da Google ficou mais agente"

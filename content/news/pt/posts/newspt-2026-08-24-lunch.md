@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-24-lunch
 channel: newspt
 date: 2026-08-24
 window: almoço
-title: "Radar PT - almoço de 24 de agosto de 2026"
+title: "Os ratos perderam metade das sinapses. As memórias ficaram"
 whatsapp_message_id: ""
 items:
   - title: "Os ratos perderam metade das sinapses. As memórias ficaram"

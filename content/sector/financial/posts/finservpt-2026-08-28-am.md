@@ -2,7 +2,7 @@
 edition_id: "finservpt-2026-08-28-am"
 channel: "finservpt"
 date: "2026-08-28"
-title: "Radar Financial Services PT - manhã de 28 de agosto de 2026"
+title: "A Fidelidade entregou 165 milhões à Fosun"
 whatsapp_message_id: "pending"
 window: "manhã"
 items:

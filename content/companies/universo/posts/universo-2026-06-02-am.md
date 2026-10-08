@@ -3,7 +3,7 @@ edition_id: universo-2026-06-02-am
 channel: universo
 date: 2026-06-02
 window: manhã
-title: Radar Universo - manhã de 2 de junho de 2026
+title: "O emprego ainda segura a carteira"
 items:
   - title: O emprego ainda segura a carteira
     primary_source:

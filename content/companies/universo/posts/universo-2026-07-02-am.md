@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-02-am"
 channel: "universo"
 date: "2026-07-02"
 window: "manhã"
-title: "Radar Universo - manhã de 2 de julho de 2026"
+title: "Klarna entrou pelo MB WAY"
 items:
   - title: "Klarna entrou pelo MB WAY"
     primary_source:

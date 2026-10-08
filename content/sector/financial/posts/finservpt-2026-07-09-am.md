@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-09-am"
 channel: "finservpt"
 date: "2026-07-09"
 window: "manhã"
-title: "Radar Financial Services PT - 9 julho 2026"
+title: "A curva portuguesa voltou a cobrar duração"
 items:
   - title: "A curva portuguesa voltou a cobrar duração"
     primary_source:

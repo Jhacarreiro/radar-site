@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-01-am"
 channel: "finservpt"
 date: "2026-07-01"
 window: "manhã"
-title: "Radar Financial Services PT - 1 julho 2026"
+title: "O BCP recebeu a conta MREL"
 items:
   - title: "O BCP recebeu a conta MREL"
     primary_source:

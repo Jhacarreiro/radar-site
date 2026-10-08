@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-04-lunch
 channel: newspt
 date: 2026-06-04
 window: almoço
-title: Radar PT - almoço de 4 de junho de 2026
+title: "O Windows recebeu comandos de Linux"
 items:
   - title: O Windows recebeu comandos de Linux
     primary_source:

@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-22-am"
 channel: "finservpt"
 date: "2026-05-22"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 22 de maio de 2026"
+title: "Montepio muda CEO com dividendos em cima da mesa"
 items:
   - title: "Montepio muda CEO com dividendos em cima da mesa"
     primary_source:

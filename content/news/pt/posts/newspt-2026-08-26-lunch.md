@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-26-lunch
 channel: newspt
 date: 2026-08-26
 window: almoço
-title: "Radar PT - almoço de 26 de agosto de 2026"
+title: "A Apple fez computadores para correr IA sem nuvem"
 whatsapp_message_id: ""
 items:
   - title: "A Apple fez computadores para correr IA sem nuvem"

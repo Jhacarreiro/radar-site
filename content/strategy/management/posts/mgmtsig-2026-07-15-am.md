@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-15-am
 channel: mgmtsig
 date: 2026-07-15
 window: manhã
-title: "Management Signals - 2026-07-15 Morning"
+title: "Manager ambition needs manager capability"
 whatsapp_message_id: ""
 items:
   - title: "Manager ambition needs manager capability"

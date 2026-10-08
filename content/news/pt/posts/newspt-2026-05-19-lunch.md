@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-19-lunch"
 channel: "newspt"
 date: "2026-05-19"
-title: "Radar | Edição PT - almoço"
+title: "A Mistral comprou IA para fábricas"
 window: "almoço"
 items:
   - title: "A Mistral comprou IA para fábricas"

@@ -3,7 +3,7 @@ edition_id: "mgmtsig-2026-05-29-am"
 channel: "mgmtsig"
 date: "2026-05-29"
 window: "manhã"
-title: "Management Signals - morning of May 29, 2026"
+title: "Managers are becoming the AI queue"
 items:
   - title: "Managers are becoming the AI queue"
     primary_source:

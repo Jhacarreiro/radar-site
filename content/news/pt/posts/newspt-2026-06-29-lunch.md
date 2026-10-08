@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-29-lunch
 channel: newspt
 date: 2026-06-29
 window: almoço
-title: Radar PT - almoço de 29 de junho de 2026
+title: "A Starlink quer sair da sombra das operadoras"
 items:
   - title: A Starlink quer sair da sombra das operadoras
     primary_source:

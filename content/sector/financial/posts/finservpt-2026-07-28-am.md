@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-07-28-am"
 channel: "finservpt"
 date: "2026-07-28"
 window: "manhã"
-title: "Radar Financial Services PT - 28 julho 2026"
+title: "A casa aguenta uma queda de 40% no teste do FMI"
 items:
   - title: "A casa aguenta uma queda de 40% no teste do FMI"
     primary_source:

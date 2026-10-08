@@ -3,7 +3,7 @@ edition_id: newspt-2026-08-19-lunch
 channel: newspt
 date: 2026-08-19
 window: almoço
-title: "Radar PT - almoço de 19 de agosto de 2026"
+title: "O Copilot contou aos investigadores como o podiam atacar"
 whatsapp_message_id: ""
 items:
   - title: "O Copilot contou aos investigadores como o podiam atacar"

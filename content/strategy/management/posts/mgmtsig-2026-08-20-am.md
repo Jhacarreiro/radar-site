@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-08-20-am
 channel: mgmtsig
 date: 2026-08-20
 window: manhã
-title: "Management Signals - morning edition, August 20, 2026"
+title: "Retain people by removing the reason to move"
 whatsapp_message_id: ""
 items:
   - title: "Retain people by removing the reason to move"

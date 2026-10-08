@@ -3,7 +3,7 @@ edition_id: newspt-2026-06-23-lunch
 channel: newspt
 date: 2026-06-23
 window: almoço
-title: Radar PT - almoço de 23 de junho de 2026
+title: "A IA vai ter de mostrar a conta da luz"
 items:
   - title: A IA vai ter de mostrar a conta da luz
     primary_source:

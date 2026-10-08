@@ -3,7 +3,7 @@ edition_id: universo-2026-06-11-am
 channel: universo
 date: 2026-06-11
 window: manhã
-title: Radar Universo - manhã de 11 de junho de 2026
+title: "WiZink compra ativação com telemóvel"
 items:
   - title: WiZink compra ativação com telemóvel
     primary_source:

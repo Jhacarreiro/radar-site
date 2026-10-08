@@ -3,7 +3,7 @@ edition_id: newspt-2026-07-20-lunch
 channel: newspt
 date: 2026-07-20
 window: almoço
-title: "Radar PT - 2026-07-20 Almoço"
+title: "A nova IA chinesa fechou a porta a clientes"
 whatsapp_message_id: ""
 items:
   - title: "A nova IA chinesa fechou a porta a clientes"

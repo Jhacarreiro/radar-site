@@ -2,7 +2,7 @@
 edition_id: "newspt-2026-05-26-lunch"
 channel: "newspt"
 date: "2026-05-26"
-title: "Radar | Edição PT - almoço"
+title: "A Huawei quer contornar o bloqueio aos chips"
 window: "almoço"
 items:
   - title: "A Huawei quer contornar o bloqueio aos chips"

@@ -3,7 +3,7 @@ edition_id: "universo-2026-07-16-am"
 channel: "universo"
 date: "2026-07-16"
 window: "manhã"
-title: "Radar Universo - manhã de 16 de julho de 2026"
+title: "A Euribor voltou a apertar"
 items:
   - title: "A Euribor voltou a apertar"
     primary_source:

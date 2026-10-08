@@ -3,7 +3,7 @@ edition_id: mgmtsig-2026-07-20-am
 channel: mgmtsig
 date: 2026-07-20
 window: manhã
-title: "Management Signals - 2026-07-20 Morning"
+title: "Do not hire the fastest inbox"
 whatsapp_message_id: ""
 items:
   - title: "Do not hire the fastest inbox"

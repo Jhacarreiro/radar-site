@@ -3,7 +3,7 @@ edition_id: "finservpt-2026-05-12-am"
 channel: "finservpt"
 date: "2026-05-12"
 window: "manhã"
-title: "Radar Financial Services PT - manhã de 12 de maio de 2026"
+title: "As tempestades abriram um buraco no seguro"
 items:
   - title: "As tempestades abriram um buraco no seguro"
     primary_source:
