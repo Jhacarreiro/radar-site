@@ -5,7 +5,7 @@ buildFuture = true
 timeZone = "Europe/Lisbon"
 
 [params]
-  description = "Short briefings and curated channels for bespoke audiences."
+  description = "Independent, source-backed briefings on AI, Portugal, financial services and management, with public archives and tailored editions for teams."
   tagline = "What matters, why it matters, and the read that stays."
 
 [markup]
