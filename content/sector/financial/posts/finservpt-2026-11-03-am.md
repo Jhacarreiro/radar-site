@@ -55,7 +55,7 @@ items:
       - title: "Huafa's US$62 bil debt strain shakes China's credit market"
         url: "https://theedgemalaysia.com/node/824335"
         publisher: "Bloomberg via The Edge Malaysia"
-  ---
+---
 1️⃣ **BPI lucra 363 milhões até setembro, menos 7%**
 O lucro caiu 7% face a 2025, embora o crédito tenha crescido 9%. Habitação avançou 12% e empresas 10%.
 
