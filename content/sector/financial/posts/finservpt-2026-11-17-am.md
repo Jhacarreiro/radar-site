@@ -4,6 +4,7 @@ channel: "finservpt"
 date: "2026-11-17"
 window: "manhã"
 title: "Tribunal de Milão intervém na operação italiana da Revolut"
+tags: ["banca", "risco", "regulação", "pagamentos"]
 whatsapp_message_id: ""
 items:
   - title: "Tribunal de Milão intervém na operação italiana da Revolut"
